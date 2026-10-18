@@ -2,6 +2,7 @@
 // Faustina (display) · Literata (prose) · Karla (UI), the same families as the portfolio. The design tokens and the
 // few shared classes the lab leans on live in globals.css.
 import type { Metadata } from 'next'
+import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://learn.miriyala.in'
@@ -25,7 +26,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           rel="stylesheet"
         />
       </head>
-      <body>{children}</body>
+      <body>
+        {children}
+        {/* Cookieless page-view counts. Only reports on Vercel; a no-op locally. */}
+        <Analytics />
+      </body>
     </html>
   )
 }
