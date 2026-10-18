@@ -8,7 +8,7 @@ export default function Footer() {
       <div className="footer-bottom">
         <span>© {new Date().getFullYear()} Pradeep Miriyala · Free, no sign-up</span>
         <span>
-          <a href={`${SITE}/contact?re=learning`}>Tell me what is broken</a>
+          <a href="/learning/cbse/feedback">Tell me what is broken</a>
           {' · '}
           <a href={SITE}>pradeep.miriyala.in</a>
         </span>

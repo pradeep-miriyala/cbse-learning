@@ -15,8 +15,8 @@ import QuizRunner from './QuizRunner'
 import SpokenRunner, { type SpokenPaperQuestion } from './SpokenRunner'
 import MatchRunner, { type MatchPaperQuestion } from './MatchRunner'
 import {
-  BUILDER_PATH, clearActivePaper, getDeviceId, loadPaper, loadResult, pushHistory,
-  resultPath, saveResult, type CachedPaper,
+  BUILDER_PATH, HOME_PATH, clearActivePaper, getDeviceId, loadPaper, loadResult, pushHistory,
+  recordTopicStats, resultPath, saveLastRecipe, saveResult, type CachedPaper,
 } from '@/lib/labClient'
 
 type Phase = 'loading' | 'ready' | 'missing'
@@ -100,6 +100,7 @@ export default function PaperSession() {
 
       saveResult(id, { data, recipe: paper.recipe, format: paper.format })
       pushHistory({
+        paperId: id,
         at: new Date().toISOString(),
         subjectLabel: paper.recipe.subjectLabel,
         topicLabels: paper.recipe.topicLabels,
@@ -107,6 +108,8 @@ export default function PaperSession() {
         total: data.total,
         pct: data.pct,
       })
+      if (paper.format === 'mcq') recordTopicStats(paper.recipe, data.byTopic)
+      saveLastRecipe(paper.recipe)
       clearActivePaper()
       router.replace(resultPath(id))
     } catch (err: any) {
@@ -118,7 +121,7 @@ export default function PaperSession() {
   function discard() {
     if (!window.confirm('Start over? This paper and your answers will be thrown away.')) return
     clearActivePaper()
-    router.push(BUILDER_PATH)
+    router.push(HOME_PATH)
   }
 
   if (phase === 'loading') {

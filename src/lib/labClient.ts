@@ -17,13 +17,29 @@ const PASS_KEY = 'll:pass'
 const PAPERS_KEY = 'll:papers'
 const PAPER_PREFIX = 'll:paper:'
 const RESULT_PREFIX = 'll:result:'
-const HISTORY_MAX = 8
+const HISTORY_MAX = 20
 /** Papers (and their results) kept on the device. Older ones are dropped. */
 const KEEP_PAPERS = 3
 
+export const HOME_PATH = '/learning/cbse'
+export const PRACTICE_PATH = '/learning/cbse/practice'
+export const PROGRESS_PATH = '/learning/cbse/progress'
+export const FEEDBACK_PATH = '/learning/cbse/feedback'
+/** Where "build a new paper" leads. */
+export const BUILDER_PATH = PRACTICE_PATH
 export const paperPath = (id: string) => `/learning/cbse/paper/${id}`
 export const resultPath = (id: string) => `/learning/cbse/paper/${id}/result`
-export const BUILDER_PATH = '/learning/cbse'
+
+/** A link into the builder with a selection already made. */
+export function practiceHref(sel: { grade?: number; subject?: string; topics?: string[]; format?: string }): string {
+  const q = new URLSearchParams()
+  if (sel.grade) q.set('grade', String(sel.grade))
+  if (sel.subject) q.set('subject', sel.subject)
+  if (sel.topics?.length) q.set('topics', sel.topics.join(','))
+  if (sel.format && sel.format !== 'mcq') q.set('format', sel.format)
+  const qs = q.toString()
+  return qs ? `${PRACTICE_PATH}?${qs}` : PRACTICE_PATH
+}
 
 /** What a paper was built from — enough to build another like it. */
 export interface Recipe {
@@ -54,6 +70,8 @@ export interface CachedResult {
 }
 
 export interface HistoryEntry {
+  /** Lets the progress page link back to the result, while it is still kept. */
+  paperId?: string
   at: string
   subjectLabel: string
   topicLabels: string[]
@@ -198,3 +216,68 @@ export function storeGeneratedPaper(data: any, recipe: Recipe, learnerName: stri
     startedAt: Date.now(),
   })
 }
+
+// ── Per-topic progress ──
+// What the progress map and the home suggestion are made from. Kept per topic,
+// not per paper, so "which topic needs work" is a lookup. Only multiple-choice
+// papers feed it: marks on a spoken paper and pairs on a matching one are not
+// the same quantity as questions right, and averaging them would mean nothing.
+
+const TOPICS_KEY = 'll:topic-stats'
+const LAST_RECIPE_KEY = 'll:last-recipe'
+/** Papers per topic that "how am I doing" looks back over. */
+const RECENT_PAPERS = 3
+
+export interface TopicStat {
+  grade: number
+  subject: string
+  subjectLabel: string
+  slug: string
+  label: string
+  papers: number
+  lastAt: string
+  /** Newest first: correct and total from the last few papers on this topic. */
+  recent: { c: number; t: number }[]
+}
+
+export type Level = 'solid' | 'growing' | 'shaky'
+
+export function loadTopicStats(): TopicStat[] {
+  return read<TopicStat[]>(TOPICS_KEY) ?? []
+}
+
+/** Recent accuracy, 0–100. */
+export function topicPct(s: TopicStat): number {
+  const c = s.recent.reduce((n, r) => n + r.c, 0)
+  const t = s.recent.reduce((n, r) => n + r.t, 0)
+  return t ? Math.round((c / t) * 100) : 0
+}
+
+export function levelOf(pct: number): Level {
+  return pct >= 80 ? 'solid' : pct >= 50 ? 'growing' : 'shaky'
+}
+
+export function recordTopicStats(recipe: Recipe, byTopic: Record<string, { label: string; correct: number; total: number }>) {
+  const all = loadTopicStats()
+  const now = new Date().toISOString()
+  for (const [slug, t] of Object.entries(byTopic ?? {})) {
+    if (!t || typeof t.total !== 'number' || t.total <= 0) continue
+    const hit = all.find((x) => x.subject === recipe.subject && x.slug === slug && x.grade === recipe.grade)
+    const entry = { c: t.correct, t: t.total }
+    if (hit) {
+      hit.label = t.label || hit.label
+      hit.papers += 1
+      hit.lastAt = now
+      hit.recent = [entry, ...hit.recent].slice(0, RECENT_PAPERS)
+    } else {
+      all.push({
+        grade: recipe.grade, subject: recipe.subject, subjectLabel: recipe.subjectLabel,
+        slug, label: t.label, papers: 1, lastAt: now, recent: [entry],
+      })
+    }
+  }
+  write(TOPICS_KEY, all)
+}
+
+export function saveLastRecipe(recipe: Recipe) { write(LAST_RECIPE_KEY, recipe) }
+export function loadLastRecipe(): Recipe | null { return read<Recipe>(LAST_RECIPE_KEY) }

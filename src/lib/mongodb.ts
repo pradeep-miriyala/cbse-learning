@@ -65,6 +65,12 @@ export async function getLearningFeedbackCollection() {
   return db.collection('learning_feedback')
 }
 
+/** Free-text notes from the feedback hub: something broken, a wrong question, an idea. */
+export async function getLearningNotesCollection() {
+  const db = await getDb()
+  return db.collection('learning_notes')
+}
+
 /** One-tap "this question is wrong" reports, from the quiz and the review. */
 export async function getLearningReportsCollection() {
   const db = await getDb()

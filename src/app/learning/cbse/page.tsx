@@ -1,6 +1,5 @@
-// src/app/learning/cbse/page.tsx — CBSE Learning (the Learning Lab)
-import PageHeader from '@/components/layout/PageHeader'
-import LearningLab from '../LearningLab'
+// src/app/learning/cbse/page.tsx — Learning Lab home
+import HomeView from '../HomeView'
 
 export const metadata = {
   title: 'CBSE Learning',
@@ -15,15 +14,6 @@ export const metadata = {
   },
 }
 
-export default function CbseLearningPage() {
-  return (
-    <>
-      <PageHeader
-        kicker="Parenting & Teaching"
-        title="CBSE Learning"
-        dek="Practice papers for CBSE students, generated afresh every time."
-      />
-      <LearningLab />
-    </>
-  )
+export default function CbseHomePage() {
+  return <HomeView />
 }

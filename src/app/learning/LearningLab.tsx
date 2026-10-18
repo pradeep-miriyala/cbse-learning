@@ -6,8 +6,9 @@
 import { useCallback, useEffect, useMemo, useState, type CSSProperties } from 'react'
 import { useRouter } from 'next/navigation'
 import PaceNote, { type Pace } from './PaceNote'
+import ResumeCard from './ResumeCard'
 import {
-  clearActivePaper, getActivePaper, getDeviceId, getName, loadHistory, paperPath,
+  getDeviceId, getName, loadHistory, paperPath,
   requestPaper, storeGeneratedPaper, type HistoryEntry, type Recipe,
 } from '@/lib/labClient'
 import {
@@ -60,19 +61,31 @@ export default function LearningLab() {
   // check entirely, which is what made a Telugu paper look like it had no
   // captcha at all. Retrying the same topics is the one case where re-asking is
   // pure friction, so that is the only case the pass is spent on.
-  // An unfinished paper found on load, offered back to the learner rather than
-  // resumed silently — they may well have meant to abandon it.
-  const [resumable, setResumable] = useState<{
-    paperId: string
-    questions: PaperQuestion[]
-    answers: Record<string, number>
-    atIndex: number
-    startedAt: string | null
-    learnerName: string
-  } | null>(null)
-
   const [captcha, setCaptcha] = useState<{ token: string; display: string } | null>(null)
   const [captchaAnswer, setCaptchaAnswer] = useState('')
+
+  /**
+   * A link can arrive with a selection already made — "practise Magnets" from
+   * the home screen or the progress map — so the learner is one tap from
+   * starting rather than choosing it all again. Anything that does not match
+   * the bank is ignored, never trusted.
+   */
+  function prefill(grades: GradeSummary[]) {
+    const q = new URLSearchParams(window.location.search)
+    const g = grades.find((x) => x.grade === Number(q.get('grade'))) ?? (grades.length === 1 ? grades[0] : null)
+    if (!g) return
+    setGrade(g.grade)
+    const sub = g.subjects.find((x) => x.subject === q.get('subject'))
+    if (!sub) return
+    setSubject(sub.subject)
+    const f = q.get('format')
+    const fmt: PaperFormat = f === 'spoken' || f === 'match' ? f : 'mcq'
+    setFormat(fmt)
+    setCount(fmt === 'spoken' ? DEFAULT_SPOKEN_LENGTH : fmt === 'match' ? DEFAULT_MATCH_LENGTH : DEFAULT_PAPER_LENGTH)
+    const want = (q.get('topics') || '').split(',').filter(Boolean)
+    const have = sub.topics.filter((t) => want.includes(t.slug)).map((t) => t.slug)
+    setTopics(have.slice(0, maxTopicsFor(fmt)))
+  }
 
   // ── Load taxonomy + remembered name ──
   useEffect(() => {
@@ -83,6 +96,7 @@ export default function LearningLab() {
         const grades: GradeSummary[] = d.grades || []
         setTaxonomy(grades)
         if (grades.length === 1) setGrade(grades[0].grade)
+        prefill(grades)
       })
       .catch(() => setTaxError('Could not load the question bank. Please refresh.'))
       .finally(() => setLoadingTax(false))
@@ -91,37 +105,7 @@ export default function LearningLab() {
 
     setName(getName())
     setHistory(loadHistory())
-
-    // Was a paper left open? The id is kept locally; the server decides whether
-    // it is still live and whether this device is the one that started it.
-    {
-      const active = getActivePaper()
-      if (active) {
-        fetch('/api/learning/resume', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ paperId: active, deviceId: getDeviceId() }),
-        })
-          .then((r) => r.json())
-          .then((d) => {
-            if (d.resumable) setResumable(d)
-            else clearActivePaper()
-          })
-          .catch(() => {})
-      }
-    }
   }, [])
-
-  /** Pick the unfinished paper back up exactly where it was left. */
-  function resumePaper() {
-    if (resumable) router.push(paperPath(resumable.paperId))
-  }
-
-  /** Let it go, and stop offering it. */
-  function discardResumable() {
-    clearActivePaper()
-    setResumable(null)
-  }
 
   const checkPace = useCallback(() => {
     const id = getDeviceId()
@@ -359,27 +343,7 @@ export default function LearningLab() {
   return (
     <div className="ll-wrap">
       <PaceNote pace={pace} />
-      {/* An unfinished paper, offered back rather than resumed silently. A
-          learner who abandoned one on purpose should not be dropped straight
-          back into it. */}
-      {resumable && (
-        <div className="ll-resume">
-          <span className="ll-resume-label">Unfinished paper</span>
-          <p className="ll-resume-text">
-            {resumable.learnerName ? `${resumable.learnerName}, you` : 'You'} have a paper
-            still open — {Object.keys(resumable.answers || {}).length} of{' '}
-            {resumable.questions.length} questions answered. Your answers were saved.
-          </p>
-          <div className="ll-resume-actions">
-            <button type="button" className="btn-primary" onClick={resumePaper}>
-              Continue that paper
-            </button>
-            <button type="button" className="btn" onClick={discardResumable}>
-              Start a new one
-            </button>
-          </div>
-        </div>
-      )}
+      <ResumeCard />
       {loadingTax && <p className="ll-muted">Loading topics…</p>}
       {taxError && <p className="ll-error">{taxError}</p>}
 

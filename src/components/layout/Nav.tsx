@@ -10,14 +10,13 @@
 import { useEffect, useRef, useState, type MouseEvent } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { BUILDER_PATH, loadPaper } from '@/lib/labClient'
+import { FEEDBACK_PATH, HOME_PATH, PRACTICE_PATH, PROGRESS_PATH, loadPaper } from '@/lib/labClient'
 
-const SITE = process.env.NEXT_PUBLIC_PORTFOLIO_URL || 'https://pradeep.miriyala.in'
-
-const LINKS: { href: string; label: string; external?: boolean; match: (p: string) => boolean }[] = [
-  { href: BUILDER_PATH, label: 'Practice', match: (p) => p.startsWith(BUILDER_PATH) },
-  { href: '/learning/suggest', label: 'Suggest a question', match: (p) => p.startsWith('/learning/suggest') },
-  { href: `${SITE}/contact?re=learning`, label: 'Tell us what is broken', external: true, match: () => false },
+const LINKS: { href: string; label: string; match: (p: string) => boolean }[] = [
+  { href: HOME_PATH, label: 'Home', match: (p) => p === HOME_PATH || p === HOME_PATH + '/' },
+  { href: PRACTICE_PATH, label: 'Practice', match: (p) => p.startsWith(PRACTICE_PATH) || p.startsWith(HOME_PATH + '/paper') },
+  { href: PROGRESS_PATH, label: 'My progress', match: (p) => p.startsWith(PROGRESS_PATH) },
+  { href: FEEDBACK_PATH, label: 'Feedback', match: (p) => p.startsWith(FEEDBACK_PATH) || p.startsWith('/learning/suggest') },
 ]
 
 /** /learning/cbse/paper/<id> — the paper itself, not its result. */
@@ -53,7 +52,7 @@ export default function Nav(_props: { active?: string }) {
       <nav className="nav nav-slim" aria-label="Paper">
         <div className="nav-inner">
           <span className="nav-word">CBSE Learning Lab</span>
-          <Link href={BUILDER_PATH} className="nav-exit" onClick={leave}>
+          <Link href={HOME_PATH} className="nav-exit" onClick={leave}>
             <span aria-hidden>✕</span> Save &amp; exit
           </Link>
         </div>
@@ -64,7 +63,7 @@ export default function Nav(_props: { active?: string }) {
   return (
     <nav className="nav" aria-label="Learning Lab">
       <div className="nav-inner">
-        <Link href={BUILDER_PATH} className="nav-word">CBSE Learning Lab</Link>
+        <Link href={HOME_PATH} className="nav-word">CBSE Learning Lab</Link>
 
         <button
           ref={toggleRef}
@@ -79,20 +78,16 @@ export default function Nav(_props: { active?: string }) {
         </button>
 
         <div id="nav-menu" className={'nav-links' + (open ? ' is-open' : '')}>
-          {LINKS.map((l) =>
-            l.external ? (
-              <a key={l.href} className="nav-link" href={l.href}>{l.label}</a>
-            ) : (
-              <Link
-                key={l.href}
-                className={'nav-link' + (l.match(pathname) ? ' active' : '')}
-                href={l.href}
-                aria-current={l.match(pathname) ? 'page' : undefined}
-              >
-                {l.label}
-              </Link>
-            ),
-          )}
+          {LINKS.map((l) => (
+            <Link
+              key={l.href}
+              className={'nav-link' + (l.match(pathname) ? ' active' : '')}
+              href={l.href}
+              aria-current={l.match(pathname) ? 'page' : undefined}
+            >
+              {l.label}
+            </Link>
+          ))}
         </div>
       </div>
       {open && <button type="button" className="nav-scrim" aria-label="Close menu" onClick={() => setOpen(false)} />}
