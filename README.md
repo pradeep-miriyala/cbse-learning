@@ -11,7 +11,7 @@ talk to the same MongoDB database, `pradeep-site`.
 
 | Path | Holds |
 |---|---|
-| `src/app/learning/**` | The pages: `/learning`, `/learning/cbse`, `/career-choices`, `/suggest`, `/speak-demo` |
+| `src/app/learning/**` | The pages: `/learning/cbse` (the quiz; `/` and `/learning` go there), plus the unlinked `/career-choices`, `/suggest`, `/speak-demo` |
 | `src/app/api/learning/**` | Public APIs: taxonomy, generate, submit, hint, resume, pace, heartbeat, feedback, suggest, captcha, career/*, revalidate |
 | `src/lib/` | `learning`, `career*`, `speaking`, `matching`, `captcha`, `spam`, `mongodb` |
 | `public/learning/` | Manifest, service worker, offline page, icons (the installable app) |
