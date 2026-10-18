@@ -87,7 +87,7 @@ export default function ResultSession() {
       ) : format === 'spoken' ? (
         <SpokenResult result={data as SpokenResultData} {...common} />
       ) : (
-        <ResultPanel result={data} {...common} formatFractions={recipe.subject === 'maths'} />
+        <ResultPanel result={data} {...common} paperId={id} formatFractions={recipe.subject === 'maths'} />
       )}
     </div>
   )

@@ -4,6 +4,7 @@
 
 import { useState, type FormEvent } from 'react'
 import { withFractions, escapeHtml } from '@/lib/learning'
+import ReportQuestion from './ReportQuestion'
 
 export interface SubmitResult {
   attemptId: string
@@ -15,6 +16,7 @@ export interface SubmitResult {
   byTopic: Record<string, { label: string; correct: number; total: number }>
   review: {
     number: number
+    qid?: string
     topicLabel: string
     passageId?: string | null
     passageTitle?: string | null
@@ -56,12 +58,15 @@ export default function ResultPanel({
   onRetry,
   onNewPaper,
   formatFractions,
+  paperId,
 }: {
   result: SubmitResult
   subjectLabel: string
   onRetry: () => void
   onNewPaper: () => void
   formatFractions?: boolean
+  /** Needed to report a question from the review. */
+  paperId?: string
 }) {
   const fmtQuestion = (t: string) => (formatFractions ? withFractions(t) : t)
   const fmtAnswer = (t: string) =>
@@ -294,6 +299,10 @@ export default function ResultPanel({
                   <div className="ll-review-tip">
                     <b>Teacher tip:</b> {item.hint}
                   </div>
+                )}
+
+                {paperId && item.qid && (
+                  <div className="ll-flag-slot"><ReportQuestion paperId={paperId} qid={item.qid} /></div>
                 )}
               </div>
               </div>

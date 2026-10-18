@@ -65,6 +65,12 @@ export async function getLearningFeedbackCollection() {
   return db.collection('learning_feedback')
 }
 
+/** One-tap "this question is wrong" reports, from the quiz and the review. */
+export async function getLearningReportsCollection() {
+  const db = await getDb()
+  return db.collection('learning_question_reports')
+}
+
 /**
  * Questions suggested by parents and teachers, awaiting review.
  *

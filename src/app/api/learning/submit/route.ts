@@ -262,6 +262,7 @@ export async function POST(req: NextRequest) {
 
       review.push({
         number: idx + 1,
+        qid: item.qid,
         topic: q.topic,
         topicLabel: q.topicLabel,
         question: q.question,

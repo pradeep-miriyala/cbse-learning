@@ -4,6 +4,7 @@
 // Science — runs through this component, so the UX can't drift per subject.
 
 import { useState, useEffect, useRef } from 'react'
+import ReportQuestion from './ReportQuestion'
 import {
   HINT_DELAY_MS, hintBudgetFor, withFractions, escapeHtml,
   type PaperQuestion,
@@ -47,6 +48,12 @@ export default function QuizRunner({
   const [hintOffered, setHintOffered] = useState(false)
   const [hints, setHints] = useState<Record<string, string>>({})
   const [loadingHint, setLoadingHint] = useState(false)
+
+  // Flagged for a second look, the way a paper exam lets you star a question.
+  const [flagged, setFlagged] = useState<Record<string, boolean>>({})
+  const [gridOpen, setGridOpen] = useState(false)
+  // The last stop before submitting: what is unanswered or flagged, in one place.
+  const [reviewing, setReviewing] = useState(false)
 
   const q = questions[index]
   const isLast = index === questions.length - 1
@@ -115,6 +122,15 @@ export default function QuizRunner({
     // would re-run the scroll on unrelated re-renders such as choosing an option.
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [index])
+  useEffect(() => { if (reviewing) topRef.current?.scrollIntoView({ block: 'start' }) }, [reviewing])
+
+  // Escape closes the question grid.
+  useEffect(() => {
+    if (!gridOpen) return
+    const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') setGridOpen(false) }
+    document.addEventListener('keydown', onKey)
+    return () => document.removeEventListener('keydown', onKey)
+  }, [gridOpen])
 
   /**
    * Hold the page against an accidental pull-to-refresh.
@@ -199,15 +215,70 @@ export default function QuizRunner({
 
   function next() {
     if (!isLast) { setIndex((i) => i + 1); return }
+    setReviewing(true)
+  }
 
-    const unanswered = questions.length - answeredCount
-    if (unanswered > 0) {
-      const ok = window.confirm(
-        `You have ${unanswered} unanswered question${unanswered === 1 ? '' : 's'}. Submit anyway?`,
-      )
-      if (!ok) return
-    }
-    onSubmit(answers)
+  function jumpTo(i: number) {
+    setIndex(i); setGridOpen(false); setReviewing(false)
+  }
+
+  const flaggedCount = Object.values(flagged).filter(Boolean).length
+  const unansweredIdx = questions.map((item, i) => (answers[item.qid] === undefined ? i : -1)).filter((i) => i >= 0)
+  const flaggedIdx = questions.map((item, i) => (flagged[item.qid] ? i : -1)).filter((i) => i >= 0)
+
+  if (reviewing) {
+    return (
+      <div className="ll-quiz ll-quiz-review" ref={topRef}>
+        <span className="caps">Before you hand it in</span>
+        <h2 className="ll-rv-title">
+          {unansweredIdx.length === 0
+            ? `All ${questions.length} questions answered`
+            : `${answeredCount} of ${questions.length} answered`}
+        </h2>
+
+        {unansweredIdx.length > 0 && (
+          <div className="ll-rv-group">
+            <span className="ll-rv-label">Not answered yet — tap to go back</span>
+            <div className="ll-rv-chips">
+              {unansweredIdx.map((i) => (
+                <button key={i} type="button" className="ll-rv-chip is-open" onClick={() => jumpTo(i)}>
+                  {i + 1}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
+        {flaggedIdx.length > 0 && (
+          <div className="ll-rv-group">
+            <span className="ll-rv-label">Flagged for a second look</span>
+            <div className="ll-rv-chips">
+              {flaggedIdx.map((i) => (
+                <button key={i} type="button" className="ll-rv-chip is-flag" onClick={() => jumpTo(i)}>
+                  {i + 1}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
+        {unansweredIdx.length === 0 && flaggedIdx.length === 0 && (
+          <p className="ll-muted">Nothing is left open. Ready when you are.</p>
+        )}
+
+        <div className="ll-rv-actions">
+          <button type="button" className="btn-primary" disabled={submitting} onClick={() => onSubmit(answers)}>
+            {submitting ? 'Checking…' : 'Submit paper'}
+          </button>
+          <button type="button" className="btn" onClick={() => setReviewing(false)}>
+            Back to the questions
+          </button>
+        </div>
+        {unansweredIdx.length > 0 && (
+          <p className="ll-muted" style={{ marginTop: '0.75rem' }}>
+            Unanswered questions count as wrong.
+          </p>
+        )}
+      </div>
+    )
   }
 
   return (
@@ -217,6 +288,14 @@ export default function QuizRunner({
           Question {index + 1} of {questions.length}
         </span>
         <span className="ledger-tag tag-rust">{q.topicLabel}</span>
+        <button
+          type="button"
+          className="ll-flagbtn"
+          aria-pressed={!!flagged[q.qid]}
+          onClick={() => setFlagged((f) => ({ ...f, [q.qid]: !f[q.qid] }))}
+        >
+          <span aria-hidden>⚑</span> {flagged[q.qid] ? 'Flagged' : 'Flag'}
+        </button>
       </div>
 
       <div className="ll-progress-bar" role="progressbar" aria-valuenow={answeredCount}
@@ -305,34 +384,67 @@ export default function QuizRunner({
             </p>
           ) : null}
         </div>
+
+        <div className="ll-flag-slot" key={q.qid}>
+          <ReportQuestion paperId={paperId} qid={q.qid} />
+        </div>
       </div>
 
-      <div className="ll-quiz-nav">
+      {/* Fixed to the bottom of the screen, where a thumb already is. The middle
+          button opens the question grid; the dots it replaces ran to two or three
+          rows on a long paper. */}
+      <div className="ll-dock">
         <button type="button" className="btn" onClick={() => setIndex((i) => i - 1)} disabled={index === 0}>
           Back
         </button>
-
-        <div className="ll-dots">
-          {questions.map((item, i) => (
-            <button
-              key={item.qid}
-              type="button"
-              className={
-                'll-dot' +
-                (answers[item.qid] !== undefined ? ' is-answered' : '') +
-                (i === index ? ' is-current' : '')
-              }
-              aria-label={`Go to question ${i + 1}${answers[item.qid] !== undefined ? ', answered' : ''}`}
-              aria-current={i === index}
-              onClick={() => setIndex(i)}
-            />
-          ))}
-        </div>
-
+        <button type="button" className="ll-dock-count" aria-haspopup="dialog" onClick={() => setGridOpen(true)}>
+          <span>{index + 1}<span className="ll-dock-of"> / {questions.length}</span></span>
+          <span className="ll-dock-sub">{answeredCount} answered{flaggedCount > 0 ? ` · ${flaggedCount} flagged` : ''}</span>
+        </button>
         <button type="button" className="btn-primary" onClick={next} disabled={submitting}>
-          {submitting ? 'Checking…' : isLast ? 'Submit paper' : 'Next'}
+          {isLast ? 'Review' : 'Next'}
         </button>
       </div>
+
+      {gridOpen && (
+        <div className="ll-sheet" role="dialog" aria-modal="true" aria-label="All questions">
+          <button type="button" className="ll-sheet-scrim" aria-label="Close" onClick={() => setGridOpen(false)} />
+          <div className="ll-sheet-panel">
+            <div className="ll-sheet-head">
+              <span className="caps">All questions</span>
+              <button type="button" className="ll-sheet-close" onClick={() => setGridOpen(false)}>Close</button>
+            </div>
+            <div className="ll-grid">
+              {questions.map((item, i) => (
+                <button
+                  key={item.qid}
+                  type="button"
+                  className={
+                    'll-cell' +
+                    (answers[item.qid] !== undefined ? ' is-answered' : '') +
+                    (flagged[item.qid] ? ' is-flagged' : '') +
+                    (i === index ? ' is-current' : '')
+                  }
+                  aria-label={`Question ${i + 1}${answers[item.qid] !== undefined ? ', answered' : ', not answered'}${flagged[item.qid] ? ', flagged' : ''}`}
+                  aria-current={i === index}
+                  onClick={() => jumpTo(i)}
+                >
+                  {i + 1}
+                </button>
+              ))}
+            </div>
+            <p className="ll-grid-key">
+              <span><i className="k-answered" /> Answered</span>
+              <span><i className="k-open" /> Not yet</span>
+              <span><i className="k-flag" /> Flagged</span>
+            </p>
+            <button type="button" className="btn" style={{ width: '100%' }}
+              onClick={() => { setGridOpen(false); setReviewing(true) }}>
+              Review and submit
+            </button>
+          </div>
+        </div>
+      )}
 
       <p className="ll-muted" style={{ marginTop: '1.5rem', textAlign: 'center' }}>
         {learnerName}, you have answered {answeredCount} of {questions.length}.{' '}

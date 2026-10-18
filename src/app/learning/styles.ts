@@ -375,7 +375,7 @@ export const LEARNING_CSS = `
      to leave about three lines showing: one or two can be mistaken for a
      margin, three read unmistakably as prose that has been cut off. */
   .ll-question-card { scroll-margin-top: 5rem; }
-  .ll-quiz { scroll-margin-top: 0.5rem; }
+  .ll-quiz { scroll-margin-top: calc(var(--nav-h) + 0.5rem); }
 
   /* ══ The slate ══
      The question panel is the one place on the site where the reader is
@@ -423,6 +423,103 @@ export const LEARNING_CSS = `
   .ll-quiz .ll-hint-label { color: #E4B93F; }
   .ll-quiz .ll-hint-btn { color: #E4B93F; border-color: rgba(228,185,63,0.5); }
   .ll-quiz .ll-hint-btn:hover:not(:disabled) { background: rgba(228,185,63,0.12); }
+
+  /* ── Bottom bar, question grid, review ──
+     The bar is fixed so Back and Next sit under the thumb however far the
+     question has been scrolled. .ll-quiz reserves room beneath its content so
+     the last option never hides behind it. */
+  .ll-quiz { padding-bottom: 5.5rem; }
+  .ll-flagbtn {
+    margin-left: auto; min-height: 36px; padding: 0 0.7rem; border: 1px solid var(--ink-30);
+    border-radius: 2px; background: transparent; color: var(--ink-50); cursor: pointer;
+    font-family: var(--f-ui); font-size: 0.78rem; font-weight: 600;
+  }
+  .ll-flagbtn[aria-pressed="true"] { background: var(--accent-3); border-color: var(--accent-3); color: #fff; }
+
+  .ll-dock {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 90;
+    display: flex; align-items: center; justify-content: space-between; gap: 0.75rem;
+    padding: 0.65rem var(--px) calc(0.65rem + env(safe-area-inset-bottom));
+    background: var(--bg); border-top: 1px solid var(--line);
+    box-shadow: 0 -8px 20px rgba(22,19,15,0.08);
+  }
+  .ll-dock > .btn, .ll-dock > .btn-primary { min-height: var(--tap); min-width: 5.5rem; }
+  .ll-dock-count {
+    flex: 1; min-height: var(--tap); background: none; border: 0; cursor: pointer;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    font-family: var(--f-display); font-size: 1.15rem; color: var(--ink); line-height: 1.1;
+  }
+  .ll-dock-of { color: var(--ink-50); font-size: 0.95rem; }
+  .ll-dock-sub { font-family: var(--f-ui); font-size: 0.68rem; color: var(--accent); margin-top: 0.15rem; border-bottom: 1px dotted var(--accent); }
+
+  .ll-sheet { position: fixed; inset: 0; z-index: 120; display: flex; align-items: flex-end; justify-content: center; }
+  .ll-sheet-scrim { position: absolute; inset: 0; background: rgba(22,19,15,0.45); border: 0; cursor: default; }
+  .ll-sheet-panel {
+    position: relative; width: 100%; max-width: 560px; max-height: 80vh; overflow-y: auto;
+    background: var(--bg); border-top: 1px solid var(--line); border-radius: 12px 12px 0 0;
+    padding: 1rem var(--px) calc(1.25rem + env(safe-area-inset-bottom));
+  }
+  .ll-sheet-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.9rem; }
+  .ll-sheet-close {
+    background: none; border: 0; color: var(--accent); font: inherit; font-weight: 700;
+    min-height: var(--tap); padding: 0 0.25rem; cursor: pointer;
+  }
+  .ll-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(2.75rem, 1fr)); gap: 0.4rem; }
+  .ll-cell {
+    min-height: 2.75rem; border: 1px solid var(--ink-30); border-radius: 4px; background: var(--surface);
+    font-family: var(--f-mono); font-size: 0.85rem; color: var(--ink); cursor: pointer; position: relative;
+  }
+  .ll-cell.is-answered { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .ll-cell.is-current { box-shadow: 0 0 0 2px var(--bg), 0 0 0 4px var(--ink); }
+  .ll-cell.is-flagged::after {
+    content: ''; position: absolute; top: 3px; right: 3px; width: 8px; height: 8px;
+    border-radius: 50%; background: var(--accent-3); border: 1px solid var(--bg);
+  }
+  .ll-grid-key { display: flex; gap: 1rem; flex-wrap: wrap; margin: 0.9rem 0 1rem; font-size: 0.78rem; color: var(--ink-50); }
+  .ll-grid-key i { display: inline-block; width: 0.8rem; height: 0.8rem; border-radius: 3px; margin-right: 0.35rem; vertical-align: -1px; border: 1px solid var(--ink-30); }
+  .ll-grid-key .k-answered { background: var(--accent); border-color: var(--accent); }
+  .ll-grid-key .k-flag { background: var(--accent-3); border-color: var(--accent-3); }
+
+  .ll-quiz-review { padding-bottom: 3rem; }
+  .ll-rv-title { font-family: var(--f-display); font-size: clamp(1.6rem, 5vw, 2.2rem); margin: 0.4rem 0 1.25rem; font-weight: 600; }
+  .ll-rv-group { margin-bottom: 1.25rem; }
+  .ll-rv-label { display: block; font-size: 0.8rem; color: var(--ink-50); margin-bottom: 0.5rem; }
+  .ll-rv-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .ll-rv-chip {
+    min-width: 2.75rem; min-height: 2.75rem; border-radius: 4px; cursor: pointer;
+    font-family: var(--f-mono); font-size: 0.85rem; background: var(--surface); color: var(--ink);
+    border: 1px solid var(--ink-30);
+  }
+  .ll-rv-chip.is-open { border-color: var(--error); color: var(--error); }
+  .ll-rv-chip.is-flag { border-color: var(--accent-3); color: var(--accent-3); }
+  .ll-rv-actions { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1.5rem; }
+
+  /* ── Report this question ── */
+  .ll-flag-slot { margin-top: 1rem; }
+  .ll-flag-link {
+    background: none; border: 0; padding: 0.5rem 0; min-height: 36px; cursor: pointer;
+    font: inherit; font-size: 0.8rem; color: var(--ink-50); border-bottom: 1px dotted var(--ink-30);
+  }
+  .ll-quiz .ll-flag-link { color: #C3C9DA; border-color: rgba(255,255,255,0.35); }
+  .ll-flag-panel {
+    border: 1px solid var(--line); background: var(--surface); padding: 0.9rem; border-radius: 4px;
+    color: var(--ink);
+  }
+  .ll-flag-title { display: block; font-weight: 700; font-size: 0.85rem; margin-bottom: 0.6rem; }
+  .ll-flag-reasons { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 0.7rem; }
+  .ll-flag-reason {
+    min-height: 40px; padding: 0 0.8rem; border-radius: 999px; border: 1px solid var(--ink-30);
+    background: transparent; color: var(--ink); font: inherit; font-size: 0.82rem; cursor: pointer;
+  }
+  .ll-flag-reason[aria-checked="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .ll-flag-note {
+    width: 100%; min-height: 44px; padding: 0 0.7rem; border: 1px solid var(--ink-30); border-radius: 2px;
+    background: var(--bg); font: inherit; font-size: 16px; color: var(--ink);
+  }
+  .ll-flag-error { color: var(--error); font-size: 0.82rem; margin-top: 0.5rem; }
+  .ll-flag-actions { display: flex; gap: 0.6rem; margin-top: 0.75rem; flex-wrap: wrap; }
+  .ll-flag-done { font-size: 0.82rem; color: var(--ok); }
+  .ll-quiz .ll-flag-done { color: #8FD4AE; }
 
   /* ── Result ── */
   .ll-score-hero { text-align: center; padding: 1.5rem 0 0.5rem; }
@@ -606,6 +703,7 @@ export const LEARNING_CSS = `
     .ll-wrap { padding: 0 !important; max-width: none !important; font-size: 10pt; }
 
     .ll-print-only { display: block; }
+    .ll-flag-slot, .ll-dock { display: none !important; }
 
     .ll-print-head { border-bottom: 1.5px solid #000; padding-bottom: 8pt; margin-bottom: 14pt; }
     .ll-print-title {
