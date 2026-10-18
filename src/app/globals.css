@@ -197,6 +197,51 @@ input::placeholder, textarea::placeholder { color: var(--ink-30); }
 }
 .nav-link:hover, .nav-link.active { color: var(--ink); }
 
+/* Hamburger — phones only; the links are inline above 640px. */
+.nav-burger {
+  display: none; width: 44px; height: 44px; margin-right: -0.5rem;
+  background: none; border: 0; cursor: pointer; position: relative;
+}
+.nav-burger span, .nav-burger span::before, .nav-burger span::after {
+  position: absolute; left: 12px; right: 12px; height: 2px; background: var(--ink);
+  content: ''; transition: transform .2s, opacity .2s;
+}
+.nav-burger span { top: 21px; }
+.nav-burger span::before { top: -7px; left: 0; right: 0; }
+.nav-burger span::after  { top:  7px; left: 0; right: 0; }
+.nav-burger[aria-expanded="true"] span { background: transparent; }
+.nav-burger[aria-expanded="true"] span::before { transform: translateY(7px) rotate(45deg); }
+.nav-burger[aria-expanded="true"] span::after  { transform: translateY(-7px) rotate(-45deg); }
+.nav-scrim { display: none; }
+
+/* In-paper bar: one way out, nothing to brush by accident. */
+.nav-slim .nav-inner { flex-wrap: nowrap; }
+.nav-exit {
+  font-family: var(--f-ui); font-size: 0.78rem; font-weight: 700; color: var(--accent);
+  display: inline-flex; align-items: center; gap: 0.4rem; min-height: 44px; padding: 0 0.25rem;
+}
+
+@media (max-width: 640px) {
+  .nav-inner { flex-wrap: nowrap; }
+  .nav-burger { display: block; }
+  .nav-links {
+    display: none; position: absolute; top: 100%; left: 0; right: 0; z-index: 2;
+    flex-direction: column; align-items: stretch; gap: 0;
+    background: var(--bg); border-bottom: 1px solid var(--line);
+    padding: 0.25rem var(--px) 0.75rem; box-shadow: 0 12px 24px rgba(22,19,15,0.12);
+  }
+  .nav-links.is-open { display: flex; }
+  .nav-link {
+    font-size: 0.85rem; min-height: 48px; display: flex; align-items: center;
+    border-bottom: 1px solid var(--line-soft);
+  }
+  .nav-link.active { color: var(--accent); }
+  .nav-scrim {
+    display: block; position: fixed; inset: var(--nav-h) 0 0 0; z-index: 1;
+    background: rgba(22,19,15,0.35); border: 0; cursor: default;
+  }
+}
+
 
 /* ── Footer ── */
 .footer { background: var(--bg-soft); border-top: 1px solid var(--line); margin-top: 3rem; }

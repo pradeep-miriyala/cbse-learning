@@ -46,6 +46,12 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ resumable: false })
     }
 
+    // Spoken and matching papers do not keep answers server-side, and their
+    // questions are not the multiple-choice shape built below.
+    if (paper.format === 'spoken' || paper.format === 'match') {
+      return NextResponse.json({ resumable: false })
+    }
+
     const col = await getLearningQuestionsCollection()
     const items: { qid: string; order: number[] }[] = paper.items ?? []
     const docs = await col.find({ _id: { $in: items.map((i) => new ObjectId(i.qid)) } }).toArray()

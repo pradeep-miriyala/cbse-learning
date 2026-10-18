@@ -4,13 +4,12 @@
 // selection of up to MAX_TOPICS topics within one subject, generated on demand.
 
 import { useCallback, useEffect, useMemo, useState, type CSSProperties } from 'react'
-import QuizRunner from './QuizRunner'
-import SpokenRunner, { type SpokenPaperQuestion } from './SpokenRunner'
-import SpokenResult, { type SpokenResultData } from './SpokenResult'
+import { useRouter } from 'next/navigation'
 import PaceNote, { type Pace } from './PaceNote'
-import MatchRunner, { type MatchPaperQuestion } from './MatchRunner'
-import MatchResult, { type MatchResultData } from './MatchResult'
-import ResultPanel, { type SubmitResult } from './ResultPanel'
+import {
+  clearActivePaper, getActivePaper, getDeviceId, getName, loadHistory, paperPath,
+  requestPaper, storeGeneratedPaper, type HistoryEntry, type Recipe,
+} from '@/lib/labClient'
 import {
   MAX_TOPICS,
   MIN_PER_TOPIC,
@@ -36,53 +35,8 @@ import {
   type PaperQuestion,
 } from '@/lib/learning'
 
-type Stage = 'setup' | 'quiz' | 'result'
-
-const NAME_KEY = 'll:name'
-const HISTORY_KEY = 'll:history'
-const DEVICE_KEY = 'll:device'
-/** The paper currently being sat, so a refresh can pick it up again. */
-const ACTIVE_KEY = 'll:active-paper'
-const HISTORY_MAX = 8
-
-interface HistoryEntry {
-  at: string
-  subjectLabel: string
-  topicLabels: string[]
-  score: number
-  total: number
-  pct: number
-}
-
-function loadHistory(): HistoryEntry[] {
-  try {
-    const raw = localStorage.getItem(HISTORY_KEY)
-    return raw ? JSON.parse(raw) : []
-  } catch {
-    return []
-  }
-}
-
-/**
- * A random, opaque id for this browser, created once and kept locally. It is
- * not a fingerprint: nothing is derived from the device or the person. It only
- * lets a run of papers from the same browser be recognised, so a sudden collapse
- * in score can prompt a friendly "is this still you?".
- */
-function getDeviceId(): string | null {
-  try {
-    let id = localStorage.getItem(DEVICE_KEY)
-    if (!id) {
-      id = (crypto.randomUUID?.() ?? String(Math.random()).slice(2) + Date.now().toString(36))
-      localStorage.setItem(DEVICE_KEY, id)
-    }
-    return id
-  } catch {
-    return null // private mode — the check simply does not apply
-  }
-}
-
 export default function LearningLab() {
+  const router = useRouter()
   const [taxonomy, setTaxonomy] = useState<GradeSummary[]>([])
   const [loadingTax, setLoadingTax] = useState(true)
   const [taxError, setTaxError] = useState('')
@@ -95,17 +49,10 @@ export default function LearningLab() {
   const [preset, setPreset] = useState<string>(DEFAULT_PRESET)
   const [name, setName] = useState('')
 
-  const [stage, setStage] = useState<Stage>('setup')
-  const [questions, setQuestions] = useState<PaperQuestion[]>([])
-  const [paperId, setPaperId] = useState('')
-  const [marksTotal, setMarksTotal] = useState(0)
-  const [result, setResult] = useState<SubmitResult | null>(null)
-
   const [busy, setBusy] = useState(false)
   const [error, setError] = useState('')
   const [history, setHistory] = useState<HistoryEntry[]>([])
   const [pace, setPace] = useState<Pace | null>(null)
-  const [startedAt, setStartedAt] = useState(0)
 
   // Human check. The pass now covers only the "try a fresh paper, same topics"
   // button — a genuinely new paper asks again. It previously covered every
@@ -123,11 +70,9 @@ export default function LearningLab() {
     startedAt: string | null
     learnerName: string
   } | null>(null)
-  const [restored, setRestored] = useState<{ answers: Record<string, number>; index: number } | null>(null)
 
   const [captcha, setCaptcha] = useState<{ token: string; display: string } | null>(null)
   const [captchaAnswer, setCaptchaAnswer] = useState('')
-  const [pass, setPass] = useState('')
 
   // ── Load taxonomy + remembered name ──
   useEffect(() => {
@@ -144,15 +89,13 @@ export default function LearningLab() {
 
     loadCaptcha()
 
-    try {
-      setName(localStorage.getItem(NAME_KEY) || '')
-      setHistory(loadHistory())
-    } catch { /* storage unavailable — history is a nicety, not a requirement */ }
+    setName(getName())
+    setHistory(loadHistory())
 
     // Was a paper left open? The id is kept locally; the server decides whether
     // it is still live and whether this device is the one that started it.
-    try {
-      const active = localStorage.getItem(ACTIVE_KEY)
+    {
+      const active = getActivePaper()
       if (active) {
         fetch('/api/learning/resume', {
           method: 'POST',
@@ -162,32 +105,21 @@ export default function LearningLab() {
           .then((r) => r.json())
           .then((d) => {
             if (d.resumable) setResumable(d)
-            else localStorage.removeItem(ACTIVE_KEY)
+            else clearActivePaper()
           })
           .catch(() => {})
       }
-    } catch {}
+    }
   }, [])
 
   /** Pick the unfinished paper back up exactly where it was left. */
   function resumePaper() {
-    if (!resumable) return
-    setQuestions(resumable.questions)
-    setPaperId(resumable.paperId)
-    setRestored({ answers: resumable.answers || {}, index: resumable.atIndex || 0 })
-    // Timed from when the paper was first built, so the recorded duration
-    // covers the whole sitting rather than only the part after the refresh.
-    setStartedAt(resumable.startedAt ? new Date(resumable.startedAt).getTime() : Date.now())
-    if (resumable.learnerName) setName(resumable.learnerName)
-    setResumable(null)
-    setResult(null)
-    setStage('quiz')
-    window.scrollTo({ top: 0, behavior: 'smooth' })
+    if (resumable) router.push(paperPath(resumable.paperId))
   }
 
   /** Let it go, and stop offering it. */
   function discardResumable() {
-    try { localStorage.removeItem(ACTIVE_KEY) } catch {}
+    clearActivePaper()
     setResumable(null)
   }
 
@@ -385,213 +317,45 @@ export default function LearningLab() {
     })
   }
 
-  async function generate(opts?: { retry?: boolean } | unknown) {
-    const retrying = !!(opts && typeof opts === 'object' && (opts as any).retry === true)
-    return generateInner(retrying)
-  }
-
-  async function generateInner(retrying: boolean) {
+  async function generate() {
     const trimmed = name.trim()
     if (!trimmed) { setError('Enter your first name so the result has a name on it.'); return }
     if (topics.length === 0) { setError('Pick at least one topic.'); return }
-    if (!retrying && !captchaAnswer.trim()) {
+    if (!captchaAnswer.trim()) {
       setError('Answer the sum to show you are a person.'); return
     }
 
+    const recipe: Recipe = {
+      grade: grade as number,
+      subject,
+      subjectLabel: currentSubject?.subjectLabel || subject,
+      topics,
+      topicLabels: (currentSubject?.topics || [])
+        .filter((t) => topics.includes(t.slug))
+        .map((t) => t.label),
+      count, preset, format,
+    }
+
     setBusy(true); setError('')
     try {
-      const res = await fetch('/api/learning/generate', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          grade, subject, topics, count, preset, format, learnerName: trimmed,
-          deviceId: getDeviceId(),
-          pass: retrying ? pass || undefined : undefined,
-          captchaToken: captcha?.token,
-          captchaAnswer,
-        }),
+      const { ok, data } = await requestPaper(recipe, trimmed, {
+        captchaToken: captcha?.token,
+        captchaAnswer,
       })
-      const data = await res.json()
-      if (!res.ok) {
+      if (!ok) {
         // A wrong sum gets a fresh one, so the learner is never stuck.
-        if (data.captchaFailed) { loadCaptcha(); setPass('') }
+        if (data.captchaFailed) loadCaptcha()
         throw new Error(data.error || 'Could not build the paper.')
       }
-
-      if (data.pass) setPass(data.pass)
-      // A fresh sum for the next paper, so the same token is never offered twice.
-      loadCaptcha()
-      try { localStorage.setItem(NAME_KEY, trimmed) } catch {}
-
-      setQuestions(data.questions)
-      setPaperId(data.paperId)
-      setMarksTotal(data.marksTotal ?? 0)
-      setRestored(null)
-      try { localStorage.setItem(ACTIVE_KEY, data.paperId) } catch {}
-      setStartedAt(Date.now())
-      setResult(null)
-      setStage('quiz')
-      window.scrollTo({ top: 0, behavior: 'smooth' })
+      storeGeneratedPaper(data, recipe, trimmed)
+      // The paper is its own page from here: the URL is what a refresh returns to.
+      router.push(paperPath(data.paperId))
     } catch (err: any) {
       setError(err.message)
-    } finally {
       setBusy(false)
     }
   }
 
-  async function submit(answers: Record<string, number>) {
-    return send({ answers })
-  }
-
-  /** Spoken papers send what was said instead of option indices. */
-  async function submitSpoken(said: Record<string, string>) {
-    return send({ said })
-  }
-
-  async function send(payload: Record<string, unknown>) {
-    setBusy(true); setError('')
-    try {
-      const res = await fetch('/api/learning/submit', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ paperId, ...payload, durationMs: Date.now() - startedAt }),
-      })
-      const data = await res.json()
-      if (!res.ok) throw new Error(data.error || 'Could not score the paper.')
-
-      setResult(data)
-      setStage('result')
-      // The paper just finished counts towards the pace, so ask again.
-      checkPace()
-      // Submitted, so there is nothing left to pick up.
-      try { localStorage.removeItem(ACTIVE_KEY) } catch {}
-      window.scrollTo({ top: 0, behavior: 'smooth' })
-
-      // Device-local history so a learner sees their own progress over time.
-      try {
-        const entry: HistoryEntry = {
-          at: new Date().toISOString(),
-          subjectLabel: currentSubject?.subjectLabel || subject,
-          topicLabels: (currentSubject?.topics || [])
-            .filter((t) => topics.includes(t.slug))
-            .map((t) => t.label),
-          score: data.score,
-          total: data.total,
-          pct: data.pct,
-        }
-        const next = [entry, ...loadHistory()].slice(0, HISTORY_MAX)
-        localStorage.setItem(HISTORY_KEY, JSON.stringify(next))
-        setHistory(next)
-      } catch {}
-    } catch (err: any) {
-      setError(err.message)
-      setStage('setup')
-    } finally {
-      setBusy(false)
-    }
-  }
-
-  function backToSetup() {
-    try { localStorage.removeItem(ACTIVE_KEY) } catch {}
-    setStage('setup'); setResult(null); setQuestions([]); setPaperId(''); setRestored(null)
-    window.scrollTo({ top: 0, behavior: 'smooth' })
-  }
-
-  // ── Quiz ──
-  if (stage === 'quiz' && format === 'match') {
-    return (
-      <div className="ll-wrap">
-        <MatchRunner
-          questions={questions as unknown as MatchPaperQuestion[]}
-          marksTotal={marksTotal}
-          learnerName={name.trim()}
-          submitting={busy}
-          onSubmit={(m) => send({ matched: m })}
-          onQuit={backToSetup}
-        />
-      </div>
-    )
-  }
-
-  if (stage === 'quiz' && format === 'spoken') {
-    return (
-      <div className="ll-wrap">
-        <SpokenRunner
-          questions={questions as unknown as SpokenPaperQuestion[]}
-          paperId={paperId}
-          marksTotal={marksTotal}
-          learnerName={name.trim()}
-          submitting={busy}
-          onSubmit={submitSpoken}
-          onQuit={backToSetup}
-        />
-      </div>
-    )
-  }
-
-  if (stage === 'quiz') {
-    return (
-      <div className="ll-wrap">
-        <QuizRunner
-          questions={questions}
-          paperId={paperId}
-          learnerName={name.trim()}
-          submitting={busy}
-          onSubmit={submit}
-          onQuit={backToSetup}
-          initialAnswers={restored?.answers}
-          initialIndex={restored?.index}
-          formatFractions={subject === 'maths'}
-        />
-      </div>
-    )
-  }
-
-  // ── Result ──
-  if (stage === 'result' && result && format === 'match') {
-    return (
-      <div className="ll-wrap">
-        <PaceNote pace={pace} />
-        <MatchResult
-          result={result as unknown as MatchResultData}
-          subjectLabel={currentSubject?.subjectLabel || subject}
-          onRetry={() => generate({ retry: true })}
-          onNewPaper={backToSetup}
-        />
-      </div>
-    )
-  }
-
-  if (stage === 'result' && result && format === 'spoken') {
-    return (
-      <div className="ll-wrap">
-        <PaceNote pace={pace} />
-        <SpokenResult
-          result={result as unknown as SpokenResultData}
-          subjectLabel={currentSubject?.subjectLabel || subject}
-          onRetry={() => generate({ retry: true })}
-          onNewPaper={backToSetup}
-        />
-      </div>
-    )
-  }
-
-  if (stage === 'result' && result) {
-    return (
-      <div className="ll-wrap">
-        <PaceNote pace={pace} />
-        <ResultPanel
-          result={result}
-          subjectLabel={currentSubject?.subjectLabel || subject}
-          onRetry={() => generate({ retry: true })}
-          onNewPaper={backToSetup}
-          formatFractions={subject === 'maths'}
-        />
-      </div>
-    )
-  }
-
-  // ── Setup ──
   return (
     <div className="ll-wrap">
       <PaceNote pace={pace} />
