@@ -521,6 +521,20 @@ export const LEARNING_CSS = `
   .ll-flag-done { font-size: 0.82rem; color: var(--ok); }
   .ll-quiz .ll-flag-done { color: #8FD4AE; }
 
+  /* ── Do this next ── */
+  .ll-next { margin: 2rem 0 1.25rem; }
+  .ll-next-cards { display: grid; gap: 0.75rem; margin-top: 0.75rem; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+  .ll-next-card {
+    text-align: left; padding: 1rem 1.1rem; min-height: var(--tap); cursor: pointer;
+    background: var(--surface); border: 1px solid var(--ink-30); border-radius: 4px; font-family: var(--f-ui);
+    display: flex; flex-direction: column; gap: 0.3rem; color: var(--ink);
+  }
+  .ll-next-card:hover:not(:disabled) { border-color: var(--accent); }
+  .ll-next-card:disabled { opacity: 0.6; cursor: wait; }
+  .ll-next-card.is-lead { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .ll-next-title { font-weight: 700; font-size: 1rem; }
+  .ll-next-sub { font-size: 0.82rem; opacity: 0.85; }
+
   /* ── Result ── */
   .ll-score-hero { text-align: center; padding: 1.5rem 0 0.5rem; }
   .ll-score-big {
@@ -703,7 +717,7 @@ export const LEARNING_CSS = `
     .ll-wrap { padding: 0 !important; max-width: none !important; font-size: 10pt; }
 
     .ll-print-only { display: block; }
-    .ll-flag-slot, .ll-dock { display: none !important; }
+    .ll-flag-slot, .ll-dock, .ll-next { display: none !important; }
 
     .ll-print-head { border-bottom: 1.5px solid #000; padding-bottom: 8pt; margin-bottom: 14pt; }
     .ll-print-title {

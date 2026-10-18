@@ -59,6 +59,9 @@ export default function ResultPanel({
   onNewPaper,
   formatFractions,
   paperId,
+  onFixMistakes,
+  onPracticeTopic,
+  busy,
 }: {
   result: SubmitResult
   subjectLabel: string
@@ -67,12 +70,21 @@ export default function ResultPanel({
   formatFractions?: boolean
   /** Needed to report a question from the review. */
   paperId?: string
+  /** A paper of only what was missed. */
+  onFixMistakes?: () => void
+  /** A short paper on one topic. */
+  onPracticeTopic?: (slug: string, label: string) => void
+  /** A next paper is being built. */
+  busy?: boolean
 }) {
   const fmtQuestion = (t: string) => (formatFractions ? withFractions(t) : t)
   const fmtAnswer = (t: string) =>
     formatFractions ? withFractions(escapeHtml(t)) : escapeHtml(t)
   const [showReview, setShowReview] = useState(false)
-  const [filter, setFilter] = useState<ReviewFilter>('all')
+  // The review opens on what went wrong; the right answers are one tap away.
+  const [filter, setFilter] = useState<ReviewFilter>(
+    result.review.some((r) => !r.isCorrect) ? 'wrong' : 'all',
+  )
 
   const [rating, setRating] = useState(0)
   const [tags, setTags] = useState<string[]>([])
@@ -84,6 +96,16 @@ export default function ResultPanel({
 
   const topics = Object.entries(result.byTopic)
   const wrong = result.review.filter((r) => !r.isCorrect)
+
+  // The topic to work on next: lowest share right, ties going to the one with
+  // more missed. Only worth offering when there is more than one topic — with a
+  // single topic "practise the weakest" is just another paper.
+  const weakest = topics.length > 1
+    ? topics
+        .filter(([, t]) => t.correct < t.total)
+        .map(([slug, t]) => ({ slug, label: t.label, pct: Math.round((t.correct / t.total) * 100), missed: t.total - t.correct }))
+        .sort((a, b) => a.pct - b.pct || b.missed - a.missed)[0] ?? null
+    : null
 
   const topicNames = topics.map(([, t]) => t.label).join(', ')
   const printedOn = new Date().toLocaleDateString('en-IN', {
@@ -178,12 +200,47 @@ export default function ResultPanel({
         })}
       </div>
 
+      {/* What to do next. A result that ends in four equal buttons leaves the
+          child to work out what is worth doing; the first one here is the
+          answer. */}
+      {wrong.length > 0 && (onFixMistakes || (weakest && onPracticeTopic)) && (
+        <div className="ll-next">
+          <span className="section-label">Do this next</span>
+          <div className="ll-next-cards">
+            {onFixMistakes && (
+              <button type="button" className="ll-next-card is-lead" onClick={onFixMistakes} disabled={busy}>
+                <span className="ll-next-title">Fix my {wrong.length} mistake{wrong.length === 1 ? '' : 's'}</span>
+                <span className="ll-next-sub">A short paper of just the ones you missed, with the options shuffled.</span>
+              </button>
+            )}
+            {weakest && onPracticeTopic && (
+              <button type="button" className="ll-next-card" onClick={() => onPracticeTopic(weakest.slug, weakest.label)} disabled={busy}>
+                <span className="ll-next-title">Practise {weakest.label}</span>
+                <span className="ll-next-sub">Your weakest topic here, {weakest.pct}% right. Ten fresh questions.</span>
+              </button>
+            )}
+          </div>
+        </div>
+      )}
+
       <div className="ll-actions">
-        <button type="button" className="btn-primary" onClick={onRetry}>
+        <button
+          type="button"
+          className={wrong.length > 0 ? 'btn' : 'btn-primary'}
+          onClick={onRetry}
+          disabled={busy}
+        >
           Try a fresh paper, same topics
         </button>
-        <button type="button" className="btn" onClick={() => setShowReview((v) => !v)}>
-          {showReview ? 'Hide review' : 'Review my answers'}
+        <button
+          type="button"
+          className="btn"
+          onClick={() => {
+            if (!showReview && wrong.length > 0) setFilter('wrong')
+            setShowReview((v) => !v)
+          }}
+        >
+          {showReview ? 'Hide review' : wrong.length > 0 ? `Review my mistakes (${wrong.length})` : 'Review my answers'}
         </button>
         <button type="button" className="btn" onClick={downloadReport}>
           Download report (PDF)

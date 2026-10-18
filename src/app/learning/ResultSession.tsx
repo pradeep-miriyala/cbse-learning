@@ -14,7 +14,7 @@ import SpokenResult, { type SpokenResultData } from './SpokenResult'
 import MatchResult, { type MatchResultData } from './MatchResult'
 import {
   BUILDER_PATH, getDeviceId, getName, getPass, loadResult, paperPath, requestPaper,
-  storeGeneratedPaper, type CachedResult,
+  storeGeneratedPaper, type CachedResult, type Recipe,
 } from '@/lib/labClient'
 
 export default function ResultSession() {
@@ -37,12 +37,19 @@ export default function ResultSession() {
   }, [])
   useEffect(() => { checkPace() }, [checkPace])
 
-  async function retry() {
-    if (!res || busy) return
+  /**
+   * Build the next paper and go to it. `build` returns the server's reply;
+   * `recipe` is what "Try again" on the new paper will rebuild from.
+   */
+  async function startNext(
+    recipe: Recipe,
+    build: (name: string) => Promise<{ ok: boolean; data: any }>,
+  ) {
+    if (busy) return
     setBusy(true); setError('')
     try {
-      const name = res.data.learnerName || getName()
-      const { ok, data } = await requestPaper(res.recipe, name, { pass: getPass() || undefined })
+      const name = res?.data.learnerName || getName()
+      const { ok, data } = await build(name)
       if (!ok) {
         throw new Error(
           data.captchaFailed
@@ -50,12 +57,32 @@ export default function ResultSession() {
             : data.error || 'Could not build the paper.',
         )
       }
-      storeGeneratedPaper(data, res.recipe, name)
+      storeGeneratedPaper(data, recipe, name)
       router.push(paperPath(data.paperId))
     } catch (err: any) {
       setError(err.message)
       setBusy(false)
     }
+  }
+
+  const retry = () => res && startNext(res.recipe, (name) =>
+    requestPaper(res.recipe, name, { pass: getPass() || undefined }))
+
+  /** Only what was missed, rebuilt on the server from the stored attempt. */
+  const fixMistakes = () => res && startNext(res.recipe, async () => {
+    const r = await fetch('/api/learning/redo', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ paperId: id, deviceId: getDeviceId(), pass: getPass() || undefined }),
+    })
+    return { ok: r.ok, data: await r.json().catch(() => ({})) }
+  })
+
+  /** Ten fresh questions on the one topic that went worst. */
+  const practiceTopic = (slug: string, label: string) => {
+    if (!res) return
+    const recipe: Recipe = { ...res.recipe, topics: [slug], topicLabels: [label], count: 10 }
+    return startNext(recipe, (name) => requestPaper(recipe, name, { pass: getPass() || undefined }))
   }
 
   const newPaper = () => router.push(BUILDER_PATH)
@@ -87,7 +114,11 @@ export default function ResultSession() {
       ) : format === 'spoken' ? (
         <SpokenResult result={data as SpokenResultData} {...common} />
       ) : (
-        <ResultPanel result={data} {...common} paperId={id} formatFractions={recipe.subject === 'maths'} />
+        <ResultPanel
+          result={data} {...common} paperId={id} busy={busy}
+          onFixMistakes={fixMistakes} onPracticeTopic={practiceTopic}
+          formatFractions={recipe.subject === 'maths'}
+        />
       )}
     </div>
   )
