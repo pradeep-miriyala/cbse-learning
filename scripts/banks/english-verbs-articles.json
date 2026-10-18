@@ -1,0 +1,2790 @@
+[
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "What is a transitive verb?",
+    "options": [
+      "A verb that never changes its form",
+      "A verb whose action passes on to an object",
+      "A verb that describes a state of being",
+      "A verb that always comes at the end of a sentence"
+    ],
+    "answer": 1,
+    "hint": "Ask 'what?' or 'whom?' after the verb. If there is an answer, the verb is transitive.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "In 'Meera <b>read</b> the letter', what is the object of the verb?",
+    "options": [
+      "the letter",
+      "There is no object",
+      "Meera",
+      "read"
+    ],
+    "answer": 0,
+    "hint": "Read what? The letter.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "Which sentence contains a transitive verb?",
+    "options": [
+      "The gardener planted a sapling",
+      "The sun rose at six",
+      "The baby slept peacefully",
+      "My grandfather laughed loudly"
+    ],
+    "answer": 0,
+    "hint": "Only one of these verbs has something receiving the action.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "In 'Arjun <b>kicked</b> the ball into the goal', which word is the direct object?",
+    "options": [
+      "goal",
+      "ball",
+      "Arjun",
+      "kicked"
+    ],
+    "answer": 1,
+    "hint": "Kicked what? The ball. 'Into the goal' tells you where, not what.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "Which question do you ask to find the object of a transitive verb?",
+    "options": [
+      "'What?' or 'Whom?' after the verb",
+      "'How?' after the verb",
+      "'Where?' after the verb",
+      "'When?' after the verb"
+    ],
+    "answer": 0,
+    "hint": "The object answers what or whom, never where or when.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "In 'She <b>gave</b> her sister a pencil', which is the direct object?",
+    "options": [
+      "gave",
+      "her sister",
+      "She",
+      "a pencil"
+    ],
+    "answer": 3,
+    "hint": "Gave what? A pencil. Her sister is the indirect object — the one who received it.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "In 'The teacher <b>told</b> us a story', what is the indirect object?",
+    "options": [
+      "The teacher",
+      "us",
+      "told",
+      "a story"
+    ],
+    "answer": 1,
+    "hint": "The indirect object is the person the action is done for or to.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "What is a verb called when it takes two objects, as in 'He sent me a letter'?",
+    "options": [
+      "An auxiliary verb",
+      "A linking verb",
+      "An intransitive verb",
+      "A ditransitive verb"
+    ],
+    "answer": 3,
+    "hint": "Di- means two: an indirect object and a direct object.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "Which sentence does NOT contain a transitive verb?",
+    "options": [
+      "They ate their lunch",
+      "The old clock stopped",
+      "She wrote a poem",
+      "Ravi opened the window"
+    ],
+    "answer": 1,
+    "hint": "Ask 'what?' after each verb. One of them has no answer.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "In 'The children <b>enjoyed</b> the film', which word receives the action?",
+    "options": [
+      "The children",
+      "enjoyed",
+      "the film",
+      "No word receives it"
+    ],
+    "answer": 2,
+    "hint": "Enjoyed what? The film.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "Why is 'She sings a bhajan every morning' transitive but 'She sings beautifully' is not?",
+    "options": [
+      "In the first the verb has an object, a bhajan; in the second 'beautifully' only describes how she sings",
+      "The second has no verb at all",
+      "'Sings' changes its meaning between the two",
+      "The first is in the present tense and the second is not"
+    ],
+    "answer": 0,
+    "hint": "The same verb can be transitive in one sentence and intransitive in another.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "In 'Grandmother <b>cooked</b> us a delicious meal', which is the direct object?",
+    "options": [
+      "Grandmother",
+      "us",
+      "cooked",
+      "a delicious meal"
+    ],
+    "answer": 3,
+    "hint": "Cooked what? The meal. 'Us' is who it was cooked for.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "Which of these verbs is most often transitive?",
+    "options": [
+      "buy",
+      "arrive",
+      "fall",
+      "sleep"
+    ],
+    "answer": 0,
+    "hint": "You must buy something; you do not arrive something.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "In 'Ali <b>painted</b> the fence yesterday', what is the object?",
+    "options": [
+      "the fence",
+      "painted",
+      "Ali",
+      "yesterday"
+    ],
+    "answer": 0,
+    "hint": "'Yesterday' answers when, not what.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "Complete the rule: a transitive verb needs …",
+    "options": [
+      "an object to complete its meaning",
+      "an adverb to complete its meaning",
+      "a preposition before it",
+      "two subjects"
+    ],
+    "answer": 0,
+    "hint": "'She brought' feels unfinished until you say what she brought.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "In 'The committee <b>chose</b> Priya', which word is the object?",
+    "options": [
+      "The committee",
+      "There is no object",
+      "Priya",
+      "chose"
+    ],
+    "answer": 2,
+    "hint": "Chose whom? Priya. An object can be a person.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "Which sentence uses a transitive verb correctly with its object?",
+    "options": [
+      "The dog chased in the garden",
+      "The dog chased loudly",
+      "The dog chased the postman",
+      "The dog chased quickly"
+    ],
+    "answer": 2,
+    "hint": "Only one option answers 'chased whom or what?'.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "In 'We <b>watched</b> the match on television', which is the direct object?",
+    "options": [
+      "We",
+      "television",
+      "watched",
+      "the match"
+    ],
+    "answer": 3,
+    "hint": "'On television' tells you where you watched it.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "Why can a phrase like 'to the market' never be the object of a verb?",
+    "options": [
+      "It contains the word 'the'",
+      "It is too long to be an object",
+      "Objects must always be single words",
+      "It begins with a preposition, so it tells you where rather than what"
+    ],
+    "answer": 3,
+    "hint": "Objects answer what or whom; prepositional phrases answer where, when or how.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "transitive-verbs",
+    "topicLabel": "Transitive Verbs",
+    "question": "In 'The rain <b>spoilt</b> our picnic', what receives the action of the verb?",
+    "options": [
+      "The rain",
+      "our picnic",
+      "spoilt",
+      "Nothing receives it"
+    ],
+    "answer": 1,
+    "hint": "Spoilt what? The picnic.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "What is an intransitive verb?",
+    "options": [
+      "A verb that has two objects",
+      "A verb whose action does not pass on to any object",
+      "A verb that must have an adjective after it",
+      "A verb used only in questions"
+    ],
+    "answer": 1,
+    "hint": "Ask 'what?' after it and you get no answer.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "Which sentence contains an intransitive verb?",
+    "options": [
+      "They built a house",
+      "The baby smiled",
+      "He kicked the ball",
+      "She closed the door"
+    ],
+    "answer": 1,
+    "hint": "Only one of these verbs has nothing receiving its action.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "In 'The old man <b>coughed</b> loudly', what kind of word is 'loudly'?",
+    "options": [
+      "An adverb telling how he coughed, not an object",
+      "The subject of the sentence",
+      "An indirect object",
+      "The direct object of the verb"
+    ],
+    "answer": 0,
+    "hint": "Adverbs answer how, when or where — never what or whom.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "In 'The children <b>played</b> in the park', why is 'in the park' not an object?",
+    "options": [
+      "It is a prepositional phrase telling where they played",
+      "It is the subject of the sentence",
+      "It comes after the verb, so it must be an object",
+      "It is an adjective describing the children"
+    ],
+    "answer": 0,
+    "hint": "Played what? There is no answer, so the verb is intransitive here.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "Which of these verbs is normally intransitive?",
+    "options": [
+      "build",
+      "arrive",
+      "carry",
+      "throw"
+    ],
+    "answer": 1,
+    "hint": "You arrive; you do not arrive something.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "In 'The train <b>departed</b> at noon', is the verb transitive or intransitive?",
+    "options": [
+      "Intransitive, because nothing receives the action",
+      "Transitive, because 'the train' is the object",
+      "It is neither",
+      "Transitive, because 'noon' is the object"
+    ],
+    "answer": 0,
+    "hint": "'At noon' tells you when, not what.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "Which sentence uses an intransitive verb?",
+    "options": [
+      "She set the table",
+      "They set the alarm",
+      "The sun set behind the hills",
+      "He set a new record"
+    ],
+    "answer": 2,
+    "hint": "The same verb 'set' is transitive in three of these and intransitive in one.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "Why can 'sleep' not normally take an object?",
+    "options": [
+      "Because it is an auxiliary verb",
+      "Sleeping is something you do, not something you do to anything",
+      "Because it is always in the past tense",
+      "Because it is a short word"
+    ],
+    "answer": 1,
+    "hint": "Try 'I slept the bed' and hear how wrong it sounds.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "In 'My sister <b>laughed</b> at the joke', which is true?",
+    "options": [
+      "The verb has two objects",
+      "'My sister' is the object",
+      "'The joke' is the direct object",
+      "The verb is intransitive; 'at the joke' is a prepositional phrase"
+    ],
+    "answer": 3,
+    "hint": "She laughed — at what she laughed is extra information.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "Which of these can be BOTH transitive and intransitive, depending on the sentence?",
+    "options": [
+      "vanish",
+      "run",
+      "exist",
+      "arrive"
+    ],
+    "answer": 1,
+    "hint": "'He runs fast' and 'He runs a bakery' use the same verb differently.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "In 'The glass <b>fell</b> from the table', is there an object?",
+    "options": [
+      "Yes, 'the glass' is the object",
+      "Yes, 'from' is the object",
+      "No, the verb is intransitive",
+      "Yes, 'the table' is the object"
+    ],
+    "answer": 2,
+    "hint": "The glass fell — nothing was fallen.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "How can you test whether a verb is intransitive in a sentence?",
+    "options": [
+      "Count the words before the verb",
+      "Ask 'what?' or 'whom?' after it; if there is no answer, it is intransitive",
+      "See whether the sentence is long",
+      "Check whether it ends in -ed"
+    ],
+    "answer": 1,
+    "hint": "The test is the same one used for transitive verbs, read the other way.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "Which sentence has an intransitive verb?",
+    "options": [
+      "He flies drones for a living",
+      "Pilots fly aeroplanes",
+      "Birds fly south in winter",
+      "She flew a kite"
+    ],
+    "answer": 2,
+    "hint": "In three of them something is being flown.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "In 'Everyone <b>waited</b> patiently', the verb is intransitive because …",
+    "options": [
+      "the sentence has no subject",
+      "nothing receives the action of waiting",
+      "'patiently' is the object",
+      "'everyone' is the object"
+    ],
+    "answer": 1,
+    "hint": "'Patiently' answers how.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "Which pair of sentences shows the same verb used transitively and then intransitively?",
+    "options": [
+      "She grows tomatoes / The plant grows quickly",
+      "She reads books / She reads novels",
+      "He built a shed / He built a wall",
+      "They ate rice / They ate chapatis"
+    ],
+    "answer": 0,
+    "hint": "Look for the pair where one sentence has an object and the other does not.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "In 'The lights <b>flickered</b> during the storm', which is correct?",
+    "options": [
+      "'The storm' is the direct object",
+      "'The lights' is the object",
+      "The verb takes two objects",
+      "The verb is intransitive and 'during the storm' tells when"
+    ],
+    "answer": 3,
+    "hint": "Nothing was flickered.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "Why do intransitive verbs never appear in the passive voice?",
+    "options": [
+      "Because they cannot follow a subject",
+      "Because they are always in the present tense",
+      "There is no object to become the subject of a passive sentence",
+      "Because they are short words"
+    ],
+    "answer": 2,
+    "hint": "'The ball was kicked' works because 'kick' had an object. 'Was slept' does not.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "In 'The audience <b>clapped</b> after the performance', the verb is …",
+    "options": [
+      "an auxiliary verb",
+      "transitive",
+      "a linking verb",
+      "intransitive"
+    ],
+    "answer": 3,
+    "hint": "Clapped what? Nothing.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "Which sentence would need an object added to be complete?",
+    "options": [
+      "The baby giggled",
+      "The carpenter repaired",
+      "The visitors left",
+      "The bell rang"
+    ],
+    "answer": 1,
+    "hint": "Three of these make sense alone; one leaves you asking 'repaired what?'.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "intransitive-verbs",
+    "topicLabel": "Intransitive Verbs",
+    "question": "What is the simplest difference between transitive and intransitive verbs?",
+    "options": [
+      "A transitive verb is longer than an intransitive one",
+      "An intransitive verb has two subjects",
+      "A transitive verb is always in the past tense",
+      "A transitive verb has an object; an intransitive verb does not"
+    ],
+    "answer": 3,
+    "hint": "Everything else follows from that one difference.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "What is a subject complement?",
+    "options": [
+      "A verb that helps the main verb",
+      "A word or phrase after a linking verb that renames or describes the subject",
+      "A word that receives the action of a verb",
+      "A word that describes how an action is done"
+    ],
+    "answer": 1,
+    "hint": "It completes the meaning of the subject, not of an action.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "In 'Radha is a <b>dancer</b>', what is 'dancer'?",
+    "options": [
+      "An adverb",
+      "An auxiliary verb",
+      "The direct object of the verb",
+      "A subject complement renaming Radha"
+    ],
+    "answer": 3,
+    "hint": "Radha and dancer are the same person.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "In 'The soup tastes <b>delicious</b>', what is 'delicious'?",
+    "options": [
+      "A subject complement describing the soup",
+      "An adverb describing how the soup tastes",
+      "The object of 'tastes'",
+      "The subject of the sentence"
+    ],
+    "answer": 0,
+    "hint": "It tells you what the soup is like.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "Which of these is a linking verb?",
+    "options": [
+      "carry",
+      "build",
+      "seem",
+      "throw"
+    ],
+    "answer": 2,
+    "hint": "Linking verbs join a subject to a word that describes it.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "Which sentence contains a subject complement?",
+    "options": [
+      "My uncle repaired the fan",
+      "My uncle taught mathematics",
+      "My uncle became a teacher",
+      "My uncle wrote a letter"
+    ],
+    "answer": 2,
+    "hint": "Look for the sentence where the word after the verb is the same person as the subject.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "What two kinds of word can act as a subject complement?",
+    "options": [
+      "A noun and an adjective",
+      "A preposition and a conjunction",
+      "A verb and an adverb",
+      "An article and a pronoun"
+    ],
+    "answer": 0,
+    "hint": "Either it renames the subject or it describes it.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "In 'The night grew <b>cold</b>', what does 'cold' do?",
+    "options": [
+      "It tells you how the night grew",
+      "It describes the subject, the night",
+      "It is the subject of the sentence",
+      "It receives the action of growing"
+    ],
+    "answer": 1,
+    "hint": "'Grew' here is a linking verb, not an action.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "Why is 'happy' a subject complement in 'She looks happy' but not an object?",
+    "options": [
+      "Because 'she' is a pronoun",
+      "Because 'happy' comes at the end of the sentence",
+      "Because 'happy' is an adjective and objects must be adjectives",
+      "'Looks' is a linking verb here, and 'happy' describes her rather than receiving an action"
+    ],
+    "answer": 3,
+    "hint": "Nothing is being looked in this sentence.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "In 'The winner was <b>Kabir</b>', what is 'Kabir'?",
+    "options": [
+      "An adverb",
+      "A direct object",
+      "A subject complement",
+      "An indirect object"
+    ],
+    "answer": 2,
+    "hint": "The winner and Kabir are one and the same.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "Which verb in this list is NOT normally a linking verb?",
+    "options": [
+      "appear",
+      "kick",
+      "remain",
+      "become"
+    ],
+    "answer": 1,
+    "hint": "Three of them join a subject to a description; one is a plain action.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "In 'She looked at the painting', is 'the painting' a subject complement?",
+    "options": [
+      "Yes, because 'looked' is always a linking verb",
+      "Yes, because it comes after the verb",
+      "Yes, because the painting describes her",
+      "No, because 'looked at' is an action here and the painting is not the same as she"
+    ],
+    "answer": 3,
+    "hint": "Test it: is she the painting? No — so it cannot be a subject complement.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "What is the test for a subject complement?",
+    "options": [
+      "Ask whether it comes after the verb",
+      "Ask whether it is a noun",
+      "Ask whether the word renames or describes the subject",
+      "Ask whether the sentence is long"
+    ],
+    "answer": 2,
+    "hint": "Position alone proves nothing; objects come after verbs too.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "In 'My brother is <b>tall</b>', 'tall' is which kind of subject complement?",
+    "options": [
+      "A noun renaming the subject",
+      "A second subject",
+      "An adverb",
+      "An adjective describing the subject"
+    ],
+    "answer": 3,
+    "hint": "It tells you what he is like, not who he is.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "In 'Delhi remains the <b>capital</b>', which word is the subject complement?",
+    "options": [
+      "Delhi",
+      "capital",
+      "remains",
+      "the"
+    ],
+    "answer": 1,
+    "hint": "Delhi and the capital are the same place.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "Why do linking verbs not take objects?",
+    "options": [
+      "Because they come at the start of a sentence",
+      "Because they are always short",
+      "Because they have no tense",
+      "They do not express an action that anything can receive"
+    ],
+    "answer": 3,
+    "hint": "'Is' does nothing to anything.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "Which sentence has an adjective as a subject complement?",
+    "options": [
+      "She bought the mangoes",
+      "He sliced the mangoes",
+      "The mangoes are ripe",
+      "The mangoes fell from the tree"
+    ],
+    "answer": 2,
+    "hint": "Look for the sentence where the word after the verb describes the subject.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "In 'The music sounded <b>strange</b>', which is correct?",
+    "options": [
+      "'Sounded' is a linking verb and 'strange' describes the music",
+      "'Strange' is an adverb",
+      "'Strange' is the object of 'sounded'",
+      "'The music' is the complement"
+    ],
+    "answer": 0,
+    "hint": "Try replacing 'sounded' with 'was' — if it still makes sense, it is linking.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "Which sentence uses a linking verb?",
+    "options": [
+      "She feels the cloth carefully",
+      "They felt their way in the dark",
+      "The room feels warm",
+      "He felt the wall for a switch"
+    ],
+    "answer": 2,
+    "hint": "In three of them somebody is touching something.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "Complete the sentence with a subject complement: 'The answer seemed …'",
+    "options": [
+      "obvious",
+      "the paper",
+      "quickly",
+      "carefully"
+    ],
+    "answer": 0,
+    "hint": "You need a word that describes the answer.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "subject-complements",
+    "topicLabel": "Subject Complements",
+    "question": "What is the main job of a subject complement?",
+    "options": [
+      "To complete the meaning of the subject after a linking verb",
+      "To receive the action of a transitive verb",
+      "To join two sentences together",
+      "To describe how an action was done"
+    ],
+    "answer": 0,
+    "hint": "The subject is left unfinished without it: 'She is …' what?",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "What is an object complement?",
+    "options": [
+      "A word after the direct object that renames or describes that object",
+      "A word that describes the subject",
+      "A second subject in the sentence",
+      "A verb that helps the main verb"
+    ],
+    "answer": 0,
+    "hint": "It completes the meaning of the object, not the subject.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "In 'They elected him <b>captain</b>', what is 'captain'?",
+    "options": [
+      "A subject complement",
+      "The direct object",
+      "An adverb",
+      "An object complement renaming 'him'"
+    ],
+    "answer": 3,
+    "hint": "Him and captain are the same person.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "In 'She painted the wall <b>blue</b>', what does 'blue' do?",
+    "options": [
+      "It describes the wall, which is the direct object",
+      "It describes the subject, she",
+      "It tells you how she painted",
+      "It is the direct object"
+    ],
+    "answer": 0,
+    "hint": "The wall became blue, so it describes the object.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "In 'We named our puppy <b>Moti</b>', which word is the direct object?",
+    "options": [
+      "Moti",
+      "named",
+      "We",
+      "puppy"
+    ],
+    "answer": 3,
+    "hint": "Named what? The puppy. Moti is what we named it.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "What is the difference between a subject complement and an object complement?",
+    "options": [
+      "One is a noun and the other is always an adjective",
+      "One comes first in the sentence and the other last",
+      "There is no real difference",
+      "One describes the subject after a linking verb; the other describes the direct object"
+    ],
+    "answer": 3,
+    "hint": "Ask which word it is describing.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "Which sentence contains an object complement?",
+    "options": [
+      "He made tea for everyone",
+      "The class made him monitor",
+      "She made a mistake",
+      "The class made a poster"
+    ],
+    "answer": 1,
+    "hint": "Look for the sentence where a word after the object renames that object.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "In 'The judges declared her the <b>winner</b>', which is the object complement?",
+    "options": [
+      "her",
+      "winner",
+      "declared",
+      "judges"
+    ],
+    "answer": 1,
+    "hint": "'Her' is the object; 'winner' says what she was declared to be.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "Which verbs commonly take an object complement?",
+    "options": [
+      "is, was, seem, become",
+      "call, name, elect, consider, make",
+      "can, may, must, should",
+      "run, sleep, arrive, fall"
+    ],
+    "answer": 1,
+    "hint": "These are verbs of naming, choosing and considering.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "In 'Everyone considers Meera <b>honest</b>', what kind of word is the object complement?",
+    "options": [
+      "A verb",
+      "An adjective describing Meera",
+      "A noun renaming Meera",
+      "An adverb"
+    ],
+    "answer": 1,
+    "hint": "It tells you what she is like, not who she is.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "Why can a sentence with an object complement never have an intransitive verb?",
+    "options": [
+      "Because intransitive verbs have no tense",
+      "Because intransitive verbs are too short",
+      "There must be a direct object first, and only transitive verbs take objects",
+      "Because object complements are always adjectives"
+    ],
+    "answer": 2,
+    "hint": "No object means nothing for the complement to describe.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "In 'They found the film <b>boring</b>', which word is the direct object?",
+    "options": [
+      "They",
+      "found",
+      "boring",
+      "the film"
+    ],
+    "answer": 3,
+    "hint": "Found what? The film. 'Boring' says what they found it to be.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "Which sentence has an object complement rather than an indirect object?",
+    "options": [
+      "The school appointed her head girl",
+      "The school offered her a place",
+      "The school sent her a letter",
+      "The school gave her a prize"
+    ],
+    "answer": 0,
+    "hint": "In three of them 'her' receives something; in one, 'her' becomes something.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "In 'The heat turned the milk <b>sour</b>', what does 'sour' describe?",
+    "options": [
+      "the milk",
+      "the heat",
+      "the sentence as a whole",
+      "turned"
+    ],
+    "answer": 0,
+    "hint": "The milk became sour.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "Complete with an object complement: 'His friends call him …'",
+    "options": [
+      "Chotu",
+      "to the shop",
+      "quickly",
+      "yesterday"
+    ],
+    "answer": 0,
+    "hint": "You need a name or description for 'him'.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "In 'We kept the door <b>open</b>', what is 'open'?",
+    "options": [
+      "The direct object",
+      "A subject complement",
+      "An object complement describing the door",
+      "An adverb telling how we kept it"
+    ],
+    "answer": 2,
+    "hint": "The door was kept in an open state.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "Which is the correct order in a sentence with an object complement?",
+    "options": [
+      "Direct object, subject, verb, object complement",
+      "Subject, verb, direct object, object complement",
+      "Verb, subject, object complement, direct object",
+      "Subject, object complement, verb, direct object"
+    ],
+    "answer": 1,
+    "hint": "The complement follows the object it describes.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "In 'They made the room <b>tidy</b>', which is true?",
+    "options": [
+      "'The room' is the object and 'tidy' is the object complement",
+      "'They' is the object",
+      "There is no object in the sentence",
+      "'Tidy' is the object and 'the room' is the complement"
+    ],
+    "answer": 0,
+    "hint": "Made what? The room. And what did it become? Tidy.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "Why is 'a doctor' NOT an object complement in 'She became a doctor'?",
+    "options": [
+      "Because 'became' is in the past tense",
+      "Because 'a doctor' is two words",
+      "Because 'she' is a pronoun",
+      "'Became' is a linking verb, so 'a doctor' describes the subject, not an object"
+    ],
+    "answer": 3,
+    "hint": "There is no direct object in the sentence at all.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "In 'The villagers chose him <b>sarpanch</b>', which word could the complement be replaced by to test it?",
+    "options": [
+      "'quickly', since it describes the choosing",
+      "'yesterday', since it tells when",
+      "'in the village', since it tells where",
+      "'to be sarpanch', since the complement says what he was chosen to be"
+    ],
+    "answer": 3,
+    "hint": "If 'to be' can be slipped in before it, it is an object complement.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "What is the main job of an object complement?",
+    "options": [
+      "To complete the meaning of the direct object",
+      "To join two clauses",
+      "To complete the meaning of the subject",
+      "To show the tense of the verb"
+    ],
+    "answer": 0,
+    "hint": "'They elected him' is unfinished until you say what they elected him as.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "In 'We call our teacher <b>Sir</b>', which word is the object complement?",
+    "options": [
+      "Sir",
+      "teacher",
+      "We",
+      "call"
+    ],
+    "answer": 0,
+    "hint": "'Our teacher' is the object; 'Sir' is what we call him.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "An object complement always comes after which part of the sentence?",
+    "options": [
+      "The auxiliary verb",
+      "The subject",
+      "The adverb",
+      "The direct object"
+    ],
+    "answer": 3,
+    "hint": "It describes the object, so it follows it.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "In 'She made her son <b>happy</b>', which words does 'happy' describe?",
+    "options": [
+      "the whole sentence",
+      "She",
+      "her son",
+      "made"
+    ],
+    "answer": 2,
+    "hint": "Her son became happy.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "object-complements",
+    "topicLabel": "Object Complements",
+    "question": "Which kinds of word can act as an object complement?",
+    "options": [
+      "Only a verb",
+      "Only a preposition",
+      "Only an adverb",
+      "A noun or an adjective"
+    ],
+    "answer": 3,
+    "hint": "Either it renames the object or it describes it.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "What is an auxiliary verb?",
+    "options": [
+      "A verb that always takes an object",
+      "A verb that describes the subject",
+      "A verb that helps the main verb to form a tense, a question or a negative",
+      "A verb that describes an action all by itself"
+    ],
+    "answer": 2,
+    "hint": "Auxiliary means helping.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "Which are the three primary auxiliary verbs?",
+    "options": [
+      "can, may and must",
+      "is, was and were",
+      "run, walk and jump",
+      "be, have and do"
+    ],
+    "answer": 3,
+    "hint": "'Is' and 'was' are forms of 'be', not separate auxiliaries.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "In 'She <b>is</b> writing a letter', which word is the main verb?",
+    "options": [
+      "writing",
+      "She",
+      "is",
+      "letter"
+    ],
+    "answer": 0,
+    "hint": "'Is' is doing the helping; 'writing' carries the meaning.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "In '<b>Do</b> you play the flute?', what job is 'do' doing?",
+    "options": [
+      "Describing the subject",
+      "Joining two sentences",
+      "Helping to form a question",
+      "Acting as the main verb"
+    ],
+    "answer": 2,
+    "hint": "English uses 'do' to turn many statements into questions.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "In 'He <b>has</b> finished his homework', which tense does the auxiliary help to form?",
+    "options": [
+      "The present perfect",
+      "The future",
+      "The present continuous",
+      "The simple past"
+    ],
+    "answer": 0,
+    "hint": "'Has' plus a past participle gives the present perfect.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "Which sentence uses 'have' as a main verb rather than an auxiliary?",
+    "options": [
+      "They have two dogs",
+      "They have seen that film",
+      "They have finished lunch",
+      "They have been waiting"
+    ],
+    "answer": 0,
+    "hint": "In one sentence 'have' means to possess; in the others it helps another verb.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "In 'The window <b>was</b> broken by the storm', what does the auxiliary help to form?",
+    "options": [
+      "A command",
+      "The future tense",
+      "The passive voice",
+      "A question"
+    ],
+    "answer": 2,
+    "hint": "'Was' plus a past participle turns the object into the subject.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "Which sentence uses an auxiliary verb to make a negative?",
+    "options": [
+      "Bitter gourd is a vegetable",
+      "I like bitter gourd",
+      "I do not like bitter gourd",
+      "She cooked bitter gourd"
+    ],
+    "answer": 2,
+    "hint": "'Do' is added so that 'not' has something to attach to.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "In 'They <b>were</b> playing outside', which is the auxiliary?",
+    "options": [
+      "outside",
+      "playing",
+      "were",
+      "They"
+    ],
+    "answer": 2,
+    "hint": "It helps 'playing' form the past continuous.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "What follows the auxiliary 'is' in the present continuous tense?",
+    "options": [
+      "An adjective",
+      "A noun",
+      "A verb ending in -ing",
+      "A verb in the past tense"
+    ],
+    "answer": 2,
+    "hint": "'She is reading', 'He is running'.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "In 'Did she call you?', why is the main verb 'call' and not 'called'?",
+    "options": [
+      "Because 'she' is a pronoun",
+      "Because questions never use the past tense",
+      "Because the auxiliary 'did' already carries the past tense",
+      "Because 'call' is shorter"
+    ],
+    "answer": 2,
+    "hint": "The tense is shown once, by the helper.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "Which sentence uses 'be' as a main verb?",
+    "options": [
+      "She is a nurse",
+      "She is working",
+      "She is going home",
+      "She is being helped"
+    ],
+    "answer": 0,
+    "hint": "In one of them nothing else is being helped.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "How many verbs are there in 'He <b>has been</b> waiting'?",
+    "options": [
+      "Three — two auxiliaries and one main verb",
+      "One",
+      "Two",
+      "Four"
+    ],
+    "answer": 0,
+    "hint": "'Has' and 'been' both help 'waiting'.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "Which auxiliary is used to form a question from 'She likes mangoes'?",
+    "options": [
+      "was",
+      "has",
+      "does",
+      "is"
+    ],
+    "answer": 2,
+    "hint": "'Does she like mangoes?'",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "In 'We <b>are</b> going to Chennai', what would the sentence become without the auxiliary?",
+    "options": [
+      "Incomplete, because 'going' cannot stand alone as the verb here",
+      "A command",
+      "A question",
+      "Exactly the same in meaning"
+    ],
+    "answer": 0,
+    "hint": "'We going to Chennai' is not a sentence.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "Which of these is NOT a form of the auxiliary 'be'?",
+    "options": [
+      "were",
+      "am",
+      "had",
+      "being"
+    ],
+    "answer": 2,
+    "hint": "'Had' belongs to 'have'.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "In 'The rice <b>is</b> cooked', which is true?",
+    "options": [
+      "There is no verb in the sentence",
+      "'Is' is the main verb of the sentence",
+      "'Cooked' is an auxiliary",
+      "'Is' is an auxiliary helping to form the passive"
+    ],
+    "answer": 3,
+    "hint": "Somebody cooked the rice; the sentence hides who.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "Why is 'do' called a primary auxiliary?",
+    "options": [
+      "Because it is the most important word in English",
+      "Because it is one of the three helpers that can also work as a main verb",
+      "Because it comes first in the dictionary",
+      "Because it is always used in questions"
+    ],
+    "answer": 1,
+    "hint": "'I do my homework' uses it as a main verb.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "Which sentence has NO auxiliary verb?",
+    "options": [
+      "Did the bell ring?",
+      "The bell has rung",
+      "The bell rang loudly",
+      "The bell was ringing"
+    ],
+    "answer": 2,
+    "hint": "One of these has a single verb standing on its own.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "auxiliary-verbs",
+    "topicLabel": "Auxiliary Verbs",
+    "question": "What is the main use of auxiliary verbs in English?",
+    "options": [
+      "To join two sentences together",
+      "To show tense, form questions and negatives, and build the passive voice",
+      "To describe nouns",
+      "To show where something happened"
+    ],
+    "answer": 1,
+    "hint": "They carry the grammar while the main verb carries the meaning.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "What is a modal verb?",
+    "options": [
+      "A verb that always takes an object",
+      "A verb that shows only past time",
+      "A helping verb that shows ability, permission, possibility or obligation",
+      "A verb that names a person"
+    ],
+    "answer": 2,
+    "hint": "Can, may, must, should and will are all modals.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "In 'She <b>can</b> swim', what does the modal express?",
+    "options": [
+      "A past action",
+      "Permission refused",
+      "Obligation",
+      "Ability"
+    ],
+    "answer": 3,
+    "hint": "It tells you she is able to.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "Which modal is normally used to ask for permission politely?",
+    "options": [
+      "may",
+      "would rather",
+      "must",
+      "shall"
+    ],
+    "answer": 0,
+    "hint": "'May I come in?' is the polite form.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "In 'You <b>must</b> wear a helmet', what does the modal express?",
+    "options": [
+      "An ability",
+      "A strong obligation",
+      "A polite request",
+      "A possibility"
+    ],
+    "answer": 1,
+    "hint": "It leaves no real choice.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "What form of the verb follows a modal?",
+    "options": [
+      "The past participle",
+      "The base form, with no 'to' and no -s",
+      "The form ending in -s",
+      "The -ing form"
+    ],
+    "answer": 1,
+    "hint": "'She can swim', never 'She can swims'.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "Which sentence uses a modal correctly?",
+    "options": [
+      "He should going now",
+      "He should goes now",
+      "He should to go now",
+      "He should go now"
+    ],
+    "answer": 3,
+    "hint": "A modal is followed by the plain form of the verb.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "In 'It <b>might</b> rain this evening', what does the modal express?",
+    "options": [
+      "An obligation",
+      "A permission",
+      "A certainty",
+      "A possibility that is not certain"
+    ],
+    "answer": 3,
+    "hint": "'Might' is weaker than 'will'.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "Why do modals not add -s in the third person?",
+    "options": [
+      "Because they never begin a sentence",
+      "Because they are always in the past tense",
+      "Because they are nouns",
+      "Because modals do not change their form for the subject"
+    ],
+    "answer": 3,
+    "hint": "'She can', 'he can', 'they can' — the modal never moves.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "Which of these expresses advice rather than obligation?",
+    "options": [
+      "You should rest for a while",
+      "You have to rest for a while",
+      "You must rest for a while",
+      "You are required to rest"
+    ],
+    "answer": 0,
+    "hint": "'Should' recommends; 'must' commands.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "In '<b>Could</b> you pass the salt?', what is the modal doing?",
+    "options": [
+      "Making a polite request",
+      "Expressing certainty",
+      "Giving an order",
+      "Describing an ability in the past"
+    ],
+    "answer": 0,
+    "hint": "'Could' softens the request even though it looks like a past form.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "Which sentence expresses ability in the past?",
+    "options": [
+      "She could read before she was four",
+      "She can read very well",
+      "She may read the notice",
+      "She must read the chapter"
+    ],
+    "answer": 0,
+    "hint": "'Could' is the past of 'can' when it means ability.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "Which is NOT a modal verb?",
+    "options": [
+      "have",
+      "would",
+      "shall",
+      "ought to"
+    ],
+    "answer": 0,
+    "hint": "'Have' is a primary auxiliary, not a modal.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "In 'Students <b>must not</b> run in the corridor', what is being expressed?",
+    "options": [
+      "A suggestion",
+      "A prohibition",
+      "An ability",
+      "A possibility"
+    ],
+    "answer": 1,
+    "hint": "It forbids rather than advises.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "Which modal is used with 'to' before the main verb?",
+    "options": [
+      "must",
+      "should",
+      "can",
+      "ought to"
+    ],
+    "answer": 3,
+    "hint": "'You ought to apologise' — the only common modal that keeps 'to'.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "What is the difference between 'may' and 'might' in 'It may rain' and 'It might rain'?",
+    "options": [
+      "'Might' is used only in questions",
+      "'Might' suggests a smaller chance than 'may'",
+      "'Might' is the past tense of 'may' here",
+      "They mean exactly the same thing"
+    ],
+    "answer": 1,
+    "hint": "Both are possible; one is less likely.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "Which sentence uses 'shall' in its traditional way?",
+    "options": [
+      "Shall you open the window?",
+      "Shall opened the window",
+      "He shall opening the window",
+      "Shall I open the window?"
+    ],
+    "answer": 3,
+    "hint": "'Shall' is used with I and we, often to offer or suggest.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "In 'You <b>needn't</b> come early', what is expressed?",
+    "options": [
+      "That something is forbidden",
+      "That something is not necessary",
+      "That something is certain",
+      "That something is possible"
+    ],
+    "answer": 1,
+    "hint": "It removes an obligation rather than creating one.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "Which modal would you use to express near certainty about the present?",
+    "options": [
+      "shall, as in 'She shall be tired'",
+      "must, as in 'She must be tired after that journey'",
+      "might, as in 'She might be tired'",
+      "can, as in 'She can be tired'"
+    ],
+    "answer": 1,
+    "hint": "'Must' can express a strong conclusion as well as an obligation.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Children mays borrow two books at a time",
+      "Children may borrowing two books at a time",
+      "Children may borrow two books at a time",
+      "Children may to borrow two books at a time"
+    ],
+    "answer": 2,
+    "hint": "Modal plus base form, with no additions.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "modal-verbs",
+    "topicLabel": "Modal Verbs",
+    "question": "What do all modal verbs have in common?",
+    "options": [
+      "They all end in -ould",
+      "They can all be used as main verbs",
+      "They all describe past actions",
+      "They help the main verb and never change their form for the subject"
+    ],
+    "answer": 3,
+    "hint": "That is what separates them from 'be', 'have' and 'do'.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Which two words are the indefinite articles in English?",
+    "options": [
+      "the and a",
+      "a and an",
+      "the and an",
+      "this and that"
+    ],
+    "answer": 1,
+    "hint": "'The' is the definite article; these two are indefinite.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "What decides whether you write 'a' or 'an'?",
+    "options": [
+      "The length of the next word",
+      "The sound at the start of the next word, not its spelling",
+      "Whether the next word begins with a vowel letter",
+      "Whether the noun is singular or plural"
+    ],
+    "answer": 1,
+    "hint": "It is a rule about the ear, not the eye.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Choose the correct form: '___ hour'",
+    "options": [
+      "the hour is the only correct form",
+      "an hour",
+      "either is equally correct",
+      "a hour"
+    ],
+    "answer": 1,
+    "hint": "The 'h' is silent, so the word begins with a vowel sound.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Choose the correct form: '___ university'",
+    "options": [
+      "a university",
+      "either is correct",
+      "no article is needed",
+      "an university"
+    ],
+    "answer": 0,
+    "hint": "It begins with a 'yoo' sound, which is a consonant sound.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Choose the correct form: '___ honest man'",
+    "options": [
+      "an honest man",
+      "no article is needed",
+      "the honest man is the only option",
+      "a honest man"
+    ],
+    "answer": 0,
+    "hint": "The 'h' in honest is not pronounced.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Choose the correct form: '___ umbrella'",
+    "options": [
+      "an umbrella",
+      "a umbrella",
+      "either is correct",
+      "no article is needed"
+    ],
+    "answer": 0,
+    "hint": "It begins with a clear vowel sound.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Choose the correct form: '___ one-rupee coin'",
+    "options": [
+      "no article is needed",
+      "an one-rupee coin",
+      "either is correct",
+      "a one-rupee coin"
+    ],
+    "answer": 3,
+    "hint": "'One' is pronounced 'wun', which begins with a consonant sound.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Choose the correct form: '___ MP visited our school'",
+    "options": [
+      "An MP",
+      "A MP",
+      "No article is needed",
+      "The MP is the only option"
+    ],
+    "answer": 0,
+    "hint": "The letter M is read aloud as 'em', a vowel sound.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "With which kind of noun are 'a' and 'an' used?",
+    "options": [
+      "Any noun at all",
+      "A singular countable noun",
+      "A plural noun",
+      "An uncountable noun"
+    ],
+    "answer": 1,
+    "hint": "You cannot say 'a books' or 'a water'.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Why is 'a' used in 'She bought a book' rather than 'the'?",
+    "options": [
+      "Because the sentence is in the past tense",
+      "Because 'book' begins with a consonant",
+      "Because the book has not been mentioned before and is not a particular one",
+      "Because 'she' is a pronoun"
+    ],
+    "answer": 2,
+    "hint": "Indefinite means not specified.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Choose the correct form: '___ European country'",
+    "options": [
+      "a European country",
+      "no article is needed",
+      "either is correct",
+      "an European country"
+    ],
+    "answer": 0,
+    "hint": "'European' begins with a 'yoo' sound.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Which sentence uses the indefinite article correctly?",
+    "options": [
+      "He is a engineer",
+      "He is engineer",
+      "He is an engineers",
+      "He is an engineer"
+    ],
+    "answer": 3,
+    "hint": "'Engineer' begins with a vowel sound, and the noun is singular.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Choose the correct form: '___ useful tool'",
+    "options": [
+      "either is correct",
+      "a useful tool",
+      "no article is needed",
+      "an useful tool"
+    ],
+    "answer": 1,
+    "hint": "'Useful' begins with a 'yoo' sound, like university.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "In which sentence is the article used to mean 'one'?",
+    "options": [
+      "I waited for an hour",
+      "Hours went by",
+      "This hour is over",
+      "The hour passed slowly"
+    ],
+    "answer": 0,
+    "hint": "'An hour' here means a single hour.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Choose the correct form: '___ X-ray was taken'",
+    "options": [
+      "The X-ray is the only option",
+      "No article is needed",
+      "An X-ray",
+      "A X-ray"
+    ],
+    "answer": 2,
+    "hint": "X is read aloud as 'eks', which begins with a vowel sound.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Which sentence needs NO article?",
+    "options": [
+      "She bought book",
+      "He is teacher",
+      "I saw elephant",
+      "She drinks milk every morning"
+    ],
+    "answer": 3,
+    "hint": "'Milk' is uncountable, so no indefinite article is used.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Choose the correct form: '___ honour to meet you'",
+    "options": [
+      "an honour",
+      "either is correct",
+      "no article is needed",
+      "a honour"
+    ],
+    "answer": 0,
+    "hint": "Another silent 'h'.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Which is correct: 'He works as ___ nurse'?",
+    "options": [
+      "a nurse",
+      "the nurse",
+      "an nurse",
+      "nurse without any article"
+    ],
+    "answer": 0,
+    "hint": "'Nurse' begins with a consonant sound, and jobs take an article.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "Why do we say 'an FIR' rather than 'a FIR'?",
+    "options": [
+      "Because FIR is plural",
+      "Because all abbreviations take 'an'",
+      "Because FIR is an important word",
+      "Because F is read aloud as 'ef', which begins with a vowel sound"
+    ],
+    "answer": 3,
+    "hint": "Say the letters aloud and listen to the first sound.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "indefinite-articles",
+    "topicLabel": "Indefinite Articles: A & An",
+    "question": "What is the simplest rule for choosing between 'a' and 'an'?",
+    "options": [
+      "Use 'an' before long words and 'a' before short ones",
+      "Look at whether the next letter is a vowel",
+      "Use 'a' in speech and 'an' in writing",
+      "Say the next word aloud: a vowel sound takes 'an', a consonant sound takes 'a'"
+    ],
+    "answer": 3,
+    "hint": "Sound, not spelling — that is why 'an hour' and 'a university' both work.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "What is the definite article in English?",
+    "options": [
+      "the",
+      "this",
+      "a",
+      "an"
+    ],
+    "answer": 0,
+    "hint": "There is only one definite article.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "When is 'the' used?",
+    "options": [
+      "Only before plural nouns",
+      "Only at the start of a sentence",
+      "When the thing referred to is particular or already known to the listener",
+      "Before every noun in a sentence"
+    ],
+    "answer": 2,
+    "hint": "Definite means the listener knows which one you mean.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Why is 'the' correct in 'I bought a book. <b>The</b> book was expensive'?",
+    "options": [
+      "Because the book has already been mentioned, so it is now a particular one",
+      "Because 'book' begins with a consonant",
+      "Because the sentence is in the past tense",
+      "Because 'the' always follows 'a'"
+    ],
+    "answer": 0,
+    "hint": "First mention takes 'a'; later mentions take 'the'.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which of these normally takes 'the'?",
+    "options": [
+      "an sun",
+      "the sun",
+      "a sun",
+      "sun without any article"
+    ],
+    "answer": 1,
+    "hint": "There is only one, so it is definite.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which is correct?",
+    "options": [
+      "the Himalayas",
+      "an Himalayas",
+      "a Himalayas",
+      "Himalayas without an article"
+    ],
+    "answer": 0,
+    "hint": "Mountain ranges take 'the'.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which is correct?",
+    "options": [
+      "the Mount Everest",
+      "an Mount Everest",
+      "a Mount Everest",
+      "Mount Everest"
+    ],
+    "answer": 3,
+    "hint": "A single mountain does not take 'the', though a range does.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which is correct?",
+    "options": [
+      "the Ganga",
+      "an Ganga",
+      "a Ganga",
+      "Ganga takes no article at all"
+    ],
+    "answer": 0,
+    "hint": "Rivers take 'the'.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which sentence uses 'the' correctly with a superlative?",
+    "options": [
+      "She is tallest girl in the class",
+      "She is an tallest girl in the class",
+      "She is the tallest girl in the class",
+      "She is a tallest girl in the class"
+    ],
+    "answer": 2,
+    "hint": "Superlatives point to one particular thing, so they take 'the'.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which is correct?",
+    "options": [
+      "He plays the sitar",
+      "He plays an sitar",
+      "He plays a sitar every evening in the same way",
+      "He plays sitar in the orchestra of the school"
+    ],
+    "answer": 0,
+    "hint": "Musical instruments take 'the' after 'play'.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which country name normally takes 'the'?",
+    "options": [
+      "Japan",
+      "Brazil",
+      "the Netherlands",
+      "India"
+    ],
+    "answer": 2,
+    "hint": "A few country names, usually plural or containing a common noun, take 'the'.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which sentence is correct?",
+    "options": [
+      "We have the lunch at one o'clock",
+      "We have an lunch at one o'clock",
+      "We have lunch at one o'clock",
+      "We have a lunch at one o'clock"
+    ],
+    "answer": 2,
+    "hint": "Names of meals normally take no article.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which sentence is correct?",
+    "options": [
+      "She speaks the English fluently",
+      "She speaks an English fluently",
+      "She speaks English fluently",
+      "She speaks a English fluently"
+    ],
+    "answer": 2,
+    "hint": "Languages take no article.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which is correct?",
+    "options": [
+      "the Arabian Sea",
+      "an Arabian Sea",
+      "a Arabian Sea",
+      "Arabian Sea with no article"
+    ],
+    "answer": 0,
+    "hint": "Seas and oceans take 'the'.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Why does 'the' appear in 'the first day of school'?",
+    "options": [
+      "Because school is a place",
+      "Because 'first' points to one particular day",
+      "Because 'the' always comes before numbers",
+      "Because 'day' is a short word"
+    ],
+    "answer": 1,
+    "hint": "Ordinals such as first, second and last take 'the'.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which sentence uses 'the' wrongly?",
+    "options": [
+      "The train arrived late",
+      "The teacher praised her work",
+      "The honesty is the best policy",
+      "The moon was bright last night"
+    ],
+    "answer": 2,
+    "hint": "Abstract nouns used in a general sense take no article.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which is correct?",
+    "options": [
+      "He went to the school by the bus, as a student every day",
+      "He went to an school by an bus",
+      "He went to a school by a bus, as a student every day",
+      "He went to school by bus"
+    ],
+    "answer": 3,
+    "hint": "'To school' in the general sense of studying takes no article.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which sentence correctly uses 'the' for something unique?",
+    "options": [
+      "A Earth moves around a Sun",
+      "The Earth moves around the Sun",
+      "An Earth moves around an Sun",
+      "Earth moves around Sun in a sentence needing articles"
+    ],
+    "answer": 1,
+    "hint": "There is only one of each.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which sentence uses articles correctly?",
+    "options": [
+      "I saw an snake in the garden, and a snake slid away",
+      "I saw snake in garden, and snake slid away",
+      "I saw the snake in a garden, and a snake slid away",
+      "I saw a snake in the garden, and the snake slid away"
+    ],
+    "answer": 3,
+    "hint": "First mention indefinite, second mention definite.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "Which is correct?",
+    "options": [
+      "the rich should help the poor",
+      "an rich should help an poor",
+      "a rich should help a poor",
+      "rich should help poor in this sentence"
+    ],
+    "answer": 0,
+    "hint": "'The' before an adjective can mean a whole group of people.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Verbs & Articles",
+    "topic": "definite-article",
+    "topicLabel": "The Definite Article: The",
+    "question": "What is the clearest difference between 'a' and 'the'?",
+    "options": [
+      "'A' introduces something new; 'the' points to something already known",
+      "'A' is used in writing and 'the' in speech",
+      "'A' is used with plurals and 'the' with singulars",
+      "There is no real difference"
+    ],
+    "answer": 0,
+    "hint": "New information first, known information afterwards.",
+    "difficulty": "medium"
+  }
+]

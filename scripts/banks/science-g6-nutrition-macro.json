@@ -1,0 +1,1170 @@
+[
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "The substances in food that the body needs to stay alive and healthy are called:",
+    "options": [
+      "Nutrients",
+      "Textures",
+      "Colours",
+      "Flavours"
+    ],
+    "answer": 0,
+    "hint": "Carbohydrates, fats, proteins, vitamins, minerals, roughage and water are the seven components of food."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "How many main components of food are usually listed?",
+    "options": [
+      "Five",
+      "Three",
+      "Ten",
+      "Seven"
+    ],
+    "answer": 3,
+    "hint": "Carbohydrates, fats, proteins, vitamins, minerals, roughage and water make seven."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Foods that mainly give the body energy are called:",
+    "options": [
+      "Energy-giving foods",
+      "Protective foods",
+      "Body-building foods",
+      "Waste foods"
+    ],
+    "answer": 0,
+    "hint": "Carbohydrates and fats are the energy givers. Proteins build, vitamins and minerals protect."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Foods that help the body grow and repair itself are called:",
+    "options": [
+      "Roughage",
+      "Protective foods",
+      "Body-building foods",
+      "Energy-giving foods"
+    ],
+    "answer": 2,
+    "hint": "Proteins are the body builders. They make new cells and mend damaged ones."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Foods that guard the body against disease are called:",
+    "options": [
+      "Body-building foods",
+      "Energy-giving foods",
+      "Junk foods",
+      "Protective foods"
+    ],
+    "answer": 3,
+    "hint": "Vitamins and minerals are protective. They keep the body's defences working."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "The unit used to measure the energy in food is the:",
+    "options": [
+      "Calorie",
+      "Litre",
+      "Metre",
+      "Gram"
+    ],
+    "answer": 0,
+    "hint": "Energy in food is counted in calories, just as length is counted in metres."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Which nutrient gives the most energy per gram?",
+    "options": [
+      "Water",
+      "Fat",
+      "Carbohydrate",
+      "Protein"
+    ],
+    "answer": 1,
+    "hint": "Fat gives roughly twice the energy of the same weight of carbohydrate or protein."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Which of these gives the body no calories at all?",
+    "options": [
+      "Rice",
+      "Dal",
+      "Ghee",
+      "Water"
+    ],
+    "answer": 3,
+    "hint": "Water is essential but carries no energy. Roughage gives almost none either."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "What does the body do with the energy from food?",
+    "options": [
+      "Sends all of it out as waste",
+      "Turns all of it into water",
+      "Uses it for movement, growth, warmth and all life processes",
+      "Stores all of it as bone"
+    ],
+    "answer": 2,
+    "hint": "Even sleeping uses energy, because the heart, lungs and brain never stop working."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "\"Burning calories\" means the body is:",
+    "options": [
+      "Setting food on fire",
+      "Making new vitamins",
+      "Releasing energy from food to do work",
+      "Losing water"
+    ],
+    "answer": 2,
+    "hint": "Nothing actually burns. Respiration releases the energy stored in food, slowly and safely."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Which activity would burn the most calories in one hour?",
+    "options": [
+      "Running",
+      "Sleeping",
+      "Watching television",
+      "Sitting and reading"
+    ],
+    "answer": 0,
+    "hint": "The harder the muscles work, the more energy the body uses."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "What happens if a person regularly eats far more calories than the body uses?",
+    "options": [
+      "The person grows taller",
+      "The body stops digesting food",
+      "The extra energy is stored as body fat",
+      "The extra energy disappears"
+    ],
+    "answer": 2,
+    "hint": "Unused energy is not wasted. The body stores it, mostly as fat, for later."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Who would normally need the most calories in a day?",
+    "options": [
+      "An office worker sitting all day",
+      "A small child",
+      "A farmer doing heavy physical work",
+      "An elderly person resting at home"
+    ],
+    "answer": 2,
+    "hint": "Energy needs rise with age, body size and above all with physical activity."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Why do growing children need proportionally more nutrients than adults?",
+    "options": [
+      "Their bodies are still building new tissue",
+      "They have larger stomachs",
+      "They eat more slowly",
+      "They sleep less"
+    ],
+    "answer": 0,
+    "hint": "Growth needs raw material and energy on top of ordinary daily needs."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Eating slowly, without a screen, and stopping when comfortably full is called:",
+    "options": [
+      "Fasting",
+      "Mindful eating",
+      "Overeating",
+      "Snacking"
+    ],
+    "answer": 1,
+    "hint": "Mindful eating means paying attention to the food and to the body's own fullness signals."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Why is it easy to overeat while watching television?",
+    "options": [
+      "Television makes food tastier",
+      "The stomach becomes larger",
+      "Screens slow down digestion",
+      "Attention is on the screen, so the body's fullness signals are missed"
+    ],
+    "answer": 3,
+    "hint": "The stomach takes time to tell the brain it is full. Distraction makes that signal easy to miss."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Chewing food thoroughly helps because:",
+    "options": [
+      "It adds vitamins",
+      "It makes food colder",
+      "It removes all the fat",
+      "It breaks food into smaller pieces and mixes it with saliva"
+    ],
+    "answer": 3,
+    "hint": "Digestion begins in the mouth. Saliva starts breaking down starch while the teeth do the grinding."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Which meal is often called the most important of the day, and why?",
+    "options": [
+      "Dinner, because it is the largest",
+      "Breakfast, because it refuels the body after a long night without food",
+      "Afternoon tea, because it is sweet",
+      "A midnight snack, because it is quiet"
+    ],
+    "answer": 1,
+    "hint": "After eight to ten hours without food, the body's stores are low and need topping up."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "The simple test using iodine solution is used to detect:",
+    "options": [
+      "Vitamin C",
+      "Fat",
+      "Protein",
+      "Starch"
+    ],
+    "answer": 3,
+    "hint": "Iodine turns blue-black when starch is present. It is the standard school test for starch."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "A translucent patch left on paper by a food sample shows the presence of:",
+    "options": [
+      "Fat",
+      "Water",
+      "Protein",
+      "Starch"
+    ],
+    "answer": 0,
+    "hint": "Fat leaves a greasy mark that light passes through and that does not dry away."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "In the school test for protein, the food turns which colour?",
+    "options": [
+      "Violet or purple",
+      "Bright red",
+      "Green",
+      "Blue-black"
+    ],
+    "answer": 0,
+    "hint": "Copper sulphate with caustic soda gives a violet colour when protein is present."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Which of these foods contains almost every nutrient the body needs?",
+    "options": [
+      "Cooking oil",
+      "White sugar",
+      "Milk",
+      "Table salt"
+    ],
+    "answer": 2,
+    "hint": "Milk is often called a nearly complete food, though it is low in iron and vitamin C."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Which statement about food is correct?",
+    "options": [
+      "Each food contains exactly one nutrient",
+      "Most foods contain a mixture of several nutrients",
+      "Only fruits contain nutrients",
+      "Cooked food has no nutrients"
+    ],
+    "answer": 1,
+    "hint": "A chapati has carbohydrate, protein, minerals and fibre all at once."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "The process by which the body breaks food into simple substances it can absorb is:",
+    "options": [
+      "Respiration",
+      "Digestion",
+      "Excretion",
+      "Transpiration"
+    ],
+    "answer": 1,
+    "hint": "Digestion happens first. Absorbed nutrients are then used for energy, growth and repair."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "question": "Why is it unwise to judge a food only by its taste?",
+    "options": [
+      "Taste tells you the exact calories",
+      "Bitter foods are always harmful",
+      "Tasty food is not always nourishing, and plain food is often very nourishing",
+      "All sweet foods are healthy"
+    ],
+    "answer": 2,
+    "hint": "Taste evolved to find energy quickly. It says nothing about vitamins, minerals or fibre."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "The main function of carbohydrates in the body is to:",
+    "options": [
+      "Build muscles",
+      "Provide energy",
+      "Form bones",
+      "Fight infection"
+    ],
+    "answer": 1,
+    "hint": "Carbohydrates are the body's first and quickest source of fuel."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "The two main kinds of carbohydrate found in food are:",
+    "options": [
+      "Vitamin and mineral",
+      "Fat and oil",
+      "Starch and sugar",
+      "Water and fibre"
+    ],
+    "answer": 2,
+    "hint": "Starch is the complex form and sugar is the simple form."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Which of these is a simple carbohydrate?",
+    "options": [
+      "Fibre in a carrot",
+      "Starch in a potato",
+      "Starch in rice",
+      "Sugar in a sweet"
+    ],
+    "answer": 3,
+    "hint": "Simple carbohydrates are small sugar units the body absorbs almost at once."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Which of these is a complex carbohydrate?",
+    "options": [
+      "Starch in a chapati",
+      "Sugar in a toffee",
+      "Honey",
+      "Glucose in a drink"
+    ],
+    "answer": 0,
+    "hint": "Complex carbohydrates are long chains of sugar units that take time to break down."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Why do complex carbohydrates keep you feeling full for longer than simple ones?",
+    "options": [
+      "They contain more water",
+      "They have no calories",
+      "They are digested slowly, so energy is released gradually",
+      "They are sweeter"
+    ],
+    "answer": 2,
+    "hint": "A slow, steady release avoids the quick rise and sudden slump that sugar gives."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "A child eats a toffee and feels energetic, then tired soon after. This is because:",
+    "options": [
+      "The body stores sugar as bone",
+      "Sugar turns into protein",
+      "Toffees contain no energy",
+      "Simple sugar is absorbed quickly and used up quickly"
+    ],
+    "answer": 3,
+    "hint": "Fast in, fast out. That is the pattern of simple sugars."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Which of these Indian foods is richest in starch?",
+    "options": [
+      "Spinach",
+      "Ghee",
+      "Rice",
+      "Paneer"
+    ],
+    "answer": 2,
+    "hint": "Cereals such as rice, wheat and maize are the main starch foods."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "The simple sugar that the body uses directly for energy is:",
+    "options": [
+      "Cellulose",
+      "Casein",
+      "Glucose",
+      "Starch"
+    ],
+    "answer": 2,
+    "hint": "All digestible carbohydrate is eventually broken down to glucose before use."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Which food would give the quickest energy to a tired athlete?",
+    "options": [
+      "A glucose drink",
+      "A plate of salad",
+      "A bowl of brown rice",
+      "A glass of water"
+    ],
+    "answer": 0,
+    "hint": "Glucose needs almost no digestion, so it reaches the blood fastest."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Whole wheat flour is better than refined white flour because it keeps:",
+    "options": [
+      "More water",
+      "More air",
+      "More sugar",
+      "The bran, which supplies fibre and minerals"
+    ],
+    "answer": 3,
+    "hint": "Refining strips away the outer bran and the germ, and with them the fibre and much of the mineral content."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "The main function of fats in the body is to:",
+    "options": [
+      "Store energy and keep the body warm",
+      "Build antibodies only",
+      "Provide roughage",
+      "Replace water"
+    ],
+    "answer": 0,
+    "hint": "Fat is a concentrated energy store and also insulates the body against cold."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Fats that are usually solid at room temperature are called:",
+    "options": [
+      "Simple sugars",
+      "Soluble fats",
+      "Saturated fats",
+      "Unsaturated fats"
+    ],
+    "answer": 2,
+    "hint": "Ghee, butter and coconut oil set solid or semi-solid. These are the saturated fats."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Fats that stay liquid at room temperature are usually:",
+    "options": [
+      "Proteins",
+      "Saturated fats",
+      "Minerals",
+      "Unsaturated fats"
+    ],
+    "answer": 3,
+    "hint": "Most vegetable oils, such as groundnut, mustard and sunflower, are unsaturated."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Which of these is a source of saturated fat?",
+    "options": [
+      "Sunflower oil",
+      "Walnuts",
+      "Olive oil",
+      "Butter"
+    ],
+    "answer": 3,
+    "hint": "Fats from animals, plus coconut and palm oil, are mainly saturated."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Which of these is a good source of unsaturated fat?",
+    "options": [
+      "Cheese",
+      "Beef fat",
+      "Almonds and walnuts",
+      "Butter"
+    ],
+    "answer": 2,
+    "hint": "Nuts, seeds, fish and most vegetable oils supply unsaturated fats."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Which type of fat is healthier to eat in larger amounts?",
+    "options": [
+      "Neither is needed at all",
+      "Both are equally harmful",
+      "Saturated fat",
+      "Unsaturated fat"
+    ],
+    "answer": 3,
+    "hint": "The body needs some of both, but too much saturated fat is linked to heart trouble later in life."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Is it healthy to cut fat out of the diet completely?",
+    "options": [
+      "Yes, fat is always harmful",
+      "No, some fat is essential for the body",
+      "Yes, but only for children",
+      "No, fat should be the largest part of every meal"
+    ],
+    "answer": 1,
+    "hint": "Fat carries vitamins A, D, E and K and protects the organs. The issue is quantity and type, not fat itself."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Fat stored under the skin helps the body by:",
+    "options": [
+      "Digesting protein",
+      "Making bones harder",
+      "Keeping it warm and cushioning the organs",
+      "Producing vitamin C"
+    ],
+    "answer": 2,
+    "hint": "A layer of fat insulates against cold and softens knocks to the organs beneath."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Why do people in very cold regions traditionally eat more fatty food?",
+    "options": [
+      "Fat gives concentrated energy and helps keep the body warm",
+      "Fat freezes easily",
+      "Fat is the only food available",
+      "Fat contains more water"
+    ],
+    "answer": 0,
+    "hint": "In a cold climate the body spends far more energy simply staying warm."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Reusing the same cooking oil again and again is unhealthy because:",
+    "options": [
+      "Repeated heating produces harmful substances in the oil",
+      "The oil turns into water",
+      "The oil loses its colour",
+      "The oil becomes too thin"
+    ],
+    "answer": 0,
+    "hint": "Each reheating breaks the oil down further and creates compounds the body does not handle well."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Which cooking method adds the least extra fat to food?",
+    "options": [
+      "Roasting in butter",
+      "Shallow frying",
+      "Steaming",
+      "Deep frying"
+    ],
+    "answer": 2,
+    "hint": "Steaming uses no oil at all, so it adds no fat of its own."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Compared with the same weight of carbohydrate, fat gives about:",
+    "options": [
+      "Half as much energy",
+      "No energy",
+      "The same energy",
+      "Twice as much energy"
+    ],
+    "answer": 3,
+    "hint": "This is why fatty foods are so energy-dense, and why they add up quickly."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "A meal of only rice and sugar would leave a child short of:",
+    "options": [
+      "Carbohydrate",
+      "Water",
+      "Energy",
+      "Protein, vitamins and minerals"
+    ],
+    "answer": 3,
+    "hint": "Both foods are almost pure carbohydrate. Nothing there builds or protects the body."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Which of these carbohydrate foods also brings useful fibre and minerals?",
+    "options": [
+      "A boiled sweet",
+      "Ragi or bajra roti",
+      "White sugar",
+      "A soft drink"
+    ],
+    "answer": 1,
+    "hint": "Whole grains and millets carry their bran, so they bring fibre and minerals along with the starch."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Which of these contains almost no carbohydrate?",
+    "options": [
+      "Cooking oil",
+      "Potato",
+      "Bread",
+      "Banana"
+    ],
+    "answer": 0,
+    "hint": "Pure oil is essentially all fat, with no starch or sugar in it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Sugarcane juice and honey are examples of:",
+    "options": [
+      "Complex carbohydrates",
+      "Natural sources of simple sugar",
+      "Sources of roughage",
+      "Protein foods"
+    ],
+    "answer": 1,
+    "hint": "Both are mostly simple sugars, which is why they taste sweet and act quickly."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "question": "Which snack releases energy most steadily through a school morning?",
+    "options": [
+      "A packet of boiled sweets",
+      "A bowl of poha or upma",
+      "A spoon of sugar",
+      "A cold drink"
+    ],
+    "answer": 1,
+    "hint": "Choose the complex carbohydrate. It digests slowly and keeps energy level."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "The main function of protein in the body is to:",
+    "options": [
+      "Build new cells and repair damaged ones",
+      "Provide quick energy",
+      "Keep the body warm",
+      "Provide roughage"
+    ],
+    "answer": 0,
+    "hint": "Proteins are the building materials of muscle, skin, hair, blood and every organ."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "Proteins are made of smaller units called:",
+    "options": [
+      "Minerals",
+      "Sugars",
+      "Amino acids",
+      "Fatty acids"
+    ],
+    "answer": 2,
+    "hint": "Amino acids link in long chains to make a protein, rather as beads make a necklace."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "During digestion, proteins are broken down into:",
+    "options": [
+      "Water only",
+      "Glucose",
+      "Amino acids",
+      "Fatty acids"
+    ],
+    "answer": 2,
+    "hint": "The body takes proteins apart into amino acids and then rebuilds the ones it needs."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "Amino acids that the body cannot make for itself are called:",
+    "options": [
+      "Simple amino acids",
+      "Stored amino acids",
+      "Essential amino acids",
+      "Extra amino acids"
+    ],
+    "answer": 2,
+    "hint": "Essential ones must come from food, because the body has no way of building them."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "Which of these is a plant source of protein?",
+    "options": [
+      "Sugar",
+      "Dal and pulses",
+      "Butter",
+      "Rice"
+    ],
+    "answer": 1,
+    "hint": "Pulses, beans, soya, nuts and seeds are the main plant protein foods."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "Which of these is an animal source of protein?",
+    "options": [
+      "Wheat",
+      "Mustard oil",
+      "Potato",
+      "Eggs"
+    ],
+    "answer": 3,
+    "hint": "Eggs, milk, curd, paneer, fish and meat are animal protein foods."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "Why is the traditional Indian combination of dal with rice or roti so useful?",
+    "options": [
+      "It adds vitamin D",
+      "It makes the meal sweeter",
+      "It removes all the fat",
+      "Together they supply a fuller range of amino acids than either alone"
+    ],
+    "answer": 3,
+    "hint": "Cereals and pulses each lack different amino acids. Eaten together they fill each other's gaps."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "Which of these would a growing child need most for building strong muscles?",
+    "options": [
+      "Fried chips",
+      "Sugar and sweets",
+      "Milk, eggs and pulses",
+      "Cold drinks"
+    ],
+    "answer": 2,
+    "hint": "Muscle is built from protein, so protein-rich foods matter most for growth."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "A severe shortage of protein in young children causes the disease:",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Kwashiorkor",
+      "Goitre"
+    ],
+    "answer": 2,
+    "hint": "Kwashiorkor shows as a swollen belly, thin limbs and stunted growth."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "A shortage of both protein and energy together causes:",
+    "options": [
+      "Marasmus",
+      "Anaemia",
+      "Night blindness",
+      "Beriberi"
+    ],
+    "answer": 0,
+    "hint": "Marasmus leaves a child extremely thin, with wasted muscles and very little body fat."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "Which part of the body is largely built from protein?",
+    "options": [
+      "Muscles, skin, hair and nails",
+      "Body water",
+      "Tooth enamel only",
+      "Bone minerals only"
+    ],
+    "answer": 0,
+    "hint": "Hair and nails are almost entirely protein, and muscle is mostly protein and water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "After an injury, why does the body need extra protein?",
+    "options": [
+      "To provide roughage",
+      "To replace lost vitamins only",
+      "To cool the body down",
+      "To repair damaged tissue and build new cells"
+    ],
+    "answer": 3,
+    "hint": "Repair means building new tissue, and tissue is built from protein."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "Soya bean is valued in the diet because it is:",
+    "options": [
+      "Almost pure fat",
+      "A type of millet",
+      "A plant food unusually rich in protein",
+      "A source of vitamin D"
+    ],
+    "answer": 2,
+    "hint": "Soya has one of the highest protein contents of any plant food."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "Paneer and curd are made from milk and are good sources of:",
+    "options": [
+      "Iron and iodine",
+      "Protein and calcium",
+      "Vitamin C and fibre",
+      "Roughage"
+    ],
+    "answer": 1,
+    "hint": "Milk products carry both the protein and the calcium of the milk they came from."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "Does the body store spare protein the way it stores fat?",
+    "options": [
+      "Yes, in the hair",
+      "Yes, in the bones",
+      "Yes, for many years",
+      "No, so protein is needed regularly in the diet"
+    ],
+    "answer": 3,
+    "hint": "There is no protein store to draw on, which is why some protein is needed every day."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "A vegetarian child can get enough protein by eating:",
+    "options": [
+      "Only rice",
+      "Pulses, dairy, nuts and soya regularly",
+      "Only vegetables",
+      "Only fruit"
+    ],
+    "answer": 1,
+    "hint": "A vegetarian diet supplies plenty of protein, provided pulses and dairy appear regularly."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "Sprouting pulses before eating them is useful because it:",
+    "options": [
+      "Makes the nutrients easier to digest and raises the vitamin content",
+      "Turns protein into fat",
+      "Removes all the protein",
+      "Adds sugar"
+    ],
+    "answer": 0,
+    "hint": "Germination begins breaking the stored food down and generates extra vitamin C."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "Which meal supplies the best mix of body-building food?",
+    "options": [
+      "Bread with jam",
+      "Chips with a soft drink",
+      "Rajma with rice and a glass of curd",
+      "Boiled sweets"
+    ],
+    "answer": 2,
+    "hint": "Look for pulses plus dairy. That combination brings protein from two directions."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "Egg white is almost entirely:",
+    "options": [
+      "Protein and water",
+      "Fat",
+      "Sugar",
+      "Starch"
+    ],
+    "answer": 0,
+    "hint": "The yolk carries the fat and the fat-soluble vitamins. The white is protein and water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "Why are proteins sometimes called the body's \"building blocks\"?",
+    "options": [
+      "Because they are square in shape",
+      "Because the body is largely constructed and repaired from them",
+      "Because they give the most energy",
+      "Because they dissolve in water"
+    ],
+    "answer": 1,
+    "hint": "Every new cell a growing child makes is built mainly from protein."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "question": "If a child eats far more protein than the body needs, the extra is:",
+    "options": [
+      "Turned into extra muscle automatically",
+      "Used for energy or stored as fat",
+      "Passed out unchanged",
+      "Stored as protein for later"
+    ],
+    "answer": 1,
+    "hint": "Muscle is built by using muscles, not merely by eating more protein than is needed."
+  }
+]

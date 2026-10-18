@@ -1,0 +1,629 @@
+[
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “book”?",
+    "options": [
+      "books",
+      "bookes",
+      "book's",
+      "bookies"
+    ],
+    "answer": 0,
+    "hint": "Most nouns simply add -s.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “box”?",
+    "options": [
+      "boxs",
+      "boxes",
+      "box's",
+      "boxies"
+    ],
+    "answer": 1,
+    "hint": "Nouns ending in -x, -s, -sh, -ch add -es, because -s alone would be unsayable.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “church”?",
+    "options": [
+      "churchs",
+      "churchies",
+      "churches",
+      "church's"
+    ],
+    "answer": 2,
+    "hint": "Ending in -ch, so it takes -es.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “baby”?",
+    "options": [
+      "babyes",
+      "babies",
+      "babys",
+      "baby's"
+    ],
+    "answer": 1,
+    "hint": "A consonant before -y: change the y to i and add -es.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “day”?",
+    "options": [
+      "days",
+      "dayes",
+      "day's",
+      "daies"
+    ],
+    "answer": 0,
+    "hint": "A vowel before -y keeps the y and just adds -s. Compare baby → babies.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “knife”?",
+    "options": [
+      "knifes",
+      "knives",
+      "knife's",
+      "knifies"
+    ],
+    "answer": 1,
+    "hint": "Many nouns ending -f or -fe change to -ves.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “roof”?",
+    "options": [
+      "roofies",
+      "roofs",
+      "rooves",
+      "roofes"
+    ],
+    "answer": 1,
+    "hint": "Not every -f becomes -ves. Roof, chief and proof simply take -s.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “potato”?",
+    "options": [
+      "potatoes",
+      "potatos",
+      "potatoies",
+      "potato's"
+    ],
+    "answer": 0,
+    "hint": "Potato, tomato, hero and echo take -es.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “photo”?",
+    "options": [
+      "photo's",
+      "photoes",
+      "photoies",
+      "photos"
+    ],
+    "answer": 3,
+    "hint": "Shortened words like photo and piano just add -s, even though they end in -o.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “child”?",
+    "options": [
+      "children",
+      "childrens",
+      "childs",
+      "childes"
+    ],
+    "answer": 0,
+    "hint": "An old plural that never took -s.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “mouse”?",
+    "options": [
+      "mouses",
+      "mices",
+      "mice",
+      "mouse's"
+    ],
+    "answer": 2,
+    "hint": "The vowel changes instead.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “tooth”?",
+    "options": [
+      "teeth",
+      "tooths",
+      "teeths",
+      "toothes"
+    ],
+    "answer": 0,
+    "hint": "Another vowel change.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “ox”?",
+    "options": [
+      "oxes",
+      "oxen",
+      "oxens",
+      "oxs"
+    ],
+    "answer": 1,
+    "hint": "One of the very few -en plurals left.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “goose”?",
+    "options": [
+      "gooses",
+      "geese",
+      "goosen",
+      "geeses"
+    ],
+    "answer": 1,
+    "hint": "Vowel change, like tooth → teeth.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the plural of “woman”?",
+    "options": [
+      "womanes",
+      "womans",
+      "womens",
+      "women"
+    ],
+    "answer": 3,
+    "hint": "The spelling barely changes but the sound does.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "Which of these nouns is the same in the singular and the plural?",
+    "options": [
+      "sheep",
+      "horse",
+      "duck",
+      "goat"
+    ],
+    "answer": 0,
+    "hint": "One sheep, ten sheep. Deer, fish and aircraft behave the same way.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "“The scissors ___ on the table.” Which verb is right?",
+    "options": [
+      "is",
+      "has",
+      "are",
+      "was"
+    ],
+    "answer": 2,
+    "hint": "Scissors, trousers and spectacles are always plural, even when you mean one pair.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "Which of these is already plural?",
+    "options": [
+      "childish",
+      "childhood",
+      "children",
+      "child"
+    ],
+    "answer": 2,
+    "hint": "Children is the plural of child. Childhood and childish are different words altogether.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the feminine form of “lion”?",
+    "options": [
+      "lionette",
+      "lionness",
+      "lioness",
+      "liongirl"
+    ],
+    "answer": 2,
+    "hint": "The feminine of lion is lioness. Not every pair is made by adding an ending — many are separate words.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the feminine form of “king”?",
+    "options": [
+      "queen",
+      "kingette",
+      "kinger",
+      "kingess"
+    ],
+    "answer": 0,
+    "hint": "The feminine of king is queen. Not every pair is made by adding an ending — many are separate words.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the feminine form of “nephew”?",
+    "options": [
+      "niece",
+      "nephewess",
+      "nephewine",
+      "nephewette"
+    ],
+    "answer": 0,
+    "hint": "The feminine of nephew is niece. Not every pair is made by adding an ending — many are separate words.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the feminine form of “gander”?",
+    "options": [
+      "gandette",
+      "gooseman",
+      "goose",
+      "ganderess"
+    ],
+    "answer": 2,
+    "hint": "The feminine of gander is goose. Not every pair is made by adding an ending — many are separate words.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the feminine form of “bull”?",
+    "options": [
+      "bullette",
+      "bullina",
+      "cow",
+      "bulless"
+    ],
+    "answer": 2,
+    "hint": "The feminine of bull is cow. Not every pair is made by adding an ending — many are separate words.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What is the feminine form of “horse”?",
+    "options": [
+      "horsette",
+      "horsess",
+      "horsina",
+      "mare"
+    ],
+    "answer": 3,
+    "hint": "The feminine of horse is mare. Not every pair is made by adding an ending — many are separate words.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "Which of these nouns is common gender — it can mean either?",
+    "options": [
+      "actress",
+      "widow",
+      "bull",
+      "teacher"
+    ],
+    "answer": 3,
+    "hint": "A teacher may be anyone. Common gender nouns do not say which.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "Which noun is neuter?",
+    "options": [
+      "mare",
+      "table",
+      "aunt",
+      "hero"
+    ],
+    "answer": 1,
+    "hint": "Neuter nouns name things that are neither male nor female.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "Which is correct?",
+    "options": [
+      "the boys' book — one boy",
+      "the boy's book — one boy",
+      "the boy s book — one boy",
+      "the boys book — one boy"
+    ],
+    "answer": 1,
+    "hint": "One owner: apostrophe then s.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "Which is correct for a book belonging to several boys?",
+    "options": [
+      "the boys' book",
+      "the boy's book",
+      "the boys's book",
+      "the boys book"
+    ],
+    "answer": 0,
+    "hint": "A plural already ending in -s takes the apostrophe after it.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "How do you write something belonging to the children?",
+    "options": [
+      "the children's toys",
+      "the childrens toys",
+      "the childrens' toys",
+      "the children toys"
+    ],
+    "answer": 0,
+    "hint": "Children is plural but does not end in -s, so it takes apostrophe-s like a singular.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "Which of these is NOT a possessive?",
+    "options": [
+      "The bird sings sweetly.",
+      "The owl's eyes are large.",
+      "The bird's nest is empty.",
+      "The birds' nests are empty."
+    ],
+    "answer": 0,
+    "hint": "Nothing belongs to anything in that sentence. It is simply a noun and a verb.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "“The dog wagged ___ tail.” Which word is right?",
+    "options": [
+      "it's",
+      "its'",
+      "its",
+      "of it"
+    ],
+    "answer": 2,
+    "hint": "Its is the possessive. It's always means it is — the one apostrophe that catches everybody.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "Which is the correct way to show that a hat belongs to James?",
+    "options": [
+      "James's hat",
+      "Jamess hat",
+      "Jame's hat",
+      "James hat"
+    ],
+    "answer": 0,
+    "hint": "A singular name keeps all its letters and adds apostrophe-s, even when it already ends in s.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "noun-forms",
+    "topicLabel": "Forms of Nouns",
+    "subtopic": null,
+    "question": "What does the possessive form of a noun show?",
+    "options": [
+      "That something belongs to it",
+      "That it is the subject of the sentence",
+      "That it is male or female",
+      "That there is more than one of it"
+    ],
+    "answer": 0,
+    "hint": "Number tells you how many, gender tells you which kind, and the possessive tells you what belongs to whom.",
+    "difficulty": "easy",
+    "status": "published"
+  }
+]

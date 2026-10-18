@@ -1,0 +1,4082 @@
+[
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "What is a globe?",
+    "options": [
+      "A true model of the Earth, showing its shape and the position of places on it",
+      "A flat map of the world printed on paper",
+      "A photograph taken from space",
+      "A model of the solar system"
+    ],
+    "answer": 0,
+    "hint": "Unlike a flat map, a globe does not distort the shapes of continents.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "What is the axis of the Earth?",
+    "options": [
+      "The path the Earth follows around the Sun",
+      "An imaginary line passing through the centre of the Earth from the North Pole to the South Pole",
+      "The line marking the equator",
+      "A real rod running through the planet"
+    ],
+    "answer": 1,
+    "hint": "It is imaginary — you would not find it if you dug down.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "The Earth's axis is tilted. By how much?",
+    "options": [
+      "About 23½ degrees from the vertical",
+      "About 45 degrees",
+      "About 10 degrees",
+      "It is not tilted at all"
+    ],
+    "answer": 0,
+    "hint": "The same tilt is often given as 66½° from the plane of the orbit.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "Why does a globe sit at a slant on its stand?",
+    "options": [
+      "Because it makes the globe easier to spin",
+      "Because it shows the Earth's real tilt, which is fixed as it travels round the Sun",
+      "Because the Earth wobbles from side to side",
+      "Because the maker fixed it badly"
+    ],
+    "answer": 1,
+    "hint": "The slant is the whole reason the seasons exist.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "Which imaginary line divides the Earth into two equal halves?",
+    "options": [
+      "The equator",
+      "The Tropic of Cancer",
+      "The Prime Meridian",
+      "The Arctic Circle"
+    ],
+    "answer": 0,
+    "hint": "It runs exactly midway between the two poles.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "What is the shape of the Earth?",
+    "options": [
+      "Slightly flattened at the poles and bulging at the equator",
+      "A flat disc",
+      "A perfect sphere",
+      "A cube with rounded corners"
+    ],
+    "answer": 0,
+    "hint": "The word geographers use is 'geoid' — earth-shaped.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "What is the main advantage of a globe over a flat map?",
+    "options": [
+      "It shows the size, shape and distance of places without distortion",
+      "It shows more detail of small areas",
+      "It can be folded and carried easily",
+      "It can be printed cheaply"
+    ],
+    "answer": 0,
+    "hint": "You cannot flatten a curved surface without stretching something.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "What is the main disadvantage of a globe?",
+    "options": [
+      "It cannot show a small area in detail and is not easy to carry about",
+      "It shows the wrong shapes for continents",
+      "It cannot show the oceans",
+      "It shows only one hemisphere at a time"
+    ],
+    "answer": 0,
+    "hint": "You would not use one to find a street.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "The needle on which a globe turns represents what?",
+    "options": [
+      "The Prime Meridian",
+      "The Earth's axis",
+      "The equator",
+      "The orbit of the Earth"
+    ],
+    "answer": 1,
+    "hint": "The globe spins about it just as the Earth spins about its axis.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "Which two points on the Earth do not move when the Earth rotates?",
+    "options": [
+      "Two points on the equator",
+      "The points where the Prime Meridian meets the equator",
+      "No point stays still",
+      "The North Pole and the South Pole"
+    ],
+    "answer": 3,
+    "hint": "The axis passes through them, so they turn on the spot.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "Why is the equator called the zero-degree parallel?",
+    "options": [
+      "Because it is the shortest parallel",
+      "It is the starting line from which latitude is measured to the north and to the south",
+      "Because no country lies on it",
+      "Because the temperature there is zero"
+    ],
+    "answer": 1,
+    "hint": "Every other parallel is measured as an angle from it.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "If the Earth's axis were not tilted, what would happen?",
+    "options": [
+      "The Earth would stop rotating",
+      "The Earth would move closer to the Sun",
+      "There would be no day and night",
+      "Day and night would be nearly equal all year and there would be no seasons as we know them"
+    ],
+    "answer": 3,
+    "hint": "Tilt is what makes one hemisphere lean towards the Sun at a time.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "What does the plane of the Earth's orbit mean?",
+    "options": [
+      "The line joining the two poles",
+      "The surface of the Earth itself",
+      "The path of an aeroplane over the Earth",
+      "The flat surface in which the Earth travels around the Sun"
+    ],
+    "answer": 3,
+    "hint": "The axis is tilted 66½° to this plane.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "Which of these is true of the equator?",
+    "options": [
+      "It is the shortest parallel of latitude",
+      "It has a latitude of 90°",
+      "It passes through both poles",
+      "It is the longest parallel of latitude"
+    ],
+    "answer": 3,
+    "hint": "The circles get smaller as you move towards the poles.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "Which continent does the equator NOT pass through?",
+    "options": [
+      "Asia",
+      "South America",
+      "Africa",
+      "Australia"
+    ],
+    "answer": 3,
+    "hint": "It passes through Indonesia in Asia, but Australia lies wholly south of it.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "A globe shows the world in what proportion to the real Earth?",
+    "options": [
+      "With continents enlarged for clarity",
+      "Larger than life for the oceans only",
+      "To scale, so that relative sizes and distances are correct",
+      "With no fixed relationship at all"
+    ],
+    "answer": 2,
+    "hint": "A globe is a scale model, like a model aeroplane.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "Why can no flat map of the whole world be completely accurate?",
+    "options": [
+      "Because the Earth is always moving",
+      "A curved surface cannot be flattened without stretching or tearing some part of it",
+      "Because mapmakers cannot measure accurately",
+      "Because paper is too small"
+    ],
+    "answer": 1,
+    "hint": "Try flattening an orange peel and see what happens to it.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "What are the two poles of the Earth called?",
+    "options": [
+      "The North Pole and the South Pole",
+      "The magnetic pole and the geographic pole",
+      "The east pole and the west pole",
+      "The upper pole and the lower pole"
+    ],
+    "answer": 0,
+    "hint": "They are the two points where the axis meets the surface.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "What lies at 90° North?",
+    "options": [
+      "The North Pole",
+      "The Tropic of Cancer",
+      "The Arctic Circle",
+      "Greenwich"
+    ],
+    "answer": 0,
+    "hint": "90° is the greatest latitude possible.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "globe-basics",
+    "topicLabel": "The Globe & the Earth's Axis",
+    "question": "Why do we need imaginary lines on the globe at all?",
+    "options": [
+      "Because they mark real boundaries between countries",
+      "Because without a system of reference there is no way to state exactly where a place is",
+      "Because they show where the Earth is thickest",
+      "Because they can be seen from space"
+    ],
+    "answer": 1,
+    "hint": "The lines are a language for describing position.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "What is a parallel of latitude?",
+    "options": [
+      "A line marking a country's border",
+      "The path of the Sun across the sky",
+      "A circle drawn around the globe parallel to the equator",
+      "A line joining the North Pole to the South Pole"
+    ],
+    "answer": 2,
+    "hint": "They never meet, which is why they are called parallels.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "What is the latitude of the equator?",
+    "options": [
+      "23½°",
+      "180°",
+      "90°",
+      "0°"
+    ],
+    "answer": 3,
+    "hint": "It is the line from which all other latitudes are measured.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "The equator divides the Earth into which two hemispheres?",
+    "options": [
+      "The Upper and Lower Hemispheres",
+      "The Northern and Southern Hemispheres",
+      "The Eastern and Western Hemispheres",
+      "The Land and Water Hemispheres"
+    ],
+    "answer": 1,
+    "hint": "North and south are measured from the equator.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "What is the latitude of the Tropic of Cancer?",
+    "options": [
+      "0°",
+      "66½° North",
+      "23½° North",
+      "23½° South"
+    ],
+    "answer": 2,
+    "hint": "Cancer lies north of the equator; Capricorn lies south.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "What is the latitude of the Tropic of Capricorn?",
+    "options": [
+      "66½° South",
+      "23½° South",
+      "90° South",
+      "23½° North"
+    ],
+    "answer": 1,
+    "hint": "It is the mirror image of the Tropic of Cancer.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "What is the latitude of the Arctic Circle?",
+    "options": [
+      "23½° North",
+      "66½° North",
+      "66½° South",
+      "90° North"
+    ],
+    "answer": 1,
+    "hint": "The Antarctic Circle is its counterpart in the south.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "As you move away from the equator towards a pole, what happens to the parallels?",
+    "options": [
+      "They stay exactly the same length",
+      "They become shorter",
+      "They begin to cross one another",
+      "They become longer"
+    ],
+    "answer": 1,
+    "hint": "Picture the circles shrinking towards the top of an orange.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "Why can latitude never be more than 90°?",
+    "options": [
+      "Because beyond 90° the parallels become meridians",
+      "Because the Earth has only 90 parallels",
+      "Because 90 is the largest number used in geography",
+      "Because 90° is the angle from the equator to the pole, and the pole is as far as you can go"
+    ],
+    "answer": 3,
+    "hint": "The angle is measured from the centre of the Earth.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "Delhi is at about 28° North. What does this tell you?",
+    "options": [
+      "It is 28 degrees above sea level",
+      "It is 28 kilometres from the equator",
+      "It lies about 28 degrees north of the equator",
+      "It lies 28 degrees east of Greenwich"
+    ],
+    "answer": 2,
+    "hint": "Latitude is an angle, not a distance in kilometres.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "Which hemisphere is India in?",
+    "options": [
+      "The Southern Hemisphere",
+      "Partly in both, with the equator running through it",
+      "Neither, since it lies on the equator",
+      "The Northern Hemisphere"
+    ],
+    "answer": 3,
+    "hint": "The whole of mainland India lies north of the equator.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "If parallels of latitude are drawn at intervals of one degree, how many are there in all?",
+    "options": [
+      "181",
+      "360",
+      "179",
+      "90"
+    ],
+    "answer": 0,
+    "hint": "Ninety in the north, ninety in the south, and the equator itself.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "Roughly how far apart are two parallels one degree apart?",
+    "options": [
+      "About 15 kilometres",
+      "About 1,110 kilometres",
+      "About 111 kilometres",
+      "About 11 kilometres"
+    ],
+    "answer": 2,
+    "hint": "It is nearly the same everywhere, because the parallels are evenly spaced.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "Which of these places is closest to the equator?",
+    "options": [
+      "A place at 60° South",
+      "A place at 40° North",
+      "A place at 23½° North",
+      "A place at 5° South"
+    ],
+    "answer": 3,
+    "hint": "The smaller the number, the closer to the equator, north or south.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "Why are latitudes important for understanding climate?",
+    "options": [
+      "They tell you how directly the Sun's rays strike a place, which affects how hot it is",
+      "They indicate the height of the land",
+      "They mark the boundaries of countries",
+      "They show how much rain a place receives"
+    ],
+    "answer": 0,
+    "hint": "Near the equator the rays fall almost straight down; near the poles they slant.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "Two places lie at the same latitude but on opposite sides of the Earth. What do they share?",
+    "options": [
+      "The same longitude",
+      "The same date",
+      "The same local time",
+      "The same distance from the equator, and broadly similar sunlight through the year"
+    ],
+    "answer": 3,
+    "hint": "Latitude fixes the Sun's angle; longitude fixes the time.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "Which important parallel passes through India?",
+    "options": [
+      "The equator",
+      "The Tropic of Capricorn",
+      "The Tropic of Cancer",
+      "The Arctic Circle"
+    ],
+    "answer": 2,
+    "hint": "It runs across the middle of the country, through eight states.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "What is the latitude of the South Pole?",
+    "options": [
+      "180° South",
+      "0°",
+      "90° South",
+      "66½° South"
+    ],
+    "answer": 2,
+    "hint": "It is the furthest south any place can be.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "Which statement about parallels is correct?",
+    "options": [
+      "They are all of equal length",
+      "They are semicircles that meet at the poles",
+      "They are complete circles and never meet one another",
+      "They run from north to south"
+    ],
+    "answer": 2,
+    "hint": "Compare them with meridians, which do meet at the poles.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "A ship sails due east along a parallel. What stays the same?",
+    "options": [
+      "Its local time",
+      "Its latitude",
+      "Its longitude",
+      "The date on board"
+    ],
+    "answer": 1,
+    "hint": "Sailing along a parallel means keeping the same distance from the equator.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "latitude-hemispheres",
+    "topicLabel": "Latitudes & Hemispheres",
+    "question": "Why is the equator the longest parallel?",
+    "options": [
+      "It is closest to the Sun",
+      "It is drawn around the widest part of the Earth",
+      "It passes through the most countries",
+      "It is the only parallel that is a full circle"
+    ],
+    "answer": 1,
+    "hint": "The Earth bulges at the equator.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "What is a meridian of longitude?",
+    "options": [
+      "A semicircle running from the North Pole to the South Pole",
+      "A circle drawn parallel to the equator",
+      "A line marking the edge of a time zone only",
+      "The path of the Moon across the sky"
+    ],
+    "answer": 0,
+    "hint": "All meridians meet at both poles.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "Through which place does the Prime Meridian pass?",
+    "options": [
+      "Paris, in France",
+      "New York, in America",
+      "Delhi, in India",
+      "Greenwich, in London"
+    ],
+    "answer": 3,
+    "hint": "The old Royal Observatory there gave the line its name.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "What is the longitude of the Prime Meridian?",
+    "options": [
+      "23½°",
+      "180°",
+      "0°",
+      "90°"
+    ],
+    "answer": 2,
+    "hint": "It is the starting line for measuring longitude east and west.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "What is the greatest possible longitude?",
+    "options": [
+      "360°",
+      "270°",
+      "180°",
+      "90°"
+    ],
+    "answer": 2,
+    "hint": "Going 180° either way from Greenwich brings you to the same meridian.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "How do meridians differ from parallels?",
+    "options": [
+      "Meridians are circles and parallels are semicircles",
+      "There is no real difference",
+      "Meridians run east to west",
+      "Meridians are all of equal length and meet at the poles; parallels differ in length and never meet"
+    ],
+    "answer": 3,
+    "hint": "Two differences: length, and whether they meet.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "If meridians are drawn at intervals of one degree, how many are there in all?",
+    "options": [
+      "181",
+      "360",
+      "180",
+      "90"
+    ],
+    "answer": 1,
+    "hint": "180 to the east and 180 to the west, counting 0° and 180° once each.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "Delhi is at about 77° East. What does this mean?",
+    "options": [
+      "It lies in the Western Hemisphere",
+      "It lies about 77 degrees east of the Prime Meridian",
+      "It is 77 degrees north of the equator",
+      "It is 77 kilometres from Greenwich"
+    ],
+    "answer": 1,
+    "hint": "East and west are always measured from Greenwich.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "The 0° and 180° meridians together divide the Earth into which hemispheres?",
+    "options": [
+      "The upper and lower halves",
+      "The Northern and Southern Hemispheres",
+      "The Eastern and Western Hemispheres",
+      "The Torrid and Frigid Zones"
+    ],
+    "answer": 2,
+    "hint": "Latitude gives north and south; longitude gives east and west.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "Why is Greenwich, rather than any other place, the site of the Prime Meridian?",
+    "options": [
+      "Because it lies exactly at the centre of the Earth",
+      "It was chosen by international agreement in the nineteenth century, not for any natural reason",
+      "Because the Sun rises there first",
+      "Because it is the oldest city in the world"
+    ],
+    "answer": 1,
+    "hint": "Any meridian could have been chosen; the world simply had to agree on one.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "What happens to the distance between two meridians as you travel towards a pole?",
+    "options": [
+      "It stays exactly the same",
+      "It becomes larger",
+      "It becomes smaller, until the meridians meet at the pole",
+      "The meridians cross one another"
+    ],
+    "answer": 2,
+    "hint": "They are furthest apart at the equator.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "Which of these is true of all meridians?",
+    "options": [
+      "They never touch one another",
+      "They are of equal length",
+      "They are of different lengths",
+      "They run parallel to the equator"
+    ],
+    "answer": 1,
+    "hint": "Each is half of a great circle passing through both poles.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "India's easternmost and westernmost points differ by about 30° of longitude. What does this cause?",
+    "options": [
+      "A difference of about two degrees in temperature",
+      "A difference in the date between the two ends",
+      "A difference of about two hours in local time across the country",
+      "No difference at all"
+    ],
+    "answer": 2,
+    "hint": "Fifteen degrees is one hour, so thirty degrees is two.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "Which meridian lies exactly opposite the Prime Meridian?",
+    "options": [
+      "The 180° meridian",
+      "The 90° East meridian",
+      "The 360° meridian",
+      "The equator"
+    ],
+    "answer": 0,
+    "hint": "Together they form one complete circle around the Earth.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "A place is at 20° West. In which hemisphere does it lie?",
+    "options": [
+      "The Western Hemisphere",
+      "The Northern Hemisphere",
+      "The Southern Hemisphere",
+      "The Eastern Hemisphere"
+    ],
+    "answer": 0,
+    "hint": "West of Greenwich means the Western Hemisphere.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "Why are meridians useful for measuring time?",
+    "options": [
+      "Because the Sun travels along them",
+      "Because they are drawn on every clock",
+      "Because they mark the borders of countries",
+      "Because the Earth turns through a fixed number of degrees each hour"
+    ],
+    "answer": 3,
+    "hint": "The Earth turns 360° in 24 hours.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "Which two things together fix the exact position of any place on Earth?",
+    "options": [
+      "Its latitude and its height above sea level",
+      "Its longitude and its distance from the nearest city",
+      "Its latitude and its longitude",
+      "Its time zone and its climate"
+    ],
+    "answer": 2,
+    "hint": "One number gives north-south, the other east-west.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "Meridians are sometimes called lines of longitude. What does 'longitude' measure?",
+    "options": [
+      "The angular distance of a place east or west of the Prime Meridian",
+      "The distance of a place from the North Pole",
+      "The height of a place above the sea",
+      "The length of a country from end to end"
+    ],
+    "answer": 0,
+    "hint": "Like latitude, it is measured as an angle.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "Why does no place have a longitude of 200°?",
+    "options": [
+      "Because 200° would be inside the Earth",
+      "Because 200° falls in the ocean",
+      "Because such places are too far away",
+      "Because longitude is measured only up to 180° in each direction from Greenwich"
+    ],
+    "answer": 3,
+    "hint": "Beyond 180° east you have started coming back west.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "Two towns lie on the same meridian, one far north of the other. What do they share?",
+    "options": [
+      "The same length of day",
+      "The same latitude",
+      "The same climate",
+      "The same local time"
+    ],
+    "answer": 3,
+    "hint": "Local time depends on longitude alone.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "longitude-meridians",
+    "topicLabel": "Longitudes & the Prime Meridian",
+    "question": "What is a great circle?",
+    "options": [
+      "The orbit of the Earth around the Sun",
+      "A circle around the Tropic of Cancer",
+      "Any circle drawn on a globe",
+      "Any circle that divides the Earth into two equal halves"
+    ],
+    "answer": 3,
+    "hint": "The equator is one; so is any pair of opposite meridians joined together.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "What is the Earth grid?",
+    "options": [
+      "The network formed when parallels of latitude cross meridians of longitude",
+      "The pattern of ocean currents",
+      "The system of roads across a country",
+      "The framework holding a globe on its stand"
+    ],
+    "answer": 0,
+    "hint": "It is a net of imaginary lines used to locate places.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "When giving the position of a place, which is stated first?",
+    "options": [
+      "The latitude",
+      "The height above sea level",
+      "The longitude",
+      "Either may come first"
+    ],
+    "answer": 0,
+    "hint": "Latitude first, then longitude — north-south before east-west.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "A place is described as 19° N, 73° E. Where is it?",
+    "options": [
+      "North of the equator and west of Greenwich",
+      "South of the equator and west of Greenwich",
+      "On the equator itself",
+      "North of the equator and east of the Prime Meridian"
+    ],
+    "answer": 3,
+    "hint": "Read the two letters: N for the hemisphere, E for the side of Greenwich.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "Why is the grid necessary for a ship at sea?",
+    "options": [
+      "There are no landmarks, so a position can only be given as a pair of coordinates",
+      "Because the sea is flat",
+      "Because ships cannot use compasses",
+      "Because the sea has no water currents"
+    ],
+    "answer": 0,
+    "hint": "In mid-ocean, coordinates are the only address there is.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "Which of these gives a complete location?",
+    "options": [
+      "28° N",
+      "77° E",
+      "28° N, 77° E",
+      "28°, 77°"
+    ],
+    "answer": 2,
+    "hint": "You need both numbers and both directions.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "What would happen if a location gave only the latitude?",
+    "options": [
+      "The place would be exactly located anyway",
+      "The place could be anywhere along that whole circle around the Earth",
+      "The place would be at the North Pole",
+      "The place could not exist"
+    ],
+    "answer": 1,
+    "hint": "One number narrows it to a circle, not a point.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "How is a degree divided for a more exact position?",
+    "options": [
+      "Into 60 minutes, and each minute into 60 seconds",
+      "Into 100 parts called centidegrees",
+      "Into 10 parts called decidegrees",
+      "It cannot be divided"
+    ],
+    "answer": 0,
+    "hint": "It works like an hour on a clock.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "The standard meridian of India is 82° 30' E. What does the 30' mean?",
+    "options": [
+      "Thirty kilometres",
+      "Thirty degrees more",
+      "Thirty minutes, which is half a degree",
+      "Thirty seconds"
+    ],
+    "answer": 2,
+    "hint": "Sixty minutes make one degree, so 30' is a half.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "Which pair of coordinates would be found in the Southern Hemisphere?",
+    "options": [
+      "34° S, 18° E",
+      "0°, 18° E",
+      "34° N, 18° W",
+      "34° N, 18° E"
+    ],
+    "answer": 0,
+    "hint": "Look only at the first letter.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "Why do maps and globes both use the same grid?",
+    "options": [
+      "Because the grid shows political borders",
+      "So that a place has the same coordinates whichever one you use",
+      "Because it makes them cheaper to print",
+      "Because the lines are visible from space"
+    ],
+    "answer": 1,
+    "hint": "A shared system means a position can be exchanged between them.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "Two places have the same longitude but different latitudes. What follows?",
+    "options": [
+      "They share the same local time but not the same climate",
+      "They share the same climate but not the same time",
+      "They are the same place",
+      "They lie in different hemispheres"
+    ],
+    "answer": 0,
+    "hint": "Longitude governs time; latitude governs the Sun's angle.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "Where on the grid do all the meridians meet?",
+    "options": [
+      "At the two poles",
+      "At the Prime Meridian",
+      "They never meet",
+      "At the equator"
+    ],
+    "answer": 0,
+    "hint": "That is why a pole has a latitude but no useful longitude.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "Why does a place at the North Pole have no meaningful longitude?",
+    "options": [
+      "Because every meridian passes through it",
+      "Because nobody lives there",
+      "Because it is covered in ice",
+      "Because longitude stops at 66½°"
+    ],
+    "answer": 0,
+    "hint": "You cannot say which meridian you are on if you are on all of them.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "A search party is told a missing boat is at 12° N, 75° E. Why is this useful?",
+    "options": [
+      "It gives the boat's direction of travel",
+      "It tells them the weather at the spot",
+      "It tells them how deep the sea is there",
+      "It gives one exact point on the Earth's surface to search"
+    ],
+    "answer": 3,
+    "hint": "The grid turns 'somewhere in the Arabian Sea' into a point.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "What do we call the imaginary lines that run east to west around the globe?",
+    "options": [
+      "Meridians of longitude",
+      "Parallels of latitude",
+      "Time zones",
+      "Great circles"
+    ],
+    "answer": 1,
+    "hint": "They run east-west but measure north-south position.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "Why is it wrong to say the grid lines are real lines on the ground?",
+    "options": [
+      "They are imaginary; they exist only as a system of measurement",
+      "They are real but visible only from aircraft",
+      "They are real but painted only on the oceans",
+      "They are real boundaries between countries"
+    ],
+    "answer": 0,
+    "hint": "You could stand on the equator and see nothing on the ground.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "Which coordinate changes when you travel due north?",
+    "options": [
+      "Neither changes",
+      "The latitude",
+      "Both change equally",
+      "The longitude"
+    ],
+    "answer": 1,
+    "hint": "Travelling north means moving away from the equator.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "Which coordinate changes when you travel due west?",
+    "options": [
+      "Neither changes",
+      "Both change equally",
+      "The longitude",
+      "The latitude"
+    ],
+    "answer": 2,
+    "hint": "East and west are measured by longitude.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "How does a modern navigation system use the grid?",
+    "options": [
+      "It measures the distance to the nearest town",
+      "It does not use the grid at all",
+      "It reads the grid lines painted on the road",
+      "It calculates the receiver's latitude and longitude and shows it on a map"
+    ],
+    "answer": 3,
+    "hint": "Satellite navigation gives coordinates first, and the map is drawn from them.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "earth-grid",
+    "topicLabel": "The Earth Grid & Locating Places",
+    "question": "What is the strongest reason the world agreed on one grid system?",
+    "options": [
+      "So that every country could have its own meridian",
+      "To make geography lessons easier",
+      "Because the United Nations required it",
+      "So that a position stated in one country means exactly the same thing in every other"
+    ],
+    "answer": 3,
+    "hint": "Navigation across the world depends on a shared language of position.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "How many heat zones is the Earth divided into?",
+    "options": [
+      "Two kinds — hot and cold",
+      "Five kinds, one for each continent",
+      "Three kinds — the Torrid, the Temperate and the Frigid",
+      "Four kinds, one for each season"
+    ],
+    "answer": 2,
+    "hint": "There is one Torrid Zone, two Temperate and two Frigid.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "Between which two lines does the Torrid Zone lie?",
+    "options": [
+      "The equator and the Tropic of Cancer",
+      "The Tropic of Cancer and the Tropic of Capricorn",
+      "The Arctic Circle and the North Pole",
+      "The Arctic Circle and the Antarctic Circle"
+    ],
+    "answer": 1,
+    "hint": "It is the band on either side of the equator.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "Why is the Torrid Zone the hottest?",
+    "options": [
+      "It has the least cloud cover",
+      "The Sun is directly overhead there at least once a year, so its rays are most concentrated",
+      "It is the part of the Earth closest to the Sun",
+      "It receives sunlight for more hours than anywhere else"
+    ],
+    "answer": 1,
+    "hint": "The angle of the rays matters far more than the distance.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "Where does the North Temperate Zone lie?",
+    "options": [
+      "Between the two tropics",
+      "Between the Arctic Circle and the North Pole",
+      "Between the Tropic of Cancer and the Arctic Circle",
+      "Between the equator and the Tropic of Cancer"
+    ],
+    "answer": 2,
+    "hint": "Temperate means moderate — neither extreme.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "Where does the Frigid Zone of the north lie?",
+    "options": [
+      "Between the Tropic of Cancer and the Arctic Circle",
+      "Between the Arctic Circle and the North Pole",
+      "Around the whole of the Northern Hemisphere",
+      "Between the equator and the Tropic of Cancer"
+    ],
+    "answer": 1,
+    "hint": "Frigid means very cold.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "Why are the Frigid Zones so cold?",
+    "options": [
+      "They are covered in cloud all year",
+      "They are furthest from the Sun",
+      "The Sun's rays always strike them at a slant, so their heat is spread thinly",
+      "They never receive any sunlight at all"
+    ],
+    "answer": 2,
+    "hint": "A torch shone at a slant lights a larger, dimmer patch.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "In which heat zone does most of India lie?",
+    "options": [
+      "The South Frigid Zone",
+      "The South Temperate Zone",
+      "The North Frigid Zone",
+      "The Torrid Zone"
+    ],
+    "answer": 3,
+    "hint": "The Tropic of Cancer runs across the middle of the country.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "Which heat zone has the most moderate temperatures?",
+    "options": [
+      "The Frigid Zone",
+      "All are equally moderate",
+      "The Temperate Zone",
+      "The Torrid Zone"
+    ],
+    "answer": 2,
+    "hint": "The name gives it away.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "Why does the Sun never shine directly overhead in the Temperate Zones?",
+    "options": [
+      "Because the Earth's axis points away from them",
+      "Because the Sun is only ever overhead between the two tropics",
+      "Because those zones are always cloudy",
+      "Because they are too far from the equator to receive sunlight"
+    ],
+    "answer": 1,
+    "hint": "The tilt of 23½° sets the limit of the overhead Sun.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "What is the connection between the heat zones and the Earth's tilt?",
+    "options": [
+      "The tilt fixes the tropics and the polar circles, which are the boundaries of the zones",
+      "The tilt decides the temperature directly",
+      "There is no connection between them",
+      "The tilt creates the equator"
+    ],
+    "answer": 0,
+    "hint": "23½° and 66½° are both consequences of the same tilt.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "In the Frigid Zones, what unusual thing happens for part of the year?",
+    "options": [
+      "There is no sunlight at any time of year",
+      "The Sun rises in the west",
+      "Day and night are always equal",
+      "The Sun does not set for some weeks in summer, or does not rise for some weeks in winter"
+    ],
+    "answer": 3,
+    "hint": "This is why Norway is called the land of the midnight Sun.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "Which zone receives the most direct sunlight through the year?",
+    "options": [
+      "The Torrid Zone",
+      "The North Temperate Zone",
+      "The South Frigid Zone",
+      "All receive the same"
+    ],
+    "answer": 0,
+    "hint": "Direct means striking the ground close to straight down.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "A place lies at 50° North. Which zone is it in?",
+    "options": [
+      "The Torrid Zone",
+      "The North Temperate Zone",
+      "The South Temperate Zone",
+      "The North Frigid Zone"
+    ],
+    "answer": 1,
+    "hint": "It lies between 23½° N and 66½° N.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "A place lies at 70° South. Which zone is it in?",
+    "options": [
+      "The South Frigid Zone",
+      "The Torrid Zone",
+      "The South Temperate Zone",
+      "The North Frigid Zone"
+    ],
+    "answer": 0,
+    "hint": "It lies beyond the Antarctic Circle at 66½° S.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "Why do very few people live in the Frigid Zones?",
+    "options": [
+      "Governments do not allow settlement there",
+      "The zones are entirely covered by ocean",
+      "The extreme cold makes farming and ordinary life very difficult",
+      "There is no land in those zones"
+    ],
+    "answer": 2,
+    "hint": "Where nothing grows, few people settle.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "Which heat zone supports the greatest variety of plant life?",
+    "options": [
+      "All zones support the same variety",
+      "The Frigid Zone",
+      "The polar regions",
+      "The Torrid Zone, with its heat and heavy rainfall"
+    ],
+    "answer": 3,
+    "hint": "The great rainforests all lie in this band.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "How many Temperate Zones are there, and why?",
+    "options": [
+      "One, lying along the equator",
+      "Four, one for each season",
+      "Two — one in each hemisphere, between the tropic and the polar circle",
+      "Three, one for each continent"
+    ],
+    "answer": 2,
+    "hint": "The pattern of zones repeats on either side of the equator.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "Which line marks the boundary between the Torrid and the South Temperate Zone?",
+    "options": [
+      "The Tropic of Cancer",
+      "The Antarctic Circle",
+      "The equator",
+      "The Tropic of Capricorn"
+    ],
+    "answer": 3,
+    "hint": "It lies at 23½° South.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "Why is the heat zone of a place a better guide to its temperature than its longitude?",
+    "options": [
+      "Because the zone depends on latitude, which decides how directly the Sun's rays fall",
+      "Because longitude changes with the seasons",
+      "Because longitude decides the rainfall",
+      "Because longitude is harder to measure"
+    ],
+    "answer": 0,
+    "hint": "Longitude tells you the time, not the temperature.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "heat-zones",
+    "topicLabel": "Heat Zones of the Earth",
+    "question": "Two places lie at the same latitude but one is much colder. What could explain this?",
+    "options": [
+      "This is impossible",
+      "One may be far higher above sea level, or far from the sea",
+      "One must be in a different heat zone",
+      "One must be closer to the Sun"
+    ],
+    "answer": 1,
+    "hint": "Heat zones give the broad pattern; height and distance from the sea modify it.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "What is local time?",
+    "options": [
+      "The time kept by a local radio station",
+      "The time at a place decided by the position of the Sun in its sky",
+      "The time shown on a country's official clocks",
+      "The time at the Prime Meridian"
+    ],
+    "answer": 1,
+    "hint": "It is noon by local time when the Sun is highest.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "What is standard time?",
+    "options": [
+      "The time kept only by railways",
+      "The average of every local time in the world",
+      "One time chosen for a whole country or region, based on a single meridian",
+      "The time at the equator"
+    ],
+    "answer": 2,
+    "hint": "Without it, every town would keep a slightly different clock.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "Why do countries adopt a standard time instead of using local time everywhere?",
+    "options": [
+      "Because the Sun moves irregularly",
+      "Because different clocks in every town would make travel, trade and timetables impossible",
+      "Because clocks cannot be set accurately",
+      "Because local time cannot be measured"
+    ],
+    "answer": 1,
+    "hint": "Railways were the first to demand a single time.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "What does GMT stand for?",
+    "options": [
+      "Greenwich Modern Time",
+      "Global Measured Time",
+      "Greenwich Mean Time",
+      "General Meridian Time"
+    ],
+    "answer": 2,
+    "hint": "It is the time at the 0° meridian.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "Which meridian is used for Indian Standard Time?",
+    "options": [
+      "77° East",
+      "82° 30' East",
+      "0°",
+      "90° East"
+    ],
+    "answer": 1,
+    "hint": "It passes near Mirzapur in Uttar Pradesh.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "How far ahead of GMT is Indian Standard Time?",
+    "options": [
+      "4 hours 30 minutes",
+      "6 hours",
+      "5 hours",
+      "5 hours 30 minutes"
+    ],
+    "answer": 3,
+    "hint": "82°30' east of Greenwich, at 4 minutes per degree.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "Why is Indian Standard Time ahead of GMT rather than behind it?",
+    "options": [
+      "Because India lies east of Greenwich, and the Sun rises there earlier",
+      "Because India chose to be ahead",
+      "Because India is nearer the equator",
+      "Because India is a larger country than Britain"
+    ],
+    "answer": 0,
+    "hint": "East means earlier; the Earth turns from west to east.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "Which of these countries needs more than one standard time?",
+    "options": [
+      "Nepal, which lies in the mountains",
+      "India, which is narrow from east to west",
+      "Sri Lanka, which is very small",
+      "Russia, because it stretches across a very wide range of longitudes"
+    ],
+    "answer": 3,
+    "hint": "The wider a country from east to west, the more time zones it needs.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "India stretches about 30° from east to west, yet keeps one standard time. What is the result?",
+    "options": [
+      "The date differs between the two ends",
+      "The Sun rises about two hours earlier in the far east of India than in the far west",
+      "The Sun rises at the same moment everywhere in India",
+      "Clocks in the east run faster"
+    ],
+    "answer": 1,
+    "hint": "One clock across two hours of daylight.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "When it is noon by local time at a place, where is the Sun?",
+    "options": [
+      "Rising in the east",
+      "Directly over the equator",
+      "Setting in the west",
+      "At its highest point in the sky for that place"
+    ],
+    "answer": 3,
+    "hint": "Local noon is defined by the Sun, not by a clock.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "Two towns lie 1° of longitude apart. How much do their local times differ?",
+    "options": [
+      "4 minutes",
+      "15 minutes",
+      "1 minute",
+      "1 hour"
+    ],
+    "answer": 0,
+    "hint": "360° in 24 hours works out to 4 minutes per degree.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "Through how many degrees does the Earth turn in one hour?",
+    "options": [
+      "60°",
+      "15°",
+      "24°",
+      "180°"
+    ],
+    "answer": 1,
+    "hint": "360 divided by 24.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "What is UTC, which has largely replaced GMT in official use?",
+    "options": [
+      "Coordinated Universal Time, the world's time standard kept by atomic clocks",
+      "United Territories Clock",
+      "Universal Tropical Time",
+      "United Time Calculation"
+    ],
+    "answer": 0,
+    "hint": "For everyday purposes it matches GMT very closely.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "Why was Greenwich chosen as the reference for world time?",
+    "options": [
+      "Because the Sun is directly overhead there",
+      "Because Britain had the most clocks",
+      "Because it lies at the centre of the world's landmass",
+      "Because countries agreed on it, and its observatory was already widely used for navigation"
+    ],
+    "answer": 3,
+    "hint": "Agreement mattered more than geography.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "A place lies at 30° East. How far ahead of GMT is its local time?",
+    "options": [
+      "2 hours",
+      "1 hour",
+      "3 hours",
+      "30 minutes"
+    ],
+    "answer": 0,
+    "hint": "30 divided by 15 gives the hours.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "A place lies at 45° West. What is its local time when it is 12 noon GMT?",
+    "options": [
+      "3 p.m.",
+      "12 noon",
+      "6 a.m.",
+      "9 a.m."
+    ],
+    "answer": 3,
+    "hint": "45° west is 3 hours behind, so subtract 3 hours.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "What is the purpose of dividing the world into time zones?",
+    "options": [
+      "To mark the borders between countries",
+      "To measure the size of the Earth",
+      "So that clocks over a wide area can agree while still roughly matching the Sun",
+      "To decide which countries are richer"
+    ],
+    "answer": 2,
+    "hint": "It is a compromise between the Sun and the convenience of one clock.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "Roughly how wide is one standard time zone?",
+    "options": [
+      "30° of longitude",
+      "15° of longitude",
+      "60° of longitude",
+      "1° of longitude"
+    ],
+    "answer": 1,
+    "hint": "Fifteen degrees is one hour of the Earth's turning.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "Why do some time zones follow crooked lines rather than meridians?",
+    "options": [
+      "Because the Earth's rotation is uneven",
+      "So that a country or region can keep a single time rather than being split in two",
+      "Because meridians are hard to draw",
+      "Because oceans have no time zones"
+    ],
+    "answer": 1,
+    "hint": "The map is bent to fit human convenience.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "local-standard-time",
+    "topicLabel": "Local Time, Standard Time & GMT",
+    "question": "If a country adopted the local time of its western edge, what would happen in the east?",
+    "options": [
+      "The Sun would rise there noticeably earlier than the clocks suggested",
+      "Nothing would be different",
+      "The Sun would not rise at all",
+      "The date would change"
+    ],
+    "answer": 0,
+    "hint": "The clock would lag behind the Sun in the east.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "The Earth turns 360° in 24 hours. How many degrees is that per hour?",
+    "options": [
+      "12°",
+      "15°",
+      "60°",
+      "24°"
+    ],
+    "answer": 1,
+    "hint": "360 ÷ 24 = 15.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "How long does the Earth take to turn through 1° of longitude?",
+    "options": [
+      "1 minute",
+      "24 minutes",
+      "15 minutes",
+      "4 minutes"
+    ],
+    "answer": 3,
+    "hint": "60 minutes ÷ 15° = 4 minutes per degree.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "It is 12 noon at Greenwich. What is the local time at 15° East?",
+    "options": [
+      "12 noon",
+      "1 p.m.",
+      "11 a.m.",
+      "2 p.m."
+    ],
+    "answer": 1,
+    "hint": "15° east is one hour ahead, so add an hour.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "It is 12 noon at Greenwich. What is the local time at 30° West?",
+    "options": [
+      "2 p.m.",
+      "10 a.m.",
+      "9 a.m.",
+      "11 a.m."
+    ],
+    "answer": 1,
+    "hint": "30 ÷ 15 = 2 hours, and west means behind, so subtract.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "It is 6 a.m. at Greenwich. What is the local time at 45° East?",
+    "options": [
+      "9 a.m.",
+      "3 a.m.",
+      "9 p.m.",
+      "10 a.m."
+    ],
+    "answer": 0,
+    "hint": "45 ÷ 15 = 3 hours ahead.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "Two places are 20° of longitude apart. What is the difference in their local times?",
+    "options": [
+      "2 hours",
+      "1 hour 20 minutes",
+      "1 hour",
+      "20 minutes"
+    ],
+    "answer": 1,
+    "hint": "20 × 4 minutes = 80 minutes.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "Two places are 7° of longitude apart. What is the difference in their local times?",
+    "options": [
+      "28 minutes",
+      "7 minutes",
+      "1 hour 7 minutes",
+      "14 minutes"
+    ],
+    "answer": 0,
+    "hint": "7 × 4 = 28 minutes.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "A place lies at 75° East. How far ahead of GMT is its local time?",
+    "options": [
+      "4 hours",
+      "5 hours",
+      "5 hours 30 minutes",
+      "6 hours"
+    ],
+    "answer": 1,
+    "hint": "75 ÷ 15 = 5.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "Why is Indian Standard Time 5 hours 30 minutes ahead of GMT?",
+    "options": [
+      "Because India is a large country",
+      "Because its standard meridian is 82° 30' East, and 82½ × 4 minutes is 5 hours 30 minutes",
+      "Because India lies north of the equator",
+      "Because India chose a convenient half hour"
+    ],
+    "answer": 1,
+    "hint": "Multiply the degrees by four minutes and convert to hours.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "It is 12 noon at 20° East. What is the local time at 50° East?",
+    "options": [
+      "1 p.m.",
+      "2 p.m.",
+      "10 a.m.",
+      "3 p.m."
+    ],
+    "answer": 1,
+    "hint": "The difference is 30°, which is 2 hours, and the second place is further east.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "It is 3 p.m. at 60° East. What is the local time at 15° East?",
+    "options": [
+      "11 a.m.",
+      "12 noon",
+      "6 p.m.",
+      "1 p.m."
+    ],
+    "answer": 1,
+    "hint": "The difference is 45°, which is 3 hours, and the second place is further west.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "A place has a local time 3 hours behind GMT. What is its longitude?",
+    "options": [
+      "3° West",
+      "45° East",
+      "15° West",
+      "45° West"
+    ],
+    "answer": 3,
+    "hint": "3 hours × 15° = 45°, and behind GMT means west.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "A place has a local time 2 hours ahead of GMT. What is its longitude?",
+    "options": [
+      "30° West",
+      "2° East",
+      "15° East",
+      "30° East"
+    ],
+    "answer": 3,
+    "hint": "2 × 15 = 30, and ahead means east.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "Why does the local time change as you travel east or west but not as you travel north or south?",
+    "options": [
+      "Because latitude lines are longer",
+      "Because the Earth turns about its axis from west to east, so only longitude affects the Sun's timing",
+      "Because the Earth is wider from east to west",
+      "Because clocks are made to work that way"
+    ],
+    "answer": 1,
+    "hint": "Travelling along a meridian keeps you in the same rotational position.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "Which place sees the Sun rise first: one at 90° East or one at 60° East?",
+    "options": [
+      "Both see it at the same moment",
+      "It depends on the season only",
+      "The place at 60° East",
+      "The place at 90° East"
+    ],
+    "answer": 3,
+    "hint": "The Earth turns eastward, so eastern places meet the Sun first.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "It is 12 noon local time at 82° 30' East. What is the time at Greenwich?",
+    "options": [
+      "5:30 p.m.",
+      "6:30 a.m.",
+      "5:30 a.m.",
+      "6:30 p.m."
+    ],
+    "answer": 1,
+    "hint": "Subtract 5 hours 30 minutes from noon.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "How many minutes does the local time change for every 5° of longitude?",
+    "options": [
+      "5 minutes",
+      "20 minutes",
+      "15 minutes",
+      "1 hour"
+    ],
+    "answer": 1,
+    "hint": "5 × 4 minutes.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "A town lies 1° 30' east of its country's standard meridian. How far ahead is its local time of standard time?",
+    "options": [
+      "4 minutes",
+      "6 minutes",
+      "90 minutes",
+      "1 minute 30 seconds"
+    ],
+    "answer": 1,
+    "hint": "1½ degrees × 4 minutes = 6 minutes.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "Why do time calculations use longitude rather than the distance in kilometres?",
+    "options": [
+      "Because longitude is easier to spell",
+      "Because kilometres are too small a unit",
+      "Because distance cannot be measured at sea",
+      "Because the Earth's rotation is measured in degrees, and a degree covers different distances at different latitudes"
+    ],
+    "answer": 3,
+    "hint": "A degree of longitude is much shorter near the poles than at the equator.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-from-longitude",
+    "topicLabel": "Calculating Time from Longitude",
+    "question": "If the Earth turned twice as fast, how long would one degree of longitude take?",
+    "options": [
+      "1 minute",
+      "4 minutes",
+      "8 minutes",
+      "2 minutes"
+    ],
+    "answer": 3,
+    "hint": "A full turn in 12 hours would halve every time interval.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "Indian Standard Time is UTC +5:30 and Eastern Standard Time is UTC −5:00. How far ahead of EST is IST?",
+    "options": [
+      "9 hours 30 minutes",
+      "5 hours 30 minutes",
+      "10 hours",
+      "10 hours 30 minutes"
+    ],
+    "answer": 3,
+    "hint": "5:30 ahead of the line plus 5:00 behind it makes 10:30 between them.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "It is 9:00 a.m. EST in New York. What is the time in India?",
+    "options": [
+      "11:30 a.m. the same day",
+      "10:30 p.m. the same day",
+      "7:30 a.m. the same day",
+      "7:30 p.m. the same day"
+    ],
+    "answer": 3,
+    "hint": "Add 10 hours 30 minutes to 9:00 a.m.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "It is 10:00 p.m. EST on Monday in New York. What is the date and time in India?",
+    "options": [
+      "8:30 a.m. on Monday",
+      "8:30 a.m. on Tuesday",
+      "8:30 p.m. on Tuesday",
+      "11:30 a.m. on Tuesday"
+    ],
+    "answer": 1,
+    "hint": "Adding 10:30 to 10 p.m. carries past midnight into the next day.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "It is 6:00 p.m. IST in Delhi. What is the time in New York on EST?",
+    "options": [
+      "7:30 p.m. the same day",
+      "8:30 a.m. the same day",
+      "4:30 a.m. the same day",
+      "7:30 a.m. the same day"
+    ],
+    "answer": 3,
+    "hint": "Subtract 10 hours 30 minutes from 6 p.m.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "It is 12 noon GMT in London. What is the time in India?",
+    "options": [
+      "7:30 p.m.",
+      "5:30 a.m.",
+      "6:30 p.m.",
+      "5:30 p.m."
+    ],
+    "answer": 3,
+    "hint": "India is 5 hours 30 minutes ahead of GMT.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "Japan Standard Time is UTC +9:00. It is 9:00 a.m. IST in Mumbai. What is the time in Tokyo?",
+    "options": [
+      "6:00 p.m.",
+      "11:30 a.m.",
+      "5:30 a.m.",
+      "12:30 p.m."
+    ],
+    "answer": 3,
+    "hint": "Tokyo is 3 hours 30 minutes ahead of India.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "Dubai keeps UTC +4:00. It is 11:00 a.m. IST. What is the time in Dubai?",
+    "options": [
+      "9:30 a.m.",
+      "12:30 p.m.",
+      "7:00 a.m.",
+      "10:30 a.m."
+    ],
+    "answer": 0,
+    "hint": "Dubai is 1 hour 30 minutes behind India.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "A cricket match starts at 2:30 p.m. local time in London (GMT). When should a viewer in India switch on?",
+    "options": [
+      "8:00 p.m. IST",
+      "7:00 p.m. IST",
+      "10:00 p.m. IST",
+      "9:00 a.m. IST"
+    ],
+    "answer": 0,
+    "hint": "Add 5 hours 30 minutes to 2:30 p.m.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "Why is the difference between India and many countries a whole number of hours plus thirty minutes?",
+    "options": [
+      "Because India is close to the equator",
+      "Because India's standard meridian is at 82° 30' East, half a degree past a multiple of 15",
+      "Because the Earth slows down over India",
+      "Because India uses a different kind of clock"
+    ],
+    "answer": 1,
+    "hint": "Most standard meridians are multiples of 15°; India's is not.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "A flight leaves Delhi at 2:00 a.m. IST and takes 9 hours to reach London. What is the local time on arrival?",
+    "options": [
+      "2:00 p.m. GMT",
+      "5:30 p.m. GMT",
+      "11:00 a.m. GMT",
+      "5:30 a.m. GMT"
+    ],
+    "answer": 3,
+    "hint": "Arrival is 11:00 a.m. IST; subtract 5 hours 30 minutes for London.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "Nepal keeps UTC +5:45. How far ahead of Indian Standard Time is Nepal?",
+    "options": [
+      "15 minutes",
+      "45 minutes",
+      "1 hour",
+      "30 minutes"
+    ],
+    "answer": 0,
+    "hint": "5:45 minus 5:30.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "Which of these countries is BEHIND GMT?",
+    "options": [
+      "Australia",
+      "India",
+      "The United States",
+      "Japan"
+    ],
+    "answer": 2,
+    "hint": "It lies west of Greenwich.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "A student in India wants to call a friend in New York at 9:00 a.m. New York time. When should she call?",
+    "options": [
+      "7:30 p.m. IST",
+      "7:30 a.m. IST",
+      "10:30 a.m. IST",
+      "11:30 p.m. IST"
+    ],
+    "answer": 0,
+    "hint": "Convert the New York time to IST by adding 10 hours 30 minutes.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "Why must the date sometimes change when converting between time zones?",
+    "options": [
+      "Because the Earth changes speed at night",
+      "Because adding or subtracting the difference can carry the time past midnight",
+      "Because calendars differ between countries",
+      "Because time zones are not fixed"
+    ],
+    "answer": 1,
+    "hint": "The clock passes 12 midnight and the day rolls over.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "It is 11:00 p.m. IST on Friday in Chennai. What is the day and time in London (GMT)?",
+    "options": [
+      "5:30 p.m. on Friday",
+      "4:30 p.m. on Friday",
+      "5:30 p.m. on Saturday",
+      "5:30 a.m. on Saturday"
+    ],
+    "answer": 0,
+    "hint": "Subtract 5 hours 30 minutes; it does not cross midnight backwards here.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "What does UTC +5:30 written beside a city mean?",
+    "options": [
+      "It lies at 5.30° East",
+      "It is 5,530 kilometres from Greenwich",
+      "Its day is 5 hours 30 minutes longer",
+      "Its clocks are set 5 hours 30 minutes ahead of the world time standard"
+    ],
+    "answer": 3,
+    "hint": "The offset is a clock setting, not a distance.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "Australia's eastern states keep UTC +10:00. It is 6:00 a.m. IST. What is the time in Sydney?",
+    "options": [
+      "11:30 a.m.",
+      "10:30 a.m.",
+      "1:30 a.m.",
+      "4:30 p.m."
+    ],
+    "answer": 1,
+    "hint": "Sydney is 4 hours 30 minutes ahead of India.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "Some countries move their clocks forward in summer. What is this called?",
+    "options": [
+      "Equinox time",
+      "Longitude adjustment",
+      "Daylight saving time",
+      "Standard time correction"
+    ],
+    "answer": 2,
+    "hint": "It shifts the offset by an hour for part of the year.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "Why does India not use daylight saving time?",
+    "options": [
+      "Because India lies near the tropics, where the length of daylight changes little through the year",
+      "Because Indian clocks cannot be adjusted",
+      "Because India has only one time zone",
+      "Because it is forbidden by the Constitution"
+    ],
+    "answer": 0,
+    "hint": "Daylight saving is most useful far from the equator.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "time-conversion",
+    "topicLabel": "Converting Between Time Zones",
+    "question": "What is the safest first step when converting a time between two zones?",
+    "options": [
+      "Work out the difference between the two offsets from UTC",
+      "Measure the distance in kilometres",
+      "Check the latitude of both places",
+      "Count the number of countries in between"
+    ],
+    "answer": 0,
+    "hint": "Both offsets are measured from the same starting point, so their difference is the answer.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "Which meridian does the International Date Line roughly follow?",
+    "options": [
+      "The 180° meridian",
+      "The 90° East meridian",
+      "The Prime Meridian",
+      "The equator"
+    ],
+    "answer": 0,
+    "hint": "It lies halfway round the world from Greenwich.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "Why does the International Date Line bend instead of following the 180° meridian exactly?",
+    "options": [
+      "Because ships cannot sail in a straight line",
+      "Because the Earth's surface is uneven there",
+      "So that it does not cut through countries and island groups, splitting them between two dates",
+      "Because the meridian moves through the year"
+    ],
+    "answer": 2,
+    "hint": "A country with two different dates would be very awkward to run.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "A traveller crosses the Date Line going eastwards, from Japan towards America. What happens to the date?",
+    "options": [
+      "It moves forward by two days",
+      "It is put back by one day, so the same date is lived twice",
+      "It stays exactly the same",
+      "It moves forward by one day"
+    ],
+    "answer": 1,
+    "hint": "Going east across the line, you repeat a day.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "A traveller crosses the Date Line going westwards, from America towards Asia. What happens to the date?",
+    "options": [
+      "It is put back by two days",
+      "It moves forward by one day, so a day is skipped",
+      "It is put back by one day",
+      "It stays exactly the same"
+    ],
+    "answer": 1,
+    "hint": "Going west across the line, a day disappears from the calendar.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "A ship crosses the Date Line westwards on Monday. What is the date on board just afterwards?",
+    "options": [
+      "Wednesday",
+      "Still Monday",
+      "Sunday",
+      "Tuesday"
+    ],
+    "answer": 3,
+    "hint": "Westward crossing adds a day.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "A ship crosses the Date Line eastwards on Wednesday. What is the date on board just afterwards?",
+    "options": [
+      "Monday",
+      "Thursday",
+      "Still Wednesday",
+      "Tuesday"
+    ],
+    "answer": 3,
+    "hint": "Eastward crossing takes a day off the date.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "Why is a date line needed at all?",
+    "options": [
+      "Because clocks stop working at 180°",
+      "Because the Sun does not shine at 180°",
+      "Because travelling right round the Earth gains or loses a whole day unless the date is corrected somewhere",
+      "Because ships need a place to rest"
+    ],
+    "answer": 2,
+    "hint": "Twenty-four hours are gained across twenty-four time zones.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "Two islands lie close together but on opposite sides of the Date Line. What is true of them?",
+    "options": [
+      "One of them has no date at all",
+      "Their clocks differ by twelve hours exactly",
+      "Their clocks may show a similar hour but their calendars show different dates",
+      "They always share the same date"
+    ],
+    "answer": 2,
+    "hint": "It can be Monday morning on one and Sunday morning on the other.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "Which of these is the Date Line NOT?",
+    "options": [
+      "A line of latitude",
+      "A line running roughly north to south",
+      "A line that bends around island groups",
+      "A line agreed by international convention"
+    ],
+    "answer": 0,
+    "hint": "It follows a meridian, not a parallel.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "A traveller flying west from Los Angeles to Tokyo leaves on Friday. What is likely on arrival?",
+    "options": [
+      "It is still Friday",
+      "It is Sunday",
+      "It is Thursday",
+      "It is Saturday, because the Date Line was crossed westwards"
+    ],
+    "answer": 3,
+    "hint": "Westward across the line, add a day.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "Why do people say a traveller 'gains a day' going eastwards across the line?",
+    "options": [
+      "Because the date is put back, so they experience the same date a second time",
+      "Because the journey becomes shorter",
+      "Because the aircraft flies faster",
+      "Because they arrive before they left in real time"
+    ],
+    "answer": 0,
+    "hint": "Nothing is really gained but a repeated calendar date.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "Where in the world does a new calendar day begin first?",
+    "options": [
+      "Just west of the International Date Line",
+      "At the North Pole",
+      "At the equator",
+      "At Greenwich"
+    ],
+    "answer": 0,
+    "hint": "Countries such as Kiribati and New Zealand greet each new day early.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "The Date Line runs mostly through which kind of surface?",
+    "options": [
+      "The Atlantic Ocean",
+      "Central Asia",
+      "Africa",
+      "The Pacific Ocean"
+    ],
+    "answer": 3,
+    "hint": "That is largely why 180° was a convenient choice.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "How is the Date Line different from a time zone boundary?",
+    "options": [
+      "It changes the year rather than the day",
+      "Crossing it changes the date, not only the hour on the clock",
+      "It is not crossed by any traveller",
+      "Crossing it changes only the hour"
+    ],
+    "answer": 1,
+    "hint": "Ordinary zone boundaries move the clock; this one moves the calendar.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "A pilot crosses the Date Line eastwards at 10 a.m. on Sunday. What is the time and day immediately after?",
+    "options": [
+      "10 a.m. on Monday",
+      "10 p.m. on Sunday",
+      "10 p.m. on Saturday",
+      "10 a.m. on Saturday"
+    ],
+    "answer": 3,
+    "hint": "The hour stays about the same; the date steps back.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "Who decided where the International Date Line should run?",
+    "options": [
+      "It was decided by the ships that first sailed there",
+      "It was fixed by the United Nations in 1945",
+      "It follows a natural feature of the Earth",
+      "Countries agreed on it by international convention"
+    ],
+    "answer": 3,
+    "hint": "Like the Prime Meridian, it exists by agreement.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "Why can some Pacific nations choose which side of the Date Line to sit on?",
+    "options": [
+      "Because they have no fixed time zone",
+      "Because they lie exactly on the equator",
+      "Because the line moves naturally each year",
+      "Because the line is drawn to suit countries, and a nation may ask for it to bend around it"
+    ],
+    "answer": 3,
+    "hint": "Some islands have changed sides to share a working week with trading partners.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "Sailing around the world westwards without correcting the date, what would a crew find on return?",
+    "options": [
+      "Their calendar would be one day behind",
+      "Their clocks would show a different hour but the same date",
+      "Their calendar would be one day ahead of the port they returned to",
+      "Their calendar would match exactly"
+    ],
+    "answer": 2,
+    "hint": "This puzzle was noticed by the first crews to sail around the world.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "What is the relationship between the Date Line and the 180° meridian?",
+    "options": [
+      "The line follows the meridian broadly, but deviates from it in several places",
+      "They are exactly the same line everywhere",
+      "They are entirely unrelated",
+      "The line runs at right angles to the meridian"
+    ],
+    "answer": 0,
+    "hint": "Roughly the same, deliberately not exactly.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "date-line",
+    "topicLabel": "The International Date Line",
+    "question": "What is the simplest rule to remember about the Date Line?",
+    "options": [
+      "Going west, take a day off; going east, add one",
+      "The date always moves forward",
+      "Going west, add a day; going east, take one off",
+      "The date never changes at all"
+    ],
+    "answer": 2,
+    "hint": "West adds, east subtracts.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "What is the rotation of the Earth?",
+    "options": [
+      "The movement of the Earth around the Sun",
+      "The movement of the Moon around the Earth",
+      "The wobble of the Earth's axis over centuries",
+      "The spinning of the Earth on its own axis"
+    ],
+    "answer": 3,
+    "hint": "One rotation takes about 24 hours.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "What is the revolution of the Earth?",
+    "options": [
+      "The spinning of the Earth on its axis",
+      "The movement of the Earth around the Sun",
+      "The change from day to night",
+      "The rise and fall of the tides"
+    ],
+    "answer": 1,
+    "hint": "One revolution takes about 365¼ days.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "In which direction does the Earth rotate?",
+    "options": [
+      "From south to north",
+      "From east to west",
+      "From west to east",
+      "From north to south"
+    ],
+    "answer": 2,
+    "hint": "That is why the Sun appears to rise in the east.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "What does rotation cause?",
+    "options": [
+      "The phases of the Moon",
+      "The tilt of the axis",
+      "Day and night",
+      "The seasons"
+    ],
+    "answer": 2,
+    "hint": "Half the Earth faces the Sun at any moment.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "What does revolution, together with the tilt, cause?",
+    "options": [
+      "The seasons",
+      "The Earth's magnetic field",
+      "Earthquakes",
+      "Day and night"
+    ],
+    "answer": 0,
+    "hint": "As the Earth travels, first one hemisphere leans towards the Sun, then the other.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "How long does one rotation of the Earth take?",
+    "options": [
+      "About 12 hours",
+      "About 24 hours",
+      "About 365 days",
+      "About one month"
+    ],
+    "answer": 1,
+    "hint": "That is what we call a day.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "How long does one revolution of the Earth take?",
+    "options": [
+      "About 24 hours",
+      "About 100 days",
+      "About 365¼ days",
+      "About 30 days"
+    ],
+    "answer": 2,
+    "hint": "The quarter day is why we need leap years.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "Why do we have a leap year every four years?",
+    "options": [
+      "Because the Earth slows down every fourth year",
+      "Because the calendar was designed that way for convenience",
+      "Because the extra quarter of a day each year adds up to one whole day in four years",
+      "Because February is a short month"
+    ],
+    "answer": 2,
+    "hint": "Four quarters make one whole.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "How many days are there in a leap year?",
+    "options": [
+      "366",
+      "364",
+      "365",
+      "367"
+    ],
+    "answer": 0,
+    "hint": "The extra day is added to February.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "What is the circle of illumination?",
+    "options": [
+      "The path of the Earth around the Sun",
+      "The equator",
+      "The circle that separates the lit half of the Earth from the dark half",
+      "The ring of light around the Moon"
+    ],
+    "answer": 2,
+    "hint": "It moves across the Earth as the planet turns.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "Why does the Sun appear to move across the sky during the day?",
+    "options": [
+      "Because the Sun orbits the Earth once a day",
+      "Because the Earth is turning, not because the Sun is moving around us",
+      "Because the atmosphere bends the light",
+      "Because the Earth moves around the Sun each day"
+    ],
+    "answer": 1,
+    "hint": "The motion you see is your own.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "If the Earth stopped rotating but continued to revolve, what would happen?",
+    "options": [
+      "The Earth would fall into the Sun",
+      "One side would have a very long day and the other a very long night",
+      "There would be no seasons",
+      "Nothing would change"
+    ],
+    "answer": 1,
+    "hint": "Day and night come from rotation.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "What is the shape of the Earth's orbit around the Sun?",
+    "options": [
+      "A perfect circle",
+      "A figure of eight",
+      "A straight line",
+      "An ellipse, slightly stretched rather than a perfect circle"
+    ],
+    "answer": 3,
+    "hint": "This is why the distance to the Sun varies a little through the year.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "Which motion of the Earth is responsible for the pattern of a working day and a night's sleep?",
+    "options": [
+      "The Moon's orbit",
+      "Revolution",
+      "Rotation",
+      "The tilt of the axis"
+    ],
+    "answer": 2,
+    "hint": "A single spin gives one day and one night.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "The Earth is closest to the Sun in early January. What does this tell us about the seasons?",
+    "options": [
+      "That January is the hottest month everywhere",
+      "That distance is the main cause of the seasons",
+      "That the seasons are caused by the tilt of the axis, not by distance from the Sun",
+      "That the Northern Hemisphere has summer in January"
+    ],
+    "answer": 2,
+    "hint": "January is winter in the north, yet the Earth is nearest the Sun.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "What is meant by the Earth's orbit?",
+    "options": [
+      "The path the Earth follows around the Sun",
+      "The equator",
+      "The imaginary line through its poles",
+      "The circle of illumination"
+    ],
+    "answer": 0,
+    "hint": "One journey along it is one year.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "Why does the axis stay pointing in the same direction as the Earth travels round the Sun?",
+    "options": [
+      "The axis changes direction every season",
+      "The axis turns to follow the Sun",
+      "The axis points at the Sun all year",
+      "The tilt is fixed, so the same end of the axis leans towards the Sun at one point in the orbit and away at the opposite point"
+    ],
+    "answer": 3,
+    "hint": "A fixed tilt plus a journey around the Sun is what produces the seasons.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "Which is faster in terms of the time taken to complete: one rotation or one revolution?",
+    "options": [
+      "It depends on the season",
+      "One revolution, which takes a day",
+      "One rotation, which takes a day rather than a year",
+      "They take the same time"
+    ],
+    "answer": 2,
+    "hint": "A day against a year.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "What would happen to the calendar if we ignored the extra quarter day each year?",
+    "options": [
+      "The Earth would revolve faster",
+      "The seasons would slowly drift away from their usual months",
+      "Nothing would change",
+      "Days would become shorter"
+    ],
+    "answer": 1,
+    "hint": "A quarter day a year becomes about 25 days in a century.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "rotation-revolution",
+    "topicLabel": "Rotation & Revolution",
+    "question": "Which statement correctly distinguishes the two motions?",
+    "options": [
+      "Rotation is around the Sun; revolution is about the axis",
+      "Rotation is about the axis and gives day and night; revolution is around the Sun and gives the year",
+      "Both are about the axis",
+      "Both are around the Sun"
+    ],
+    "answer": 1,
+    "hint": "Spin against journey.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "What causes the seasons?",
+    "options": [
+      "Changes in the Sun's own heat",
+      "The changing distance between the Earth and the Sun",
+      "The rotation of the Earth on its axis",
+      "The tilt of the Earth's axis combined with its revolution around the Sun"
+    ],
+    "answer": 3,
+    "hint": "Tilt plus journey — distance has very little to do with it.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "On 21 June, over which line is the Sun directly overhead?",
+    "options": [
+      "The Tropic of Cancer",
+      "The equator",
+      "The Arctic Circle",
+      "The Tropic of Capricorn"
+    ],
+    "answer": 0,
+    "hint": "The Northern Hemisphere is tilted towards the Sun on that date.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "What is 21 June called in the Northern Hemisphere?",
+    "options": [
+      "The summer solstice",
+      "The spring equinox",
+      "The autumn equinox",
+      "The winter solstice"
+    ],
+    "answer": 0,
+    "hint": "It brings the longest day of the year in the north.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "On 22 December, over which line is the Sun directly overhead?",
+    "options": [
+      "The equator",
+      "The Antarctic Circle",
+      "The Tropic of Cancer",
+      "The Tropic of Capricorn"
+    ],
+    "answer": 3,
+    "hint": "The Southern Hemisphere is tilted towards the Sun then.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "What season is it in Australia in December?",
+    "options": [
+      "There are no seasons there",
+      "Winter",
+      "Summer",
+      "Autumn"
+    ],
+    "answer": 2,
+    "hint": "The Southern Hemisphere has opposite seasons to the Northern.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "What happens on 21 March and 23 September?",
+    "options": [
+      "The Sun is overhead at the Tropic of Cancer",
+      "The Earth is closest to the Sun",
+      "The Sun shines directly over the equator and day and night are nearly equal everywhere",
+      "The Sun does not rise at the poles"
+    ],
+    "answer": 2,
+    "hint": "Equinox means equal night.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "What is 21 March called in the Northern Hemisphere?",
+    "options": [
+      "The winter solstice",
+      "The spring equinox",
+      "The summer solstice",
+      "The autumn equinox"
+    ],
+    "answer": 1,
+    "hint": "23 September is the autumn equinox in the north.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "What does the word 'equinox' mean?",
+    "options": [
+      "Shortest day",
+      "Longest day",
+      "Equal night",
+      "Middle of summer"
+    ],
+    "answer": 2,
+    "hint": "Day and night are of nearly equal length.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "What does the word 'solstice' refer to?",
+    "options": [
+      "The moment when day and night are equal",
+      "The start of the calendar year",
+      "The day the Earth is closest to the Sun",
+      "The point in the year when the Sun reaches its furthest position north or south"
+    ],
+    "answer": 3,
+    "hint": "After a solstice the Sun's overhead point turns back the other way.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "When it is summer in the Northern Hemisphere, what is happening in the Southern Hemisphere?",
+    "options": [
+      "There is no season at all",
+      "It is also summer",
+      "It is winter",
+      "It is spring"
+    ],
+    "answer": 2,
+    "hint": "The two hemispheres are always in opposite seasons.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "Why is the Sun never overhead in London?",
+    "options": [
+      "Because London lies well north of the Tropic of Cancer",
+      "Because London is too cloudy",
+      "Because London lies in the Frigid Zone",
+      "Because London is west of Greenwich"
+    ],
+    "answer": 0,
+    "hint": "The overhead Sun never travels beyond the tropics.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "On the summer solstice, what happens beyond the Arctic Circle?",
+    "options": [
+      "The Sun does not rise at all",
+      "The Sun does not set for the whole twenty-four hours",
+      "The Sun is directly overhead",
+      "Day and night are exactly equal"
+    ],
+    "answer": 1,
+    "hint": "This is the midnight Sun.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "On 22 December, what happens beyond the Arctic Circle?",
+    "options": [
+      "The Sun does not set at all",
+      "The Sun is overhead at noon",
+      "The Sun does not rise for the whole twenty-four hours",
+      "Day and night are equal"
+    ],
+    "answer": 2,
+    "hint": "It is the opposite of the June situation.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "Which hemisphere has its longest day on 22 December?",
+    "options": [
+      "The Northern Hemisphere",
+      "The Southern Hemisphere",
+      "Neither",
+      "Both equally"
+    ],
+    "answer": 1,
+    "hint": "It is the southern summer solstice.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "Why does a hemisphere tilted towards the Sun become warmer?",
+    "options": [
+      "The atmosphere becomes thinner",
+      "It moves much closer to the Sun",
+      "Its rays fall more directly and it has more hours of daylight",
+      "The Sun gives out more heat then"
+    ],
+    "answer": 2,
+    "hint": "Two effects together: angle and length of day.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "How many seasons does the standard four-season pattern have, and what are they?",
+    "options": [
+      "Six, one for every two months",
+      "Four — spring, summer, autumn and winter",
+      "Two — summer and winter only",
+      "Three — summer, monsoon and winter"
+    ],
+    "answer": 1,
+    "hint": "India's own traditional calendar recognises six, but the globe's pattern is four.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "On an equinox, how long is the day at the equator?",
+    "options": [
+      "About twenty-four hours",
+      "About six hours",
+      "About twelve hours, as it is there all year",
+      "It varies greatly"
+    ],
+    "answer": 2,
+    "hint": "The equator has near-equal day and night throughout the year.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "Why is the hottest weather in a place usually a few weeks after the summer solstice?",
+    "options": [
+      "Because the tilt increases in July",
+      "Because the land and sea take time to warm up after the days are longest",
+      "Because the Earth moves closer to the Sun afterwards",
+      "Because the solstice date is calculated wrongly"
+    ],
+    "answer": 1,
+    "hint": "Heat builds up gradually, like a pan left on a low flame.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "A student says the seasons happen because the Earth is nearer the Sun in summer. Why is this wrong?",
+    "options": [
+      "Because summer happens at the same time everywhere",
+      "Both hemispheres would then have summer at the same time, and they do not",
+      "Because the Sun does not give out heat",
+      "Because the Earth's distance from the Sun never changes"
+    ],
+    "answer": 1,
+    "hint": "December is summer in Australia and winter in India, on the same day.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "seasons-solstices",
+    "topicLabel": "Seasons, Solstices & Equinoxes",
+    "question": "Which of these dates has the Sun overhead at the equator?",
+    "options": [
+      "21 June",
+      "1 January",
+      "22 December",
+      "23 September"
+    ],
+    "answer": 3,
+    "hint": "It is one of the two equinoxes.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "Where on Earth are day and night nearly equal all through the year?",
+    "options": [
+      "At the equator",
+      "At the Tropic of Cancer",
+      "At the poles",
+      "At the Arctic Circle"
+    ],
+    "answer": 0,
+    "hint": "The circle of illumination cuts the equator into equal halves all year.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "What happens to the difference between day and night as you move towards the poles?",
+    "options": [
+      "It stays the same",
+      "It becomes greater",
+      "It becomes smaller",
+      "It disappears entirely"
+    ],
+    "answer": 1,
+    "hint": "The variation grows with latitude.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "On 21 June, where is the longest day of the year?",
+    "options": [
+      "In the Southern Hemisphere",
+      "In the Northern Hemisphere",
+      "Everywhere equally",
+      "At the equator"
+    ],
+    "answer": 1,
+    "hint": "The north is tilted towards the Sun.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "How long is the day at the North Pole in midsummer?",
+    "options": [
+      "Six hours",
+      "Twelve hours",
+      "There is no daylight",
+      "Twenty-four hours — the Sun does not set"
+    ],
+    "answer": 3,
+    "hint": "The pole has about six months of continuous daylight.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "Roughly how long is the period of continuous night at the South Pole?",
+    "options": [
+      "About six months",
+      "About one month",
+      "About three days",
+      "About twenty-four hours"
+    ],
+    "answer": 0,
+    "hint": "Six months of day, then six months of night.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "Why does a place far north have very long summer evenings?",
+    "options": [
+      "Because clocks run differently there",
+      "Because it is nearer the Sun",
+      "Because its part of the Earth stays in sunlight for more of each rotation in summer",
+      "Because the Sun moves more slowly there"
+    ],
+    "answer": 2,
+    "hint": "The circle of illumination cuts that latitude unevenly.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "Which country is often called the land of the midnight Sun?",
+    "options": [
+      "India",
+      "Brazil",
+      "Egypt",
+      "Norway"
+    ],
+    "answer": 3,
+    "hint": "Parts of it lie beyond the Arctic Circle.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "On the equinoxes, how long is day and night everywhere on Earth?",
+    "options": [
+      "About six hours each",
+      "About twelve hours each",
+      "Twenty-four hours of day",
+      "It varies by country"
+    ],
+    "answer": 1,
+    "hint": "That is what makes them equinoxes.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "In Kanyakumari and in Srinagar, which has the greater difference between summer and winter day length?",
+    "options": [
+      "Both are exactly the same",
+      "Kanyakumari, because it lies near the sea",
+      "Srinagar, because it lies much further north",
+      "Kanyakumari, because it is nearer the equator"
+    ],
+    "answer": 2,
+    "hint": "The further from the equator, the greater the swing.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "Why is the length of the day in Chennai almost the same in June and December?",
+    "options": [
+      "Because Chennai is on the coast",
+      "Because Chennai lies in the Frigid Zone",
+      "Because Chennai keeps a different standard time",
+      "Because Chennai lies close to the equator, where daylight changes very little"
+    ],
+    "answer": 3,
+    "hint": "Latitude, not longitude, decides the swing.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "What is the circle of illumination's role in the length of day?",
+    "options": [
+      "It has no effect on the length of day",
+      "It marks the boundary of the Torrid Zone",
+      "It shows where the Sun is overhead",
+      "It divides the lit half from the dark half, and where it cuts a latitude decides how long that place stays in sunlight"
+    ],
+    "answer": 3,
+    "hint": "The tilt makes it cut most latitudes unevenly.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "On 22 December, what is the length of day like in northern India?",
+    "options": [
+      "Twenty-four hours long",
+      "Longer than the night",
+      "Shorter than the night",
+      "Exactly equal to the night"
+    ],
+    "answer": 2,
+    "hint": "It is close to the shortest day of the year in the north.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "Which of these places has the smallest change in day length through the year?",
+    "options": [
+      "A town at 60° North",
+      "A town at 45° South",
+      "A town on the equator",
+      "A town at the Arctic Circle"
+    ],
+    "answer": 2,
+    "hint": "The nearer the equator, the steadier the day length.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "Why do days grow longer in the Northern Hemisphere between December and June?",
+    "options": [
+      "Because the Earth is speeding up",
+      "Because the Northern Hemisphere is tilting further towards the Sun over those months",
+      "Because the Earth is coming closer to the Sun",
+      "Because the axis is becoming more upright"
+    ],
+    "answer": 1,
+    "hint": "The tilt is fixed; what changes is where the Earth is in its orbit.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "At which latitude does the Sun stay above the horizon for a full twenty-four hours at least one day a year?",
+    "options": [
+      "At 66½° North or further north",
+      "At 45° North",
+      "At the equator",
+      "At 23½° North"
+    ],
+    "answer": 0,
+    "hint": "The Arctic Circle marks exactly this boundary.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "Two friends live at the same latitude but very different longitudes. What is true on a given date?",
+    "options": [
+      "Their days are of very different lengths",
+      "Their days are of nearly the same length, though they begin at different moments",
+      "One has day while the other has night for the whole year",
+      "Their days differ by exactly twelve hours"
+    ],
+    "answer": 1,
+    "hint": "Latitude sets the length; longitude sets the timing.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "Why does the Sun rise earlier in Kolkata than in Mumbai?",
+    "options": [
+      "Because Kolkata is at a higher altitude",
+      "Because Kolkata lies further east",
+      "Because Kolkata lies further north",
+      "Because Kolkata uses a different standard time"
+    ],
+    "answer": 1,
+    "hint": "The Earth turns eastward, so eastern places meet the Sun first.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "What is the shortest day of the year called in the Northern Hemisphere?",
+    "options": [
+      "The winter solstice, around 22 December",
+      "The spring equinox, around 21 March",
+      "The summer solstice, around 21 June",
+      "The autumn equinox, around 23 September"
+    ],
+    "answer": 0,
+    "hint": "The Sun is then overhead at the Tropic of Capricorn.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "How does the varying length of day affect life in far northern countries?",
+    "options": [
+      "It causes the seasons to reverse",
+      "It has no effect on daily life",
+      "Work, school and sleep must be arranged around very long summer days and very dark winters",
+      "It changes the language people speak"
+    ],
+    "answer": 2,
+    "hint": "In some towns children go to school in the dark for months.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "The Earth: Globe, Time and Motions",
+    "topic": "day-night-length",
+    "topicLabel": "Varying Lengths of Day and Night",
+    "question": "What single fact explains both the seasons and the varying length of day and night?",
+    "options": [
+      "The Sun's heat varies through the year",
+      "The Earth's orbit is an ellipse",
+      "The Earth spins from west to east",
+      "The Earth's axis is tilted as it revolves around the Sun"
+    ],
+    "answer": 3,
+    "hint": "One tilt, two consequences.",
+    "difficulty": "hard"
+  }
+]

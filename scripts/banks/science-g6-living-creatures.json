@@ -1,0 +1,2226 @@
+[
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Which of these is <b>not</b> a characteristic of living things?",
+    "options": [
+      "They produce young ones",
+      "They stay exactly the same size all their lives",
+      "They need food",
+      "They respond to changes around them"
+    ],
+    "answer": 1,
+    "hint": "All living things grow. Staying the same size for life is a property of non-living things such as a stone."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Why do all living things need food?",
+    "options": [
+      "To get energy for their life processes",
+      "To change their colour",
+      "To become non-living",
+      "To make themselves heavier"
+    ],
+    "answer": 0,
+    "hint": "Food supplies the energy needed for growth, repair and every other life process."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "How do green plants make their own food?",
+    "options": [
+      "By eating insects only",
+      "By photosynthesis, using sunlight",
+      "By taking food from the soil directly",
+      "By absorbing food from the air at night"
+    ],
+    "answer": 1,
+    "hint": "Green plants use sunlight, water and carbon dioxide to make food. This is called photosynthesis."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "What is the increase in the size and mass of a living thing called?",
+    "options": [
+      "Excretion",
+      "Respiration",
+      "Movement",
+      "Growth"
+    ],
+    "answer": 3,
+    "hint": "Growth is the permanent increase in size and mass that happens as a living thing develops."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "How is growth in living things different from a heap of sand growing bigger?",
+    "options": [
+      "Living things grow from inside, a sand heap only gets material added from outside",
+      "A sand heap grows faster",
+      "Living things grow only in sunlight",
+      "There is no difference at all"
+    ],
+    "answer": 0,
+    "hint": "Living things grow from within as their cells increase. Non-living heaps only grow by material piling on from outside."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "The process by which living things release energy from food is called:",
+    "options": [
+      "Reproduction",
+      "Excretion",
+      "Respiration",
+      "Digestion"
+    ],
+    "answer": 2,
+    "hint": "Respiration breaks down food to release energy. It happens in every living cell, day and night."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Which gas do most living things take in during respiration?",
+    "options": [
+      "Carbon dioxide",
+      "Nitrogen",
+      "Oxygen",
+      "Helium"
+    ],
+    "answer": 2,
+    "hint": "Oxygen is taken in and carbon dioxide is given out during respiration."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Which gas is given out by living things during respiration?",
+    "options": [
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen",
+      "Oxygen"
+    ],
+    "answer": 0,
+    "hint": "Carbon dioxide is the waste gas released during respiration."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Through which tiny openings do the leaves of a plant exchange gases?",
+    "options": [
+      "Stomata",
+      "Seeds",
+      "Petals",
+      "Roots"
+    ],
+    "answer": 0,
+    "hint": "Stomata are tiny pores, mostly on the underside of leaves, through which gases move in and out."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Fish take in oxygen dissolved in water using their:",
+    "options": [
+      "Gills",
+      "Lungs",
+      "Fins",
+      "Scales"
+    ],
+    "answer": 0,
+    "hint": "Gills absorb oxygen that is dissolved in water. Fins are used for swimming, not for breathing."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "An earthworm breathes through its:",
+    "options": [
+      "Gills",
+      "Moist skin",
+      "Lungs",
+      "Leaves"
+    ],
+    "answer": 1,
+    "hint": "Earthworms have no lungs. Gases pass in and out through their moist skin."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "A change in the surroundings that a living thing reacts to is called a:",
+    "options": [
+      "Stimulus",
+      "Habitat",
+      "Nutrient",
+      "Response"
+    ],
+    "answer": 0,
+    "hint": "A stimulus is the change, such as light or touch. The reaction to it is the response."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "A sunflower turning to face the sun is an example of:",
+    "options": [
+      "Response to a stimulus",
+      "Digestion",
+      "Reproduction",
+      "Excretion"
+    ],
+    "answer": 0,
+    "hint": "Light is the stimulus and the turning of the plant is the response."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "The leaves of a touch-me-not plant fold up when touched. The stimulus here is:",
+    "options": [
+      "Sound",
+      "Touch",
+      "Smell",
+      "Taste"
+    ],
+    "answer": 1,
+    "hint": "In Mimosa pudica, the touch-me-not, the stimulus is touch and the folding of leaves is the response."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "You pull your hand away quickly after touching a hot vessel. This shows:",
+    "options": [
+      "Excretion",
+      "Reproduction",
+      "Growth",
+      "Response to a stimulus"
+    ],
+    "answer": 3,
+    "hint": "Heat is the stimulus and pulling the hand back is the response. It protects the body from harm."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Roots of a plant grow downwards into the soil. Which stimulus are they responding to?",
+    "options": [
+      "Wind",
+      "Sound",
+      "Gravity",
+      "Colour"
+    ],
+    "answer": 2,
+    "hint": "Roots grow towards gravity while shoots grow away from it and towards light."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "The process by which living things produce young ones of their own kind is:",
+    "options": [
+      "Excretion",
+      "Reproduction",
+      "Respiration",
+      "Germination"
+    ],
+    "answer": 1,
+    "hint": "Reproduction keeps a species going by producing new individuals of the same kind."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Which of these animals lays eggs?",
+    "options": [
+      "Hen",
+      "Dog",
+      "Cat",
+      "Cow"
+    ],
+    "answer": 0,
+    "hint": "Animals that lay eggs are called oviparous. Hens, frogs and fish lay eggs."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Animals that give birth to young ones directly are called:",
+    "options": [
+      "Viviparous",
+      "Oviparous",
+      "Herbivorous",
+      "Carnivorous"
+    ],
+    "answer": 0,
+    "hint": "Viviparous animals such as cows and humans give birth to live young. Oviparous animals lay eggs."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "A potato plant grown from a piece of potato with a bud on it is an example of reproduction using a:",
+    "options": [
+      "Vegetative part",
+      "Flower",
+      "Fruit",
+      "Seed"
+    ],
+    "answer": 0,
+    "hint": "Some plants reproduce from stems, roots or leaves. This is called vegetative reproduction."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "The removal of harmful waste products from the body is called:",
+    "options": [
+      "Excretion",
+      "Absorption",
+      "Digestion",
+      "Respiration"
+    ],
+    "answer": 0,
+    "hint": "Waste made inside the body must be thrown out, or it would poison the body. That removal is excretion."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Which of these is a waste product removed by the human body?",
+    "options": [
+      "Muscle",
+      "Urine",
+      "Bone",
+      "Blood"
+    ],
+    "answer": 1,
+    "hint": "Urine, sweat and carbon dioxide are wastes the body removes. Blood, bone and muscle are useful parts of the body."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Sweat is removed from the human body through the:",
+    "options": [
+      "Stomach",
+      "Kidneys",
+      "Skin",
+      "Lungs"
+    ],
+    "answer": 2,
+    "hint": "Sweat glands in the skin remove water and salts. Kidneys make urine and lungs remove carbon dioxide."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "How do plants get rid of extra water?",
+    "options": [
+      "By transpiration through the leaves",
+      "By storing it forever",
+      "Through the kidneys",
+      "By coughing it out"
+    ],
+    "answer": 0,
+    "hint": "Plants lose extra water as vapour through the stomata of leaves. This is transpiration."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Which of these best shows movement in plants?",
+    "options": [
+      "A branch cut by a person",
+      "A plant falling in a storm",
+      "A leaf blown away by wind",
+      "Opening and closing of a flower"
+    ],
+    "answer": 3,
+    "hint": "Movement caused by the plant itself, such as a flower opening, is a life process. Being blown by wind is not."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Why do most animals move from place to place?",
+    "options": [
+      "To avoid making young ones",
+      "To stop growing",
+      "To become non-living",
+      "To find food, shelter and safety"
+    ],
+    "answer": 3,
+    "hint": "Animals move to search for food and water, to escape danger and to find shelter or a mate."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Which statement about movement in plants is correct?",
+    "options": [
+      "Plants move parts of themselves but do not move from place to place",
+      "Plants move only at night",
+      "Plants walk to find water",
+      "Plants cannot move at all"
+    ],
+    "answer": 0,
+    "hint": "Plants are fixed in one place, but their parts such as roots, shoots and flowers do move."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "A car moves, burns fuel and gives out gases. Why is it still not living?",
+    "options": [
+      "It cannot grow, reproduce or respond on its own",
+      "It is made of metal",
+      "It is too large",
+      "It needs a driver"
+    ],
+    "answer": 0,
+    "hint": "A living thing must show all the life processes together, including growth and reproduction. A car shows none of these by itself."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Which of these is a living thing?",
+    "options": [
+      "Candle flame",
+      "Cloud",
+      "River",
+      "Mushroom"
+    ],
+    "answer": 3,
+    "hint": "A mushroom grows, needs food and reproduces. Clouds, rivers and flames may move or grow in size but show no other life processes."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Which of these is <b>not</b> a living thing?",
+    "options": [
+      "Bacterium",
+      "Ant",
+      "Fern",
+      "Chair"
+    ],
+    "answer": 3,
+    "hint": "A chair does not grow, feed, respire or reproduce, so it is non-living."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "The period from birth to death of a living thing is called its:",
+    "options": [
+      "Life span",
+      "Life process",
+      "Habitat",
+      "Life cycle"
+    ],
+    "answer": 0,
+    "hint": "Life span is how long a living thing lives. A life cycle is the series of stages it passes through."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "The basic unit that makes up every living thing is the:",
+    "options": [
+      "Tissue",
+      "Atom",
+      "Organ",
+      "Cell"
+    ],
+    "answer": 3,
+    "hint": "All living things are made of one or more cells. The cell is the smallest unit of life."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Animals that eat only plants are called:",
+    "options": [
+      "Herbivores",
+      "Decomposers",
+      "Omnivores",
+      "Carnivores"
+    ],
+    "answer": 0,
+    "hint": "Herbivores such as cows and goats eat only plants. Carnivores eat other animals."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Animals that eat both plants and animals are called:",
+    "options": [
+      "Carnivores",
+      "Omnivores",
+      "Producers",
+      "Herbivores"
+    ],
+    "answer": 1,
+    "hint": "Omnivores such as crows, bears and humans eat both plant and animal food."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Green plants are called producers because they:",
+    "options": [
+      "Eat other animals",
+      "Make their own food",
+      "Break down dead matter",
+      "Live in water"
+    ],
+    "answer": 1,
+    "hint": "Producers make their own food by photosynthesis. All other living things depend on them directly or indirectly."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Which life process would stop first if a plant were kept in complete darkness for many days?",
+    "options": [
+      "Making its own food",
+      "Respiration",
+      "Growth of roots",
+      "Excretion"
+    ],
+    "answer": 0,
+    "hint": "Photosynthesis needs light, so it stops in darkness. Respiration continues day and night."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Do plants respire only at night?",
+    "options": [
+      "Yes, only in winter",
+      "Yes, only at night",
+      "No, plants never respire",
+      "No, plants respire both day and night"
+    ],
+    "answer": 3,
+    "hint": "Respiration goes on all the time. Photosynthesis happens only in daylight, which is what confuses many learners."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Which of these pairs correctly matches a life process with its purpose?",
+    "options": [
+      "Respiration — making young ones",
+      "Reproduction — releasing energy",
+      "Excretion — removing harmful waste",
+      "Growth — throwing out waste"
+    ],
+    "answer": 2,
+    "hint": "Match each process to its job: respiration releases energy, reproduction makes young ones, excretion removes waste."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "A seed kept in a sealed tin for years does not grow. Is it living?",
+    "options": [
+      "No, because it has no leaves",
+      "No, seeds are always non-living",
+      "Yes, it is alive but resting until it gets water, air and warmth",
+      "Yes, because tins are living"
+    ],
+    "answer": 2,
+    "hint": "A dry seed is alive but dormant. Given water, air and warmth it will germinate."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Which of these do <b>all</b> living things need?",
+    "options": [
+      "Food, air and water",
+      "Electricity",
+      "Soil only",
+      "Sunlight only"
+    ],
+    "answer": 0,
+    "hint": "Every living thing needs food, air and water. Not all of them need soil or direct sunlight."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Amoeba moves with the help of:",
+    "options": [
+      "Wings",
+      "Pseudopodia, or false feet",
+      "Fins",
+      "Legs"
+    ],
+    "answer": 1,
+    "hint": "Amoeba pushes out finger-like extensions called pseudopodia to creep forward."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Snakes move by:",
+    "options": [
+      "Swimming with fins",
+      "Flying with wings",
+      "Slithering using their body muscles",
+      "Hopping on legs"
+    ],
+    "answer": 2,
+    "hint": "Snakes have no legs. They move by pushing against the ground with waves of muscle along the body."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Which characteristic of living things ensures that a species does not disappear from the Earth?",
+    "options": [
+      "Respiration",
+      "Excretion",
+      "Movement",
+      "Reproduction"
+    ],
+    "answer": 3,
+    "hint": "Individuals die, so a species survives only because its members reproduce."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Yeast is a living thing because it:",
+    "options": [
+      "Is used in baking",
+      "Is a fine powder",
+      "Feeds, grows, respires and reproduces",
+      "Dissolves in water"
+    ],
+    "answer": 2,
+    "hint": "Being useful or powdery says nothing about life. Yeast is living because it shows the life processes."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "question": "Which of these grows but is <b>not</b> alive?",
+    "options": [
+      "A tadpole",
+      "A mango sapling",
+      "A kitten",
+      "A crystal in a salt solution"
+    ],
+    "answer": 3,
+    "hint": "A crystal grows only by material sticking on from outside, and it shows no other life process."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Which part of a seed grows into the root?",
+    "options": [
+      "Cotyledon",
+      "Plumule",
+      "Radicle",
+      "Seed coat"
+    ],
+    "answer": 2,
+    "hint": "The radicle is the baby root and always appears first. The plumule becomes the shoot."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Which part of a seed grows into the shoot?",
+    "options": [
+      "Radicle",
+      "Plumule",
+      "Seed coat",
+      "Hilum"
+    ],
+    "answer": 1,
+    "hint": "The plumule grows upward into the shoot bearing leaves. The radicle grows downward into the root."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "What is the function of the cotyledon in a seed?",
+    "options": [
+      "It stores food for the growing baby plant",
+      "It makes the seed heavy",
+      "It protects the seed from insects",
+      "It absorbs sunlight"
+    ],
+    "answer": 0,
+    "hint": "The cotyledon is the food store. The young plant lives on it until it can make its own food."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "The outer protective covering of a seed is called the:",
+    "options": [
+      "Plumule",
+      "Cotyledon",
+      "Seed coat",
+      "Embryo"
+    ],
+    "answer": 2,
+    "hint": "The seed coat, or testa, is the tough outer layer that protects the seed from damage and drying."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "The tiny baby plant inside a seed is called the:",
+    "options": [
+      "Seed coat",
+      "Flower",
+      "Fruit",
+      "Embryo"
+    ],
+    "answer": 3,
+    "hint": "The embryo is made of the radicle, the plumule and the cotyledons. It grows into a new plant."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "A gram seed splits easily into two halves. Such a seed is called a:",
+    "options": [
+      "Monocot seed",
+      "Spore",
+      "Dicot seed",
+      "Fruit"
+    ],
+    "answer": 2,
+    "hint": "Seeds with two cotyledons, such as gram, pea and bean, are dicots. They split neatly into two halves."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Which of these is a monocot seed?",
+    "options": [
+      "Maize",
+      "Gram",
+      "Pea",
+      "Bean"
+    ],
+    "answer": 0,
+    "hint": "Monocot seeds such as maize, wheat and rice have only one cotyledon and do not split into two halves."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "How many cotyledons does a bean seed have?",
+    "options": [
+      "Two",
+      "Three",
+      "One",
+      "None"
+    ],
+    "answer": 0,
+    "hint": "Bean is a dicot, so it has two cotyledons packed with stored food."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "The small scar on a seed where it was attached to the fruit is called the:",
+    "options": [
+      "Plumule",
+      "Radicle",
+      "Hilum",
+      "Stomata"
+    ],
+    "answer": 2,
+    "hint": "The hilum is the mark left where the seed was joined to the inside of the pod or fruit."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Water and air enter a seed mainly through a tiny pore called the:",
+    "options": [
+      "Micropyle",
+      "Plumule",
+      "Cotyledon",
+      "Hilum"
+    ],
+    "answer": 0,
+    "hint": "The micropyle is a very small opening in the seed coat through which water is absorbed first."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "The growth of a seed into a young plant is called:",
+    "options": [
+      "Excretion",
+      "Germination",
+      "Transpiration",
+      "Pollination"
+    ],
+    "answer": 1,
+    "hint": "Germination is the sprouting of a seed once it gets water, air and the right warmth."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Which three conditions are necessary for a seed to germinate?",
+    "options": [
+      "Darkness, ice and wind",
+      "Sunlight, soil and fertiliser",
+      "Water, air and suitable warmth",
+      "Salt, sugar and water"
+    ],
+    "answer": 2,
+    "hint": "Water, air and a suitable temperature are the three essentials. Soil and light are not needed for germination itself."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Is sunlight necessary for a seed to germinate?",
+    "options": [
+      "Yes, but only red light works",
+      "No, most seeds germinate even in the dark",
+      "Yes, seeds cannot sprout without light",
+      "No, seeds need only salt"
+    ],
+    "answer": 1,
+    "hint": "Seeds live on stored food while sprouting, so light is not needed until the seedling makes its own food."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Seeds kept completely under water for many days usually fail to germinate. Why?",
+    "options": [
+      "They cannot get enough air",
+      "They get too much light",
+      "They become too warm",
+      "Water has no minerals"
+    ],
+    "answer": 0,
+    "hint": "Fully submerged seeds are starved of the air they need for respiration, so they rot instead of sprouting."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Dry seeds kept in a jar without any water do not germinate because:",
+    "options": [
+      "Water is needed to soften the seed coat and start growth",
+      "Seeds dislike being counted",
+      "There is too much air in the jar",
+      "Jars are made of glass"
+    ],
+    "answer": 0,
+    "hint": "Water softens the seed coat, is absorbed by the seed and starts the chemical changes of germination."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Seeds placed in a refrigerator usually do not sprout. Which condition is missing?",
+    "options": [
+      "Air",
+      "Water",
+      "A seed coat",
+      "Suitable warmth"
+    ],
+    "answer": 3,
+    "hint": "Germination needs a suitable temperature. It is too cold inside a refrigerator for most seeds."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Which part of the young plant comes out of the seed first during germination?",
+    "options": [
+      "The plumule",
+      "The flower",
+      "The radicle",
+      "The first leaf"
+    ],
+    "answer": 2,
+    "hint": "The root appears first so the seedling can anchor itself and start absorbing water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Before sowing, farmers often soak seeds in water overnight. This is done to:",
+    "options": [
+      "Help the seeds absorb water and germinate faster",
+      "Kill the embryo",
+      "Make the seeds taste better",
+      "Increase the weight for selling"
+    ],
+    "answer": 0,
+    "hint": "Soaking softens the seed coat and lets water in, so germination begins sooner."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Damaged or insect-eaten seeds usually do not germinate because:",
+    "options": [
+      "They are too old to be counted",
+      "They are too small",
+      "Their embryo is destroyed",
+      "They have no colour"
+    ],
+    "answer": 2,
+    "hint": "If the embryo, which is the baby plant, is damaged, there is nothing left to grow."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "A simple test to find out which seeds are good for sowing is to:",
+    "options": [
+      "Weigh each seed",
+      "Put them in water and reject the ones that float",
+      "Keep them in sunlight for a month",
+      "Paint them with colour"
+    ],
+    "answer": 1,
+    "hint": "Damaged or hollow seeds are lighter and float. Healthy, filled seeds sink."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Sprouted moong seeds are considered healthy food because during germination:",
+    "options": [
+      "Their nutrients become easier to digest",
+      "They turn into sugar only",
+      "They lose all their food value",
+      "They become non-living"
+    ],
+    "answer": 0,
+    "hint": "Germination changes the stored food into simpler forms, which makes sprouts easy to digest and rich in nutrients."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Seeds being carried to new places is called seed:",
+    "options": [
+      "Dispersal",
+      "Germination",
+      "Pollination",
+      "Respiration"
+    ],
+    "answer": 0,
+    "hint": "Dispersal spreads seeds away from the parent plant so seedlings do not crowd and compete."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "The light, winged seeds of the drumstick tree are usually dispersed by:",
+    "options": [
+      "Water",
+      "Animals",
+      "Explosion",
+      "Wind"
+    ],
+    "answer": 3,
+    "hint": "Light seeds with wings or hair are carried far by the wind."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Coconut seeds are mainly dispersed by:",
+    "options": [
+      "Water",
+      "Birds",
+      "Bursting",
+      "Wind"
+    ],
+    "answer": 0,
+    "hint": "A coconut has a light fibrous husk that lets it float across water to new shores."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Seeds with hooks and spines, such as those of Xanthium, are dispersed by:",
+    "options": [
+      "Floating on water",
+      "Bursting open",
+      "Sticking to the fur of animals",
+      "Sinking into soil"
+    ],
+    "answer": 2,
+    "hint": "Hooks catch on animal fur or clothing and the seed is carried far before it drops off."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "The pods of the balsam plant burst open and throw seeds out. This dispersal is by:",
+    "options": [
+      "Explosion",
+      "Wind",
+      "Water",
+      "Animals"
+    ],
+    "answer": 0,
+    "hint": "Some fruits dry, build up tension and split suddenly, flinging their seeds away."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Why is seed dispersal useful for plants?",
+    "options": [
+      "It stops seeds from germinating",
+      "Seedlings get enough space, light and water without crowding",
+      "It makes the seeds heavier",
+      "It gives seeds a better colour"
+    ],
+    "answer": 1,
+    "hint": "If all seeds fell under the parent plant, the seedlings would compete for the same light, water and minerals."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Which of these is <b>not</b> a part of a seed?",
+    "options": [
+      "Petal",
+      "Cotyledon",
+      "Radicle",
+      "Seed coat"
+    ],
+    "answer": 0,
+    "hint": "A petal is part of a flower, not of a seed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "In a maize grain, the stored food is mostly present in the:",
+    "options": [
+      "Endosperm",
+      "Seed coat",
+      "Hilum",
+      "Radicle"
+    ],
+    "answer": 0,
+    "hint": "Monocot seeds such as maize keep their food in the endosperm rather than in fleshy cotyledons."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "A young plant that has just grown from a seed is called a:",
+    "options": [
+      "Sapling",
+      "Spore",
+      "Seedling",
+      "Shrub"
+    ],
+    "answer": 2,
+    "hint": "The stage just after germination is the seedling. It later grows into a sapling and then a mature plant."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Two identical pots of seeds are kept in the same place, but one is watered and the other is not. This experiment tests whether seeds need:",
+    "options": [
+      "Air to germinate",
+      "Water to germinate",
+      "Sunlight to germinate",
+      "Soil to germinate"
+    ],
+    "answer": 1,
+    "hint": "In a fair test only one condition is changed. Here only water differs, so only water is being tested."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "When a seed absorbs water, the first visible change is that it:",
+    "options": [
+      "Turns green",
+      "Produces a flower",
+      "Swells and its seed coat softens",
+      "Becomes lighter"
+    ],
+    "answer": 2,
+    "hint": "Absorbed water makes the seed swell until the softened seed coat splits."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Why does a seedling turn green a few days after germination?",
+    "options": [
+      "It absorbs green colour from soil",
+      "It starts making chlorophyll to prepare its own food",
+      "Water is green",
+      "The seed coat is green"
+    ],
+    "answer": 1,
+    "hint": "Once the shoot reaches light it makes chlorophyll, the green pigment needed for photosynthesis."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "A seedling can survive for the first few days without making food because:",
+    "options": [
+      "It does not need food at first",
+      "It uses the food stored in the cotyledons",
+      "It eats soil",
+      "It drinks only water"
+    ],
+    "answer": 1,
+    "hint": "The cotyledons act as a packed lunch until the first green leaves can photosynthesise."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "question": "Which of these correctly shows the order of germination?",
+    "options": [
+      "Plumule appears → radicle appears → seed absorbs water",
+      "Seed coat splits → seed absorbs water → fruit forms",
+      "Seed absorbs water → seed coat splits → radicle appears → plumule appears",
+      "Flower forms → seed germinates → root appears"
+    ],
+    "answer": 2,
+    "hint": "Water comes first, then the coat splits, then the root, then the shoot."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "Which of these shows the correct life cycle of a flowering plant?",
+    "options": [
+      "Seed → fruit → flower → seedling",
+      "Flower → seed → fruit → adult plant",
+      "Seed → seedling → adult plant → flower → fruit with seeds",
+      "Seedling → seed → flower → fruit"
+    ],
+    "answer": 2,
+    "hint": "A seed grows into a seedling, then an adult plant, which flowers and forms fruit holding the next seeds."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "Which part of a plant is responsible for reproduction?",
+    "options": [
+      "Flower",
+      "Stem",
+      "Leaf",
+      "Root"
+    ],
+    "answer": 0,
+    "hint": "The flower is the reproductive part. Leaves make food, roots absorb water and stems provide support."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "The transfer of pollen from the anther to the stigma is called:",
+    "options": [
+      "Germination",
+      "Pollination",
+      "Dispersal",
+      "Fertilisation"
+    ],
+    "answer": 1,
+    "hint": "Pollination is the transfer of pollen. Fertilisation is the joining of the male and female cells that follows."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "Which part of the flower produces pollen grains?",
+    "options": [
+      "Ovary",
+      "Sepal",
+      "Stigma",
+      "Anther"
+    ],
+    "answer": 3,
+    "hint": "The anther sits at the top of the stamen, the male part, and holds the pollen."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "After fertilisation, the ovary of a flower develops into the:",
+    "options": [
+      "Root",
+      "Stem",
+      "Fruit",
+      "Leaf"
+    ],
+    "answer": 2,
+    "hint": "The ovary becomes the fruit and the ovules inside it become the seeds."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "After fertilisation, the ovules of a flower develop into:",
+    "options": [
+      "Petals",
+      "Seeds",
+      "Roots",
+      "Leaves"
+    ],
+    "answer": 1,
+    "hint": "Ovules become seeds, and the ovary around them becomes the fruit."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "Which of these commonly carries pollen from one flower to another?",
+    "options": [
+      "Rocks",
+      "Earthworms in the soil",
+      "Fish in a pond",
+      "Insects such as bees"
+    ],
+    "answer": 3,
+    "hint": "Insects, birds, wind and water are the usual agents of pollination."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "Brightly coloured petals and sweet nectar help a flower by:",
+    "options": [
+      "Making the plant taller",
+      "Keeping the plant warm",
+      "Storing water",
+      "Attracting insects for pollination"
+    ],
+    "answer": 3,
+    "hint": "Colour, scent and nectar are advertisements that bring insects, which carry pollen from flower to flower."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "The green leaf-like parts that protect a flower bud before it opens are the:",
+    "options": [
+      "Anthers",
+      "Ovules",
+      "Sepals",
+      "Petals"
+    ],
+    "answer": 2,
+    "hint": "Sepals form the outermost ring of the flower and cover the bud until it blooms."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "The sticky tip of the female part of a flower, which receives pollen, is the:",
+    "options": [
+      "Petal",
+      "Filament",
+      "Stigma",
+      "Anther"
+    ],
+    "answer": 2,
+    "hint": "The stigma is sticky so that pollen grains land and stay on it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "A plant that completes its life cycle within one year is called:",
+    "options": [
+      "An annual",
+      "A biennial",
+      "A seedling",
+      "A perennial"
+    ],
+    "answer": 0,
+    "hint": "Annuals such as wheat and rice grow, flower, seed and die within a single season or year."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "A mango tree that lives and fruits for many years is an example of a:",
+    "options": [
+      "Biennial plant",
+      "Perennial plant",
+      "Annual plant",
+      "Seedling"
+    ],
+    "answer": 1,
+    "hint": "Perennials live for many years and flower season after season."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "Which stage comes immediately after germination in a plant's life cycle?",
+    "options": [
+      "Seedling",
+      "Seed dispersal",
+      "Fruit",
+      "Flower"
+    ],
+    "answer": 0,
+    "hint": "A germinating seed first becomes a seedling, long before it can flower."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "Why is the life cycle of a plant described as a cycle?",
+    "options": [
+      "Because plants live forever",
+      "Because seeds from the fruit start the whole process again",
+      "Because flowers are round",
+      "Because plants grow in circles"
+    ],
+    "answer": 1,
+    "hint": "The seeds produced at the end begin a new cycle, so the stages repeat generation after generation."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "Bryophyllum grows new plants from buds on the edges of its leaves. This is:",
+    "options": [
+      "Seed dispersal",
+      "Germination",
+      "Vegetative reproduction",
+      "Pollination"
+    ],
+    "answer": 2,
+    "hint": "New plants formed from a leaf, stem or root rather than a seed is vegetative reproduction."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "Which of these plants is usually grown from a stem cutting rather than a seed?",
+    "options": [
+      "Rose",
+      "Mustard",
+      "Gram",
+      "Wheat"
+    ],
+    "answer": 0,
+    "hint": "Rose, sugarcane and money plant are commonly grown from cuttings of the stem."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "What does a plant need to grow well after the seedling stage?",
+    "options": [
+      "Only darkness",
+      "Only water",
+      "Sunlight, water, air and minerals from the soil",
+      "Only warm air"
+    ],
+    "answer": 2,
+    "hint": "Once the stored food in the seed is used up, the plant needs light, water, air and soil minerals."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "Which part of a plant absorbs water and minerals from the soil?",
+    "options": [
+      "Roots",
+      "Fruits",
+      "Leaves",
+      "Flowers"
+    ],
+    "answer": 0,
+    "hint": "Roots anchor the plant and take in water and dissolved minerals."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "The main function of the stem in a plant is to:",
+    "options": [
+      "Absorb sunlight only",
+      "Attract insects",
+      "Support the plant and carry water and food",
+      "Make seeds"
+    ],
+    "answer": 2,
+    "hint": "The stem holds up the leaves and flowers and acts as the plant's transport pipeline."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "A flower that has both stamens and pistil is called:",
+    "options": [
+      "A unisexual flower",
+      "A fruit",
+      "A bisexual flower",
+      "A seedling"
+    ],
+    "answer": 2,
+    "hint": "Bisexual flowers, such as hibiscus and mustard, carry both the male and female parts."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "If all the insects in a garden disappeared, the most likely effect on the plants would be:",
+    "options": [
+      "Faster germination",
+      "Longer roots",
+      "Greener leaves",
+      "Poor pollination and fewer fruits"
+    ],
+    "answer": 3,
+    "hint": "Many flowering plants depend on insects to carry pollen. Without pollination, fruits and seeds do not form."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "Pollination that happens between two different flowers of the same kind of plant is called:",
+    "options": [
+      "Germination",
+      "Dispersal",
+      "Self pollination",
+      "Cross pollination"
+    ],
+    "answer": 3,
+    "hint": "Cross pollination moves pollen between flowers. Self pollination happens within the same flower."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "Which of these is the correct order of events?",
+    "options": [
+      "Seed dispersal → pollination → fertilisation",
+      "Fertilisation → pollination → seed dispersal",
+      "Fruit formation → pollination → fertilisation",
+      "Pollination → fertilisation → fruit formation → seed dispersal"
+    ],
+    "answer": 3,
+    "hint": "Pollen must arrive first, then fertilisation occurs, then the fruit and seeds form and are finally dispersed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "question": "Wind-pollinated flowers usually have:",
+    "options": [
+      "Light pollen and no bright colour or scent",
+      "Large colourful petals and strong scent",
+      "Very heavy sticky pollen",
+      "No pollen at all"
+    ],
+    "answer": 0,
+    "hint": "Wind-pollinated flowers do not need to attract insects, so they save on colour and scent and make light pollen instead."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Which of these is the correct life cycle of a mosquito?",
+    "options": [
+      "Larva → egg → adult → pupa",
+      "Egg → larva → pupa → adult",
+      "Egg → adult → larva → pupa",
+      "Egg → pupa → larva → adult"
+    ],
+    "answer": 1,
+    "hint": "A mosquito passes through four stages: egg, larva, pupa and adult."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Where does a mosquito lay its eggs?",
+    "options": [
+      "On tree bark",
+      "Deep inside dry soil",
+      "Inside stones",
+      "On the surface of still water"
+    ],
+    "answer": 3,
+    "hint": "Mosquitoes lay eggs on stagnant water. That is why removing collected water controls them."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "The larval stage of a mosquito is commonly called a:",
+    "options": [
+      "Tumbler",
+      "Tadpole",
+      "Wriggler",
+      "Caterpillar"
+    ],
+    "answer": 2,
+    "hint": "The mosquito larva wriggles through water, which is how it gets its name."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "The pupa of a mosquito is commonly called a:",
+    "options": [
+      "Froglet",
+      "Wriggler",
+      "Tumbler",
+      "Nymph"
+    ],
+    "answer": 2,
+    "hint": "The comma-shaped mosquito pupa tumbles through the water when disturbed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "How does a mosquito larva breathe while living in water?",
+    "options": [
+      "Through gills like a fish",
+      "Through leaves",
+      "Through a breathing tube at the water surface",
+      "It does not breathe at all"
+    ],
+    "answer": 2,
+    "hint": "The larva hangs just below the surface and takes in air through a siphon, a small breathing tube."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Emptying water from coolers, pots and old tyres helps to control mosquitoes because it:",
+    "options": [
+      "Makes them fly away to another country",
+      "Changes their colour",
+      "Makes adult mosquitoes hungry",
+      "Destroys the places where their eggs and larvae develop"
+    ],
+    "answer": 3,
+    "hint": "Mosquitoes must breed in standing water. Remove the water and the life cycle cannot be completed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Which mosquito is responsible for spreading malaria?",
+    "options": [
+      "Aedes",
+      "Anopheles",
+      "Housefly",
+      "Culex"
+    ],
+    "answer": 1,
+    "hint": "Malaria is spread by the female Anopheles mosquito. Aedes spreads dengue."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Dengue is spread by which mosquito?",
+    "options": [
+      "Honeybee",
+      "Culex",
+      "Anopheles",
+      "Aedes"
+    ],
+    "answer": 3,
+    "hint": "The Aedes mosquito, which bites mostly during the day, spreads dengue and chikungunya."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Spraying a thin layer of oil on stagnant water kills mosquito larvae because:",
+    "options": [
+      "The larvae cannot get air at the surface",
+      "Oil makes the water cold",
+      "Oil turns larvae into pupae",
+      "Oil is poisonous to fish"
+    ],
+    "answer": 0,
+    "hint": "The oil film blocks the breathing tubes at the surface, so the larvae suffocate."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Which stage of the mosquito does <b>not</b> feed?",
+    "options": [
+      "Adult male",
+      "Pupa",
+      "Adult female",
+      "Larva"
+    ],
+    "answer": 1,
+    "hint": "The pupa does not eat. Big changes are taking place inside it before the adult emerges."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Which of these is the correct life cycle of a frog?",
+    "options": [
+      "Egg → froglet → tadpole → adult frog",
+      "Tadpole → egg → adult frog",
+      "Egg → tadpole → froglet → adult frog",
+      "Egg → pupa → tadpole → frog"
+    ],
+    "answer": 2,
+    "hint": "A frog goes from egg to tadpole, then grows legs to become a froglet, then an adult frog."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "A cluster of frog eggs laid in water is called:",
+    "options": [
+      "Nymph",
+      "Cocoon",
+      "Pupa",
+      "Spawn"
+    ],
+    "answer": 3,
+    "hint": "Frogs lay hundreds of eggs together in a jelly-like mass called spawn."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "How does a young tadpole breathe?",
+    "options": [
+      "Through its skin only",
+      "Through gills",
+      "Through a breathing tube",
+      "Through lungs"
+    ],
+    "answer": 1,
+    "hint": "A tadpole lives entirely in water and uses gills, just as a fish does."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "An adult frog breathes mainly through its:",
+    "options": [
+      "Gills only",
+      "Tail",
+      "Eyes",
+      "Lungs and moist skin"
+    ],
+    "answer": 3,
+    "hint": "The adult frog loses its gills and uses lungs, helped by gas exchange through its moist skin."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Which legs appear first as a tadpole develops?",
+    "options": [
+      "Both pairs at the same time",
+      "Frogs never grow legs",
+      "The hind legs",
+      "The front legs"
+    ],
+    "answer": 2,
+    "hint": "Hind legs appear first, then the front legs, and the tail is gradually absorbed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "What happens to the tail of a tadpole as it becomes an adult frog?",
+    "options": [
+      "It turns into a leg",
+      "It grows longer",
+      "It falls off and floats away",
+      "It is gradually absorbed into the body"
+    ],
+    "answer": 3,
+    "hint": "The tail shrinks and its material is used by the growing body. It is not simply shed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "A young tadpole feeds mainly on:",
+    "options": [
+      "Small fish",
+      "Algae and water plants",
+      "Insects and worms",
+      "Nothing at all"
+    ],
+    "answer": 1,
+    "hint": "Tadpoles begin as plant eaters and become insect-eating carnivores as adult frogs."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "An adult frog feeds mainly on:",
+    "options": [
+      "Algae",
+      "Insects",
+      "Soil",
+      "Grass"
+    ],
+    "answer": 1,
+    "hint": "Adult frogs catch insects with a long sticky tongue, which makes them useful to farmers."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "The change of shape and form as an animal grows from young to adult is called:",
+    "options": [
+      "Excretion",
+      "Metamorphosis",
+      "Germination",
+      "Pollination"
+    ],
+    "answer": 1,
+    "hint": "Metamorphosis is a dramatic change of body form, seen in frogs, butterflies and mosquitoes."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Which of these animals does <b>not</b> undergo metamorphosis?",
+    "options": [
+      "Frog",
+      "Butterfly",
+      "Mosquito",
+      "Cat"
+    ],
+    "answer": 3,
+    "hint": "A kitten already looks like a small cat. Frogs, butterflies and mosquitoes change form completely."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "The life cycle of a butterfly is:",
+    "options": [
+      "Egg → tadpole → butterfly",
+      "Egg → pupa → caterpillar → butterfly",
+      "Caterpillar → egg → butterfly",
+      "Egg → caterpillar → pupa → butterfly"
+    ],
+    "answer": 3,
+    "hint": "The caterpillar is the larva and the chrysalis is the pupa in a butterfly's life cycle."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "The larva of a butterfly is called a:",
+    "options": [
+      "Nymph",
+      "Caterpillar",
+      "Wriggler",
+      "Tadpole"
+    ],
+    "answer": 1,
+    "hint": "The caterpillar is the eating and growing stage of a butterfly."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Which stage of a butterfly causes the most damage to crops?",
+    "options": [
+      "Adult butterfly",
+      "Caterpillar",
+      "Egg",
+      "Pupa"
+    ],
+    "answer": 1,
+    "hint": "The caterpillar eats leaves constantly to grow. The adult butterfly feeds only on nectar."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "A frog is called an amphibian because it:",
+    "options": [
+      "Lives only on land",
+      "Lives both in water and on land",
+      "Lives only in water",
+      "Can fly and swim"
+    ],
+    "answer": 1,
+    "hint": "Amphibian means double life. Frogs begin life in water and later live on land as well."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Why do frogs lay hundreds of eggs at a time?",
+    "options": [
+      "Because eggs are very small",
+      "Because they cannot count",
+      "Because most of the eggs and tadpoles are eaten by other animals",
+      "Because water dissolves eggs"
+    ],
+    "answer": 2,
+    "hint": "Very few eggs survive to adulthood, so laying many raises the chance that some will."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Which of these young ones looks very different from its parent?",
+    "options": [
+      "Calf",
+      "Puppy",
+      "Tadpole",
+      "Kitten"
+    ],
+    "answer": 2,
+    "hint": "A tadpole has a tail and gills and looks nothing like a frog. Puppies, kittens and calves resemble their parents."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "A hen's egg hatches into a chick that looks like a small hen. This shows:",
+    "options": [
+      "Germination",
+      "Complete metamorphosis",
+      "Development without metamorphosis",
+      "Vegetative reproduction"
+    ],
+    "answer": 2,
+    "hint": "A chick already resembles the adult, so there is no dramatic change of body form."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "In which stage does a silkworm spin the cocoon used to make silk?",
+    "options": [
+      "It never spins a cocoon",
+      "The egg",
+      "The adult moth",
+      "The larva, before becoming a pupa"
+    ],
+    "answer": 3,
+    "hint": "The silkworm larva spins a silk cocoon around itself before turning into a pupa."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Which of these animals lays eggs in water?",
+    "options": [
+      "Dog",
+      "Frog",
+      "Sparrow",
+      "Cow"
+    ],
+    "answer": 1,
+    "hint": "Frog eggs have no hard shell and would dry out on land, so they are laid in water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Frogs are useful to farmers because they:",
+    "options": [
+      "Eat the crop plants",
+      "Eat harmful insects in the fields",
+      "Loosen the soil",
+      "Pollinate the flowers"
+    ],
+    "answer": 1,
+    "hint": "Frogs act as natural pest controllers by eating large numbers of insects."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "During which stage does a mosquito live entirely in water?",
+    "options": [
+      "Only the egg stage",
+      "Egg, larva and pupa",
+      "Only the adult stage",
+      "It never lives in water"
+    ],
+    "answer": 1,
+    "hint": "The first three stages are aquatic. Only the adult mosquito flies in the air."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Which of these correctly compares a tadpole with an adult frog?",
+    "options": [
+      "Tadpole has gills and a tail; the adult has lungs and legs",
+      "Both live only on land",
+      "Tadpole has lungs; the adult has gills",
+      "Both have gills throughout life"
+    ],
+    "answer": 0,
+    "hint": "The tadpole is built for water with gills and a tail. The adult is built for land with lungs and legs."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "If a pond dried up completely, the frog's life cycle would break down because:",
+    "options": [
+      "Eggs and tadpoles need water to survive",
+      "Adult frogs cannot hop on dry land",
+      "Tadpoles need soil",
+      "Frogs need water to fly"
+    ],
+    "answer": 0,
+    "hint": "Frog eggs and tadpoles are entirely aquatic, so no water means no new frogs."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "The stage in which an insect appears to be resting but is changing greatly inside is the:",
+    "options": [
+      "Pupa",
+      "Adult",
+      "Egg",
+      "Larva"
+    ],
+    "answer": 0,
+    "hint": "The pupa looks still from outside, but the body is being rebuilt into the adult form."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "question": "Which of these is a similarity between the life cycles of a frog and a mosquito?",
+    "options": [
+      "Both begin their lives in water",
+      "Both lay eggs on land",
+      "Both have a pupa stage",
+      "Both have gills as adults"
+    ],
+    "answer": 0,
+    "hint": "Both start life in water, but only the mosquito has a pupa stage. A frog goes from tadpole to froglet."
+  }
+]

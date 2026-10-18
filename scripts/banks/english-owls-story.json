@@ -1,0 +1,806 @@
+[
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "Grandfather says, “Now, there’s an unselfish mother for you!” What makes him say this?",
+    "options": [
+      "The mother owl had built a second nest for her owlets",
+      "The mother owl had brought her owlets back and seemed willing to give them a good home",
+      "The mother owl had fought off the wild birds that attacked her young",
+      "The mother owl had fed her owlets before feeding herself"
+    ],
+    "answer": 1,
+    "hint": "She had attacked them the day before to defend her young. The next morning the owlets were back on the wall and she greeted the family softly from the bird-bath — as Grandfather reads it, she wanted them to have a good home, and they were getting too big for her to manage.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "How did the narrator and his family realise where the owlets had come from?",
+    "options": [
+      "Grandfather recognised the owlets as belonging to a pair he had seen",
+      "A second owlet fell in almost the same place, and they found a rough nest where the rainwater pipe came through the roof",
+      "They heard the owlets calling from inside the roof",
+      "The mother owl led them to the nest in the mango tree"
+    ],
+    "answer": 1,
+    "hint": "It took the second owlet, found in almost the same spot, before they looked up and saw the rough nest at the rainwater pipe.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What did the owls do at night, and how did this help the household?",
+    "options": [
+      "They kept watch and drove away wild birds from the garden",
+      "They caught beetles, and the kitchen-quarters were infested with them at the time",
+      "They sang softly, which helped Grandmother sleep",
+      "They caught mice, which the family could not otherwise get rid of"
+    ],
+    "answer": 1,
+    "hint": "Their nightly occupation was catching beetles. With sharp eyes and powerful beaks they were excellent pest destroyers, and the kitchen-quarters were infested at the time.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What mild form of transvestism satisfied the owls?",
+    "options": [
+      "Grandfather wore an apron at feeding time",
+      "The narrator wore Grandmother's shawl",
+      "Aunt Mabel wore trousers to feed them",
+      "Grandfather wore a petticoat at feeding time"
+    ],
+    "answer": 3,
+    "hint": "The owls snapped at anyone in trousers and were fond of anyone in a petticoat, so Grandfather wore one to feed them. The narrator compromised — he wore an apron instead.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "How does the narrator show that the owls his family adopted were not birds of ill omen?",
+    "options": [
+      "He points out that the owls never once cried at night",
+      "He explains that owls are lucky birds in most countries",
+      "He says that Grandmother's health improved while they stayed",
+      "He notes that — mice excepted — there were no untoward deaths in the house while they lived there"
+    ],
+    "answer": 3,
+    "hint": "Superstitious folk dread the cry of the owl. His answer is simply the record: apart from mice, nothing untoward died in that house during the owls' residence.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "Where was the first owlet found, and what did it do when Grandfather picked it up?",
+    "options": [
+      "On a branch of the mango tree; it flew away at once",
+      "On the ground by the verandah steps; it hissed and clacked its bill",
+      "Inside the kitchen-quarters; it snapped at his hand",
+      "On the garden wall; it made a soft whoo-whoo"
+    ],
+    "answer": 1,
+    "hint": "It was on the ground by the verandah steps, and it hissed and clacked its bill in protest.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What was the first owlet given to eat?",
+    "options": [
+      "A mouse",
+      "Beetles",
+      "Raw meat and water",
+      "Spaghetti"
+    ],
+    "answer": 2,
+    "hint": "After a meal of raw meat and water it settled down for the day under the narrator's bed. Spaghetti came later, from Grandmother.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "How big is a spotted owlet when fully grown?",
+    "options": [
+      "About the size of a myna",
+      "About the size of an eagle",
+      "About the size of a sparrow",
+      "About the size of a crow"
+    ],
+    "answer": 0,
+    "hint": "Even full grown it is only the size of a myna, and has none of the sinister appearance of the larger owls.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "How might you persuade a spotted owlet to show its face?",
+    "options": [
+      "By leaving raw meat at the foot of the tree",
+      "By calling to it softly at dusk",
+      "By shaking the branch it is sitting on",
+      "By tapping on the trunk of the tree it lives in"
+    ],
+    "answer": 3,
+    "hint": "Tap on the tree trunk and the bird may show an enquiring face at the entrance to its hole.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "Why does the spotted owlet prefer to stay at home during the day?",
+    "options": [
+      "It is afraid of people",
+      "It cannot see at all in daylight",
+      "It sleeps all day and hunts only at night",
+      "Other birds attack it, because they consider all owls their enemies"
+    ],
+    "answer": 3,
+    "hint": "The chapter is careful about this: it is not strictly a night-bird and it is not normally afraid of man. It stays in because other birds treat all owls as enemies.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What did the mother owl leave for her owlets, and what did it show?",
+    "options": [
+      "A mouse, showing she placed no reliance on the narrator as a foster-parent",
+      "A beetle, showing she wanted them to learn to hunt",
+      "A feather, showing she had been close by",
+      "Nothing, showing she had abandoned them"
+    ],
+    "answer": 0,
+    "hint": "She left a mouse with its tail tucked through the mosquito net. Obviously she did not trust the narrator to feed them.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What happened when Grandfather and the narrator tried to release the owlets?",
+    "options": [
+      "The mother owl led them away without a sound",
+      "The owlets refused to leave and flew back indoors",
+      "The owlets were attacked at once by wild birds",
+      "The mother owl struck the narrator on the head and swooped at Grandfather"
+    ],
+    "answer": 3,
+    "hint": "The narrator took quite a heavy blow on the back of the head, and Grandfather was agile enough to duck out of the way a moment later.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "Which pets did Grandmother object to?",
+    "options": [
+      "All snakes, most monkeys and some crows",
+      "Only the owls, until she grew used to them",
+      "Cats and dogs, but nothing wild",
+      "All birds, including the owls"
+    ],
+    "answer": 0,
+    "hint": "She objected to all snakes, most monkeys and some crows — but took quite a fancy to the owls.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What did Grandmother frequently feed the owls?",
+    "options": [
+      "Bread and milk",
+      "Spaghetti",
+      "Beetles",
+      "Raw meat"
+    ],
+    "answer": 1,
+    "hint": "She fed them on spaghetti, and they seemed quite fond of it.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "Why did Aunt Mabel run shrieking from the room?",
+    "options": [
+      "Grandmother had asked her to feed them",
+      "She was terrified of the owls, and one would sidle up to her in a friendly way",
+      "She disliked the smell of the raw meat",
+      "The owls swelled their feathers and snapped at her"
+    ],
+    "answer": 1,
+    "hint": "The owls showed affection to anyone in a petticoat, Aunt Mabel included — and she was terrified of them. The friendliness was the problem.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "How did the owls sound in response to Grandmother’s voice?",
+    "options": [
+      "They made no sound at all",
+      "Like a soft whoo-whoo of warning",
+      "As gentle and soothing as a cat purring",
+      "Like blood-curdling shrieks"
+    ],
+    "answer": 2,
+    "hint": "Gentle as purring for Grandmother — the blood-curdling shrieks were for when wild owls were about.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What did the owls enjoy doing with water?",
+    "options": [
+      "Splashing in a shallow dish while cold water was poured over them",
+      "Standing in the rain on the verandah",
+      "Drinking from a jug held by Grandfather",
+      "Bathing in the bird-bath in the garden"
+    ],
+    "answer": 0,
+    "hint": "They would get thoroughly wet, jump out to a perch, shake themselves, and go back for a second splash and sometimes a third.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "Why were the owls kept in large cages during the day?",
+    "options": [
+      "To stop them escaping into the garden",
+      "To protect them from attacks by wild birds",
+      "Because they slept better inside a cage",
+      "Because Grandmother did not want them indoors"
+    ],
+    "answer": 1,
+    "hint": "They needed the cages for protection. At night they had the freedom of the house.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What is the last picture the narrator carries of Grandmother?",
+    "options": [
+      "Feeding the owls spaghetti in the garden",
+      "Watching the owls splash in a shallow dish",
+      "Calling to the owls from the verandah steps",
+      "Asleep in her rocking-chair with an owl snuggled under her ear, both snoring"
+    ],
+    "answer": 3,
+    "hint": "He found one of the owls had crawled up her pillow until its head was under her ear. Both Grandmother and the little owl were snoring.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "Where was Ruskin Bond born?",
+    "options": [
+      "Jamnagar",
+      "Shimla",
+      "Kasauli",
+      "Dehradun"
+    ],
+    "answer": 2,
+    "hint": "He was born in Kasauli in 1934, and grew up in Jamnagar and Shimla.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-true-false",
+    "topicLabel": "True or False",
+    "subtopic": null,
+    "question": "True or false?\n\n“Aunt Mabel, unlike Grandmother, did not take a liking to the owlets.”",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": 1,
+    "hint": "Grandmother took quite a fancy to them; Aunt Mabel was terrified and ran shrieking.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-true-false",
+    "topicLabel": "True or False",
+    "subtopic": null,
+    "question": "True or false?\n\n“The owlets throve on the mouse left by Grandfather.”",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 1,
+    "hint": "It was the MOTHER OWL who left the mouse, tucked through the mosquito net — not Grandfather. Read that one twice.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-true-false",
+    "topicLabel": "True or False",
+    "subtopic": null,
+    "question": "True or false?\n\n“Grandmother was averse to snakes and most monkeys.”",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": 1,
+    "hint": "She objected to all snakes, most monkeys and some crows.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-true-false",
+    "topicLabel": "True or False",
+    "subtopic": null,
+    "question": "True or false?\n\n“The spotted owlet is strictly a night-bird.”",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": 0,
+    "hint": "The chapter says the opposite: it is not strictly a night-bird. It stays home by day because other birds attack it.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-true-false",
+    "topicLabel": "True or False",
+    "subtopic": null,
+    "question": "True or false?\n\n“The spotted owlet is normally afraid of man.”",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": 0,
+    "hint": "It is not normally afraid of man.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-true-false",
+    "topicLabel": "True or False",
+    "subtopic": null,
+    "question": "True or false?\n\n“The owls were fed spaghetti by Grandmother.”",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": 1,
+    "hint": "And they seemed quite fond of it.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-true-false",
+    "topicLabel": "True or False",
+    "subtopic": null,
+    "question": "True or false?\n\n“Grandfather wore an apron at feeding time.”",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": 0,
+    "hint": "Grandfather wore a PETTICOAT. It was the narrator who compromised with an apron.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-true-false",
+    "topicLabel": "True or False",
+    "subtopic": null,
+    "question": "True or false?\n\n“The owls snapped at anyone wearing trousers.”",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 0,
+    "hint": "Forgetful that Grandfather and the narrator had reared them, they would swell their feathers and snap at anyone in trousers.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-true-false",
+    "topicLabel": "True or False",
+    "subtopic": null,
+    "question": "True or false?\n\n“The owls caught mice every night.”",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": 0,
+    "hint": "Their nightly occupation was catching BEETLES. The one mouse in the story was left by the mother owl.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-true-false",
+    "topicLabel": "True or False",
+    "subtopic": null,
+    "question": "True or false?\n\n“The mother owl attacked the narrator when he tried to release the owlets.”",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 0,
+    "hint": "He received quite a heavy blow on the back of the head.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-true-false",
+    "topicLabel": "True or False",
+    "subtopic": null,
+    "question": "True or false?\n\n“The owlets were found in a nest in the mango tree.”",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 1,
+    "hint": "The nest was where the rainwater pipe emerged through the roof. The mango tree is where they were later released.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-true-false",
+    "topicLabel": "True or False",
+    "subtopic": null,
+    "question": "True or false?\n\n“There were no untoward deaths in the house while the owls lived there, mice excepted.”",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": 0,
+    "hint": "That is exactly how the narrator puts it — and it is his answer to superstition.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "Which THREE words in this sentence are verbs?",
+    "options": [
+      "under, after, but",
+      "grandfather, bill, meat",
+      "picked, hissed, clacked",
+      "raw, day, water"
+    ],
+    "answer": 2,
+    "hint": "Verbs are what somebody does. Grandfather picked; the owlet hissed and clacked.",
+    "difficulty": "easy",
+    "status": "published",
+    "passageId": "owls-verandah",
+    "passageTitle": "The owlet is picked up",
+    "passage": "When grandfather picked it up, it hissed and clacked its bill, but after a meal of raw meat and water, settled down for the day under my bed."
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "Which word in this sentence is an adjective?",
+    "options": [
+      "meat",
+      "raw",
+      "under",
+      "settled"
+    ],
+    "answer": 1,
+    "hint": "Raw describes the meat. Meat is the noun it describes.",
+    "difficulty": "easy",
+    "status": "published",
+    "passageId": "owls-verandah",
+    "passageTitle": "The owlet is picked up",
+    "passage": "When grandfather picked it up, it hissed and clacked its bill, but after a meal of raw meat and water, settled down for the day under my bed."
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "“Settled down for the day” — who settled down?",
+    "options": [
+      "Grandfather",
+      "The narrator",
+      "The owlet",
+      "The bill"
+    ],
+    "answer": 2,
+    "hint": "The sentence keeps its subject: it hissed, it clacked, and it settled down.",
+    "difficulty": "medium",
+    "status": "published",
+    "passageId": "owls-verandah",
+    "passageTitle": "The owlet is picked up",
+    "passage": "When grandfather picked it up, it hissed and clacked its bill, but after a meal of raw meat and water, settled down for the day under my bed."
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "What does this sentence tell you about the owlet’s mood as it changed?",
+    "options": [
+      "It refused to eat anything",
+      "It began by protesting and ended by settling down comfortably",
+      "It was frightened all the way through",
+      "It was friendly from the first moment"
+    ],
+    "answer": 1,
+    "hint": "Hissing and clacking is protest; settling down for the day is trust. The food is what turns one into the other.",
+    "difficulty": "medium",
+    "status": "published",
+    "passageId": "owls-verandah",
+    "passageTitle": "The owlet is picked up",
+    "passage": "When grandfather picked it up, it hissed and clacked its bill, but after a meal of raw meat and water, settled down for the day under my bed."
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "Which TWO words describe the sounds the mother owl made?",
+    "options": [
+      "found and left",
+      "long and morning",
+      "tucked and through",
+      "crooned and gurgled"
+    ],
+    "answer": 3,
+    "hint": "Crooned and gurgled are both verbs of sound — soft, private noises, quite unlike a shriek.",
+    "difficulty": "easy",
+    "status": "published",
+    "passageId": "owls-mother-returns",
+    "passageTitle": "The mother returns at night",
+    "passage": "From outside, she crooned and gurgled for a long time and in the morning, I found that she had left a mouse with its tail tucked through the mosquito net."
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "In “a long time”, what part of speech is “long”?",
+    "options": [
+      "A preposition",
+      "A verb",
+      "An adjective",
+      "A noun"
+    ],
+    "answer": 2,
+    "hint": "It describes the noun time, so it is an adjective.",
+    "difficulty": "medium",
+    "status": "published",
+    "passageId": "owls-mother-returns",
+    "passageTitle": "The mother returns at night",
+    "passage": "From outside, she crooned and gurgled for a long time and in the morning, I found that she had left a mouse with its tail tucked through the mosquito net."
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "What does the mother owl’s gift of a mouse show?",
+    "options": [
+      "She was teaching the owlets to hunt",
+      "She did not trust the narrator to feed her young",
+      "She had no more use for the mouse",
+      "She wanted to thank the family for their care"
+    ],
+    "answer": 1,
+    "hint": "The narrator says it plainly: obviously she placed no reliance on him as a foster-parent.",
+    "difficulty": "medium",
+    "status": "published",
+    "passageId": "owls-mother-returns",
+    "passageTitle": "The mother returns at night",
+    "passage": "From outside, she crooned and gurgled for a long time and in the morning, I found that she had left a mouse with its tail tucked through the mosquito net."
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "Which THREE words in this sentence are adjectives?",
+    "options": [
+      "sounds, night, shrieks",
+      "gentle, wild, blood-curdling",
+      "make, rend, were",
+      "around, with, as"
+    ],
+    "answer": 1,
+    "hint": "Gentle sounds, wild owls, blood-curdling shrieks — each one describes a noun.",
+    "difficulty": "medium",
+    "status": "published",
+    "passageId": "owls-shrieks",
+    "passageTitle": "Two kinds of owl-voice",
+    "passage": "In response to Grandmother’s voice, the owlets would make sounds as gentle and soothing as the purring of a cat; but when wild owls were around, ours would rend the night with blood-curdling shrieks."
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "What is the effect of putting the two sounds in one sentence?",
+    "options": [
+      "It shows the owls were always frightening",
+      "It proves the owls disliked Grandmother",
+      "It suggests Grandmother could not tell them apart",
+      "It sets the tame, affectionate owls sharply against the wild ones"
+    ],
+    "answer": 3,
+    "hint": "The contrast is the point: purring for the person who feeds them, shrieks for their own kind. The semicolon hinges the two halves.",
+    "difficulty": "hard",
+    "status": "published",
+    "passageId": "owls-shrieks",
+    "passageTitle": "Two kinds of owl-voice",
+    "passage": "In response to Grandmother’s voice, the owlets would make sounds as gentle and soothing as the purring of a cat; but when wild owls were around, ours would rend the night with blood-curdling shrieks."
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Owls in the Family",
+    "topic": "owls-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "“Rend the night” — what does the verb “rend” suggest about the shrieks?",
+    "options": [
+      "That they seemed to tear the quiet apart",
+      "That they were pleasant to hear",
+      "That they were faint and far off",
+      "That they went on all night without stopping"
+    ],
+    "answer": 0,
+    "hint": "To rend is to tear violently. The night is being torn, which is a far stronger image than simply saying the owls were loud.",
+    "difficulty": "hard",
+    "status": "published",
+    "passageId": "owls-shrieks",
+    "passageTitle": "Two kinds of owl-voice",
+    "passage": "In response to Grandmother’s voice, the owlets would make sounds as gentle and soothing as the purring of a cat; but when wild owls were around, ours would rend the night with blood-curdling shrieks."
+  }
+]

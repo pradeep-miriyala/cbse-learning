@@ -1,0 +1,1172 @@
+[
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A car moves and uses fuel, yet it is not a living thing.<br><b>Reason (R):</b> Movement and the use of fuel alone do not make something living; a living thing must also grow, reproduce and respond by itself.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Ask what a car cannot do that a puppy can — grow and have young."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A dry seed lying in a sealed jar for years is a non-living thing.<br><b>Reason (R):</b> A seed can sprout into a plant once it is given water, air and warmth.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "If it can still sprout, something inside it must be alive but resting."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The way a plant grows is different from the way a heap of sand grows taller.<br><b>Reason (R):</b> A living thing grows from within by adding new material to every part, while a heap grows only by more being piled on the outside.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Growth from inside versus growth from outside is the whole difference."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A dead leaf lying on the ground is a non-living thing.<br><b>Reason (R):</b> A leaf still attached to the tree carries out photosynthesis.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Both statements are correct, but photosynthesis in a living leaf says nothing about why the fallen one is non-living."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "characteristics-of-living-things",
+    "topicLabel": "Characteristics of Living Things",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Living things respond to changes around them.<br><b>Reason (R):</b> Plants cannot respond to touch because they have no nervous system.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 3,
+    "hint": "Think of what the touch-me-not plant does when you brush against it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A seed sown in waterlogged soil often fails to germinate.<br><b>Reason (R):</b> Water fills the air spaces in the soil, so the seed cannot get the oxygen it needs.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Too much water pushes out something else the seed needs."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A seed can begin to germinate in complete darkness.<br><b>Reason (R):</b> The young seedling lives on food stored in the seed until it opens its first green leaves.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "Light is needed for making food, not for starting growth."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A bean seed has two cotyledons.<br><b>Reason (R):</b> Seeds need a suitable warmth to germinate.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Both facts are true, but the number of cotyledons has nothing to do with warmth."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The seed coat protects the seed.<br><b>Reason (R):</b> The seed coat supplies food to the growing embryo.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "Recall which part of the seed the stored food actually sits in."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "seeds-and-germination",
+    "topicLabel": "Seeds & Germination",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Boiled seeds germinate faster because the heat softens them.<br><b>Reason (R):</b> Germination can happen only if the embryo inside the seed is alive.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Boiling does soften a seed, but ask what it does to the embryo."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A rose plant grown from a cutting can flower sooner than one grown from a seed.<br><b>Reason (R):</b> A cutting starts from a piece of an already grown plant, so the seed and seedling stages are skipped.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Count the stages each plant still has to pass through."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> If every flower is picked off a mango tree, that tree will bear no fruit that season.<br><b>Reason (R):</b> A fruit develops from the fertilised ovary of a flower.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "No flower means no ovary, and no ovary means no fruit."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Seed formation completes one round of a flowering plant's life cycle.<br><b>Reason (R):</b> A seed is non-living until the day it is sown.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 2,
+    "hint": "A resting seed is still alive — that is why it can sprout."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A sunflower completes its whole life cycle within a single year.<br><b>Reason (R):</b> Sunflower seeds are pressed to make cooking oil.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "Both are true, but the use of the seeds does not decide the length of the life cycle."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "plant-life-cycle",
+    "topicLabel": "Life Cycle of a Plant",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Pollination and fertilisation are two names for the same event.<br><b>Reason (R):</b> Pollination is the transfer of pollen from the anther to the stigma.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 3,
+    "hint": "One is a journey; the other is what happens after the journey ends."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Tadpoles and adult frogs can share one pond without competing for the same food.<br><b>Reason (R):</b> The two stages feed differently, the tadpole on plant matter and the adult mostly on insects.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "If they eat different things, they are not rivals at the same table."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A butterfly is said to show complete metamorphosis.<br><b>Reason (R):</b> Its young stage looks nothing like the adult and it passes through a resting pupa.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "The word complete points to how unlike the young and adult are."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A cockroach passes through a pupa stage.<br><b>Reason (R):</b> A young cockroach looks like a small adult without wings.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "If the young already resembles the adult, no pupa is needed to reshape it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A caterpillar eats a very large amount of leaf.<br><b>Reason (R):</b> It must store enough food for the adult butterfly, which never feeds again.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Picture a butterfly at a flower and ask what it is doing there."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Living Creatures",
+    "topic": "animal-life-cycles",
+    "topicLabel": "Life Cycles of Animals",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A hen's egg must be kept warm if it is to hatch.<br><b>Reason (R):</b> A developing chick takes in air through tiny pores in the eggshell.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Both are true of an egg, but breathing through the shell is not why warmth is needed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A block of ice and a glass of water are the same material in two different states.<br><b>Reason (R):</b> Melting changes how the particles are arranged without changing the material itself.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "Nothing new is made when ice melts — only the arrangement changes."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Water can be poured from one vessel into another but a wooden block cannot.<br><b>Reason (R):</b> A liquid has no shape of its own and takes the shape of its container, while a solid keeps its own shape.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Ask which of the two has a shape it refuses to give up."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A gas has no fixed volume of its own.<br><b>Reason (R):</b> A gas cannot be squeezed into a smaller space.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 3,
+    "hint": "Think about what happens inside a bicycle pump when you press the handle."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Gold has a shining, lustrous appearance.<br><b>Reason (R):</b> Gold does not rust even after many years.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Both are true of gold, but shine and rusting are two separate properties."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Any material that is transparent must also be hard.<br><b>Reason (R):</b> Glass is both transparent and hard.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "A clear polythene sheet is transparent — is it hard?"
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A small iron nail sinks in water while a large wooden log floats.<br><b>Reason (R):</b> Floating depends on the density of the material rather than on how heavy the object is.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "The heavier object here is the one that floats, so weight cannot be the deciding factor."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A steel ship floats although steel by itself is denser than water.<br><b>Reason (R):</b> The hollow hull encloses a large volume of air, making the ship as a whole less dense than water.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "Judge the ship together with the air it holds, not the steel alone."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A diamond can scratch a sheet of glass.<br><b>Reason (R):</b> A material can be scratched only by a material softer than itself.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 1,
+    "hint": "Read R again — it has the harder and the softer material the wrong way round."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Cotton is a soft material.<br><b>Reason (R):</b> Cotton is obtained from the cotton plant.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "Both are true, but where cotton comes from does not explain its softness."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Equal volumes of iron and cotton have the same mass.<br><b>Reason (R):</b> Iron is much denser than cotton.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "Same volume, different density — so the masses cannot match."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Sugar dissolves faster in hot tea than in cold water.<br><b>Reason (R):</b> Particles move about faster at a higher temperature, so the sugar mixes in more quickly.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "Faster-moving particles carry the sugar away from the crystal sooner."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> More sugar can be dissolved in a cup of hot water than in the same cup once it cools.<br><b>Reason (R):</b> The solubility of most solids in water increases as the temperature rises.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 2,
+    "hint": "This is the same rule stated in general form."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Chalk powder does not dissolve in water.<br><b>Reason (R):</b> The chalk settles at the bottom because it is lighter than water.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "Something lighter than water would rise, not settle."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Common salt dissolves readily in water.<br><b>Reason (R):</b> Sea water tastes salty.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 2,
+    "hint": "Both are true, but the taste of the sea is a consequence, not a reason."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A liquid that mixes completely with water is said to be insoluble in it.<br><b>Reason (R):</b> Vinegar mixes completely with water.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 3,
+    "hint": "Check the meaning of the word insoluble in A."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity",
+    "topicLabel": "Heat & Electrical Conductivity",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A steel pan is fitted with a plastic or wooden handle.<br><b>Reason (R):</b> Plastic and wood conduct heat poorly, so the handle stays cool enough to hold.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "The handle is chosen for what it refuses to pass on."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity",
+    "topicLabel": "Heat & Electrical Conductivity",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Electric wires are made of copper but wrapped in plastic.<br><b>Reason (R):</b> Copper conducts electricity well and plastic does not, so the current is kept inside the wire.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Two materials, two opposite jobs, in one wire."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity",
+    "topicLabel": "Heat & Electrical Conductivity",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Metals are generally good conductors of heat.<br><b>Reason (R):</b> A material that conducts heat well must also be transparent.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Is a copper vessel transparent?"
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity",
+    "topicLabel": "Heat & Electrical Conductivity",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A metal spoon left standing in hot soup grows warm at the far end.<br><b>Reason (R):</b> Metals have a shiny surface.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "Shine and heat conduction are both properties of metals, but one does not cause the other."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity",
+    "topicLabel": "Heat & Electrical Conductivity",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Wool keeps us warm because wool itself produces heat.<br><b>Reason (R):</b> Wool traps a great deal of air, and air is a poor conductor of heat.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "The sweater has no source of energy of its own."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Air is a mixture and not a pure substance.<br><b>Reason (R):</b> The gases in air keep their own properties and are not present in a fixed ratio.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 2,
+    "hint": "A pure substance would have one fixed make-up everywhere."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The parts of a mixture can usually be separated without any chemical change.<br><b>Reason (R):</b> In a mixture the substances are only mixed together and keep their own properties.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "Nothing new was formed, so nothing new has to be undone."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Milk looks the same throughout and yet it is a mixture.<br><b>Reason (R):</b> A mixture must always show its different parts to the naked eye.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 1,
+    "hint": "Milk itself is the counter-example to R."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Distilled water is a pure substance.<br><b>Reason (R):</b> Water freezes at zero degrees Celsius.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Both statements are true, but the freezing point is not what makes distilled water pure."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Every mixture has a fixed composition.<br><b>Reason (R):</b> Brass is a mixture of copper and zinc.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Sugar in water can be made weak or strong at will."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Winnowing is used to separate husk from grain.<br><b>Reason (R):</b> The lighter husk is carried away by the moving air while the heavier grain falls straight down.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "The wind sorts them by weight."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Sieving can separate bran from flour.<br><b>Reason (R):</b> A sieve lets particles smaller than its holes pass through and holds back the larger ones.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Everything here turns on the size of the holes."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Handpicking is a suitable way to remove small stones from rice.<br><b>Reason (R):</b> Handpicking works because the stones dissolve in water while the rice does not.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "No water is used in handpicking at all."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Threshing separates grain from the harvested stalks.<br><b>Reason (R):</b> Wheat is sown in the winter season in much of India.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 1,
+    "hint": "Both are true, but when wheat is sown does not explain how it is threshed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Winnowing would work well for separating sugar from sand.<br><b>Reason (R):</b> Winnowing separates components that differ in weight.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Compare a grain of sugar with a grain of sand — are they very different in weight?"
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Muddy water is left standing before the clear water is poured off.<br><b>Reason (R):</b> The heavier soil particles settle to the bottom, leaving clearer water above to be decanted.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "Standing still gives the heavy particles time to sink."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Filtration removes tea leaves from tea but cannot remove the dissolved sugar.<br><b>Reason (R):</b> Filtration holds back particles too large to pass through the pores, and dissolved sugar passes straight through.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Size decides what the filter can stop."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Adding alum makes the mud dissolve into the water.<br><b>Reason (R):</b> Alum makes fine clay particles clump together so that they settle faster.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 3,
+    "hint": "Alum makes the mud easier to remove, not harder."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Filtration separates an insoluble solid from a liquid.<br><b>Reason (R):</b> The solid left behind on the filter paper is called the filtrate.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "Recall which of the two products keeps the name filtrate."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Sand can be separated from water by filtration.<br><b>Reason (R):</b> Sand is one of the raw materials used to make glass.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "Both are true, but glass-making has nothing to do with the separation."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Salt is obtained from sea water by evaporation.<br><b>Reason (R):</b> On heating, the water escapes as vapour and leaves the salt behind.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Only one of the two leaves the vessel."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Distillation rather than evaporation is used when both the liquid and the dissolved solid are wanted.<br><b>Reason (R):</b> In distillation the vapour is cooled and collected back as a liquid instead of being lost to the air.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "Distillation saves the part that evaporation throws away."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Wet clothes dry faster on a hot, windy day.<br><b>Reason (R):</b> Evaporation takes place only when a liquid reaches its boiling point.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 1,
+    "hint": "A puddle dries up without ever reaching a hundred degrees."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Sea water is a solution of salt in water.<br><b>Reason (R):</b> The sea covers the greater part of the Earth's surface.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 2,
+    "hint": "Both are true, but how much of the Earth is sea does not explain what sea water is made of."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> During distillation of salt water the salt boils away along with the water.<br><b>Reason (R):</b> Salt has a far higher boiling point than water.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "R is the very reason A cannot happen."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> No further sugar will dissolve in a saturated sugar solution kept at room temperature.<br><b>Reason (R):</b> At a given temperature a fixed amount of water can hold only a fixed amount of solute.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "Saturated means the limit for that temperature has been reached."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Warming a saturated solution allows still more solute to dissolve in it.<br><b>Reason (R):</b> The solubility of most solids increases as the temperature of the water rises.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Raising the temperature raises the limit."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> In a solution of salt in water, the salt is the solute and the water is the solvent.<br><b>Reason (R):</b> The solute is always the substance present in the larger amount.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 2,
+    "hint": "Which of the two is present in the larger amount here?"
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A solution of sugar in water can be separated by filtration.<br><b>Reason (R):</b> Dissolved sugar particles are far too small to be held back by filter paper.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 3,
+    "hint": "R explains exactly why A fails."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A solution looks the same throughout.<br><b>Reason (R):</b> Water is often called the universal solvent.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Both are true, but the nickname of water does not explain the uniform look."
+  }
+]

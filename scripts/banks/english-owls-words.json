@@ -1,0 +1,724 @@
+[
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “full-fledged” mean?",
+    "options": [
+      "Only just hatched",
+      "Half the usual size",
+      "Fully grown, with all its feathers",
+      "Unable to fly at all"
+    ],
+    "answer": 2,
+    "hint": "A fledgling is a young bird growing its flight feathers; full-fledged means it has them all. It now means fully developed in general.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “clacked” mean?",
+    "options": [
+      "Crept about silently",
+      "Flapped its wings slowly",
+      "Sang a long sweet note",
+      "Made a short sharp rattling sound"
+    ],
+    "answer": 3,
+    "hint": "Owls clack their bills — a hard, dry, snapping noise, often a warning.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “bill” mean?",
+    "options": [
+      "A bird's nest",
+      "A bird's tail feather",
+      "A bird's claw",
+      "A bird's beak"
+    ],
+    "answer": 3,
+    "hint": "Bill is another word for beak. It is the same word as a bill you pay, but a quite different meaning.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “sinister” mean?",
+    "options": [
+      "Suggesting that something evil is about to happen",
+      "Very large in size",
+      "Cheerful and welcoming",
+      "Extremely quiet"
+    ],
+    "answer": 0,
+    "hint": "Sinister is the feeling of threat — a sinister shadow, a sinister silence.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “persuade” mean?",
+    "options": [
+      "To trick someone with a lie",
+      "To force someone by threatening them",
+      "To ignore what someone says",
+      "To make someone agree by giving them reasons"
+    ],
+    "answer": 3,
+    "hint": "Persuading works by argument. Forcing and tricking are the two things it is not.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “emerged” mean?",
+    "options": [
+      "Disappeared from sight",
+      "Broke into pieces",
+      "Came out into view",
+      "Fell asleep"
+    ],
+    "answer": 2,
+    "hint": "To emerge is to come out — from a hole, from behind a cloud, from a difficulty.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “ledge” mean?",
+    "options": [
+      "A narrow flat shelf on a wall or cliff",
+      "A deep hole in the ground",
+      "A wide open field",
+      "A tall wooden post"
+    ],
+    "answer": 0,
+    "hint": "A window ledge or a rock ledge — narrow, flat, and just wide enough to stand on.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “reliance” mean?",
+    "options": [
+      "Moving very quickly",
+      "Refusing all help",
+      "Trust, or depending on someone",
+      "Forgetting something completely"
+    ],
+    "answer": 2,
+    "hint": "The mother owl placed no reliance on the narrator as a foster-parent — she did not trust him with them, and left a mouse herself.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “foster-parent” mean?",
+    "options": [
+      "A parent of twins",
+      "Someone who raises a young one that is not their own",
+      "The oldest parent in a family",
+      "A parent who has died"
+    ],
+    "answer": 1,
+    "hint": "Foster-parents bring up a child, or a creature, that was born to somebody else.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “throve” mean?",
+    "options": [
+      "Stayed exactly the same",
+      "Became weak and ill",
+      "Ran away in fear",
+      "Grew strong and healthy"
+    ],
+    "answer": 3,
+    "hint": "Throve is the past of thrive. A creature that throve did well.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “vicinity” mean?",
+    "options": [
+      "The inside of a building",
+      "A period of time",
+      "A place very far away",
+      "The area nearby"
+    ],
+    "answer": 3,
+    "hint": "In the vicinity means round about — close at hand.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “evidently” mean?",
+    "options": [
+      "Clearly, as anyone could see",
+      "Rarely, once or twice",
+      "Secretly, so nobody noticed",
+      "Doubtfully, without proof"
+    ],
+    "answer": 0,
+    "hint": "Evidently comes from evidence: it means the thing is plain from what you can see.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “spaghetti” mean?",
+    "options": [
+      "Long thin strings of pasta",
+      "A type of nest",
+      "A garden tool",
+      "A kind of small bird"
+    ],
+    "answer": 0,
+    "hint": "Ordinary spaghetti — worth knowing here because to a hungry owl a strand of it looks remarkably like a worm.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “sidled” mean?",
+    "options": [
+      "Rolled over completely",
+      "Moved sideways, quietly and a little shyly",
+      "Jumped high into the air",
+      "Ran straight forward at speed"
+    ],
+    "answer": 1,
+    "hint": "To sidle is to edge along sideways, as though not wanting to be noticed.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “compromised” mean?",
+    "options": [
+      "Settled for less than what you intended",
+      "Got exactly what you wanted",
+      "Refused to change at all",
+      "Started a new quarrel"
+    ],
+    "answer": 0,
+    "hint": "The narrator wanted no part of the petticoat, so he settled for an apron instead — less than Grandfather did, but enough.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “apron” mean?",
+    "options": [
+      "A pair of gloves",
+      "A blanket for a bed",
+      "A cloth worn over the front of the clothes to keep them clean",
+      "A hat worn in the sun"
+    ],
+    "answer": 2,
+    "hint": "An apron is tied on over your clothes while you cook or work.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “rend” mean?",
+    "options": [
+      "To fold something neatly",
+      "To tear something apart violently",
+      "To wash something clean",
+      "To mend something carefully"
+    ],
+    "answer": 1,
+    "hint": "To rend is to tear. A cry that rends the air is one that seems to split it.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “blood-curdling” mean?",
+    "options": [
+      "Barely audible",
+      "Very gentle and soothing",
+      "So frightening that it seems to chill the blood",
+      "Extremely funny"
+    ],
+    "answer": 2,
+    "hint": "A blood-curdling shriek is the kind that makes you go cold. Owls are famous for them.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “beetles” mean?",
+    "options": [
+      "Small furry animals",
+      "Hard-shelled insects",
+      "Young birds",
+      "A kind of wild flower"
+    ],
+    "answer": 1,
+    "hint": "Beetles have hard wing-cases. They are exactly the sort of thing a young owl is fed.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “infested” mean?",
+    "options": [
+      "Overrun by large numbers of pests",
+      "Kept perfectly clean",
+      "Visited by one or two guests",
+      "Decorated with flowers"
+    ],
+    "answer": 0,
+    "hint": "A place infested with mice has far too many of them — which is where a hunting owl becomes useful.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “perch” mean?",
+    "options": [
+      "A branch or bar that a bird rests on",
+      "A bird's egg",
+      "The sound a bird makes",
+      "A bird's feather"
+    ],
+    "answer": 0,
+    "hint": "As a noun it is the resting place; as a verb it is what the bird does on it.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “superstitious” mean?",
+    "options": [
+      "Believing only what can be proved",
+      "Understanding science very well",
+      "Refusing to believe anything",
+      "Believing that certain things bring good or bad luck"
+    ],
+    "answer": 3,
+    "hint": "Superstition is belief without reason behind it — such as thinking an owl's call foretells a death.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “untoward” mean?",
+    "options": [
+      "Very ordinary",
+      "Carefully planned",
+      "Unexpected and unwelcome",
+      "Expected and pleasant"
+    ],
+    "answer": 2,
+    "hint": "Nothing untoward happened means nothing went wrong.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “transvestism” mean?",
+    "options": [
+      "Keeping birds as pets in a house",
+      "Dressing very formally for a meal",
+      "Wearing clothes usually associated with a different gender",
+      "Feeding an animal by hand"
+    ],
+    "answer": 2,
+    "hint": "The owls snapped at anyone in trousers and were fond of anyone in a petticoat, so Grandfather wore a petticoat at feeding time.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "What does “snuggled” mean?",
+    "options": [
+      "Flew away quickly",
+      "Settled close in, warmly and comfortably",
+      "Stood stiffly upright",
+      "Struggled to get free"
+    ],
+    "answer": 1,
+    "hint": "To snuggle is to press close for warmth — what a small creature does against something bigger.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "Which word means fully grown, with all its feathers?",
+    "options": [
+      "infested",
+      "snuggled",
+      "sidled",
+      "full-fledged"
+    ],
+    "answer": 3,
+    "hint": "A fledgling has some feathers; full-fledged has all.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "Which word means the area nearby?",
+    "options": [
+      "vicinity",
+      "ledge",
+      "perch",
+      "apron"
+    ],
+    "answer": 0,
+    "hint": "In the vicinity means round about.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "Which word means to tear apart violently?",
+    "options": [
+      "rend",
+      "snuggle",
+      "sidle",
+      "persuade"
+    ],
+    "answer": 0,
+    "hint": "To rend is to tear.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "Which word means overrun by pests?",
+    "options": [
+      "infested",
+      "throve",
+      "compromised",
+      "emerged"
+    ],
+    "answer": 0,
+    "hint": "Infested means having far too many of something unwanted.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "Which word means unexpected and unwelcome?",
+    "options": [
+      "untoward",
+      "sinister",
+      "reliance",
+      "evidently"
+    ],
+    "answer": 0,
+    "hint": "Nothing untoward means nothing went wrong.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "Which word names a bird's beak?",
+    "options": [
+      "ledge",
+      "apron",
+      "bill",
+      "perch"
+    ],
+    "answer": 2,
+    "hint": "Bill is another word for beak.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "Which word names where a bird rests?",
+    "options": [
+      "perch",
+      "reliance",
+      "bill",
+      "vicinity"
+    ],
+    "answer": 0,
+    "hint": "A perch is the branch or bar it sits on.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "Which word means believing in luck and omens?",
+    "options": [
+      "sinister",
+      "throve",
+      "superstitious",
+      "evidently"
+    ],
+    "answer": 2,
+    "hint": "Superstition is belief without reason behind it.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "Which word means grew strong and healthy?",
+    "options": [
+      "rend",
+      "sidled",
+      "throve",
+      "clacked"
+    ],
+    "answer": 2,
+    "hint": "Throve is the past of thrive.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "Which word means someone who raises another's young?",
+    "options": [
+      "apron",
+      "vicinity",
+      "full-fledged",
+      "foster-parent"
+    ],
+    "answer": 3,
+    "hint": "Foster-parents bring up a young one born to somebody else.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "Which word would you use for a shriek that frightens you badly?",
+    "options": [
+      "Blood-curdling",
+      "Whimsical",
+      "Evident",
+      "Untoward"
+    ],
+    "answer": 0,
+    "hint": "Blood-curdling is the word for a sound that makes you go cold.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "“The owl ___ along the branch, edging closer.” Which word fits?",
+    "options": [
+      "compromised",
+      "emerged",
+      "throve",
+      "sidled"
+    ],
+    "answer": 3,
+    "hint": "Sidling is moving sideways, a little at a time.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "Owls in the Family",
+    "question": "An owl that hunts mice is useful in a house that is ___ with them.",
+    "options": [
+      "compromised",
+      "persuaded",
+      "infested",
+      "snuggled"
+    ],
+    "answer": 2,
+    "hint": "Infested means overrun — which is exactly the problem an owl solves.",
+    "difficulty": "medium",
+    "status": "published"
+  }
+]

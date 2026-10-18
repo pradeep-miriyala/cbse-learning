@@ -1,0 +1,1890 @@
+[
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "The substance from which an object is made is called its:",
+    "options": [
+      "Weight",
+      "Material",
+      "Shape",
+      "Colour"
+    ],
+    "answer": 1,
+    "hint": "A chair may be made of wood, plastic or steel. Wood, plastic and steel are the materials."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Materials through which you can see clearly are called:",
+    "options": [
+      "Magnetic",
+      "Transparent",
+      "Opaque",
+      "Translucent"
+    ],
+    "answer": 1,
+    "hint": "Transparent materials such as clear glass let light pass straight through."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Materials through which you cannot see at all are called:",
+    "options": [
+      "Transparent",
+      "Translucent",
+      "Opaque",
+      "Soluble"
+    ],
+    "answer": 2,
+    "hint": "Opaque materials such as wood, stone and metal block light completely."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Materials through which you can see only partly are called:",
+    "options": [
+      "Transparent",
+      "Lustrous",
+      "Translucent",
+      "Opaque"
+    ],
+    "answer": 2,
+    "hint": "Translucent materials such as butter paper and frosted glass let some light through but blur the view."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Which of these is a transparent material?",
+    "options": [
+      "Clear glass",
+      "Cardboard",
+      "Wood",
+      "Aluminium sheet"
+    ],
+    "answer": 0,
+    "hint": "You can read printed words through clear glass, so it is transparent."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Which of these is translucent?",
+    "options": [
+      "Clear glass",
+      "Butter paper",
+      "Steel plate",
+      "Brick"
+    ],
+    "answer": 1,
+    "hint": "Butter paper lets light through but you cannot see a sharp image through it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Why are window panes usually made of transparent glass?",
+    "options": [
+      "To block all light",
+      "To let light into the room while keeping wind and dust out",
+      "To conduct electricity",
+      "To make the house heavier"
+    ],
+    "answer": 1,
+    "hint": "The property chosen for a job depends on the need. Here, light must pass but air must not."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "The shine seen on the surface of some materials is called:",
+    "options": [
+      "Density",
+      "Texture",
+      "Lustre",
+      "Hardness"
+    ],
+    "answer": 2,
+    "hint": "Lustre is the shine typical of metals such as gold, silver and freshly cut iron."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Materials that have a shine are said to be:",
+    "options": [
+      "Transparent",
+      "Lustrous",
+      "Non-lustrous",
+      "Soluble"
+    ],
+    "answer": 1,
+    "hint": "Lustrous materials shine. Wood, chalk and cloth are non-lustrous."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Which of these materials is lustrous?",
+    "options": [
+      "Chalk",
+      "Silver",
+      "Paper",
+      "Wood"
+    ],
+    "answer": 1,
+    "hint": "Metals are usually lustrous. Chalk, wood and paper have dull surfaces."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Old iron articles lose their shine because:",
+    "options": [
+      "A layer of rust forms on the surface",
+      "Iron dissolves in air",
+      "Iron becomes magnetic",
+      "Iron becomes transparent"
+    ],
+    "answer": 0,
+    "hint": "Moist air causes rusting, and the rough rust layer hides the shiny metal beneath."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "How a material feels when you touch it is called its:",
+    "options": [
+      "Lustre",
+      "Solubility",
+      "Texture",
+      "Density"
+    ],
+    "answer": 2,
+    "hint": "Texture describes whether a surface feels rough, smooth, soft or grainy."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Which of these has a rough texture?",
+    "options": [
+      "Polished marble",
+      "Sandpaper",
+      "Glass",
+      "Silk"
+    ],
+    "answer": 1,
+    "hint": "Sandpaper feels gritty because tiny hard grains are stuck to its surface."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "The three common states in which matter exists are:",
+    "options": [
+      "Big, small and medium",
+      "Hot, cold and warm",
+      "Solid, liquid and gas",
+      "Hard, soft and shiny"
+    ],
+    "answer": 2,
+    "hint": "Matter is normally found as a solid, a liquid or a gas."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Which state of matter has a fixed shape and a fixed volume?",
+    "options": [
+      "None of them",
+      "Gas",
+      "Solid",
+      "Liquid"
+    ],
+    "answer": 2,
+    "hint": "Solids keep both their shape and their volume because their particles are packed tightly."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Which state of matter has a fixed volume but takes the shape of its container?",
+    "options": [
+      "Solid",
+      "Ice",
+      "Liquid",
+      "Gas"
+    ],
+    "answer": 2,
+    "hint": "Water poured into any vessel takes that shape, yet one litre stays one litre."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Which state of matter has neither a fixed shape nor a fixed volume?",
+    "options": [
+      "Wood",
+      "Solid",
+      "Liquid",
+      "Gas"
+    ],
+    "answer": 3,
+    "hint": "A gas spreads out to fill whatever container it is put in."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "In which state are the particles of matter packed most closely together?",
+    "options": [
+      "Liquid",
+      "They are the same in all states",
+      "Gas",
+      "Solid"
+    ],
+    "answer": 3,
+    "hint": "Particles are tightly packed in solids, loosely arranged in liquids and far apart in gases."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Which of these can be compressed most easily?",
+    "options": [
+      "A steel rod",
+      "Air in a syringe",
+      "Water in a syringe",
+      "A brick"
+    ],
+    "answer": 1,
+    "hint": "Gas particles have large gaps between them, so a gas can be squeezed into a smaller space."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Ice, water and steam are:",
+    "options": [
+      "All gases",
+      "All liquids",
+      "Three states of the same substance",
+      "Three different substances"
+    ],
+    "answer": 2,
+    "hint": "They are all water. Only the state changes as heat is added or removed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Sorting materials into groups is useful because it:",
+    "options": [
+      "Destroys unwanted materials",
+      "Changes their colour",
+      "Helps us find things easily and study their properties",
+      "Makes materials heavier"
+    ],
+    "answer": 2,
+    "hint": "Grouping similar things together makes them easier to locate, compare and study."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "A shopkeeper keeps all the soaps on one shelf and all the biscuits on another. This is an example of:",
+    "options": [
+      "Sorting or grouping",
+      "Filtering",
+      "Dissolving",
+      "Melting"
+    ],
+    "answer": 0,
+    "hint": "Grouping similar items together is exactly what scientists do when they classify materials."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Which property of glass makes it unsuitable for making a cricket bat?",
+    "options": [
+      "It is smooth",
+      "It is transparent",
+      "It is brittle and breaks easily",
+      "It is cheap"
+    ],
+    "answer": 2,
+    "hint": "A bat must take heavy blows. A brittle material would shatter."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Why are cooking vessels usually <b>not</b> made of transparent plastic?",
+    "options": [
+      "Plastic melts and deforms at cooking temperatures",
+      "Plastic is too shiny",
+      "Plastic is too heavy",
+      "Plastic is magnetic"
+    ],
+    "answer": 0,
+    "hint": "A material must suit the job. Cooking needs a material that stands high heat."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Which of these objects is made of more than one material?",
+    "options": [
+      "A pencil",
+      "A glass marble",
+      "A rubber band",
+      "A steel nail"
+    ],
+    "answer": 0,
+    "hint": "A pencil has a wooden body, a graphite lead, sometimes a metal ring and a rubber eraser."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "The same object can often be made from different materials. A bucket can be made of:",
+    "options": [
+      "Only plastic",
+      "Only paper",
+      "Only glass",
+      "Plastic, steel or brass"
+    ],
+    "answer": 3,
+    "hint": "Many materials can do the same job. The choice depends on cost, weight and durability."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Which of these is a gas at room temperature?",
+    "options": [
+      "Mercury",
+      "Ice",
+      "Oxygen",
+      "Copper"
+    ],
+    "answer": 2,
+    "hint": "Oxygen is a gas. Mercury is a liquid metal, and ice and copper are solids."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Which metal is a liquid at room temperature?",
+    "options": [
+      "Gold",
+      "Mercury",
+      "Silver",
+      "Iron"
+    ],
+    "answer": 1,
+    "hint": "Mercury is the only common metal that is liquid at room temperature."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Smoke coming out of a chimney is an example of a:",
+    "options": [
+      "Pure solid",
+      "Magnetic material",
+      "Gas carrying tiny solid particles",
+      "Pure liquid"
+    ],
+    "answer": 2,
+    "hint": "Smoke is hot gas with very fine solid particles of unburnt carbon floating in it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-appearance-state",
+    "topicLabel": "Appearance & State",
+    "question": "Which property would you test to decide whether a material is suitable for making a mirror?",
+    "options": [
+      "Whether it dissolves in water",
+      "Whether its surface is smooth and lustrous",
+      "Whether it is soft",
+      "Whether it is magnetic"
+    ],
+    "answer": 1,
+    "hint": "A mirror needs a smooth shiny surface so that light bounces off evenly."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Materials that cannot be easily compressed, cut or scratched are said to be:",
+    "options": [
+      "Soft",
+      "Transparent",
+      "Hard",
+      "Soluble"
+    ],
+    "answer": 2,
+    "hint": "Hardness is a measure of how well a material resists being scratched or dented."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Which of these is the hardest natural substance known?",
+    "options": [
+      "Iron",
+      "Diamond",
+      "Glass",
+      "Chalk"
+    ],
+    "answer": 1,
+    "hint": "Diamond scratches every other natural material and is used in cutting tools."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Which of these is a soft material?",
+    "options": [
+      "Iron",
+      "Glass",
+      "Sponge",
+      "Stone"
+    ],
+    "answer": 2,
+    "hint": "A sponge can be squeezed and pressed easily, so it is soft."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "A simple way to compare the hardness of two materials is to:",
+    "options": [
+      "Put both in water",
+      "Weigh both of them",
+      "See which one scratches the other",
+      "Look at their colour"
+    ],
+    "answer": 2,
+    "hint": "The harder material scratches the softer one. This is the basis of the hardness scale."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Why are cutting tools often tipped with diamond?",
+    "options": [
+      "Diamond is extremely hard and can cut other materials",
+      "Diamond dissolves in water",
+      "Diamond is very cheap",
+      "Diamond is soft and flexible"
+    ],
+    "answer": 0,
+    "hint": "Only a harder material can cut a hard one, and diamond is the hardest available."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "The mass of a material present in a given volume is called its:",
+    "options": [
+      "Density",
+      "Texture",
+      "Hardness",
+      "Lustre"
+    ],
+    "answer": 0,
+    "hint": "Density compares how much matter is packed into a certain space."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "An object floats in water if its density is:",
+    "options": [
+      "The same as its colour",
+      "More than the density of water",
+      "Exactly equal to zero",
+      "Less than the density of water"
+    ],
+    "answer": 3,
+    "hint": "Objects less dense than water float. Denser ones sink."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Which of these floats on water?",
+    "options": [
+      "A stone",
+      "An iron nail",
+      "A steel spoon",
+      "A piece of wood"
+    ],
+    "answer": 3,
+    "hint": "Wood is less dense than water, so it floats."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Which of these sinks in water?",
+    "options": [
+      "A dry leaf",
+      "A cork",
+      "An iron nail",
+      "A plastic ball"
+    ],
+    "answer": 2,
+    "hint": "Iron is much denser than water, so an iron nail sinks."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "A huge iron ship floats on water, but a small iron nail sinks. Why?",
+    "options": [
+      "Sea water is not real water",
+      "Ships are lighter than nails",
+      "The ship is hollow, so its overall density is less than water",
+      "Nails are magnetic"
+    ],
+    "answer": 2,
+    "hint": "Density depends on the whole object, not the material alone. The air inside the hull lowers the ship's overall density."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Oil poured into water forms a layer on top because oil is:",
+    "options": [
+      "Soluble in water",
+      "Magnetic",
+      "More dense than water",
+      "Less dense than water"
+    ],
+    "answer": 3,
+    "hint": "The less dense liquid always settles above the denser one."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Which of these has the highest density?",
+    "options": [
+      "Wood",
+      "Cork",
+      "Iron",
+      "Thermocol"
+    ],
+    "answer": 2,
+    "hint": "Iron packs far more mass into the same volume than wood, cork or thermocol."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Two blocks have the same size, but one is heavier. The heavier block has:",
+    "options": [
+      "No density",
+      "The same density",
+      "Lesser density",
+      "Greater density"
+    ],
+    "answer": 3,
+    "hint": "For the same volume, more mass means more density."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Why does a dry leaf float on water while a green stone sinks?",
+    "options": [
+      "The leaf is bigger",
+      "Leaves dissolve in water",
+      "The leaf is less dense than water and the stone is more dense",
+      "The stone is coloured"
+    ],
+    "answer": 2,
+    "hint": "Floating and sinking depend on density compared with water, not on size or colour."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Life jackets are filled with light material so that the wearer:",
+    "options": [
+      "Has a lower overall density and floats",
+      "Becomes heavier",
+      "Sinks slowly",
+      "Becomes magnetic"
+    ],
+    "answer": 0,
+    "hint": "Trapped light material lowers the total density of the person and jacket together."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Which of these would you use to measure the volume of an irregular stone?",
+    "options": [
+      "A thermometer",
+      "A ruler",
+      "A measuring cylinder with water, noting the rise in level",
+      "A weighing balance"
+    ],
+    "answer": 2,
+    "hint": "The stone pushes aside its own volume of water, so the rise in level gives the volume."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Rubber is chosen for making tyres mainly because it is:",
+    "options": [
+      "Tough yet flexible and grips the road",
+      "Soluble in water",
+      "Transparent",
+      "Very hard and brittle"
+    ],
+    "answer": 0,
+    "hint": "Tyres must bend without breaking and grip the road, so a tough flexible material is needed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Cotton is preferred for summer clothes because it is:",
+    "options": [
+      "Very dense",
+      "Soft and absorbs sweat",
+      "Hard and shiny",
+      "Magnetic"
+    ],
+    "answer": 1,
+    "hint": "Cotton is soft against skin and soaks up sweat, which then evaporates and cools you."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "A material that can be beaten into thin sheets is said to be:",
+    "options": [
+      "Opaque",
+      "Malleable",
+      "Soluble",
+      "Brittle"
+    ],
+    "answer": 1,
+    "hint": "Malleable metals such as gold and aluminium can be hammered flat without cracking."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "A material that can be drawn into thin wires is said to be:",
+    "options": [
+      "Translucent",
+      "Brittle",
+      "Soluble",
+      "Ductile"
+    ],
+    "answer": 3,
+    "hint": "Ductile metals such as copper can be stretched into long wires."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "A material that breaks suddenly into pieces when hammered is said to be:",
+    "options": [
+      "Elastic",
+      "Brittle",
+      "Malleable",
+      "Ductile"
+    ],
+    "answer": 1,
+    "hint": "Brittle materials such as glass and chalk shatter instead of bending."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Which property of gold allows it to be beaten into very thin foil for decoration?",
+    "options": [
+      "Malleability",
+      "Transparency",
+      "Magnetism",
+      "Solubility"
+    ],
+    "answer": 0,
+    "hint": "Gold is the most malleable metal and can be hammered into sheets thinner than paper."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Why is glass unsuitable for making a hammer?",
+    "options": [
+      "It dissolves in water",
+      "It is transparent",
+      "It is brittle and would shatter on impact",
+      "It is too light"
+    ],
+    "answer": 2,
+    "hint": "A hammer must absorb repeated blows. Brittle materials crack instead."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Thermocol is used for packing delicate items because it is:",
+    "options": [
+      "Very hard",
+      "Very dense",
+      "A good conductor",
+      "Light, soft and absorbs shocks"
+    ],
+    "answer": 3,
+    "hint": "A soft, light, cushioning material protects fragile goods during transport."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Two identical bottles are filled, one with oil and one with water. Which weighs more?",
+    "options": [
+      "The bottle of oil",
+      "It cannot be decided at all",
+      "Both weigh exactly the same",
+      "The bottle of water, because water is denser than oil"
+    ],
+    "answer": 3,
+    "hint": "For the same volume, the denser liquid has more mass. Water is denser than cooking oil."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "A ball of clay sinks in water, but the same clay shaped into a bowl floats. This shows that floating depends on:",
+    "options": [
+      "How long the clay is kept in water",
+      "The temperature of the room",
+      "The overall density of the object, including trapped air",
+      "The colour of the clay"
+    ],
+    "answer": 2,
+    "hint": "Shaping the clay into a bowl traps air, lowering the object's overall density below that of water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Aluminium is preferred over iron for making aircraft bodies mainly because it is:",
+    "options": [
+      "Strong but much less dense",
+      "Cheaper than paper",
+      "Transparent",
+      "Magnetic"
+    ],
+    "answer": 0,
+    "hint": "Aircraft need strength with low weight, so a strong metal of low density is chosen."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "Which of these is <b>not</b> a property used to describe a material?",
+    "options": [
+      "Density",
+      "Solubility",
+      "Hardness",
+      "Its price in the market"
+    ],
+    "answer": 3,
+    "hint": "Price is decided by people and markets. Hardness, solubility and density are physical properties of the material itself."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-hardness-density",
+    "topicLabel": "Hardness & Density",
+    "question": "A stone and a sponge of the same size are dropped in water. What happens?",
+    "options": [
+      "Both float",
+      "The stone sinks and the sponge floats at first",
+      "The stone floats",
+      "Both sink at once"
+    ],
+    "answer": 1,
+    "hint": "The sponge has air trapped in its pores, giving it a low overall density until it soaks up water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "A substance that dissolves completely in water is said to be:",
+    "options": [
+      "Insoluble",
+      "Soluble",
+      "Magnetic",
+      "Opaque"
+    ],
+    "answer": 1,
+    "hint": "Soluble substances such as sugar and salt disappear into water to form a clear solution."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Which of these is soluble in water?",
+    "options": [
+      "Sugar",
+      "Sand",
+      "Sawdust",
+      "Chalk powder"
+    ],
+    "answer": 0,
+    "hint": "Sugar disappears into water and cannot be seen. Sand and chalk stay as visible particles."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Which of these is insoluble in water?",
+    "options": [
+      "Glucose",
+      "Sand",
+      "Salt",
+      "Sugar"
+    ],
+    "answer": 1,
+    "hint": "Sand settles at the bottom no matter how long you stir, so it is insoluble."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "The substance that dissolves in a solution is called the:",
+    "options": [
+      "Solvent",
+      "Residue",
+      "Solute",
+      "Mixture"
+    ],
+    "answer": 2,
+    "hint": "In sugar solution, sugar is the solute and water is the solvent."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "The liquid in which a substance dissolves is called the:",
+    "options": [
+      "Filtrate",
+      "Solvent",
+      "Solute",
+      "Residue"
+    ],
+    "answer": 1,
+    "hint": "The solvent does the dissolving. In most everyday solutions it is water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "In salt solution, common salt is the:",
+    "options": [
+      "Solute",
+      "Residue",
+      "Solvent",
+      "Filtrate"
+    ],
+    "answer": 0,
+    "hint": "Salt is the substance being dissolved, so it is the solute."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Sugar dissolves faster in hot water than in cold water because:",
+    "options": [
+      "Hot water is heavier",
+      "Cold water has no space",
+      "Heating helps the particles mix more quickly",
+      "Sugar melts in hot water only"
+    ],
+    "answer": 2,
+    "hint": "Warmer water particles move faster, so the solute spreads through it sooner."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Which of these would help sugar dissolve faster in water?",
+    "options": [
+      "Using larger lumps of sugar",
+      "Keeping it still",
+      "Cooling the water",
+      "Stirring the mixture"
+    ],
+    "answer": 3,
+    "hint": "Stirring, heating and using finer particles all speed up dissolving."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Powdered sugar dissolves faster than sugar cubes because:",
+    "options": [
+      "Powder has more surface in contact with water",
+      "Powder is a different substance",
+      "Cubes are heavier",
+      "Powder is sweeter"
+    ],
+    "answer": 0,
+    "hint": "Breaking a solid into smaller pieces exposes more surface to the solvent."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Two liquids that mix completely with each other are said to be:",
+    "options": [
+      "Immiscible",
+      "Opaque",
+      "Insoluble",
+      "Miscible"
+    ],
+    "answer": 3,
+    "hint": "Miscible liquids such as milk and water blend into one uniform liquid."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Two liquids that do not mix and form separate layers are:",
+    "options": [
+      "Miscible",
+      "Saturated",
+      "Soluble",
+      "Immiscible"
+    ],
+    "answer": 3,
+    "hint": "Oil and water are immiscible. They separate into layers after standing."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Which pair of liquids is immiscible?",
+    "options": [
+      "Sugar syrup and water",
+      "Milk and water",
+      "Oil and water",
+      "Vinegar and water"
+    ],
+    "answer": 2,
+    "hint": "Oil floats as a separate layer on water and will not blend with it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Which of these gases dissolves in water and is essential for fish?",
+    "options": [
+      "Argon",
+      "Neon",
+      "Oxygen",
+      "Helium"
+    ],
+    "answer": 2,
+    "hint": "Fish use their gills to take in the oxygen dissolved in water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Bubbles rising in a fizzy drink when the bottle is opened show that:",
+    "options": [
+      "The drink is freezing",
+      "A gas was dissolved in the liquid",
+      "The liquid is boiling",
+      "Sugar is escaping"
+    ],
+    "answer": 1,
+    "hint": "Carbon dioxide is dissolved under pressure. Opening the bottle releases the pressure and the gas escapes."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "A solution in which no more solute can dissolve at that temperature is called:",
+    "options": [
+      "A saturated solution",
+      "An unsaturated solution",
+      "A dilute solution",
+      "A suspension"
+    ],
+    "answer": 0,
+    "hint": "Once a solution is saturated, extra solute simply settles at the bottom."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "How can you dissolve more sugar in an already saturated sugar solution?",
+    "options": [
+      "Heat the solution",
+      "Cover the vessel",
+      "Add more sugar without heating",
+      "Cool the solution"
+    ],
+    "answer": 0,
+    "hint": "Solubility usually rises with temperature, so heating lets the solution hold more solute."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Water is called the universal solvent because it:",
+    "options": [
+      "Dissolves a very large number of substances",
+      "Dissolves absolutely everything",
+      "Is found everywhere",
+      "Has no colour"
+    ],
+    "answer": 0,
+    "hint": "Water dissolves more substances than any other common liquid, though not literally everything."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "When chalk powder is stirred into water and left to stand, it:",
+    "options": [
+      "Settles at the bottom",
+      "Dissolves completely",
+      "Turns into gas",
+      "Floats permanently"
+    ],
+    "answer": 0,
+    "hint": "Chalk is insoluble. Its particles stay suspended for a while and then settle."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "A clear sugar solution is transparent because:",
+    "options": [
+      "The sugar particles are far too small to be seen",
+      "Sugar floats on top",
+      "Sugar has turned into water",
+      "Sugar has disappeared forever"
+    ],
+    "answer": 0,
+    "hint": "In a true solution the solute breaks into particles so tiny that light passes straight through."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "If you dissolve 10 g of salt in water and then evaporate all the water, how much salt do you get back?",
+    "options": [
+      "About 10 g",
+      "Nothing at all",
+      "About 20 g",
+      "About 5 g"
+    ],
+    "answer": 0,
+    "hint": "Dissolving does not destroy the solute. Evaporating the solvent leaves it behind."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Which of these is a solution?",
+    "options": [
+      "Oil floating on water",
+      "Salt dissolved in water",
+      "Sand mixed with water",
+      "Chalk powder in water"
+    ],
+    "answer": 1,
+    "hint": "A true solution is uniform and clear, with no visible separate particles."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Kerosene is used to remove grease stains because grease is:",
+    "options": [
+      "A gas",
+      "Magnetic",
+      "Soluble in water",
+      "Soluble in kerosene but not in water"
+    ],
+    "answer": 3,
+    "hint": "Different solvents dissolve different substances. Water fails on grease, but kerosene works."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Which of these is a solution of a gas in a liquid?",
+    "options": [
+      "Air",
+      "Brass",
+      "Sugar syrup",
+      "Soda water"
+    ],
+    "answer": 3,
+    "hint": "Soda water is carbon dioxide gas dissolved in water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Why can fish not survive in boiled and cooled water kept in a sealed jar?",
+    "options": [
+      "Boiling drives out the dissolved oxygen",
+      "Boiled water is too heavy",
+      "Fish dislike clean water",
+      "Boiled water is poisonous"
+    ],
+    "answer": 0,
+    "hint": "Heating reduces the solubility of gases, so boiling removes the dissolved oxygen fish need."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Which of these does <b>not</b> dissolve in water?",
+    "options": [
+      "Glucose",
+      "Cooking oil",
+      "Salt",
+      "Sugar"
+    ],
+    "answer": 1,
+    "hint": "Oil is immiscible with water and forms a separate layer instead of dissolving."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "A dilute solution is one that contains:",
+    "options": [
+      "No solvent",
+      "Only solids",
+      "A small amount of solute in a large amount of solvent",
+      "A large amount of solute"
+    ],
+    "answer": 2,
+    "hint": "Dilute means weak. Concentrated means a lot of solute in the same amount of solvent."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Sea water tastes salty because it contains:",
+    "options": [
+      "Dissolved salts",
+      "Suspended chalk",
+      "Trapped air only",
+      "Floating sand"
+    ],
+    "answer": 0,
+    "hint": "Rivers carry dissolved minerals to the sea, where they build up over long periods."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "You stir salt into water until no more dissolves. Some salt remains at the bottom. The solution is:",
+    "options": [
+      "Immiscible",
+      "Unsaturated",
+      "Saturated",
+      "Dilute"
+    ],
+    "answer": 2,
+    "hint": "Undissolved solute lying at the bottom is the sign of a saturated solution."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-solubility",
+    "topicLabel": "Solubility",
+    "question": "Which everyday activity depends on a substance being soluble in water?",
+    "options": [
+      "Using a magnet to pick up pins",
+      "Sharpening a pencil",
+      "Sieving flour",
+      "Making lemonade with sugar"
+    ],
+    "answer": 3,
+    "hint": "Making a drink relies on the sugar dissolving evenly through the water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Materials that allow electricity to pass through them are called:",
+    "options": [
+      "Solutes",
+      "Insulators",
+      "Conductors",
+      "Solvents"
+    ],
+    "answer": 2,
+    "hint": "Metals such as copper and aluminium are good conductors of electricity."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Materials that do not allow electricity to pass through them are called:",
+    "options": [
+      "Magnets",
+      "Insulators",
+      "Solutions",
+      "Conductors"
+    ],
+    "answer": 1,
+    "hint": "Rubber, plastic and wood are insulators and are used to cover live wires."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Which of these is a good conductor of electricity?",
+    "options": [
+      "Rubber",
+      "Plastic",
+      "Copper",
+      "Wood"
+    ],
+    "answer": 2,
+    "hint": "Copper conducts electricity well, which is why it is used inside electrical wires."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Electrical wires are covered with plastic because plastic:",
+    "options": [
+      "Is magnetic",
+      "Is an insulator and prevents electric shocks",
+      "Is a good conductor",
+      "Dissolves in water"
+    ],
+    "answer": 1,
+    "hint": "The metal inside carries the current and the plastic outside keeps it from reaching your hand."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Materials that allow heat to pass through them easily are called:",
+    "options": [
+      "Poor conductors of heat",
+      "Good conductors of heat",
+      "Insulators of electricity",
+      "Magnetic materials"
+    ],
+    "answer": 1,
+    "hint": "Metals conduct heat well, which is why cooking vessels are made of them."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Cooking vessels are usually made of metal because metals:",
+    "options": [
+      "Are transparent",
+      "Dissolve in water",
+      "Conduct heat quickly to the food",
+      "Are poor conductors of heat"
+    ],
+    "answer": 2,
+    "hint": "Heat must pass from the flame through the vessel into the food, so a good heat conductor is needed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "The handles of cooking pans are often made of wood or plastic because these materials:",
+    "options": [
+      "Are transparent",
+      "Are good conductors of heat",
+      "Are poor conductors of heat",
+      "Are magnetic"
+    ],
+    "answer": 2,
+    "hint": "A poor conductor stops heat from reaching your hand, so the handle stays cool."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Which of these is a poor conductor of heat?",
+    "options": [
+      "Wood",
+      "Aluminium",
+      "Copper",
+      "Iron"
+    ],
+    "answer": 0,
+    "hint": "Wood does not carry heat well, which is why wooden spoons are safe for stirring hot food."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Materials that are attracted by a magnet are called:",
+    "options": [
+      "Non-magnetic materials",
+      "Conductors",
+      "Solvents",
+      "Magnetic materials"
+    ],
+    "answer": 3,
+    "hint": "Iron, nickel and cobalt are magnetic materials."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Which of these is attracted by a magnet?",
+    "options": [
+      "A wooden block",
+      "A plastic button",
+      "An iron nail",
+      "A glass marble"
+    ],
+    "answer": 2,
+    "hint": "Only iron and a few other metals are magnetic. Plastic, wood and glass are not."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Which of these is <b>not</b> attracted by a magnet?",
+    "options": [
+      "Copper",
+      "Cobalt",
+      "Nickel",
+      "Iron"
+    ],
+    "answer": 0,
+    "hint": "Copper is a metal but it is non-magnetic. Iron, nickel and cobalt are magnetic."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Are all metals magnetic?",
+    "options": [
+      "Yes, every metal is magnetic",
+      "No, only some metals such as iron are magnetic",
+      "No metal is magnetic",
+      "Only shiny metals are magnetic"
+    ],
+    "answer": 1,
+    "hint": "This is a common mistake. Gold, silver, copper and aluminium are metals but are not magnetic."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "A magnet can be used to separate iron pins from a heap of sand because:",
+    "options": [
+      "Sand is magnetic",
+      "Sand is heavier than iron",
+      "Iron dissolves in sand",
+      "Iron is magnetic and sand is not"
+    ],
+    "answer": 3,
+    "hint": "Magnetic separation works whenever one part of a mixture is magnetic and the rest is not."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Where is the pulling force of a bar magnet strongest?",
+    "options": [
+      "At its two poles",
+      "Along one flat side",
+      "At its centre",
+      "It is the same everywhere"
+    ],
+    "answer": 0,
+    "hint": "Iron filings cluster most thickly at the two ends, which are the poles."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "A freely suspended bar magnet always comes to rest pointing:",
+    "options": [
+      "Straight up and down",
+      "In a different direction each time",
+      "North and south",
+      "East and west"
+    ],
+    "answer": 2,
+    "hint": "The Earth behaves like a huge magnet, so a free magnet lines up north to south. This is how a compass works."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "When two like poles of magnets are brought close, they:",
+    "options": [
+      "Attract each other",
+      "Repel each other",
+      "Stick together permanently",
+      "Lose their magnetism"
+    ],
+    "answer": 1,
+    "hint": "Like poles repel and unlike poles attract."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "The north pole of one magnet is brought near the south pole of another. They will:",
+    "options": [
+      "Do nothing",
+      "Attract each other",
+      "Explode",
+      "Repel each other"
+    ],
+    "answer": 1,
+    "hint": "Unlike poles attract, so north and south pull together."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Which instrument uses a magnet to show direction?",
+    "options": [
+      "A barometer",
+      "A compass",
+      "A balance",
+      "A thermometer"
+    ],
+    "answer": 1,
+    "hint": "The magnetic needle of a compass settles along the north-south line."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Which of these would a magnet pick up from a mixture?",
+    "options": [
+      "Grains of rice",
+      "Plastic beads",
+      "Pieces of chalk",
+      "Steel paper clips"
+    ],
+    "answer": 3,
+    "hint": "Steel contains iron, so it is attracted to a magnet."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Which property makes copper suitable for electrical wiring?",
+    "options": [
+      "It is brittle",
+      "It is a good conductor and is ductile",
+      "It is magnetic",
+      "It is transparent"
+    ],
+    "answer": 1,
+    "hint": "Copper both carries current well and can be drawn into long thin wires."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Why should you never touch an electric switch with wet hands?",
+    "options": [
+      "Wet hands are magnetic",
+      "Water is an insulator",
+      "Water makes switches rusty",
+      "Water conducts electricity and can give a shock"
+    ],
+    "answer": 3,
+    "hint": "Ordinary water contains dissolved salts, which let electricity pass through it and through you."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Which of these best conducts electricity?",
+    "options": [
+      "Pure distilled water",
+      "Dry sand",
+      "Salt water",
+      "Cooking oil"
+    ],
+    "answer": 2,
+    "hint": "Dissolved salts allow current to pass. Very pure water is actually a poor conductor."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "A woollen sweater keeps you warm in winter because wool:",
+    "options": [
+      "Conducts heat quickly to your body",
+      "Is magnetic",
+      "Produces heat by itself",
+      "Traps air and is a poor conductor of heat"
+    ],
+    "answer": 3,
+    "hint": "Wool does not make heat. It traps air and slows the escape of your own body heat."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "A steel spoon left in hot tea becomes hot at the other end because steel:",
+    "options": [
+      "Absorbs the tea",
+      "Conducts heat along its length",
+      "Melts in tea",
+      "Is magnetic"
+    ],
+    "answer": 1,
+    "hint": "Heat travels through metals by conduction, from the hot end to the cooler end."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Which pair of properties makes aluminium suitable for cooking foil?",
+    "options": [
+      "Brittle and magnetic",
+      "Soluble and transparent",
+      "Soft and insulating",
+      "Malleable and a good conductor of heat"
+    ],
+    "answer": 3,
+    "hint": "Foil must be beaten very thin and must let heat through to the food."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Magnets lose their magnetism if they are:",
+    "options": [
+      "Heated strongly or hammered",
+      "Painted",
+      "Stored in pairs",
+      "Kept in a cool dry place"
+    ],
+    "answer": 0,
+    "hint": "Rough handling, heating and dropping all disturb the arrangement inside and weaken a magnet."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Which of these uses a magnet in everyday life?",
+    "options": [
+      "A cotton shirt",
+      "The door catch of a refrigerator",
+      "A wooden ruler",
+      "A glass tumbler"
+    ],
+    "answer": 1,
+    "hint": "A magnetic strip in the door seal holds a refrigerator door shut."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "If a magnet is broken into two pieces, each piece will:",
+    "options": [
+      "Lose all magnetism",
+      "Have only a south pole",
+      "Have only a north pole",
+      "Have both a north and a south pole"
+    ],
+    "answer": 3,
+    "hint": "You cannot separate the poles. Every piece of a magnet, however small, has two poles."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Which test would tell you whether a shiny grey object is made of iron or aluminium?",
+    "options": [
+      "Look at its colour",
+      "Put it in sunlight",
+      "Bring a magnet near it",
+      "Weigh it"
+    ],
+    "answer": 2,
+    "hint": "Both look similar, but only iron is attracted to a magnet."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Materials Around Us",
+    "topic": "material-conductivity-magnetism",
+    "topicLabel": "Conductivity & Magnetism",
+    "question": "Scrap yards use large electromagnets to lift:",
+    "options": [
+      "Iron and steel scrap",
+      "Paper cartons",
+      "Plastic waste",
+      "Glass bottles"
+    ],
+    "answer": 0,
+    "hint": "Electromagnets attract only magnetic materials, which makes them ideal for sorting iron out of mixed scrap."
+  }
+]

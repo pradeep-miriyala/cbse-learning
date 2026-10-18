@@ -1,0 +1,1890 @@
+[
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "A substance made of only one kind of particle is called:",
+    "options": [
+      "A mixture",
+      "A solution",
+      "A suspension",
+      "A pure substance"
+    ],
+    "answer": 3,
+    "hint": "A pure substance has only one kind of particle throughout, such as distilled water or pure gold."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "When two or more substances are mixed without forming a new substance, the result is:",
+    "options": [
+      "A mixture",
+      "A compound",
+      "An element",
+      "A pure substance"
+    ],
+    "answer": 0,
+    "hint": "In a mixture each substance keeps its own properties and can usually be separated again."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Which of these is a pure substance?",
+    "options": [
+      "Soil",
+      "Distilled water",
+      "Milk",
+      "Sea water"
+    ],
+    "answer": 1,
+    "hint": "Distilled water contains only water particles. Sea water, milk and soil are all mixtures."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Which of these is a mixture?",
+    "options": [
+      "Air",
+      "Distilled water",
+      "Pure gold",
+      "Pure oxygen"
+    ],
+    "answer": 0,
+    "hint": "Air is a mixture of nitrogen, oxygen, carbon dioxide and other gases."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Which gas is present in the largest amount in air?",
+    "options": [
+      "Carbon dioxide",
+      "Nitrogen",
+      "Oxygen",
+      "Argon"
+    ],
+    "answer": 1,
+    "hint": "Air is about 78 per cent nitrogen and about 21 per cent oxygen."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "A mixture in which the substances are spread evenly throughout is called:",
+    "options": [
+      "Insoluble",
+      "Heterogeneous",
+      "Impure",
+      "Homogeneous"
+    ],
+    "answer": 3,
+    "hint": "In a homogeneous mixture such as sugar solution, every part looks and tastes the same."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "A mixture in which the different substances can be seen separately is called:",
+    "options": [
+      "Heterogeneous",
+      "Homogeneous",
+      "Pure",
+      "Saturated"
+    ],
+    "answer": 0,
+    "hint": "In a heterogeneous mixture such as sand in water, you can see the separate parts."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Which of these is a homogeneous mixture?",
+    "options": [
+      "Sand and water",
+      "Oil and water",
+      "Rice and stones",
+      "Salt solution"
+    ],
+    "answer": 3,
+    "hint": "A salt solution looks the same throughout, with no visible separate parts."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Which of these is a heterogeneous mixture?",
+    "options": [
+      "Air",
+      "Sand and water",
+      "Sugar solution",
+      "Brass"
+    ],
+    "answer": 1,
+    "hint": "Sand stays visible as separate particles in water, so the mixture is heterogeneous."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Why do we separate substances from mixtures?",
+    "options": [
+      "To remove harmful parts and obtain useful pure substances",
+      "To destroy them",
+      "To make mixtures heavier",
+      "To change their colour"
+    ],
+    "answer": 0,
+    "hint": "We separate mixtures to take out what is harmful, to collect what is useful, or to get a pure substance."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Removing stones from rice before cooking is done mainly to:",
+    "options": [
+      "Make the rice heavier",
+      "Remove a harmful or unwanted component",
+      "Add flavour",
+      "Change the colour of rice"
+    ],
+    "answer": 1,
+    "hint": "Some separations are done simply to take out something unwanted or unsafe."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Milk is a mixture because:",
+    "options": [
+      "It is white in colour",
+      "It contains water, fat, proteins and sugars that keep their own properties",
+      "It comes from animals",
+      "It can be boiled"
+    ],
+    "answer": 1,
+    "hint": "Milk contains several substances mixed together, and cream can be separated from it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Brass, which is made of copper and zinc, is an example of:",
+    "options": [
+      "A compound of salt",
+      "A pure element",
+      "A mixture of metals called an alloy",
+      "A suspension"
+    ],
+    "answer": 2,
+    "hint": "An alloy is a mixture of two or more metals melted together."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Which property of the substances in a mixture is used to separate them?",
+    "options": [
+      "Their age",
+      "A difference in their properties, such as size or solubility",
+      "Their price",
+      "Their name"
+    ],
+    "answer": 1,
+    "hint": "Every separation method exploits some difference: size, weight, solubility, boiling point or magnetism."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Can the substances in a mixture usually be separated by physical methods?",
+    "options": [
+      "Only by burning them",
+      "Only by freezing them",
+      "Yes, because they keep their own properties",
+      "No, never"
+    ],
+    "answer": 2,
+    "hint": "Because no new substance is formed in a mixture, simple physical methods can pull it apart again."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Which of these is <b>not</b> a mixture?",
+    "options": [
+      "Pure copper",
+      "Concrete",
+      "Muddy water",
+      "Air"
+    ],
+    "answer": 0,
+    "hint": "Pure copper contains only copper particles, so it is a pure substance."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Tea leaves boiled in water with milk and sugar form:",
+    "options": [
+      "A mixture from which parts can be separated",
+      "A magnetic material",
+      "A pure substance",
+      "A single element"
+    ],
+    "answer": 0,
+    "hint": "Tea is a mixture. The leaves are removed by straining, which is a separation method."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Soil is considered a mixture because it contains:",
+    "options": [
+      "Only air",
+      "Only one kind of particle",
+      "Sand, clay, humus, water and air together",
+      "Only water"
+    ],
+    "answer": 2,
+    "hint": "Soil has many different components, each keeping its own properties."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Which statement about a pure substance is correct?",
+    "options": [
+      "It has the same properties throughout",
+      "It is always a solid",
+      "It always contains two or more parts",
+      "It can always be separated by filtering"
+    ],
+    "answer": 0,
+    "hint": "A pure substance is uniform and has fixed properties such as a definite melting point."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "The proportion of substances in a mixture:",
+    "options": [
+      "Is always equal",
+      "Can be changed",
+      "Cannot be measured",
+      "Is always fixed"
+    ],
+    "answer": 1,
+    "hint": "You can make tea weak or strong, which shows that the proportions in a mixture are not fixed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "pure-substances-mixtures",
+    "topicLabel": "Pure Substances & Mixtures",
+    "question": "Which of these mixtures would be hardest to separate by hand?",
+    "options": [
+      "Marbles in sand",
+      "Salt dissolved in water",
+      "Large seeds in flour",
+      "Stones in rice"
+    ],
+    "answer": 1,
+    "hint": "Handpicking works only when the parts are large enough to see and hold. Dissolved salt is invisible."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Picking out small stones from rice with your fingers is called:",
+    "options": [
+      "Winnowing",
+      "Filtration",
+      "Sieving",
+      "Handpicking"
+    ],
+    "answer": 3,
+    "hint": "Handpicking is used when the unwanted particles are few, and large enough to see and hold."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Handpicking is suitable when the substances to be separated:",
+    "options": [
+      "Differ in size, shape or colour and are few in number",
+      "Are dissolved in water",
+      "Are both liquids",
+      "Are both invisible"
+    ],
+    "answer": 0,
+    "hint": "You must be able to see and pick the unwanted part, so it must be large and few."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "The method of separating heavier and lighter components of a mixture by wind is called:",
+    "options": [
+      "Filtration",
+      "Decantation",
+      "Winnowing",
+      "Sieving"
+    ],
+    "answer": 2,
+    "hint": "Grain is dropped from a height so that wind blows the lighter husk away."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Winnowing is used to separate:",
+    "options": [
+      "Cream from milk",
+      "Sand from water",
+      "Salt from water",
+      "Husk from grain"
+    ],
+    "answer": 3,
+    "hint": "Winnowing separates a light component from a heavier one using moving air."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Winnowing works because the two components differ in:",
+    "options": [
+      "Smell",
+      "Taste",
+      "Weight",
+      "Colour"
+    ],
+    "answer": 2,
+    "hint": "The lighter husk is carried further by the wind while the heavier grain falls straight down."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "The process of separating grain from stalks by beating is called:",
+    "options": [
+      "Winnowing",
+      "Churning",
+      "Threshing",
+      "Sieving"
+    ],
+    "answer": 2,
+    "hint": "Threshing loosens the grain from the harvested stalks before winnowing removes the husk."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Which method separates a mixture of two solids of different particle sizes?",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Winnowing",
+      "Sieving"
+    ],
+    "answer": 3,
+    "hint": "A sieve lets smaller particles pass through its holes and holds back the larger ones."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Flour is sieved before making chapatis in order to:",
+    "options": [
+      "Make it heavier",
+      "Change its colour",
+      "Add water to it",
+      "Remove bran and lumps that are larger than the flour particles"
+    ],
+    "answer": 3,
+    "hint": "Sieving holds back the coarse bits and lets the fine flour fall through."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Sieving would <b>not</b> work to separate:",
+    "options": [
+      "Bran from flour",
+      "Sand from gravel",
+      "Salt dissolved in water",
+      "Small stones from wheat"
+    ],
+    "answer": 2,
+    "hint": "Dissolved salt has no separate particles to hold back, so a sieve cannot help."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "At a construction site, sand is separated from pebbles using:",
+    "options": [
+      "Distillation",
+      "A large sieve",
+      "A magnet",
+      "Evaporation"
+    ],
+    "answer": 1,
+    "hint": "Fine sand passes through the mesh while pebbles remain behind."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "A mixture of iron filings and sulphur powder can be separated using:",
+    "options": [
+      "A sieve",
+      "Water",
+      "Wind",
+      "A magnet"
+    ],
+    "answer": 3,
+    "hint": "Iron is magnetic and sulphur is not, so a magnet picks out the iron filings."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Magnetic separation can be used only when:",
+    "options": [
+      "Both components are magnetic",
+      "Both components dissolve",
+      "One component of the mixture is magnetic",
+      "The mixture is a liquid"
+    ],
+    "answer": 2,
+    "hint": "The magnet must attract one part and leave the other, so exactly one part must be magnetic."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Cream is separated from milk by:",
+    "options": [
+      "Winnowing",
+      "Sieving",
+      "Filtration",
+      "Churning"
+    ],
+    "answer": 3,
+    "hint": "Churning spins the milk so that lighter fat droplets collect together and rise."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Churning separates butter from curd because:",
+    "options": [
+      "The lighter fat particles collect and separate out",
+      "Curd evaporates",
+      "Butter is magnetic",
+      "Butter dissolves in curd"
+    ],
+    "answer": 0,
+    "hint": "Spinning throws the denser liquid outward and lets the lighter fat gather in the middle."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "The machine used to separate cream from milk on a large scale works by:",
+    "options": [
+      "Spinning the milk very fast",
+      "Heating the milk",
+      "Freezing the milk",
+      "Filtering the milk"
+    ],
+    "answer": 0,
+    "hint": "A centrifuge spins the mixture, and the denser part moves outward while the lighter part stays inside."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Which method would you use to separate a mixture of large marbles and fine sand?",
+    "options": [
+      "Sieving or handpicking",
+      "Evaporation",
+      "Distillation",
+      "Churning"
+    ],
+    "answer": 0,
+    "hint": "The two differ greatly in size, so a sieve or even the hand will do."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Farmers usually winnow grain on a windy day because:",
+    "options": [
+      "Grain dries faster",
+      "Wind makes grain heavier",
+      "It is cooler to work",
+      "Moving air is needed to carry the light husk away"
+    ],
+    "answer": 3,
+    "hint": "Without wind, both grain and husk would fall in the same place."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Which of these pairs of methods is used one after the other during harvesting?",
+    "options": [
+      "Filtration then sieving",
+      "Decantation then handpicking",
+      "Threshing then winnowing",
+      "Evaporation then churning"
+    ],
+    "answer": 2,
+    "hint": "Grain is first beaten free of the stalks, then the husk is blown away."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Tea leaves are separated from prepared tea using:",
+    "options": [
+      "Evaporation",
+      "A strainer, which works like a sieve",
+      "Winnowing",
+      "A magnet"
+    ],
+    "answer": 1,
+    "hint": "The strainer holds back the solid leaves and lets the liquid pass."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Which property is used when separating iron nails from a mixture of nails and wooden pegs?",
+    "options": [
+      "Solubility",
+      "Magnetism",
+      "Transparency",
+      "Boiling point"
+    ],
+    "answer": 1,
+    "hint": "Iron is magnetic and wood is not, so a magnet separates them easily."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Why can handpicking <b>not</b> be used to remove fine sand from sugar?",
+    "options": [
+      "Sugar is magnetic",
+      "Sand dissolves in sugar",
+      "Sand is invisible",
+      "The particles are too small and too many to pick individually"
+    ],
+    "answer": 3,
+    "hint": "Handpicking needs few, clearly visible particles. Fine sand grains are far too small and numerous."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "A mixture of salt and iron filings can be separated by:",
+    "options": [
+      "Churning",
+      "Using a magnet to remove the iron",
+      "Winnowing",
+      "Sieving"
+    ],
+    "answer": 1,
+    "hint": "The magnet removes the iron filings, leaving the salt behind."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "separating-solids",
+    "topicLabel": "Separating Solids",
+    "question": "Which separation method depends on the shape and size of holes in a mesh?",
+    "options": [
+      "Condensation",
+      "Decantation",
+      "Sieving",
+      "Distillation"
+    ],
+    "answer": 2,
+    "hint": "The mesh size decides which particles pass through and which stay behind."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "The settling down of heavier insoluble particles at the bottom of a liquid is called:",
+    "options": [
+      "Sedimentation",
+      "Filtration",
+      "Decantation",
+      "Evaporation"
+    ],
+    "answer": 0,
+    "hint": "The settled layer at the bottom is called the sediment."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "The heavier particles that settle at the bottom during sedimentation are called the:",
+    "options": [
+      "Solute",
+      "Solvent",
+      "Sediment",
+      "Filtrate"
+    ],
+    "answer": 2,
+    "hint": "Sediment is the solid that settles. The clear liquid above it is poured off separately."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "Carefully pouring out the clear liquid after the solid has settled is called:",
+    "options": [
+      "Distillation",
+      "Filtration",
+      "Decantation",
+      "Sedimentation"
+    ],
+    "answer": 2,
+    "hint": "Decantation always follows sedimentation. The liquid is tipped off without disturbing the sediment."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "Which pair of methods is normally used one after the other?",
+    "options": [
+      "Winnowing and distillation",
+      "Churning and filtration",
+      "Sedimentation and decantation",
+      "Sieving and condensation"
+    ],
+    "answer": 2,
+    "hint": "First let the solid settle, then pour off the clear liquid above."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "Muddy water is left standing in a bucket. What happens?",
+    "options": [
+      "Mud floats to the surface",
+      "Mud dissolves completely",
+      "Water evaporates immediately",
+      "Mud settles at the bottom and clearer water stays on top"
+    ],
+    "answer": 3,
+    "hint": "Mud particles are heavier than water and insoluble, so gravity pulls them down."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "The method used to separate insoluble solids from a liquid using a porous material is:",
+    "options": [
+      "Filtration",
+      "Winnowing",
+      "Evaporation",
+      "Condensation"
+    ],
+    "answer": 0,
+    "hint": "A filter has tiny holes that let liquid pass but hold back solid particles."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "The clear liquid that passes through the filter paper is called the:",
+    "options": [
+      "Residue",
+      "Solute",
+      "Sediment",
+      "Filtrate"
+    ],
+    "answer": 3,
+    "hint": "Filtrate passes through. Residue stays on the paper."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "The solid left behind on the filter paper is called the:",
+    "options": [
+      "Solvent",
+      "Solution",
+      "Residue",
+      "Filtrate"
+    ],
+    "answer": 2,
+    "hint": "Residue is what remains. Filtrate is what runs through."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "Why is filtration better than decantation for separating fine mud from water?",
+    "options": [
+      "Filtration also removes the very fine particles that stay suspended",
+      "Filtration is faster in every case",
+      "Filtration heats the water",
+      "Decantation needs electricity"
+    ],
+    "answer": 0,
+    "hint": "Decantation leaves fine suspended particles behind in the liquid. A filter traps them."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "Can filtration separate salt from salt solution?",
+    "options": [
+      "Yes, if the paper is thick",
+      "Yes, salt stays on the paper",
+      "No, because dissolved salt passes through the filter with the water",
+      "Yes, but only with hot water"
+    ],
+    "answer": 2,
+    "hint": "Dissolved particles are far smaller than the pores in filter paper, so they pass straight through."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "Filtration works only when the solid is:",
+    "options": [
+      "Magnetic",
+      "Soluble in the liquid",
+      "Insoluble in the liquid",
+      "Lighter than the liquid"
+    ],
+    "answer": 2,
+    "hint": "There must be actual solid particles left for the filter to catch."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "Which everyday object works on the principle of filtration?",
+    "options": [
+      "A tea strainer",
+      "A thermometer",
+      "A weighing balance",
+      "A magnet"
+    ],
+    "answer": 0,
+    "hint": "The strainer holds back the solid tea leaves and lets the liquid through."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "Adding alum to muddy water makes the mud settle faster. This process is called:",
+    "options": [
+      "Loading",
+      "Filtration",
+      "Evaporation",
+      "Churning"
+    ],
+    "answer": 0,
+    "hint": "Alum makes fine particles clump together and become heavy, so they settle quickly."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "Why is alum added to water in some water treatment plants?",
+    "options": [
+      "To add taste",
+      "To make suspended impurities settle down quickly",
+      "To make water sweet",
+      "To colour the water"
+    ],
+    "answer": 1,
+    "hint": "Alum speeds up sedimentation by clumping the fine suspended particles together."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "Which of these mixtures can be separated by filtration?",
+    "options": [
+      "Salt and water",
+      "Alcohol and water",
+      "Sugar and water",
+      "Sand and water"
+    ],
+    "answer": 3,
+    "hint": "Sand is insoluble and stays as visible particles, so a filter can trap it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "In a village, a cloth is used to strain drinking water. This removes:",
+    "options": [
+      "All dissolved salts",
+      "Visible solid impurities but not dissolved ones or germs",
+      "Nothing at all",
+      "All germs completely"
+    ],
+    "answer": 1,
+    "hint": "Cloth filtering catches solid dirt only. Boiling is still needed to kill germs."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "Sedimentation takes place because the insoluble particles are:",
+    "options": [
+      "Heavier than the liquid",
+      "Dissolved in the liquid",
+      "Lighter than the liquid",
+      "Magnetic"
+    ],
+    "answer": 0,
+    "hint": "Gravity pulls the denser particles down through the liquid."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "While decanting, the liquid must be poured:",
+    "options": [
+      "Quickly, with a swirl",
+      "Slowly, without disturbing the settled solid",
+      "While stirring",
+      "After shaking the vessel"
+    ],
+    "answer": 1,
+    "hint": "Any disturbance mixes the sediment back into the liquid and undoes the settling."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "A mixture of chalk powder and water is best separated by:",
+    "options": [
+      "Evaporation",
+      "Filtration",
+      "Winnowing",
+      "Magnetic separation"
+    ],
+    "answer": 1,
+    "hint": "Chalk is insoluble, so it can be trapped on filter paper."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "Which of these would pass through filter paper?",
+    "options": [
+      "Dissolved sugar",
+      "Chalk powder",
+      "Tea leaves",
+      "Sand grains"
+    ],
+    "answer": 0,
+    "hint": "Only dissolved substances, whose particles are extremely small, pass through with the liquid."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "To separate a mixture of sand, salt and water, you would first:",
+    "options": [
+      "Use winnowing",
+      "Use a magnet",
+      "Filter to remove the sand, then evaporate to get the salt",
+      "Evaporate first, then filter"
+    ],
+    "answer": 2,
+    "hint": "Remove the insoluble solid first, then recover the dissolved solid from the clear filtrate."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "A suspension is a mixture in which:",
+    "options": [
+      "Nothing can be separated",
+      "Everything dissolves completely",
+      "Two gases mix",
+      "Insoluble particles float about and slowly settle"
+    ],
+    "answer": 3,
+    "hint": "Muddy water is a suspension. Left standing, the particles settle out."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "sedimentation-filtration",
+    "topicLabel": "Sedimentation & Filtration",
+    "question": "Why does river water look muddy after heavy rain?",
+    "options": [
+      "Fast-flowing water carries suspended soil particles",
+      "Water dissolves the soil",
+      "Rain water is brown",
+      "Soil evaporates into the water"
+    ],
+    "answer": 0,
+    "hint": "Moving water keeps fine particles suspended. They settle only when the water becomes still."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "The changing of a liquid into vapour is called:",
+    "options": [
+      "Filtration",
+      "Evaporation",
+      "Sedimentation",
+      "Condensation"
+    ],
+    "answer": 1,
+    "hint": "Evaporation turns liquid into vapour and can happen at any temperature."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "The changing of vapour back into a liquid is called:",
+    "options": [
+      "Melting",
+      "Filtration",
+      "Evaporation",
+      "Condensation"
+    ],
+    "answer": 3,
+    "hint": "Condensation is the reverse of evaporation. Cooling turns vapour back into liquid."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Common salt is obtained from sea water by:",
+    "options": [
+      "Evaporation of the water in shallow pans",
+      "Filtration",
+      "Winnowing",
+      "Churning"
+    ],
+    "answer": 0,
+    "hint": "Sunlight evaporates the water in salt pans, leaving the salt behind."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Evaporation is used to separate:",
+    "options": [
+      "Iron from sand",
+      "A dissolved solid from a liquid",
+      "Husk from grain",
+      "Two solids of different sizes"
+    ],
+    "answer": 1,
+    "hint": "The liquid escapes as vapour and the dissolved solid is left behind."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Wet clothes dry faster on a sunny, windy day because:",
+    "options": [
+      "Sunlight dissolves water",
+      "Heat and moving air increase the rate of evaporation",
+      "Wind pushes water into the cloth",
+      "Clothes absorb sunlight"
+    ],
+    "answer": 1,
+    "hint": "Higher temperature, more wind and a larger exposed surface all speed up evaporation."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Clothes spread out wide dry faster than clothes bunched up because:",
+    "options": [
+      "A larger surface is exposed to the air",
+      "Bunched clothes are heavier",
+      "Spread clothes are warmer",
+      "Air cannot reach spread clothes"
+    ],
+    "answer": 0,
+    "hint": "Evaporation happens at the surface, so more exposed surface means faster drying."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Water droplets appear on the outside of a cold glass of water because of:",
+    "options": [
+      "Evaporation of the water inside",
+      "Filtration",
+      "Water leaking through the glass",
+      "Condensation of water vapour from the air"
+    ],
+    "answer": 3,
+    "hint": "The cold surface cools the air around it, and the vapour in that air turns back into liquid."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "The process that combines evaporation and condensation to obtain a pure liquid is:",
+    "options": [
+      "Winnowing",
+      "Filtration",
+      "Sedimentation",
+      "Distillation"
+    ],
+    "answer": 3,
+    "hint": "In distillation, the liquid is boiled to vapour and then cooled back into a pure liquid."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Distillation is used when we want to recover:",
+    "options": [
+      "Only the dissolved solid",
+      "Only the container",
+      "Only the gas",
+      "The pure liquid itself"
+    ],
+    "answer": 3,
+    "hint": "Simple evaporation loses the liquid to the air. Distillation collects and keeps it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "To get pure water from salt water, you would use:",
+    "options": [
+      "Distillation",
+      "Decantation",
+      "Sieving",
+      "Filtration"
+    ],
+    "answer": 0,
+    "hint": "The water boils off, is cooled and collected, while the salt stays behind in the flask."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "What is the main difference between evaporation and distillation?",
+    "options": [
+      "They are exactly the same",
+      "Distillation needs no heat",
+      "Evaporation gives a purer liquid",
+      "In distillation the vapour is cooled and collected, in evaporation it escapes"
+    ],
+    "answer": 3,
+    "hint": "Both begin with turning liquid to vapour. Only distillation recovers that vapour."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Water obtained by distillation is called:",
+    "options": [
+      "Distilled water",
+      "Mineral water",
+      "Muddy water",
+      "Hard water"
+    ],
+    "answer": 0,
+    "hint": "Distilled water is nearly pure because dissolved salts are left behind during boiling."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "The method used to separate two miscible liquids with different boiling points is:",
+    "options": [
+      "Fractional distillation",
+      "Filtration",
+      "Handpicking",
+      "Sedimentation"
+    ],
+    "answer": 0,
+    "hint": "The liquid with the lower boiling point turns to vapour first and is collected separately."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "In fractional distillation, which liquid is collected first?",
+    "options": [
+      "The one with the higher boiling point",
+      "The coloured one",
+      "The heavier one",
+      "The one with the lower boiling point"
+    ],
+    "answer": 3,
+    "hint": "The liquid that boils at the lower temperature evaporates first."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Petrol, diesel and kerosene are obtained from crude oil by:",
+    "options": [
+      "Fractional distillation",
+      "Magnetic separation",
+      "Winnowing",
+      "Filtration"
+    ],
+    "answer": 0,
+    "hint": "Crude oil is a mixture of liquids with different boiling points, separated in a tall fractionating column."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Which method separates two immiscible liquids such as oil and water?",
+    "options": [
+      "Using a separating funnel",
+      "Winnowing",
+      "Sieving",
+      "Fractional distillation"
+    ],
+    "answer": 0,
+    "hint": "The liquids form layers and the lower one is run out through the tap of the funnel."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "In a separating funnel holding oil and water, which liquid is drained out first?",
+    "options": [
+      "Both together",
+      "Neither",
+      "Water, because it forms the lower layer",
+      "Oil, because it is lighter"
+    ],
+    "answer": 2,
+    "hint": "The denser liquid sits at the bottom and is released first through the stopcock."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "A separating funnel works because the two liquids:",
+    "options": [
+      "Have the same density",
+      "Both dissolve in each other",
+      "Do not mix and have different densities",
+      "Are both solids"
+    ],
+    "answer": 2,
+    "hint": "Immiscible liquids of different densities settle into two clear layers."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Which mixture would you separate using a separating funnel?",
+    "options": [
+      "Kerosene and water",
+      "Salt and water",
+      "Alcohol and water",
+      "Sugar and water"
+    ],
+    "answer": 0,
+    "hint": "Kerosene does not mix with water, so the two form separate layers."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Rain is formed in nature by:",
+    "options": [
+      "Filtration followed by sieving",
+      "Sedimentation",
+      "Churning",
+      "Evaporation followed by condensation"
+    ],
+    "answer": 3,
+    "hint": "Water evaporates from seas, rises, cools and condenses into droplets that fall as rain."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "The water cycle is a natural example of:",
+    "options": [
+      "Winnowing",
+      "Magnetic separation",
+      "Evaporation, condensation and precipitation",
+      "Threshing"
+    ],
+    "answer": 2,
+    "hint": "The Sun drives evaporation, cooling causes condensation, and the water returns as rain."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "During distillation of salt water, what remains in the boiling flask?",
+    "options": [
+      "Vapour",
+      "Pure water",
+      "Nothing",
+      "Salt"
+    ],
+    "answer": 3,
+    "hint": "Only the water leaves as vapour. The salt cannot evaporate, so it stays behind."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Why is distilled water used in car batteries and laboratories?",
+    "options": [
+      "It has almost no dissolved salts",
+      "It is coloured",
+      "It is sweeter",
+      "It is cheaper than tap water"
+    ],
+    "answer": 0,
+    "hint": "Dissolved salts would interfere with chemical reactions and damage equipment."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Evaporation of a liquid can take place:",
+    "options": [
+      "At any temperature, from the surface",
+      "Only at the boiling point",
+      "Only in a closed vessel",
+      "Only in sunlight"
+    ],
+    "answer": 0,
+    "hint": "Wet clothes dry even in the shade, which shows evaporation does not need boiling."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Water kept in an earthen pot stays cool because:",
+    "options": [
+      "Water freezes inside",
+      "Water seeping through the pores evaporates and takes away heat",
+      "The pot is airtight",
+      "Clay makes water cold"
+    ],
+    "answer": 1,
+    "hint": "Evaporation is a cooling process. It draws heat from whatever is left behind."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "evaporation-distillation",
+    "topicLabel": "Evaporation & Distillation",
+    "question": "Which of these mixtures needs distillation rather than simple evaporation?",
+    "options": [
+      "Getting salt from sea water",
+      "Getting drinking water from sea water",
+      "Removing sand from water",
+      "Removing husk from grain"
+    ],
+    "answer": 1,
+    "hint": "If you want the liquid itself, you must condense and collect the vapour."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "A solution is made up of:",
+    "options": [
+      "A solute dissolved in a solvent",
+      "Two immiscible liquids",
+      "Only one substance",
+      "Two insoluble solids"
+    ],
+    "answer": 0,
+    "hint": "The solute dissolves and the solvent does the dissolving. Together they form a solution."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Water is called the universal solvent because it:",
+    "options": [
+      "Dissolves more substances than any other common liquid",
+      "Has no taste",
+      "Is transparent",
+      "Is present everywhere"
+    ],
+    "answer": 0,
+    "hint": "Water dissolves a very wide range of substances, though not literally everything."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "In a true solution, the particles of the solute are:",
+    "options": [
+      "Too small to be seen even with a microscope",
+      "Floating on the surface",
+      "Large and clearly visible",
+      "Settled at the bottom"
+    ],
+    "answer": 0,
+    "hint": "This is why a true solution looks completely clear and does not settle on standing."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Which of these is a characteristic of a true solution?",
+    "options": [
+      "Its particles can be filtered out",
+      "It settles into layers",
+      "It is clear and does not settle on standing",
+      "It is always cloudy"
+    ],
+    "answer": 2,
+    "hint": "A true solution is stable, uniform and cannot be separated by filtering."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "A solution that can dissolve more solute at a given temperature is called:",
+    "options": [
+      "Saturated",
+      "Supersaturated",
+      "Immiscible",
+      "Unsaturated"
+    ],
+    "answer": 3,
+    "hint": "An unsaturated solution has room for more solute. A saturated one does not."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "A solution in which no more solute can dissolve at that temperature is:",
+    "options": [
+      "Unsaturated",
+      "Saturated",
+      "Dilute",
+      "Miscible"
+    ],
+    "answer": 1,
+    "hint": "Extra solute added to a saturated solution simply settles at the bottom."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "How can you turn a saturated solution back into an unsaturated one?",
+    "options": [
+      "Cool it",
+      "Heat it or add more solvent",
+      "Add more solute",
+      "Stir it faster"
+    ],
+    "answer": 1,
+    "hint": "Heating usually raises solubility, and adding solvent gives the solute more room."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "When a saturated sugar solution is cooled, what usually happens?",
+    "options": [
+      "The solution becomes clearer",
+      "Some sugar separates out as crystals",
+      "Nothing changes",
+      "More sugar dissolves"
+    ],
+    "answer": 1,
+    "hint": "Solubility drops as temperature falls, so the extra solute can no longer stay dissolved."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "The process of obtaining pure solid crystals from a solution is called:",
+    "options": [
+      "Crystallisation",
+      "Decantation",
+      "Winnowing",
+      "Filtration"
+    ],
+    "answer": 0,
+    "hint": "Crystallisation gives purer solids than simple evaporation because impurities stay in the liquid."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Why is crystallisation better than evaporation for purifying a solid?",
+    "options": [
+      "Impurities stay behind in the liquid, giving purer crystals",
+      "It needs no heating at all",
+      "It is always faster",
+      "It works on insoluble solids"
+    ],
+    "answer": 0,
+    "hint": "Evaporating to dryness leaves every impurity behind with the solid. Crystallisation does not."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Air is an example of a solution of:",
+    "options": [
+      "A gas in a liquid",
+      "A liquid in a solid",
+      "A solid in a liquid",
+      "Gases in a gas"
+    ],
+    "answer": 3,
+    "hint": "Air is a homogeneous mixture of nitrogen, oxygen and other gases."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Soda water is an example of a solution of:",
+    "options": [
+      "A solid in a liquid",
+      "A gas in a liquid",
+      "A solid in a solid",
+      "A liquid in a liquid"
+    ],
+    "answer": 1,
+    "hint": "Carbon dioxide gas is dissolved in water under pressure."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Brass is an example of a solution of:",
+    "options": [
+      "A liquid in a solid",
+      "A gas in a solid",
+      "A solid in a liquid",
+      "A solid in a solid"
+    ],
+    "answer": 3,
+    "hint": "Alloys such as brass are solid solutions of copper and zinc."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Vinegar in water is an example of a solution of:",
+    "options": [
+      "A gas in a liquid",
+      "A solid in a liquid",
+      "A solid in a gas",
+      "A liquid in a liquid"
+    ],
+    "answer": 3,
+    "hint": "Two miscible liquids form a liquid-in-liquid solution."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Which factor does <b>not</b> affect how fast a solid dissolves?",
+    "options": [
+      "The colour of the container",
+      "The temperature of the solvent",
+      "The size of the solute particles",
+      "Stirring the mixture"
+    ],
+    "answer": 0,
+    "hint": "Temperature, stirring and particle size all matter. The colour of the vessel does not."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Solubility of most solids in water increases when:",
+    "options": [
+      "The temperature is raised",
+      "The temperature is lowered",
+      "The solution is left standing",
+      "The vessel is covered"
+    ],
+    "answer": 0,
+    "hint": "More sugar dissolves in hot tea than in cold water, which shows solubility rising with temperature."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Solubility of gases in water increases when the water is:",
+    "options": [
+      "Heated",
+      "Stirred vigorously",
+      "Cooled",
+      "Left in sunlight"
+    ],
+    "answer": 2,
+    "hint": "Gases behave opposite to solids. Cold water holds more dissolved gas, which is why cold rivers hold more oxygen."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "A suspension differs from a true solution because in a suspension:",
+    "options": [
+      "No solvent is present",
+      "Everything dissolves",
+      "The particles are visible and settle on standing",
+      "The mixture is always clear"
+    ],
+    "answer": 2,
+    "hint": "Muddy water is a suspension. Its particles are large enough to see and to settle out."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Which of these can be separated by filtration?",
+    "options": [
+      "Air",
+      "A solution of sugar in water",
+      "A solution of salt in water",
+      "A suspension of chalk in water"
+    ],
+    "answer": 3,
+    "hint": "Only suspensions have particles large enough for a filter to trap."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "The amount of solute that dissolves in 100 g of a solvent at a given temperature is its:",
+    "options": [
+      "Hardness",
+      "Solubility",
+      "Texture",
+      "Density"
+    ],
+    "answer": 1,
+    "hint": "Solubility is a measured quantity and it changes with temperature."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Different substances have different solubilities in water. This means:",
+    "options": [
+      "Nothing dissolves in water",
+      "Only solids dissolve",
+      "Some dissolve a lot, some a little and some not at all",
+      "All substances dissolve equally"
+    ],
+    "answer": 2,
+    "hint": "Sugar dissolves very well, chalk hardly at all. Solubility varies from substance to substance."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Why does a fizzy drink go flat faster when left in a warm room?",
+    "options": [
+      "Sugar evaporates",
+      "Gases are less soluble in warm liquids and escape",
+      "The bottle expands",
+      "Warm air enters the drink"
+    ],
+    "answer": 1,
+    "hint": "Warming lowers the solubility of gases, so the dissolved carbon dioxide escapes."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Which of these would you use to recover pure salt from a mixture of salt and sand?",
+    "options": [
+      "Use a separating funnel",
+      "Winnow the mixture",
+      "Use a magnet",
+      "Dissolve in water, filter, then evaporate"
+    ],
+    "answer": 3,
+    "hint": "Salt dissolves and sand does not, so filtering removes the sand and evaporation recovers the salt."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "In the sea, water acts as the solvent and the dissolved salts act as the:",
+    "options": [
+      "Solute",
+      "Suspension",
+      "Residue",
+      "Filtrate"
+    ],
+    "answer": 0,
+    "hint": "Whatever dissolves is the solute. Here it is the mixture of salts."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Methods of Separation",
+    "topic": "solutions",
+    "topicLabel": "Solutions",
+    "question": "Which of these best explains why more than one method is often needed to separate a mixture?",
+    "options": [
+      "Methods must be repeated three times",
+      "Scientists like doing extra work",
+      "One method is always enough",
+      "Each method uses one difference, so complex mixtures need several steps"
+    ],
+    "answer": 3,
+    "hint": "A mixture of sand, salt and water needs filtration and then evaporation, because each step targets one property."
+  }
+]

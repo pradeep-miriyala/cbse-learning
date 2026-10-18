@@ -1,0 +1,819 @@
+[
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the subject of a sentence?",
+    "options": [
+      "The person or thing the sentence is about",
+      "The full stop at the end",
+      "The action word in the sentence",
+      "The describing word in the sentence"
+    ],
+    "answer": 0,
+    "hint": "The subject is who or what the sentence is about. Ask “who?” or “what?” before the verb.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the predicate of a sentence?",
+    "options": [
+      "The question mark or full stop",
+      "Only the naming word",
+      "The first word of the sentence",
+      "Everything that tells you what the subject does or is"
+    ],
+    "answer": 3,
+    "hint": "The predicate is the rest of the sentence — the verb and everything that goes with it.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "Every complete sentence must have which two parts?",
+    "options": [
+      "A question and an answer",
+      "A capital letter and a comma",
+      "A subject and a predicate",
+      "A noun and an adjective"
+    ],
+    "answer": 2,
+    "hint": "Without a subject you do not know who; without a predicate you do not know what happened.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the SUBJECT of this sentence?\n\n“The Giant came back.”",
+    "options": [
+      "The Giant",
+      "The Giant came back.",
+      "There is no subject",
+      "came back"
+    ],
+    "answer": 0,
+    "hint": "Ask who or what the sentence is about: The Giant. The rest tells you what they did.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the PREDICATE of this sentence?\n\n“The Giant came back.”",
+    "options": [
+      "There is no predicate",
+      "The Giant came back.",
+      "The Giant",
+      "came back"
+    ],
+    "answer": 3,
+    "hint": "The predicate is everything that says what the subject does — “came back”.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the SUBJECT of this sentence?\n\n“The children played in the garden.”",
+    "options": [
+      "The children played in the garden.",
+      "The children",
+      "There is no subject",
+      "played in the garden"
+    ],
+    "answer": 1,
+    "hint": "Ask who or what the sentence is about: The children. The rest tells you what they did.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the PREDICATE of this sentence?\n\n“The children played in the garden.”",
+    "options": [
+      "played in the garden",
+      "The children",
+      "There is no predicate",
+      "The children played in the garden."
+    ],
+    "answer": 0,
+    "hint": "The predicate is everything that says what the subject does — “played in the garden”.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the SUBJECT of this sentence?\n\n“The Snow covered the grass.”",
+    "options": [
+      "covered the grass",
+      "The Snow",
+      "The Snow covered the grass.",
+      "There is no subject"
+    ],
+    "answer": 1,
+    "hint": "Ask who or what the sentence is about: The Snow. The rest tells you what they did.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the PREDICATE of this sentence?\n\n“The Snow covered the grass.”",
+    "options": [
+      "covered the grass",
+      "The Snow",
+      "The Snow covered the grass.",
+      "There is no predicate"
+    ],
+    "answer": 0,
+    "hint": "The predicate is everything that says what the subject does — “covered the grass”.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the SUBJECT of this sentence?\n\n“The little linnet sang outside his window.”",
+    "options": [
+      "sang outside his window",
+      "The little linnet",
+      "There is no subject",
+      "The little linnet sang outside his window."
+    ],
+    "answer": 1,
+    "hint": "Ask who or what the sentence is about: The little linnet. The rest tells you what they did.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the PREDICATE of this sentence?\n\n“The little linnet sang outside his window.”",
+    "options": [
+      "The little linnet sang outside his window.",
+      "The little linnet",
+      "sang outside his window",
+      "There is no predicate"
+    ],
+    "answer": 2,
+    "hint": "The predicate is everything that says what the subject does — “sang outside his window”.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the SUBJECT of this sentence?\n\n“The North Wind roared all day long.”",
+    "options": [
+      "The North Wind",
+      "There is no subject",
+      "The North Wind roared all day long.",
+      "roared all day long"
+    ],
+    "answer": 0,
+    "hint": "Ask who or what the sentence is about: The North Wind. The rest tells you what they did.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the PREDICATE of this sentence?\n\n“The North Wind roared all day long.”",
+    "options": [
+      "The North Wind",
+      "roared all day long",
+      "There is no predicate",
+      "The North Wind roared all day long."
+    ],
+    "answer": 1,
+    "hint": "The predicate is everything that says what the subject does — “roared all day long”.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the SUBJECT of this sentence?\n\n“The twelve peach trees blossomed in the spring.”",
+    "options": [
+      "blossomed in the spring",
+      "The twelve peach trees blossomed in the spring.",
+      "There is no subject",
+      "The twelve peach trees"
+    ],
+    "answer": 3,
+    "hint": "Ask who or what the sentence is about: The twelve peach trees. The rest tells you what they did.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the PREDICATE of this sentence?\n\n“The twelve peach trees blossomed in the spring.”",
+    "options": [
+      "The twelve peach trees",
+      "blossomed in the spring",
+      "There is no predicate",
+      "The twelve peach trees blossomed in the spring."
+    ],
+    "answer": 1,
+    "hint": "The predicate is everything that says what the subject does — “blossomed in the spring”.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the SUBJECT of this sentence?\n\n“A high wall stood all round the garden.”",
+    "options": [
+      "A high wall stood all round the garden.",
+      "A high wall",
+      "There is no subject",
+      "stood all round the garden"
+    ],
+    "answer": 1,
+    "hint": "Ask who or what the sentence is about: A high wall. The rest tells you what they did.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the PREDICATE of this sentence?\n\n“A high wall stood all round the garden.”",
+    "options": [
+      "A high wall",
+      "There is no predicate",
+      "A high wall stood all round the garden.",
+      "stood all round the garden"
+    ],
+    "answer": 3,
+    "hint": "The predicate is everything that says what the subject does — “stood all round the garden”.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the SUBJECT of this sentence?\n\n“The frightened children ran away.”",
+    "options": [
+      "ran away",
+      "The frightened children ran away.",
+      "There is no subject",
+      "The frightened children"
+    ],
+    "answer": 3,
+    "hint": "Ask who or what the sentence is about: The frightened children. The rest tells you what they did.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "What is the PREDICATE of this sentence?\n\n“The frightened children ran away.”",
+    "options": [
+      "The frightened children",
+      "ran away",
+      "The frightened children ran away.",
+      "There is no predicate"
+    ],
+    "answer": 1,
+    "hint": "The predicate is everything that says what the subject does — “ran away”.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "In “Under the tree sat a very small boy”, what is the subject?",
+    "options": [
+      "Under the tree",
+      "Under the tree sat",
+      "sat",
+      "a very small boy"
+    ],
+    "answer": 3,
+    "hint": "The sentence is turned around, but it is still about the boy. Ask who sat — the boy did.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "Which of these is NOT a complete sentence?",
+    "options": [
+      "The Giant knocked down the wall",
+      "Ran away through the hole in the wall",
+      "Spring came back to the garden",
+      "The children climbed the trees"
+    ],
+    "answer": 1,
+    "hint": "It has a predicate but no subject — you are never told who ran. That makes it a fragment.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "Which of these is NOT a complete sentence?",
+    "options": [
+      "The Hail rattled on the roof",
+      "A high wall all round the garden",
+      "The boy could not reach the branches",
+      "The frost painted the trees silver"
+    ],
+    "answer": 1,
+    "hint": "It names a thing but never says what it did or was. There is no predicate.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "In “The Giant’s garden was very beautiful”, what is the predicate?",
+    "options": [
+      "very beautiful garden",
+      "was very beautiful",
+      "The Giant",
+      "The Giant's garden"
+    ],
+    "answer": 1,
+    "hint": "A predicate does not have to be an action. Here it tells you what the subject WAS.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-predicate",
+    "topicLabel": "Subject & Predicate",
+    "subtopic": null,
+    "question": "A subject can be more than one word. Which is the full subject of “The tall grey wall hid the garden”?",
+    "options": [
+      "wall",
+      "hid the garden",
+      "The tall grey wall",
+      "The tall"
+    ],
+    "answer": 2,
+    "hint": "The full subject includes the words that describe it — all of “The tall grey wall”.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "What does subject–verb agreement mean?",
+    "options": [
+      "The verb must always end in -ing",
+      "The verb must match the subject in number — singular or plural",
+      "The subject must always come before the verb",
+      "The subject and the verb must rhyme"
+    ],
+    "answer": 1,
+    "hint": "One child plays; two children play. The verb changes to match how many.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "With a SINGULAR subject in the present tense, what usually happens to the verb?",
+    "options": [
+      "It never changes at all",
+      "It always becomes were",
+      "It takes an -s: the boy plays",
+      "It loses its -s: the boy play"
+    ],
+    "answer": 2,
+    "hint": "Oddly, it is the verb that takes the -s when the subject is singular: he plays, they play.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Choose the correct verb.\n\n“The Giant ___ in a great castle.”",
+    "options": [
+      "live",
+      "livesing",
+      "lives",
+      "to lives"
+    ],
+    "answer": 2,
+    "hint": "The Giant is one, so the verb takes an -s.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Choose the correct verb.\n\n“The children ___ in the garden every afternoon.”",
+    "options": [
+      "playing",
+      "plays",
+      "to play",
+      "play"
+    ],
+    "answer": 3,
+    "hint": "Children is plural, so the verb has no -s.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Choose the correct verb.\n\n“The linnet ___ outside his window.”",
+    "options": [
+      "to sings",
+      "sings",
+      "sing",
+      "singsing"
+    ],
+    "answer": 1,
+    "hint": "One linnet — singular subject, so sings.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Choose the correct verb.\n\n“The trees ___ themselves with blossoms.”",
+    "options": [
+      "cover",
+      "covers",
+      "covering",
+      "to cover"
+    ],
+    "answer": 0,
+    "hint": "Trees is plural, so cover.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Choose the correct verb.\n\n“The North Wind ___ all day long.”",
+    "options": [
+      "roarsing",
+      "roar",
+      "roars",
+      "to roars"
+    ],
+    "answer": 2,
+    "hint": "One wind — roars.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Choose the correct verb.\n\n“The flowers ___ their heads above the grass.”",
+    "options": [
+      "lifting",
+      "lifts",
+      "to lift",
+      "lift"
+    ],
+    "answer": 3,
+    "hint": "Flowers is plural — lift.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Choose the correct verb.\n\n“The little boy ___ too small to reach the branch.”",
+    "options": [
+      "ising",
+      "are",
+      "is",
+      "to is"
+    ],
+    "answer": 2,
+    "hint": "One boy — is.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Choose the correct verb.\n\n“The birds ___ singing again.”",
+    "options": [
+      "to are",
+      "are",
+      "areing",
+      "is"
+    ],
+    "answer": 1,
+    "hint": "Birds is plural — are.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Choose the correct verb.\n\n“Every child ___ welcome in the garden.”",
+    "options": [
+      "to is",
+      "is",
+      "are",
+      "ising"
+    ],
+    "answer": 1,
+    "hint": "Every makes it singular however many children there are — every child is.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Choose the correct verb.\n\n“Each of the trees ___ covered with frost.”",
+    "options": [
+      "ising",
+      "to is",
+      "is",
+      "are"
+    ],
+    "answer": 2,
+    "hint": "The subject is each, not trees. Each is singular, so is.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Choose the correct verb.\n\n“One of the boys ___ crying under the tree.”",
+    "options": [
+      "are",
+      "is",
+      "to is",
+      "ising"
+    ],
+    "answer": 1,
+    "hint": "The subject is one, not boys. One is singular.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Choose the correct verb.\n\n“Neither the Snow nor the Frost ___ willing to leave.”",
+    "options": [
+      "was",
+      "wasing",
+      "were",
+      "to was"
+    ],
+    "answer": 0,
+    "hint": "With neither…nor, the verb agrees with the nearer subject — the Frost, which is singular.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Which sentence is CORRECT?",
+    "options": [
+      "The children were playing in the garden.",
+      "The children is playing in the garden.",
+      "The children was playing in the garden.",
+      "The children has playing in the garden."
+    ],
+    "answer": 0,
+    "hint": "Children is plural, so it takes were.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Which sentence is CORRECT?",
+    "options": [
+      "The Giant having a beautiful garden.",
+      "The Giant has a beautiful garden.",
+      "The Giant have a beautiful garden.",
+      "The Giant are having beautiful garden."
+    ],
+    "answer": 1,
+    "hint": "One Giant — has. Have goes with plural subjects and with I and you.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Which sentence is WRONG?",
+    "options": [
+      "The trees were bare.",
+      "The tree in the garden was bare.",
+      "The trees in the garden was bare.",
+      "The trees in the garden were bare."
+    ],
+    "answer": 2,
+    "hint": "The subject is trees, which is plural, so it needs were. The words in the garden sit between them and are easy to be misled by.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "“The sound of the children ___ lovely.” Which verb is right?",
+    "options": [
+      "was",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": 0,
+    "hint": "The subject is sound, not children. One sound — was. This is the trap of a phrase coming between subject and verb.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Grammar Foundations",
+    "topic": "subject-verb-agreement",
+    "topicLabel": "Subject–Verb Agreement",
+    "subtopic": null,
+    "question": "Why is “The list of words are long” wrong?",
+    "options": [
+      "Long should be longer",
+      "Nothing is wrong with it",
+      "Words should come before list",
+      "The subject is list, which is singular, so it needs is"
+    ],
+    "answer": 3,
+    "hint": "Of words describes the list. The list itself is one thing, so the verb is is.",
+    "difficulty": "hard",
+    "status": "published"
+  }
+]

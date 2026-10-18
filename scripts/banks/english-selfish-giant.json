@@ -1,0 +1,969 @@
+[
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "In this story, what does “Cornish” mean?",
+    "options": [
+      "Belonging to a country in Africa",
+      "A kind of stone wall",
+      "Belonging to Cornwall, a county in south-west England",
+      "Made of corn"
+    ],
+    "answer": 2,
+    "hint": "The Giant had been away visiting his friend the Cornish ogre — an ogre from Cornwall.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "In this story, what does “ogre” mean?",
+    "options": [
+      "A gentle woodland spirit",
+      "A cruel man-eating giant in stories",
+      "A very old and wise king",
+      "A servant who guards a gate"
+    ],
+    "answer": 1,
+    "hint": "An ogre is the frightening giant of fairy tales. The Selfish Giant counts one as a friend, which tells you something about him.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "In this story, what does “gruff” mean?",
+    "options": [
+      "Soft and gentle",
+      "Quiet and shy",
+      "Cheerful and joking",
+      "Rough and unfriendly in voice or manner"
+    ],
+    "answer": 3,
+    "hint": "The Giant speaks in a gruff voice when he drives the children out — rough, harsh, unwelcoming.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "In this story, what does “cloak” mean?",
+    "options": [
+      "A loose outer garment worn over the shoulders",
+      "A pair of thick boots",
+      "A wide-brimmed hat",
+      "A woollen scarf for the neck"
+    ],
+    "answer": 0,
+    "hint": "A cloak has no sleeves and hangs from the shoulders. The Snow covers the grass with a great white one.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "In this story, what does “linnet” mean?",
+    "options": [
+      "A bird that hunts at night",
+      "A bird that lives on water",
+      "A small brown finch that sings",
+      "A large bird that cannot fly"
+    ],
+    "answer": 2,
+    "hint": "It is a linnet singing outside his window that the Giant thinks the most beautiful music in the world.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "In this story, what does “outrage” mean?",
+    "options": [
+      "A quiet feeling of sadness",
+      "A sudden burst of laughter",
+      "Great anger at something felt to be very wrong",
+      "A polite request"
+    ],
+    "answer": 2,
+    "hint": "Outrage is anger at unfairness — the feeling that something ought not to have happened.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "In this story, what does “haughty” mean?",
+    "options": [
+      "Proud, and looking down on other people",
+      "Generous with everything one has",
+      "Nervous and easily frightened",
+      "Modest and humble"
+    ],
+    "answer": 0,
+    "hint": "A haughty person thinks themselves above others. It is a good word for the Giant before he changes.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "In this story, what does “prohibit” mean?",
+    "options": [
+      "To allow freely",
+      "To forbid by law or by rule",
+      "To ask politely",
+      "To encourage strongly"
+    ],
+    "answer": 1,
+    "hint": "The Giant's notice board prohibits the children from entering — it forbids them.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "In this story, what does “righteous” mean?",
+    "options": [
+      "Ashamed of one's actions",
+      "Careless about right and wrong",
+      "Believing oneself to be morally right",
+      "Uncertain about what is right"
+    ],
+    "answer": 2,
+    "hint": "Righteous means in the right, or feeling in the right. The Giant is quite sure he is entitled to his own garden.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "In this story, what does “intimidate” mean?",
+    "options": [
+      "To praise someone warmly",
+      "To teach someone patiently",
+      "To frighten someone into doing what you want",
+      "To comfort someone who is upset"
+    ],
+    "answer": 2,
+    "hint": "To intimidate is to use fear. The Giant's roar and his high wall do exactly that to the children.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "In this story, what does “whimsical” mean?",
+    "options": [
+      "Strictly serious at all times",
+      "Slow and very careful",
+      "Cruel and calculating",
+      "Playful and fanciful, in an amusing unexpected way"
+    ],
+    "answer": 3,
+    "hint": "Whimsical means fanciful and playful — the quality a story about talking Snow and Frost has.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "Which word means rough and unfriendly in manner?",
+    "options": [
+      "whimsical",
+      "righteous",
+      "gruff",
+      "cornish"
+    ],
+    "answer": 2,
+    "hint": "A gruff voice is a rough, harsh one.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "Which word means to forbid something?",
+    "options": [
+      "prohibit",
+      "intimidate",
+      "cloak",
+      "outrage"
+    ],
+    "answer": 0,
+    "hint": "To prohibit is to forbid — usually by a rule or a notice.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "Which word means to frighten someone into obeying?",
+    "options": [
+      "linnet",
+      "prohibit",
+      "intimidate",
+      "haughty"
+    ],
+    "answer": 2,
+    "hint": "Intimidating someone is getting your way by making them afraid.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "Which word means proud and looking down on others?",
+    "options": [
+      "haughty",
+      "whimsical",
+      "gruff",
+      "cornish"
+    ],
+    "answer": 0,
+    "hint": "Haughty is a particular kind of pride — the kind that despises other people.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "Which word names a garment?",
+    "options": [
+      "linnet",
+      "outrage",
+      "ogre",
+      "cloak"
+    ],
+    "answer": 3,
+    "hint": "A cloak is worn over the shoulders.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "Which word names a bird?",
+    "options": [
+      "outrage",
+      "linnet",
+      "ogre",
+      "cloak"
+    ],
+    "answer": 1,
+    "hint": "A linnet is a small singing finch.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "Which word names a creature from fairy tales?",
+    "options": [
+      "linnet",
+      "cloak",
+      "ogre",
+      "prohibit"
+    ],
+    "answer": 2,
+    "hint": "An ogre is the man-eating giant of stories.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "Which word means playful and fanciful?",
+    "options": [
+      "righteous",
+      "prohibit",
+      "gruff",
+      "whimsical"
+    ],
+    "answer": 3,
+    "hint": "Whimsical describes something light and imaginative rather than serious.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "Which word would best describe someone who puts up a wall to keep children out?",
+    "options": [
+      "Gruff",
+      "Righteous",
+      "Haughty",
+      "Whimsical"
+    ],
+    "answer": 2,
+    "hint": "Haughty is the pride that looks down on others — exactly what the wall expresses.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "The Selfish Giant",
+    "question": "“Trespassers will be prosecuted.” Which word from the list is closest in meaning to what this notice does?",
+    "options": [
+      "Prohibit",
+      "Cloak",
+      "Intimidate",
+      "Outrage"
+    ],
+    "answer": 0,
+    "hint": "The notice forbids people from entering, which is what prohibit means. It also intimidates, but forbidding is what it says.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "Who are the speakers — the “we” in this extract?",
+    "options": [
+      "The birds and the flowers",
+      "The Giant and the Cornish ogre",
+      "The children of the village",
+      "The Snow and the Frost"
+    ],
+    "answer": 3,
+    "hint": "It is the Snow and the Frost who say this, delighted to find a garden where spring never comes.",
+    "difficulty": "easy",
+    "status": "published",
+    "passageId": "spring-forgotten",
+    "passageTitle": "The Snow and the Frost speak",
+    "passage": "“Spring has forgotten this garden,” they cried, “so we will live here all the year round.”"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "What did the speakers do to the garden?",
+    "options": [
+      "The Snow covered the grass and the Frost turned the trees silver",
+      "They knocked down the Giant's wall",
+      "They planted new flowers along the wall",
+      "They melted away and let the sun in"
+    ],
+    "answer": 0,
+    "hint": "The Snow covered the grass with her great white cloak, and the Frost painted all the trees silver.",
+    "difficulty": "easy",
+    "status": "published",
+    "passageId": "spring-forgotten",
+    "passageTitle": "The Snow and the Frost speak",
+    "passage": "“Spring has forgotten this garden,” they cried, “so we will live here all the year round.”"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "Whom did they invite to join them?",
+    "options": [
+      "The children, and then the Giant",
+      "The linnet, and then the peach trees",
+      "The Spring, and then the Summer",
+      "The North Wind, and then the Hail"
+    ],
+    "answer": 3,
+    "hint": "They invited the North Wind, who came wrapped in furs, and afterwards the Hail.",
+    "difficulty": "medium",
+    "status": "published",
+    "passageId": "spring-forgotten",
+    "passageTitle": "The Snow and the Frost speak",
+    "passage": "“Spring has forgotten this garden,” they cried, “so we will live here all the year round.”"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "Why had Spring forgotten this garden?",
+    "options": [
+      "Because the Giant had shut the children out of it",
+      "Because it was too far north for spring to reach",
+      "Because the Giant had cut down all the trees",
+      "Because the garden had no soil left"
+    ],
+    "answer": 0,
+    "hint": "Spring stays away because the children are gone. Where there are no children, there is no spring — that is the story's whole idea.",
+    "difficulty": "hard",
+    "status": "published",
+    "passageId": "spring-forgotten",
+    "passageTitle": "The Snow and the Frost speak",
+    "passage": "“Spring has forgotten this garden,” they cried, “so we will live here all the year round.”"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "Who speaks these words?",
+    "options": [
+      "The Cornish ogre",
+      "The Giant, on returning home",
+      "The North Wind",
+      "The village schoolmaster"
+    ],
+    "answer": 1,
+    "hint": "It is the Giant, back after seven years and finding children in his garden.",
+    "difficulty": "easy",
+    "status": "published",
+    "passageId": "my-own-garden",
+    "passageTitle": "The Giant returns",
+    "passage": "“What are you doing here?” he cried in a very gruff voice, and the children ran away. “My own garden is my own garden,” said the Giant; “any one can understand that, and I will allow nobody to play in it but myself.”"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "What does “gruff” tell you about how he said it?",
+    "options": [
+      "Cheerfully and loudly",
+      "Roughly and unkindly",
+      "Softly and sadly",
+      "Nervously and quietly"
+    ],
+    "answer": 1,
+    "hint": "A gruff voice is rough and harsh — enough to send the children running.",
+    "difficulty": "easy",
+    "status": "published",
+    "passageId": "my-own-garden",
+    "passageTitle": "The Giant returns",
+    "passage": "“What are you doing here?” he cried in a very gruff voice, and the children ran away. “My own garden is my own garden,” said the Giant; “any one can understand that, and I will allow nobody to play in it but myself.”"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "What did the Giant do after saying this?",
+    "options": [
+      "He left again to visit his friend",
+      "He invited the children back the next day",
+      "He planted twelve new peach trees",
+      "He built a high wall and put up a notice board"
+    ],
+    "answer": 3,
+    "hint": "He built a high wall all round it and put up a notice board saying trespassers would be prosecuted.",
+    "difficulty": "easy",
+    "status": "published",
+    "passageId": "my-own-garden",
+    "passageTitle": "The Giant returns",
+    "passage": "“What are you doing here?” he cried in a very gruff voice, and the children ran away. “My own garden is my own garden,” said the Giant; “any one can understand that, and I will allow nobody to play in it but myself.”"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "“My own garden is my own garden.” What does repeating the phrase show?",
+    "options": [
+      "That he is joking with the children",
+      "That he is not sure whose garden it is",
+      "That the garden belongs to the children too",
+      "How completely he is fixed on owning it"
+    ],
+    "answer": 3,
+    "hint": "Saying the same words twice makes the claim sound final, as though it settles everything. That is exactly how selfishness argues.",
+    "difficulty": "hard",
+    "status": "published",
+    "passageId": "my-own-garden",
+    "passageTitle": "The Giant returns",
+    "passage": "“What are you doing here?” he cried in a very gruff voice, and the children ran away. “My own garden is my own garden,” said the Giant; “any one can understand that, and I will allow nobody to play in it but myself.”"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "What was the lovely music the Giant heard?",
+    "options": [
+      "The children laughing in the lane",
+      "The North Wind dying down",
+      "A little linnet singing outside his window",
+      "The King's musicians passing by"
+    ],
+    "answer": 2,
+    "hint": "He thought it was the King's musicians, but it was only a linnet — a small bird.",
+    "difficulty": "easy",
+    "status": "published",
+    "passageId": "linnet-window",
+    "passageTitle": "The first sign of spring",
+    "passage": "One morning the Giant was lying awake in bed when he heard some lovely music. It sounded so sweet to his ears that he thought it must be the King’s musicians passing by. It was really only a little linnet singing outside his window, but it was so long since he had heard a bird sing in his garden that it seemed to him to be the most beautiful music in the world."
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "Why did such a small sound seem so wonderful to him?",
+    "options": [
+      "Because the linnet was singing louder than usual",
+      "Because he had never heard a bird before",
+      "Because the King had sent the bird to him",
+      "Because no bird had sung in his garden for a very long time"
+    ],
+    "answer": 3,
+    "hint": "It is not that the song was grand. It is that his garden had been silent so long that any bird was extraordinary.",
+    "difficulty": "medium",
+    "status": "published",
+    "passageId": "linnet-window",
+    "passageTitle": "The first sign of spring",
+    "passage": "One morning the Giant was lying awake in bed when he heard some lovely music. It sounded so sweet to his ears that he thought it must be the King’s musicians passing by. It was really only a little linnet singing outside his window, but it was so long since he had heard a bird sing in his garden that it seemed to him to be the most beautiful music in the world."
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "What does this moment mark in the story?",
+    "options": [
+      "The building of the wall",
+      "The first sign that spring has come back to the garden",
+      "The moment the Giant decides to leave again",
+      "The arrival of the Cornish ogre"
+    ],
+    "answer": 1,
+    "hint": "The linnet's song is the first sign of spring returning — the Hail stops, the North Wind ceases to roar, and a delicious perfume comes to him.",
+    "difficulty": "medium",
+    "status": "published",
+    "passageId": "linnet-window",
+    "passageTitle": "The first sign of spring",
+    "passage": "One morning the Giant was lying awake in bed when he heard some lovely music. It sounded so sweet to his ears that he thought it must be the King’s musicians passing by. It was really only a little linnet singing outside his window, but it was so long since he had heard a bird sing in his garden that it seemed to him to be the most beautiful music in the world."
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-extracts",
+    "topicLabel": "Reading the Lines",
+    "subtopic": null,
+    "question": "What did the Giant do after hearing it?",
+    "options": [
+      "He shouted at the bird to be quiet",
+      "He sent for the King's musicians",
+      "He went back to sleep at once",
+      "He got out of bed and looked out of the window"
+    ],
+    "answer": 3,
+    "hint": "He looked out — and saw the children back in the garden, and the trees in blossom.",
+    "difficulty": "easy",
+    "status": "published",
+    "passageId": "linnet-window",
+    "passageTitle": "The first sign of spring",
+    "passage": "One morning the Giant was lying awake in bed when he heard some lovely music. It sounded so sweet to his ears that he thought it must be the King’s musicians passing by. It was really only a little linnet singing outside his window, but it was so long since he had heard a bird sing in his garden that it seemed to him to be the most beautiful music in the world."
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "Why would children enjoy playing in the Giant's garden?",
+    "options": [
+      "It was full of toys the Giant had bought",
+      "It was the only open space near the village",
+      "It had soft green grass, beautiful flowers and trees to climb",
+      "The Giant paid them to come"
+    ],
+    "answer": 2,
+    "hint": "The grass was soft and green, star-like flowers grew in it, and there were twelve peach trees and singing birds. It is simply a lovely place to be.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "Do you think the Giant's garden was a very beautiful garden?",
+    "options": [
+      "Yes — soft grass, star-like flowers, peach trees and singing birds",
+      "No — it was bare and full of stones",
+      "No — it was too small for anyone to play in",
+      "Yes — but only because of the wall around it"
+    ],
+    "answer": 0,
+    "hint": "Everything described is beautiful: the grass, the flowers like stars, the twelve peach trees that blossomed in spring and bore fruit in autumn, and the birds.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "How long had the Giant been away, and where?",
+    "options": [
+      "Seven days, at a fair in the next village",
+      "Seven years, imprisoned in a tower",
+      "Seven years, with his friend the Cornish ogre",
+      "Seven months, travelling at sea"
+    ],
+    "answer": 2,
+    "hint": "He had been to visit his friend the Cornish ogre and had stayed seven years.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What did the Giant put up to keep the children out?",
+    "options": [
+      "A locked gate and a bell",
+      "A pair of guard dogs",
+      "A high wall and a notice board",
+      "A hedge of thorns"
+    ],
+    "answer": 2,
+    "hint": "He built a high wall all round the garden and put up a notice board: trespassers will be prosecuted.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What did the North Wind look like?",
+    "options": [
+      "He was covered in a white cloak",
+      "He wore a silver crown",
+      "He was wrapped in furs",
+      "He was dressed all in grey"
+    ],
+    "answer": 2,
+    "hint": "The North Wind came wrapped in furs. It is the Hail who is dressed in grey.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What did the North Wind do in the garden?",
+    "options": [
+      "He roared all day and blew the chimney pots down",
+      "He carried the children over the wall",
+      "He melted the snow and let spring in",
+      "He planted frost flowers on the grass"
+    ],
+    "answer": 0,
+    "hint": "He roared all day long, and blew the chimney pots down. The Snow and Frost had invited him to stay.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "Who came after the North Wind, and how was he described?",
+    "options": [
+      "The Thunder, dressed in black and shouting",
+      "The Fog, dressed in white and silent",
+      "The Hail, dressed in grey with a breath like ice",
+      "The Rain, dressed in blue and always weeping"
+    ],
+    "answer": 2,
+    "hint": "The Hail came, dressed in grey, and his breath was like ice. He rattled on the roof of the castle every day.",
+    "difficulty": "hard",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What was the first sign that spring had come back?",
+    "options": [
+      "A linnet singing outside the Giant's window",
+      "The Giant's peach trees bearing fruit",
+      "The Snow and the Frost saying goodbye",
+      "The wall falling down by itself"
+    ],
+    "answer": 0,
+    "hint": "The Giant woke to a linnet singing — the first bird in his garden for years.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "How did the children get back into the garden?",
+    "options": [
+      "They climbed over the high wall",
+      "They crept in through a little hole in the wall",
+      "The North Wind blew the wall down",
+      "The Giant opened the gate and called them"
+    ],
+    "answer": 1,
+    "hint": "They had crept in through a little hole in the wall, and were sitting in the branches of the trees.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What happened to the trees when the children came back?",
+    "options": [
+      "They grew twice as tall",
+      "They turned silver with frost",
+      "They lost all their leaves at once",
+      "They covered themselves with blossoms"
+    ],
+    "answer": 3,
+    "hint": "The trees were so glad to have the children back that they covered themselves with blossoms.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "Why was it still winter in one corner of the garden?",
+    "options": [
+      "A little boy was too small to climb into the tree, so that tree stayed frozen",
+      "The wall had not been knocked down there yet",
+      "The sun never reached that part of the garden",
+      "The Giant had forbidden anyone to enter that corner"
+    ],
+    "answer": 0,
+    "hint": "One little boy was so small he could not reach the branches. That tree was still covered with frost and snow, and the North Wind was blowing above it.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What did the Giant do when he saw the little boy crying?",
+    "options": [
+      "He shouted at him to leave at once",
+      "He crept up quietly, lifted him gently into the tree",
+      "He fetched a ladder and left it there",
+      "He called the other children to help"
+    ],
+    "answer": 1,
+    "hint": "He went softly behind him, took him gently in his hand, and put him up into the tree — which at once broke into blossom.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What did the Giant realise about himself?",
+    "options": [
+      "That he was not really a giant at all",
+      "That his friend the ogre had tricked him",
+      "That the children had been stealing his fruit",
+      "That he had been selfish, and now understood why spring would not come"
+    ],
+    "answer": 3,
+    "hint": "“How selfish I have been!” he said. “Now I know why the Spring would not come here.”",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What did the Giant do with the wall?",
+    "options": [
+      "He painted it white",
+      "He knocked it down",
+      "He cut a proper gate into it",
+      "He built it higher"
+    ],
+    "answer": 1,
+    "hint": "He took a great axe and knocked down the wall, so the garden was the children's again.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "What is the main lesson of the story?",
+    "options": [
+      "Children should not enter other people's gardens",
+      "Keeping good things to yourself destroys them; sharing brings them to life",
+      "Walls are the best way to protect what is yours",
+      "Winter is a harsher season than spring"
+    ],
+    "answer": 1,
+    "hint": "The garden dies when it is shut up and comes alive when it is shared. The Giant's happiness arrives only when the children do.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "The Selfish Giant",
+    "topic": "selfish-giant-story",
+    "topicLabel": "Understanding the Story",
+    "subtopic": null,
+    "question": "Why does the story give the Snow, the Frost and the North Wind the ability to speak and act?",
+    "options": [
+      "To show that the Giant is imagining everything",
+      "Because the story is about the weather rather than the Giant",
+      "Because children cannot understand real weather",
+      "To make the garden's coldness feel deliberate and alive"
+    ],
+    "answer": 3,
+    "hint": "Personifying them turns ordinary winter into something that moves in and settles, which makes the Giant's punishment feel chosen rather than accidental.",
+    "difficulty": "hard",
+    "status": "published"
+  }
+]

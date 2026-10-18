@@ -1,0 +1,1058 @@
+[
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "question": "A balanced diet is one that:",
+    "options": [
+      "Contains only expensive foods",
+      "Contains only vegetables",
+      "Contains all the nutrients in the right proportions",
+      "Contains the largest possible quantity of food"
+    ],
+    "answer": 2,
+    "hint": "Balance is about proportion and variety, not about cost or quantity."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "question": "Does a balanced diet have to be expensive?",
+    "options": [
+      "No, simple local foods such as dal, roti and seasonal vegetables can be balanced",
+      "Yes, imported foods are essential",
+      "Yes, only costly foods are balanced",
+      "No, but it must include meat"
+    ],
+    "answer": 0,
+    "hint": "A thali of roti, dal, sabzi and curd is a balanced meal at very modest cost."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "question": "In a food pyramid, the foods to be eaten in the largest amount are placed:",
+    "options": [
+      "At the narrow top",
+      "Outside the pyramid",
+      "At the broad base",
+      "In the middle only"
+    ],
+    "answer": 2,
+    "hint": "The pyramid's width shows how much to eat. Broad base means eat most."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "question": "Which group usually forms the base of the food pyramid?",
+    "options": [
+      "Oils and butter",
+      "Sweets and fried foods",
+      "Cereals and whole grains",
+      "Meat and eggs"
+    ],
+    "answer": 2,
+    "hint": "Grains supply the bulk of daily energy, so they sit at the bottom."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "question": "Which foods belong at the narrow tip of the food pyramid?",
+    "options": [
+      "Fruits and vegetables",
+      "Pulses",
+      "Cereals",
+      "Sweets, fried snacks and extra fats"
+    ],
+    "answer": 3,
+    "hint": "The tip is the smallest part, meaning eat least. That is where sweets and fried food belong."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "question": "A meal of only puri and halwa is unbalanced mainly because it is:",
+    "options": [
+      "Too high in fibre",
+      "High in carbohydrate and fat but low in protein, vitamins and fibre",
+      "Too low in energy",
+      "Too high in protein"
+    ],
+    "answer": 1,
+    "hint": "Ask what is missing, not only what is present."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "question": "Which addition would best balance a meal of rice and dal?",
+    "options": [
+      "A vegetable and some curd",
+      "A second helping of rice",
+      "A sweet dish",
+      "A glass of cold drink"
+    ],
+    "answer": 0,
+    "hint": "Rice and dal already give carbohydrate and protein. What is missing is vitamins, minerals and fibre."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "question": "Why should a diet include foods of many different colours?",
+    "options": [
+      "Colour adds protein",
+      "Different coloured plant foods carry different vitamins and minerals",
+      "Coloured food has fewer calories",
+      "Colour makes food digest faster"
+    ],
+    "answer": 1,
+    "hint": "Orange, green, red and purple plant foods each bring their own protective substances."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "question": "The balanced diet of a Class 6 student differs from that of an adult mainly because children:",
+    "options": [
+      "Need less water",
+      "Need only sweets",
+      "Need no protein",
+      "Need proportionally more nutrients for growth"
+    ],
+    "answer": 3,
+    "hint": "Growth adds an extra demand on top of ordinary daily needs."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "question": "Which of these is the best example of a balanced Indian thali?",
+    "options": [
+      "A plate of sweets",
+      "Three bowls of white rice",
+      "Roti, dal, sabzi, curd and salad",
+      "Puri with pickle only"
+    ],
+    "answer": 2,
+    "hint": "Look for grain, pulse, vegetable and dairy together on one plate."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "question": "Eating seasonal and locally grown food is helpful because such food is usually:",
+    "options": [
+      "Harder to digest",
+      "Always imported",
+      "Fresher, cheaper and higher in nutrients",
+      "Lower in vitamins"
+    ],
+    "answer": 2,
+    "hint": "Less time between harvest and plate means fewer nutrients lost on the way."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "question": "Which statement about a balanced diet is correct?",
+    "options": [
+      "It is the same at every age",
+      "It is exactly the same for everyone",
+      "It depends only on height",
+      "It changes with a person's age, sex and activity level"
+    ],
+    "answer": 3,
+    "hint": "A sportsperson, a toddler and an elderly person all need different balances."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "question": "A disease caused by the long-term lack of a particular nutrient is called a:",
+    "options": [
+      "Infectious disease",
+      "Hereditary disease",
+      "Deficiency disease",
+      "Contagious disease"
+    ],
+    "answer": 2,
+    "hint": "Deficiency diseases spread from an empty plate, not from another person."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "question": "Are deficiency diseases contagious?",
+    "options": [
+      "Yes, through water",
+      "Yes, by touch",
+      "Yes, through the air",
+      "No, they cannot pass from one person to another"
+    ],
+    "answer": 3,
+    "hint": "They come from what is missing in the diet, so they cannot be caught."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "question": "Which pair correctly matches a disease with its missing nutrient?",
+    "options": [
+      "Anaemia — vitamin K",
+      "Scurvy — vitamin C",
+      "Goitre — vitamin A",
+      "Rickets — vitamin C"
+    ],
+    "answer": 1,
+    "hint": "Check each: rickets is vitamin D, goitre is iodine, anaemia is iron."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "question": "Bleeding gums and slow healing of wounds suggest a shortage of:",
+    "options": [
+      "Vitamin D",
+      "Vitamin C",
+      "Iron",
+      "Iodine"
+    ],
+    "answer": 1,
+    "hint": "These are the classic signs of scurvy."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "question": "Bow legs and soft bones in a young child suggest a shortage of:",
+    "options": [
+      "Roughage",
+      "Vitamin C",
+      "Iodine",
+      "Vitamin D and calcium"
+    ],
+    "answer": 3,
+    "hint": "Rickets softens the growing bones so they bend under the child's weight."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "question": "A pale, easily tired child with low haemoglobin most likely lacks:",
+    "options": [
+      "Iron",
+      "Fat",
+      "Iodine",
+      "Vitamin K"
+    ],
+    "answer": 0,
+    "hint": "This is anaemia, the commonest nutritional problem among Indian children."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "question": "The word malnutrition means:",
+    "options": [
+      "Eating no food at all",
+      "Eating only vegetables",
+      "Eating too much food only",
+      "Poor nutrition, from either too little or the wrong kind of food"
+    ],
+    "answer": 3,
+    "hint": "Mal means bad. Malnutrition covers both undernutrition and overnutrition."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "question": "Can an overweight person still be malnourished?",
+    "options": [
+      "Only if they are also thin",
+      "Yes, if the diet lacks vitamins, minerals or protein",
+      "No, never",
+      "Only in childhood"
+    ],
+    "answer": 1,
+    "hint": "Plenty of calories from junk food can sit alongside a real shortage of micronutrients."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "question": "Undernutrition in children mainly leads to:",
+    "options": [
+      "Faster growth",
+      "Stunted growth and frequent illness",
+      "Better eyesight",
+      "Stronger bones"
+    ],
+    "answer": 1,
+    "hint": "A body short of raw materials cannot grow properly or defend itself well."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "question": "Most deficiency diseases can be prevented by:",
+    "options": [
+      "Eating only one healthy food",
+      "Eating a varied, balanced diet",
+      "Taking medicines daily",
+      "Drinking more cold drinks"
+    ],
+    "answer": 1,
+    "hint": "Variety is the cheapest and most reliable protection."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "question": "The mid-day meal scheme in Indian schools mainly aims to:",
+    "options": [
+      "Improve children's nutrition and keep them in school",
+      "Reduce farming",
+      "Teach cooking",
+      "Sell food"
+    ],
+    "answer": 0,
+    "hint": "It tackles hunger and school attendance together."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "question": "Why are deficiency diseases described as preventable?",
+    "options": [
+      "They disappear on their own",
+      "They only affect adults",
+      "Supplying the missing nutrient stops them from developing",
+      "Medicines cannot treat them"
+    ],
+    "answer": 2,
+    "hint": "Sailors stopped getting scurvy once citrus fruit was added to their rations."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "The main reason we cook food is to:",
+    "options": [
+      "Remove all its nutrients",
+      "Make it easier to digest, safer and tastier",
+      "Make it heavier",
+      "Change its colour only"
+    ],
+    "answer": 1,
+    "hint": "Cooking softens food, kills germs and improves taste and smell."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "Which nutrient is most easily lost when vegetables are boiled and the water thrown away?",
+    "options": [
+      "Fat",
+      "Water-soluble vitamins such as C and B",
+      "Roughage",
+      "Protein"
+    ],
+    "answer": 1,
+    "hint": "Water-soluble vitamins leach into the cooking water and go down the drain with it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "Which cooking method preserves the most nutrients?",
+    "options": [
+      "Deep frying",
+      "Boiling for a long time and discarding the water",
+      "Steaming",
+      "Overcooking on high heat"
+    ],
+    "answer": 2,
+    "hint": "Steaming keeps the food out of the water and cooks it quickly."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "Why is it better to cut vegetables into large pieces rather than very fine ones?",
+    "options": [
+      "Large pieces taste sweeter",
+      "Large pieces cook faster",
+      "Less surface is exposed, so fewer vitamins are lost",
+      "It adds protein"
+    ],
+    "answer": 2,
+    "hint": "More cut surface means more vitamin exposed to air, heat and water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "Vegetables should be washed:",
+    "options": [
+      "Before cutting them",
+      "Only after cooking",
+      "Never",
+      "After cutting them"
+    ],
+    "answer": 0,
+    "hint": "Washing cut pieces rinses vitamins out of the exposed surfaces."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "Using the leftover water from boiled vegetables in a soup or dough is good practice because it:",
+    "options": [
+      "Adds protein",
+      "Puts the dissolved vitamins and minerals back into the meal",
+      "Makes the food saltier",
+      "Removes the fat"
+    ],
+    "answer": 1,
+    "hint": "The nutrients are not destroyed, only moved into the water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "A pressure cooker helps preserve nutrients because it:",
+    "options": [
+      "Cooks food quickly in a small amount of water",
+      "Uses very high heat for a long time",
+      "Removes all the water",
+      "Adds vitamins to the food"
+    ],
+    "answer": 0,
+    "hint": "Less time and less water together mean less nutrient loss."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "Why should fruits be cut just before eating rather than hours in advance?",
+    "options": [
+      "Cut surfaces lose vitamins to the air",
+      "Cut fruit becomes heavier",
+      "It changes the fibre",
+      "Cut fruit gains fat"
+    ],
+    "answer": 0,
+    "hint": "Exposure to air slowly destroys vitamin C, which is also why cut apple browns."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "Before modern times, the earliest major change in cooking came from:",
+    "options": [
+      "The refrigerator",
+      "The pressure cooker",
+      "The controlled use of fire",
+      "The microwave oven"
+    ],
+    "answer": 2,
+    "hint": "Fire was the first cooking technology, and it changed what humans could eat."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "How have kitchen appliances such as mixers and pressure cookers changed cooking?",
+    "options": [
+      "They have made cooking faster and less laborious",
+      "They have made food less safe",
+      "They have removed the need for ingredients",
+      "They have made cooking slower"
+    ],
+    "answer": 0,
+    "hint": "Grinding that once took an hour on a stone now takes a minute."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "Foods sold ready to heat and eat, such as instant noodles, are called:",
+    "options": [
+      "Convenience foods",
+      "Raw foods",
+      "Staple foods",
+      "Protective foods"
+    ],
+    "answer": 0,
+    "hint": "They save time, but are often high in salt and fat and low in fibre."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "What is the main drawback of relying heavily on convenience foods?",
+    "options": [
+      "They cannot be stored",
+      "They take too long to prepare",
+      "They are often high in salt, sugar and fat but low in fibre and vitamins",
+      "They are always more expensive than fresh food"
+    ],
+    "answer": 2,
+    "hint": "The convenience is real. The nutritional cost is the trade-off."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "A dish that blends cooking styles from two cultures, such as a paneer pizza, is an example of:",
+    "options": [
+      "Fermentation",
+      "Preservation",
+      "Deficiency",
+      "Fusion cooking"
+    ],
+    "answer": 3,
+    "hint": "Fusion cooking mixes the ingredients or techniques of different food traditions."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "Which cooking habit is the most sustainable?",
+    "options": [
+      "Throwing away vegetable peels that could be used",
+      "Buying food flown in from far away",
+      "Cooking only what is needed and using leftovers",
+      "Cooking far more than the family can eat"
+    ],
+    "answer": 2,
+    "hint": "Sustainability in the kitchen starts with wasting less."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "Cooking on a traditional earthen or clay pot over a slow flame is valued because it:",
+    "options": [
+      "Adds vitamins to food",
+      "Cooks food gently and evenly, retaining flavour and nutrients",
+      "Cooks food in seconds",
+      "Removes all the salt"
+    ],
+    "answer": 1,
+    "hint": "Slow, even heat is gentler on nutrients than fierce high heat."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "Fermented foods such as idli and dosa batter are useful because fermentation:",
+    "options": [
+      "Removes all the protein",
+      "Adds fat",
+      "Improves digestibility and increases some vitamins",
+      "Destroys all nutrients"
+    ],
+    "answer": 2,
+    "hint": "Helpful microbes pre-digest part of the food and produce extra B vitamins."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "Modern diets increasingly consider special dietary needs. An example is:",
+    "options": [
+      "Eating only at night",
+      "Never cooking food",
+      "Avoiding all water",
+      "Gluten-free food for someone who cannot digest gluten"
+    ],
+    "answer": 3,
+    "hint": "Allergies, intolerances and medical conditions all shape what a person can safely eat."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "question": "Which of these is the best food-safety practice in a kitchen?",
+    "options": [
+      "Using the same board for raw meat and salad without washing",
+      "Leaving cooked food open overnight",
+      "Washing hands before handling food and covering cooked dishes",
+      "Reheating food many times"
+    ],
+    "answer": 2,
+    "hint": "Most kitchen illness comes from germs spreading, not from the ingredients themselves."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "question": "Junk food is best described as food that is:",
+    "options": [
+      "High in calories but low in useful nutrients",
+      "Always bitter",
+      "Rich in vitamins and fibre",
+      "Always expensive"
+    ],
+    "answer": 0,
+    "hint": "The problem is not the calories alone. It is that so little else comes with them."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "question": "Junk foods are often called \"empty calorie\" foods because they:",
+    "options": [
+      "Contain only water",
+      "Are always empty packets",
+      "Contain no energy",
+      "Supply energy but almost no vitamins, minerals or protein"
+    ],
+    "answer": 3,
+    "hint": "The calories arrive without the nutrients that should accompany them."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "question": "Eating a lot of junk food regularly can lead to:",
+    "options": [
+      "Stronger bones",
+      "Faster growth",
+      "Better eyesight",
+      "Obesity, tooth decay and poor nutrition"
+    ],
+    "answer": 3,
+    "hint": "High sugar, salt and fat with little fibre is a combination the body handles badly over time."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "question": "Which is the healthier swap for a packet of fried chips?",
+    "options": [
+      "A chocolate bar",
+      "A packet of biscuits",
+      "A sweet fizzy drink",
+      "Roasted chana or a fruit"
+    ],
+    "answer": 3,
+    "hint": "Look for the option that brings protein or fibre rather than only fat and salt."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "question": "Why is reading the label on a packaged food useful?",
+    "options": [
+      "It shows the ingredients, nutrients and expiry date",
+      "It shows nothing useful",
+      "It shows the shop's address only",
+      "It shows who cooked it"
+    ],
+    "answer": 0,
+    "hint": "Ingredients are listed in order of quantity, so the first few tell you most."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "question": "On a food label, ingredients are listed:",
+    "options": [
+      "In order of quantity, largest first",
+      "In random order",
+      "In alphabetical order",
+      "By price"
+    ],
+    "answer": 0,
+    "hint": "If sugar appears first, sugar is the main ingredient by weight."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "question": "Millets such as ragi, bajra and jowar are called super foods because they are:",
+    "options": [
+      "Rich in fibre, minerals and protein and grow with little water",
+      "Free of all nutrients",
+      "High in sugar",
+      "Only used as animal feed"
+    ],
+    "answer": 0,
+    "hint": "Millets score well on nutrition and on sustainability at the same time."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "question": "Which millet is especially known for being rich in calcium?",
+    "options": [
+      "Rice",
+      "Maida",
+      "Sooji",
+      "Ragi"
+    ],
+    "answer": 3,
+    "hint": "Ragi, or finger millet, has more calcium than most other cereals."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "question": "Why are millets considered good for the environment?",
+    "options": [
+      "They can only grow in cold places",
+      "They need far less water and can grow in poor soil",
+      "They need many chemicals",
+      "They need heavy irrigation"
+    ],
+    "answer": 1,
+    "hint": "Millets are hardy crops, which matters as water becomes scarcer."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "question": "Compared with polished white rice, a millet roti generally provides:",
+    "options": [
+      "More sugar",
+      "Less protein",
+      "No energy",
+      "More fibre and minerals"
+    ],
+    "answer": 3,
+    "hint": "Millets are usually eaten whole, so they keep their bran."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "question": "The United Nations declared 2023 as the International Year of:",
+    "options": [
+      "Rice",
+      "Sugar",
+      "Millets",
+      "Fried food"
+    ],
+    "answer": 2,
+    "hint": "India led the proposal, to revive millets as a nutritious and climate-friendly crop."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "question": "Which of these is the most sensible attitude to occasional treats?",
+    "options": [
+      "They should be eaten at every meal",
+      "They should replace main meals",
+      "They must never be eaten at all",
+      "They are fine once in a while within an otherwise balanced diet"
+    ],
+    "answer": 3,
+    "hint": "It is the everyday pattern that shapes health, not the rare exception."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "question": "The journey of food from farm to plate begins with:",
+    "options": [
+      "Cooking the food",
+      "Growing and harvesting the crop",
+      "Packing the food",
+      "Eating the food"
+    ],
+    "answer": 1,
+    "hint": "Every meal starts in a field, an orchard or a farm."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "question": "Which is the correct order of the journey of wheat to your plate?",
+    "options": [
+      "Cooking → harvesting → milling",
+      "Harvesting → threshing → milling → transport → cooking",
+      "Transport → harvesting → threshing",
+      "Milling → harvesting → cooking → threshing"
+    ],
+    "answer": 1,
+    "hint": "The grain must be gathered and separated before it can be ground into flour."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "question": "Why is food stored in silos and warehouses after harvest?",
+    "options": [
+      "To keep it safe from moisture, pests and spoilage until it is needed",
+      "To make it heavier",
+      "To change its colour",
+      "To add vitamins"
+    ],
+    "answer": 0,
+    "hint": "A crop is harvested in a few weeks but eaten across the whole year."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "question": "Food is often transported in refrigerated vehicles in order to:",
+    "options": [
+      "Add preservatives",
+      "Slow down spoilage by keeping it cold",
+      "Make it taste sweeter",
+      "Increase its weight"
+    ],
+    "answer": 1,
+    "hint": "Cold slows the growth of the microbes that spoil food."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "question": "Which of these is a traditional method of food preservation in India?",
+    "options": [
+      "Canning only",
+      "Irradiation",
+      "Deep freezing only",
+      "Drying and pickling"
+    ],
+    "answer": 3,
+    "hint": "Sun-dried papads, pickles in oil and salt, and dried spices are all traditional preservation."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "question": "Adding salt or sugar in large amounts preserves food because it:",
+    "options": [
+      "Stops microbes from growing",
+      "Makes food heavier",
+      "Adds vitamins",
+      "Cools the food"
+    ],
+    "answer": 0,
+    "hint": "A very salty or very sugary environment draws water out of microbes so they cannot survive."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "question": "Food that travels a very long distance to reach your plate usually has:",
+    "options": [
+      "A lower price always",
+      "Less packaging",
+      "A larger environmental cost from transport",
+      "More vitamins"
+    ],
+    "answer": 2,
+    "hint": "Long journeys mean more fuel burnt and more packaging used."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "question": "Buying vegetables directly from a local farmers' market helps because it:",
+    "options": [
+      "Removes all nutrients",
+      "Needs more transport",
+      "Always costs more",
+      "Gives fresher food and a fairer share to the farmer"
+    ],
+    "answer": 3,
+    "hint": "Fewer middle steps mean fresher produce and more of the price reaching the grower."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "question": "Food wasted on the plate is a serious problem because:",
+    "options": [
+      "It has no effect at all",
+      "It helps farmers",
+      "All the water, land, labour and fuel used to produce it are wasted too",
+      "It makes food cheaper"
+    ],
+    "answer": 2,
+    "hint": "Throwing away a chapati throws away the water and work behind it as well."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "question": "Which practice best reduces food waste at home?",
+    "options": [
+      "Cooking far more than needed",
+      "Throwing away leftovers daily",
+      "Filling every plate to the brim",
+      "Serving small portions and taking more if still hungry"
+    ],
+    "answer": 3,
+    "hint": "It is easier to take a second helping than to finish an over-filled plate."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "question": "Composting vegetable peels and food scraps is useful because it:",
+    "options": [
+      "Adds vitamins to the air",
+      "Removes the need for farming",
+      "Returns nutrients to the soil for growing more food",
+      "Creates plastic"
+    ],
+    "answer": 2,
+    "hint": "Composting closes the loop, sending nutrients back to where the food came from."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "question": "Who among these plays a part in bringing food from the farm to your plate?",
+    "options": [
+      "Only the shopkeeper",
+      "Only the cook",
+      "Farmers, transporters, shopkeepers and cooks",
+      "Only the farmer"
+    ],
+    "answer": 2,
+    "hint": "A single meal depends on a long chain of people doing their part."
+  }
+]

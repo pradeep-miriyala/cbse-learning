@@ -1,0 +1,1352 @@
+[
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "number-patterns",
+    "topicLabel": "Patterns in Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> In the sequence 3, 6, 9, 12, … the next number is 15.<br><b>Reason (R):</b> Each term of this sequence is 3 more than the term before it.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 1,
+    "hint": "The constant step of 3 given in R is exactly what produces 15, so R explains A."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "number-patterns",
+    "topicLabel": "Patterns in Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> In the sequence 1, 4, 9, 16, … the next number is 20.<br><b>Reason (R):</b> These numbers are the squares 1×1, 2×2, 3×3, 4×4 and so on.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "R correctly names the pattern, and it shows A is wrong: the next square is 5×5 = 25, not 20."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "number-patterns",
+    "topicLabel": "Patterns in Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The sum of the first four odd numbers is 16.<br><b>Reason (R):</b> The sum of the first n odd numbers is always n × n.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 1,
+    "hint": "1 + 3 + 5 + 7 = 16, and 4 × 4 = 16. The rule in R is exactly why A holds."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "number-patterns",
+    "topicLabel": "Patterns in Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Every number pattern must increase as it goes along.<br><b>Reason (R):</b> A pattern is any arrangement that follows a fixed rule.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "R is the correct definition, and it shows A is false: 20, 17, 14, 11 follows a rule but decreases."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "number-patterns",
+    "topicLabel": "Patterns in Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The sequence 2, 4, 8, 16, … grows faster than 2, 4, 6, 8, …<br><b>Reason (R):</b> In the first sequence each term is doubled, while in the second each term adds 2.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "Doubling outruns adding a fixed amount, so the rule difference in R is precisely why A is true."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "sequence-relations",
+    "topicLabel": "Relations Among Sequences",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Adding two consecutive triangular numbers gives a square number.<br><b>Reason (R):</b> 3 + 6 = 9 and 6 + 10 = 16.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "R supplies worked examples of the very relation A describes."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "sequence-relations",
+    "topicLabel": "Relations Among Sequences",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Every square number is also a triangular number.<br><b>Reason (R):</b> Square numbers can be drawn as a square grid of dots.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "R is true, but A is not: 4 and 9 are squares and neither is triangular."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "sequence-relations",
+    "topicLabel": "Relations Among Sequences",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The sum of the counting numbers 1 to 5 is 15.<br><b>Reason (R):</b> 15 is the sixth triangular number.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 3,
+    "hint": "A is right: 1+2+3+4+5 = 15. R is wrong — 15 is the fifth triangular number, not the sixth."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "sequence-relations",
+    "topicLabel": "Relations Among Sequences",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Doubling every triangular number gives a rectangle of dots.<br><b>Reason (R):</b> Triangular numbers are always even.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "A is a genuine picture proof. R is false — 1, 3 and 15 are triangular and odd."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "sequence-relations",
+    "topicLabel": "Relations Among Sequences",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The gaps between consecutive square numbers are the odd numbers.<br><b>Reason (R):</b> Square numbers are formed by multiplying a number by itself.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Both are true — 4−1=3, 9−4=5 — but R only defines a square; it does not explain the odd gaps."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "sequence-visualisation",
+    "topicLabel": "Sequence Visualisation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Triangular numbers can be arranged as a triangle of dots.<br><b>Reason (R):</b> Each new row of the triangle holds one dot more than the row above it.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Rows of 1, 2, 3, 4 dots build exactly the triangle A describes."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "sequence-visualisation",
+    "topicLabel": "Sequence Visualisation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Drawing a sequence as a picture can make its rule easier to see.<br><b>Reason (R):</b> A picture shows how each step grows from the one before it.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Seeing the growth step by step is precisely how the picture reveals the rule."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "sequence-visualisation",
+    "topicLabel": "Sequence Visualisation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A number that can be drawn as a complete rectangle of dots with more than one row is composite.<br><b>Reason (R):</b> Such a rectangle shows the number as a product of two factors greater than 1.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "Rows × columns is a factor pair, and having such a pair is what makes a number composite."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "sequence-visualisation",
+    "topicLabel": "Sequence Visualisation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A prime number of dots can be drawn as a full rectangle with several rows.<br><b>Reason (R):</b> A prime number has exactly two factors, 1 and itself.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "R is correct, and it shows A is false: with only 1 and itself as factors, the only rectangle is a single line."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "sequence-visualisation",
+    "topicLabel": "Sequence Visualisation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The number 16 can be shown as a square of dots.<br><b>Reason (R):</b> 16 is an even number.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "Both are true, but being even is not why 16 makes a square. 4 × 4 is. Note 36 is even too, and 9 is odd yet square."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "shape-patterns",
+    "topicLabel": "Shape Patterns",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> In a growing pattern of squares made from matchsticks, each new square needs 3 extra sticks.<br><b>Reason (R):</b> Each new square shares one side with the square before it.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "A square has 4 sides; sharing one means only 3 new sticks are needed, so R explains A."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "shape-patterns",
+    "topicLabel": "Shape Patterns",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A shape pattern can always be described by a number pattern.<br><b>Reason (R):</b> Shape patterns can be drawn neatly on squared paper.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Both are true, but drawing on squared paper is not what turns a shape pattern into numbers. Counting is."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "shape-patterns",
+    "topicLabel": "Shape Patterns",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> To find the 100th step of a shape pattern you must draw all 100 steps.<br><b>Reason (R):</b> Once the rule is known, any step can be worked out directly.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "R is true and it is exactly why A is false — the rule saves you from drawing."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "shape-patterns",
+    "topicLabel": "Shape Patterns",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A pattern of triangles made from matchsticks needs 2 extra sticks for each new triangle in a row.<br><b>Reason (R):</b> A triangle has three sides and each new one shares a side with the last.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "Three sides minus one shared side leaves two new sticks, so R explains A."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Patterns",
+    "topic": "shape-patterns",
+    "topicLabel": "Shape Patterns",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Every shape pattern grows by the same number of pieces at each step.<br><b>Reason (R):</b> Some patterns grow by a step that itself gets larger each time.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "R is true — a growing square of dots adds 3, then 5, then 7 — and that makes A false."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "supercells",
+    "topicLabel": "Supercells",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> In the row | 4 | 9 | 5 |, the cell holding 9 is a supercell.<br><b>Reason (R):</b> A cell is a supercell when it is greater than every cell directly beside it.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "9 beats both 4 and 5, which is precisely the test given in R."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "supercells",
+    "topicLabel": "Supercells",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A cell at the very end of a row can never be a supercell.<br><b>Reason (R):</b> A cell at the end of a row has only one neighbour to be compared with.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "R is true, but it makes an end cell easier, not impossible: it only has to beat that single neighbour."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "supercells",
+    "topicLabel": "Supercells",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Two cells side by side can both be supercells.<br><b>Reason (R):</b> If one cell is greater than its neighbour, that neighbour cannot be greater than it.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "R is true, and it is exactly why A fails — neighbouring supercells would each have to beat the other."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "supercells",
+    "topicLabel": "Supercells",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The largest number in a row is always a supercell.<br><b>Reason (R):</b> The largest number in a row is always found at its centre.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 1,
+    "hint": "A is true. R is false — the largest number can sit anywhere in the row."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "supercells",
+    "topicLabel": "Supercells",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Diagonal neighbours must be checked when hunting for supercells in a row.<br><b>Reason (R):</b> In a single row of cells, each cell has neighbours only to its left and right.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "R is correct, and a single row has no diagonals at all, so A is false."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "digit-sums",
+    "topicLabel": "Digit Sums",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The number 342 is divisible by 3.<br><b>Reason (R):</b> The sum of its digits, 3 + 4 + 2 = 9, is divisible by 3.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "The digit-sum test is exactly the reason 342 passes, so R explains A."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "digit-sums",
+    "topicLabel": "Digit Sums",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A number whose digit sum is divisible by 9 is also divisible by 3.<br><b>Reason (R):</b> 9 is itself a multiple of 3.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "Anything divisible by 9 is divisible by every factor of 9, and 3 is one. So R explains A."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "digit-sums",
+    "topicLabel": "Digit Sums",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The digit sum test can be used to check divisibility by 7.<br><b>Reason (R):</b> Only 3 and 9 can be tested by adding the digits.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "R states the limit of the test, and that is exactly why A is false."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "digit-sums",
+    "topicLabel": "Digit Sums",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Rearranging the digits of a number never changes whether it is divisible by 3.<br><b>Reason (R):</b> Rearranging the digits of a number always changes their sum.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "A is correct. R is false, and it is the opposite of the truth: rearranging leaves the sum unchanged."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "digit-sums",
+    "topicLabel": "Digit Sums",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The number 123 is divisible by 9.<br><b>Reason (R):</b> A number is divisible by 9 when the sum of its digits is divisible by 9.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "R is the correct test, and applying it defeats A: 1 + 2 + 3 = 6, which is not divisible by 9."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "digit-detectives",
+    "topicLabel": "Digit Detectives",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> From 1 to 99, the digit 7 appears 20 times in all.<br><b>Reason (R):</b> Each digit appears 10 times in the units place and 10 times in the tens place.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "10 in the units place plus 10 in the tens place gives the 20 in A, so R explains it."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "digit-detectives",
+    "topicLabel": "Digit Detectives",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A two-digit number whose digits add to 9 and whose tens digit is 5 more than its units digit is 72.<br><b>Reason (R):</b> The two clues together fix both digits exactly.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "7 + 2 = 9 and 7 is 5 more than 2. Using both clues together is what pins the answer, as R says."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "digit-detectives",
+    "topicLabel": "Digit Detectives",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A single clue about a two-digit number is usually enough to identify it.<br><b>Reason (R):</b> Many different numbers can share the same digit sum.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 3,
+    "hint": "R is true — 18, 27, 36 and 45 all add to 9 — and that is exactly why one clue is not enough."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "digit-detectives",
+    "topicLabel": "Digit Detectives",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The digit 0 can be the tens digit of a two-digit number.<br><b>Reason (R):</b> A two-digit number must lie between 10 and 99.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 3,
+    "hint": "R is correct, and it rules A out: a leading 0 would make the number a single digit."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "digit-detectives",
+    "topicLabel": "Digit Detectives",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> From 1 to 99, the digit 0 appears fewer times than the digit 5.<br><b>Reason (R):</b> No two-digit number begins with 0.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "0 never appears in the tens place, so it loses those 10 appearances. R explains the shortfall in A."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "palindromes",
+    "topicLabel": "Palindromic Patterns",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The number 121 is a palindrome.<br><b>Reason (R):</b> A palindrome reads the same forwards and backwards.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "Reversing 121 gives 121, which is exactly the test R states."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "palindromes",
+    "topicLabel": "Palindromic Patterns",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Every three-digit palindrome is divisible by 11.<br><b>Reason (R):</b> 121 divided by 11 gives 11 exactly.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "R is a true fact about one case, but one example proves nothing: 131 is a palindrome and is not divisible by 11."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "palindromes",
+    "topicLabel": "Palindromic Patterns",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Every single-digit number is a palindrome.<br><b>Reason (R):</b> A single digit reversed is still the same digit.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "There is nothing to swap in a single digit, which is precisely why A holds."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "palindromes",
+    "topicLabel": "Palindromic Patterns",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Adding 23 to its reverse, 32, gives a palindrome.<br><b>Reason (R):</b> Reversing a number and adding always produces a palindrome in one step.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "23 + 32 = 55, so A is right. R is too strong: 68 + 86 = 154, which needs more steps."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "palindromes",
+    "topicLabel": "Palindromic Patterns",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A palindrome must have an odd number of digits.<br><b>Reason (R):</b> 2002 reads the same in both directions.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "R gives a four-digit palindrome, which is a direct counter-example to A."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "kaprekar",
+    "topicLabel": "Kaprekar Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> 6174 is known as Kaprekar's constant.<br><b>Reason (R):</b> Almost every four-digit number reaches 6174 by repeatedly subtracting the smallest arrangement of its digits from the largest.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "The routine in R is exactly why 6174 earned the name in A."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "kaprekar",
+    "topicLabel": "Kaprekar Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Kaprekar's routine works on 1111.<br><b>Reason (R):</b> The routine needs a number whose digits are not all the same.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "R states the condition, and 1111 breaks it — largest minus smallest gives 0, so the routine stops."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "kaprekar",
+    "topicLabel": "Kaprekar Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Once a number reaches 6174, repeating the routine keeps giving 6174.<br><b>Reason (R):</b> 7641 − 1467 = 6174.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "R is the very calculation that makes 6174 repeat itself, so it explains A."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "kaprekar",
+    "topicLabel": "Kaprekar Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Kaprekar's routine reaches 6174 in exactly one step for every number.<br><b>Reason (R):</b> The routine may need up to seven steps.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "R is correct, and it directly contradicts the claim of one step in A."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "kaprekar",
+    "topicLabel": "Kaprekar Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Kaprekar's constant is named after an Indian mathematician.<br><b>Reason (R):</b> The number 6174 has four digits.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Both are true, but having four digits has nothing to do with who discovered it."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "number-line-patterns",
+    "topicLabel": "Patterns on the Number Line",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Jumping in equal steps along a number line produces a pattern of multiples.<br><b>Reason (R):</b> Each jump adds the same amount to the number reached before.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "Repeatedly adding the same amount is exactly how multiples are built, so R explains A."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "number-line-patterns",
+    "topicLabel": "Patterns on the Number Line",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Starting at 0 and jumping 4 each time, you will land on 18.<br><b>Reason (R):</b> Every number you land on is a multiple of the jump size.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "R is correct, and 18 is not a multiple of 4, so A fails."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "number-line-patterns",
+    "topicLabel": "Patterns on the Number Line",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Numbers get larger as you move right along a number line.<br><b>Reason (R):</b> A number line arranges numbers in decreasing order from left to right.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "A is correct. R states the opposite of how a number line is drawn, so it is false."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "number-line-patterns",
+    "topicLabel": "Patterns on the Number Line",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Two people jumping in steps of 3 and 4 from 0 will both land on 12.<br><b>Reason (R):</b> 12 is a common multiple of 3 and 4.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "Landing on the same number means it is a multiple of both step sizes, exactly as R says."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "number-line-patterns",
+    "topicLabel": "Patterns on the Number Line",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Jumps on a number line must always be of the same size.<br><b>Reason (R):</b> A number line can show jumps of any size you choose.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "R is true, and it shows A is false — jumps of 1, then 2, then 3 make a perfectly good pattern."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "clock-calendar",
+    "topicLabel": "Clock & Calendar Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A clock face repeats its numbers every 12 hours.<br><b>Reason (R):</b> An ordinary clock face is marked from 1 to 24.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 3,
+    "hint": "A is true. R is false — a normal clock face carries only the numbers 1 to 12."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "clock-calendar",
+    "topicLabel": "Clock & Calendar Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A leap year has 366 days.<br><b>Reason (R):</b> In a leap year February has 29 days instead of 28.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "The extra day in February is exactly the one that takes 365 to 366."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "clock-calendar",
+    "topicLabel": "Clock & Calendar Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Every year that divides exactly by 4 is a leap year.<br><b>Reason (R):</b> A century year is a leap year only if it divides exactly by 400.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "R states the extra rule, and it defeats A: 1900 divides by 4 but was not a leap year."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "clock-calendar",
+    "topicLabel": "Clock & Calendar Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> If today is Monday, the day 14 days from now is also a Monday.<br><b>Reason (R):</b> 14 is a multiple of 7, and the days of the week repeat every 7 days.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 2,
+    "hint": "Two whole weeks bring you back to the same day, exactly as R explains."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Number Play",
+    "topic": "clock-calendar",
+    "topicLabel": "Clock & Calendar Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The minute hand of a clock moves twelve times faster than the hour hand.<br><b>Reason (R):</b> The minute hand goes round once an hour while the hour hand takes twelve hours.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 2,
+    "hint": "One turn per hour against one turn per twelve hours is a ratio of twelve, so R explains A."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "coprimes",
+    "topicLabel": "Coprimes",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> 8 and 15 are coprime.<br><b>Reason (R):</b> Two numbers are coprime when their only common factor is 1.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "8 gives 1, 2, 4, 8 and 15 gives 1, 3, 5, 15. Only 1 is shared, which is the test in R."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "coprimes",
+    "topicLabel": "Coprimes",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Two numbers must both be prime in order to be coprime.<br><b>Reason (R):</b> 4 and 9 are coprime even though neither is prime.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 3,
+    "hint": "R is a direct counter-example that disproves A. Coprime is about shared factors, not about being prime."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "coprimes",
+    "topicLabel": "Coprimes",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Two even numbers can never be coprime.<br><b>Reason (R):</b> Every even number has 2 as a factor.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "A shared factor of 2 means the common factor is not 1, so R explains A."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "coprimes",
+    "topicLabel": "Coprimes",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Two different prime numbers are always coprime.<br><b>Reason (R):</b> Every prime number is greater than 1.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 1,
+    "hint": "Both are true, but being greater than 1 does not explain why two primes share no factor except 1."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "coprimes",
+    "topicLabel": "Coprimes",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> 10 and 15 are coprime.<br><b>Reason (R):</b> The highest common factor of two coprime numbers is 1.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "R is the correct rule, and applying it defeats A: 10 and 15 share the factor 5."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "composite-numbers",
+    "topicLabel": "Composite Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The number 9 is composite.<br><b>Reason (R):</b> A composite number has more than two factors.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "9 has factors 1, 3 and 9 — three of them — which is exactly the test R gives."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "composite-numbers",
+    "topicLabel": "Composite Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The number 1 is composite.<br><b>Reason (R):</b> 1 has only one factor, itself.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "R is true, and with only one factor, 1 is neither prime nor composite. So A is false."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "composite-numbers",
+    "topicLabel": "Composite Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Every even number is composite.<br><b>Reason (R):</b> Every even number has 2 as a factor.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "R is true, but 2 itself is even and prime, so A fails on that single case."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "composite-numbers",
+    "topicLabel": "Composite Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> 4 is the smallest composite number.<br><b>Reason (R):</b> 2 and 3 are prime, and 1 is neither prime nor composite.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "R rules out every smaller candidate, which is exactly why 4 is the first composite number."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "composite-numbers",
+    "topicLabel": "Composite Numbers",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> 17 is a composite number.<br><b>Reason (R):</b> A number with exactly two factors is prime.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "R is correct, and 17 has only 1 and 17 as factors, so it is prime and A is false."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "prime-factorisation",
+    "topicLabel": "Prime Factorisation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The prime factorisation of 36 is 2 × 2 × 3 × 3.<br><b>Reason (R):</b> Prime factorisation writes a number as a product of prime numbers only.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 1,
+    "hint": "2 and 3 are both prime and multiply to 36, which meets the requirement in R exactly."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "prime-factorisation",
+    "topicLabel": "Prime Factorisation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Writing 36 as 4 × 9 is its prime factorisation.<br><b>Reason (R):</b> Every factor in a prime factorisation must itself be a prime number.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "R gives the rule, and it disqualifies A: neither 4 nor 9 is prime."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "prime-factorisation",
+    "topicLabel": "Prime Factorisation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A number can have two different prime factorisations.<br><b>Reason (R):</b> The factor tree method breaks a number down step by step.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 3,
+    "hint": "R is true, and however you start the tree you always end with the same primes. So A is false."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "prime-factorisation",
+    "topicLabel": "Prime Factorisation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The prime factorisation of a prime number is the number itself.<br><b>Reason (R):</b> Every prime number can be split into two smaller prime factors.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "A is true. R is false — if a prime could be split that way it would not be prime."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "prime-factorisation",
+    "topicLabel": "Prime Factorisation",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The prime factorisation of 100 is 2 × 2 × 5 × 5.<br><b>Reason (R):</b> 100 is an even number.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Both are true, but being even only tells you 2 is a factor. It says nothing about the 5s."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "divisibility-tests",
+    "topicLabel": "Divisibility Tests",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The number 316 is divisible by 4.<br><b>Reason (R):</b> A number is divisible by 4 when the number formed by its last two digits is divisible by 4.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "The last two digits give 16, which divides by 4. That is exactly the test R states."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "divisibility-tests",
+    "topicLabel": "Divisibility Tests",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Every number divisible by 8 is also divisible by 4.<br><b>Reason (R):</b> 4 is a factor of 8.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "True in this direction: 8 is built from 4, so anything 8 divides, 4 divides too. 24 ÷ 8 = 3 and 24 ÷ 4 = 6. Careful — the reverse is not true: 28 divides by 4 but not by 8."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "divisibility-tests",
+    "topicLabel": "Divisibility Tests",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Every number divisible by 4 is also divisible by 8.<br><b>Reason (R):</b> A number is divisible by 8 when its last three digits are divisible by 8.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "False in this direction. 28 divides by 4 but not by 8, and so does 12. The reason given is a correct rule for 8, but it does not make the assertion true."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "divisibility-tests",
+    "topicLabel": "Divisibility Tests",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A number ending in 0 is divisible by both 2 and 5.<br><b>Reason (R):</b> A number is divisible by 2 if it ends in an even digit, and by 5 if it ends in 0 or 5.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "0 is even and it is also one of the endings for 5, so both tests in R are satisfied at once."
+  },
+  {
+    "grade": 6,
+    "subject": "maths",
+    "chapter": "Prime Numbers",
+    "topic": "divisibility-tests",
+    "topicLabel": "Divisibility Tests",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The number 145 is divisible by 2.<br><b>Reason (R):</b> A number is divisible by 2 when its last digit is 0, 2, 4, 6 or 8.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 3,
+    "hint": "R is the correct test, and 145 ends in 5, so it fails it. A is false."
+  }
+]

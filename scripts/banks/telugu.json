@@ -1,0 +1,1862 @@
+[
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘నీరు’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "మట్టి",
+      "జలం",
+      "గాలి",
+      "నిప్పు"
+    ],
+    "answer": 1,
+    "hint": "నీటికి జలం, ఉదకం, తోయం అనే పర్యాయపదాలు ఉన్నాయి.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘సూర్యుడు’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "శశి",
+      "రవి",
+      "వాయువు",
+      "గిరి"
+    ],
+    "answer": 1,
+    "hint": "సూర్యుడికి రవి, భాస్కరుడు, దినకరుడు అని పేర్లు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘చంద్రుడు’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "శశి",
+      "అగ్ని",
+      "రవి",
+      "ధరణి"
+    ],
+    "answer": 0,
+    "hint": "చంద్రుడికి శశి, ఇందుడు, సోముడు అని పేర్లు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘ఆకాశం’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "గగనం",
+      "సాగరం",
+      "ధరణి",
+      "వృక్షం"
+    ],
+    "answer": 0,
+    "hint": "ఆకాశానికి గగనం, నభము, అంబరం అని పేర్లు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘భూమి’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "ధరణి",
+      "జలం",
+      "గగనం",
+      "పవనం"
+    ],
+    "answer": 0,
+    "hint": "భూమికి ధరణి, అవని, వసుధ అని పేర్లు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘చెట్టు’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "పుష్పం",
+      "వృక్షం",
+      "సరిత్తు",
+      "ఖగం"
+    ],
+    "answer": 1,
+    "hint": "చెట్టుకు వృక్షం, తరువు అని పేర్లు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘పువ్వు’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "అశ్వం",
+      "నిలయం",
+      "తరువు",
+      "కుసుమం"
+    ],
+    "answer": 3,
+    "hint": "పువ్వుకు పుష్పం, కుసుమం, సుమం అని పేర్లు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘ఏనుగు’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "గజం",
+      "అశ్వం",
+      "సర్పం",
+      "ఖగం"
+    ],
+    "answer": 0,
+    "hint": "ఏనుగుకు గజం, హస్తి, కరి అని పేర్లు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘గుర్రం’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "గజం",
+      "అశ్వం",
+      "కరి",
+      "మృగం"
+    ],
+    "answer": 1,
+    "hint": "గుర్రానికి అశ్వం, హయం, తురగం అని పేర్లు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘పాము’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "ఖగం",
+      "వృక్షం",
+      "సర్పం",
+      "గజం"
+    ],
+    "answer": 2,
+    "hint": "పాముకు సర్పం, భుజంగం, నాగు అని పేర్లు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘కన్ను’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "ముఖం",
+      "పాదం",
+      "హస్తం",
+      "నేత్రం"
+    ],
+    "answer": 3,
+    "hint": "కన్నుకు నేత్రం, నయనం, లోచనం అని పేర్లు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘చేయి’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "హస్తం",
+      "నేత్రం",
+      "శిరస్సు",
+      "చరణం"
+    ],
+    "answer": 0,
+    "hint": "చేతికి హస్తం, కరం, పాణి అని పేర్లు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘నిప్పు’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "ధరణి",
+      "పవనం",
+      "జలం",
+      "అగ్ని"
+    ],
+    "answer": 3,
+    "hint": "నిప్పుకు అగ్ని, వహ్ని అని పేర్లు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘గాలి’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "పవనం",
+      "జలం",
+      "అగ్ని",
+      "గగనం"
+    ],
+    "answer": 0,
+    "hint": "గాలికి వాయువు, పవనం, సమీరం అని పేర్లు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘పక్షి’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "వృక్షం",
+      "ఖగం",
+      "గజం",
+      "సర్పం"
+    ],
+    "answer": 1,
+    "hint": "పక్షికి ఖగం, విహంగం అని పేర్లు.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘నది’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "సరిత్తు",
+      "గిరి",
+      "గగనం",
+      "సాగరం"
+    ],
+    "answer": 0,
+    "hint": "నదికి ఏరు, తరంగిణి, సరిత్తు అని పేర్లు.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘సముద్రం’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "నభము",
+      "ధరణి",
+      "సరిత్తు",
+      "సాగరం"
+    ],
+    "answer": 3,
+    "hint": "సముద్రానికి సాగరం, జలధి, రత్నాకరం అని పేర్లు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘రాజు’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "ప్రభువు",
+      "వణిజుడు",
+      "ప్రజ",
+      "సేవకుడు"
+    ],
+    "answer": 0,
+    "hint": "రాజుకు ప్రభువు, నృపతి, భూపతి అని పేర్లు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘ఇల్లు’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "వనం",
+      "గృహం",
+      "మార్గం",
+      "పురం"
+    ],
+    "answer": 1,
+    "hint": "ఇంటికి గృహం, నిలయం, సదనం అని పేర్లు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘కొండ’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "సాగరం",
+      "వనం",
+      "పర్వతం",
+      "గగనం"
+    ],
+    "answer": 2,
+    "hint": "కొండకు పర్వతం, గిరి, శైలం అని పేర్లు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘తల్లి’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "జనని",
+      "సోదరి",
+      "గురువు",
+      "జనకుడు"
+    ],
+    "answer": 0,
+    "hint": "తల్లికి అమ్మ, జనని, మాత అని పేర్లు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘తండ్రి’ అనే పదానికి పర్యాయపదం ఏది?",
+    "options": [
+      "జనకుడు",
+      "సోదరుడు",
+      "జనని",
+      "శిష్యుడు"
+    ],
+    "answer": 0,
+    "hint": "తండ్రికి నాన్న, జనకుడు, పిత అని పేర్లు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "పర్యాయపదాలు అంటే ఏమిటి?",
+    "options": [
+      "ఒకే అర్థాన్ని ఇచ్చే వేరువేరు పదాలు",
+      "కలిపి రాసే రెండు పదాలు",
+      "వ్యతిరేక అర్థాన్ని ఇచ్చే పదాలు",
+      "ఒకే విధంగా వినిపించే వేరు అర్థాల పదాలు"
+    ],
+    "answer": 0,
+    "hint": "పర్యాయం అంటే ఒకదానికి బదులు మరొకటి.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "కింది వాటిలో ‘జలం’ పదానికి పర్యాయపదం కానిది ఏది?",
+    "options": [
+      "ఉదకం",
+      "అనలం",
+      "నీరు",
+      "తోయం"
+    ],
+    "answer": 1,
+    "hint": "అనలం అంటే నిప్పు. మిగిలిన మూడూ నీటినే సూచిస్తాయి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘భాస్కరుడు’, ‘దినకరుడు’, ‘ఆదిత్యుడు’ — ఇవి ఎవరి పర్యాయపదాలు?",
+    "options": [
+      "సూర్యుడు",
+      "వాయువు",
+      "చంద్రుడు",
+      "అగ్ని"
+    ],
+    "answer": 0,
+    "hint": "మూడు పదాలూ వెలుగునిచ్చే వానిని సూచిస్తాయి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘మహీరుహం’ అనే పదానికి అర్థం ఏమిటి?",
+    "options": [
+      "నది",
+      "పక్షి",
+      "కొండ",
+      "చెట్టు"
+    ],
+    "answer": 3,
+    "hint": "మహి అంటే భూమి; భూమిలో నుంచి పైకి పెరిగేది.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "‘రత్నాకరం’ అనే పదం దేనికి పర్యాయపదం?",
+    "options": [
+      "పర్వతం",
+      "సముద్రం",
+      "అడవి",
+      "ఆకాశం"
+    ],
+    "answer": 1,
+    "hint": "రత్నాలకు నిలయమైనది.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "కింది జతలలో ఒకే అర్థాన్నిచ్చే జత ఏది?",
+    "options": [
+      "గజం – కరి",
+      "గజం – హయం",
+      "గిరి – సరిత్తు",
+      "ఖగం – సర్పం"
+    ],
+    "answer": 0,
+    "hint": "రెండు పదాలూ ఏనుగును సూచిస్తాయి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-synonyms",
+    "topicLabel": "పర్యాయపదాలు (Synonyms)",
+    "question": "పర్యాయపదాలు తెలుసుకోవడం వల్ల కలిగే ప్రయోజనం ఏమిటి?",
+    "options": [
+      "వ్యాకరణ దోషాలు తగ్గుతాయి",
+      "పదాల అర్థం మారిపోతుంది",
+      "అక్షరాలు తక్కువ రాయవచ్చు",
+      "ఒకే పదాన్ని మళ్ళీ మళ్ళీ వాడకుండా భాష అందంగా రాయవచ్చు"
+    ],
+    "answer": 3,
+    "hint": "రచనలో ఒకే పదం పదేపదే వస్తే చదవడానికి బాగుండదు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "తెలుగు వర్ణమాలలోని అక్షరాలను ప్రధానంగా ఎన్ని రకాలుగా విభజిస్తారు?",
+    "options": [
+      "నాలుగు రకాలు",
+      "విభజన ఉండదు",
+      "అచ్చులు, హల్లులు, ఉభయాక్షరాలు అని మూడు రకాలు",
+      "కేవలం అచ్చులు, హల్లులు అని రెండు రకాలు"
+    ],
+    "answer": 2,
+    "hint": "మూడవ విభాగం ఉభయాక్షరాలు — అచ్చు, హల్లు రెండింటి లక్షణాలూ ఉంటాయి.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "అచ్చులు అంటే ఏమిటి?",
+    "options": [
+      "రెండు అక్షరాలు కలిసిన రూపాలు",
+      "అచ్చుల సాయంతో మాత్రమే పలికే అక్షరాలు",
+      "వేరే అక్షరం సాయం లేకుండా స్వతంత్రంగా పలికే అక్షరాలు",
+      "ఎప్పుడూ పదం చివర వచ్చే అక్షరాలు"
+    ],
+    "answer": 2,
+    "hint": "అ, ఆ, ఇ, ఈ వంటివి తమంతట తామే పలుకుతాయి.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "హల్లులు అంటే ఏమిటి?",
+    "options": [
+      "సంఖ్యలను సూచించే గుర్తులు",
+      "పదాల చివర వచ్చే గుర్తులు",
+      "స్వతంత్రంగా పలికే అక్షరాలు",
+      "అచ్చుల సాయంతో మాత్రమే పూర్తిగా పలికే అక్షరాలు"
+    ],
+    "answer": 3,
+    "hint": "క్, గ్ వంటివి అచ్చు కలిస్తేనే క, గ అవుతాయి.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "కింది వాటిలో అచ్చు ఏది?",
+    "options": [
+      "మ",
+      "ఊ",
+      "క",
+      "స"
+    ],
+    "answer": 1,
+    "hint": "మిగిలిన మూడూ హల్లులు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "కింది వాటిలో హల్లు ఏది?",
+    "options": [
+      "ఓ",
+      "ప",
+      "ఔ",
+      "ఐ"
+    ],
+    "answer": 1,
+    "hint": "ఐ, ఓ, ఔ అచ్చులు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "ఉభయాక్షరాలు ఏవి?",
+    "options": [
+      "ం (సున్న), ః (విసర్గ), ఁ (అరసున్న)",
+      "క, చ, ట",
+      "య, ర, ల",
+      "అ, ఇ, ఉ"
+    ],
+    "answer": 0,
+    "hint": "వీటిని అచ్చులలోనూ, హల్లులలోనూ చేర్చకుండా వేరుగా చెబుతారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "ఉభయాక్షరాలు ఎన్ని?",
+    "options": [
+      "రెండు",
+      "మూడు",
+      "పది",
+      "ఐదు"
+    ],
+    "answer": 1,
+    "hint": "సున్న, విసర్గ, అరసున్న.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "హ్రస్వాలు అంటే ఏమిటి?",
+    "options": [
+      "పలకడానికి రాని అక్షరాలు",
+      "హల్లుల మరో పేరు",
+      "ఒక మాత్ర కాలంలో పలికే పొట్టి అచ్చులు",
+      "రెండు మాత్రల కాలంలో పలికే అచ్చులు"
+    ],
+    "answer": 2,
+    "hint": "అ, ఇ, ఉ, ఎ, ఒ హ్రస్వాలు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "దీర్ఘాలు అంటే ఏమిటి?",
+    "options": [
+      "హల్లుల మరో పేరు",
+      "రెండు మాత్రల కాలంలో పలికే పొడవైన అచ్చులు",
+      "ఒక మాత్ర కాలంలో పలికే అచ్చులు",
+      "ఒత్తుల మరో పేరు"
+    ],
+    "answer": 1,
+    "hint": "ఆ, ఈ, ఊ, ఏ, ఓ దీర్ఘాలు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "కింది వాటిలో దీర్ఘాక్షరం ఏది?",
+    "options": [
+      "ఈ",
+      "ఇ",
+      "ఉ",
+      "ఎ"
+    ],
+    "answer": 0,
+    "hint": "ఇ కి దీర్ఘం ఈ.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "కింది వాటిలో హ్రస్వాక్షరం ఏది?",
+    "options": [
+      "ఓ",
+      "ఊ",
+      "ఆ",
+      "ఒ"
+    ],
+    "answer": 3,
+    "hint": "ఒ పొట్టిది, ఓ పొడవైనది.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "తెలుగు హల్లులలో వర్గాక్షరాలు ఎన్ని?",
+    "options": [
+      "పదిహేను",
+      "ముప్పై ఆరు",
+      "ఇరవై ఐదు",
+      "పది"
+    ],
+    "answer": 2,
+    "hint": "ఐదు వర్గాలు, ఒక్కో వర్గంలో ఐదు అక్షరాలు.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "ఒక్కో వర్గంలో ఎన్ని అక్షరాలు ఉంటాయి?",
+    "options": [
+      "నాలుగు",
+      "ఆరు",
+      "ఐదు",
+      "మూడు"
+    ],
+    "answer": 2,
+    "hint": "క ఖ గ ఘ ఙ — ఇది క-వర్గం.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "‘చ ఛ జ ఝ ఞ’ — ఇది ఏ వర్గం?",
+    "options": [
+      "ట-వర్గం",
+      "ప-వర్గం",
+      "క-వర్గం",
+      "చ-వర్గం"
+    ],
+    "answer": 3,
+    "hint": "వర్గానికి మొదటి అక్షరం పేరే వర్గం పేరు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "క-వర్గంలోని అక్షరాలు ఏవి?",
+    "options": [
+      "క ఖ గ ఘ చ",
+      "క చ ట త ప",
+      "క గ చ జ ట",
+      "క ఖ గ ఘ ఙ"
+    ],
+    "answer": 3,
+    "hint": "వరుసగా ఐదు అక్షరాలు ఒకే వర్గం.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "అనునాసికాలు అంటే ఏమిటి?",
+    "options": [
+      "పెదవులతో మాత్రమే పలికే అక్షరాలు",
+      "పలకడానికి రాని అక్షరాలు",
+      "నాలుకతో మాత్రమే పలికే అక్షరాలు",
+      "ముక్కు సాయంతో పలికే అక్షరాలు — ఙ, ఞ, ణ, న, మ"
+    ],
+    "answer": 3,
+    "hint": "ప్రతి వర్గంలో చివరి అక్షరం అనునాసికం.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "ప్రతి వర్గంలో అనునాసికం ఎన్నవ అక్షరం?",
+    "options": [
+      "మొదటిది",
+      "నాలుగవది",
+      "మూడవది",
+      "ఐదవది"
+    ],
+    "answer": 3,
+    "hint": "ఙ, ఞ, ణ, న, మ — అన్నీ వర్గం చివరనే ఉన్నాయి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "పరుషాలు ఏవి?",
+    "options": [
+      "ఙ, ఞ, ణ, న, మ",
+      "య, ర, ల, వ",
+      "క, చ, ట, త, ప",
+      "గ, జ, డ, ద, బ"
+    ],
+    "answer": 2,
+    "hint": "ప్రతి వర్గంలో మొదటి అక్షరం పరుషం.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "సరళాలు ఏవి?",
+    "options": [
+      "క, చ, ట, త, ప",
+      "గ, జ, డ, ద, బ",
+      "శ, ష, స, హ",
+      "అ, ఇ, ఉ, ఎ"
+    ],
+    "answer": 1,
+    "hint": "ప్రతి వర్గంలో మూడవ అక్షరం సరళం.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "‘య, ర, ల, వ, శ, ష, స, హ’ — వీటిని ఏమంటారు?",
+    "options": [
+      "అవర్గాక్షరాలు",
+      "ఉభయాక్షరాలు",
+      "అచ్చులు",
+      "వర్గాక్షరాలు"
+    ],
+    "answer": 0,
+    "hint": "ఇవి ఏ వర్గంలోనూ చేరవు.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "‘అం’ లో ఉన్న గుర్తు ఏది?",
+    "options": [
+      "అరసున్న",
+      "సున్న (అనుస్వారం)",
+      "దీర్ఘం",
+      "విసర్గ"
+    ],
+    "answer": 1,
+    "hint": "సున్న అక్షరంపై బిందువుగా వస్తుంది.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "‘అః’ లో ఉన్న గుర్తును ఏమంటారు?",
+    "options": [
+      "విసర్గ",
+      "సున్న",
+      "అరసున్న",
+      "ఒత్తు"
+    ],
+    "answer": 0,
+    "hint": "రెండు బిందువులుగా కనిపిస్తుంది.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "‘కమలం’ అనే పదంలో ఎన్ని అక్షరాలు ఉన్నాయి?",
+    "options": [
+      "రెండు",
+      "నాలుగు",
+      "మూడు",
+      "ఐదు"
+    ],
+    "answer": 2,
+    "hint": "క + మ + లం.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "గుణింతం అంటే ఏమిటి?",
+    "options": [
+      "రెండు హల్లులు కలిసిన రూపం",
+      "పదాల అర్థాల జాబితా",
+      "ఒక హల్లుకు అచ్చులు చేరినప్పుడు ఏర్పడే రూపాల వరుస",
+      "అచ్చుల వరుస"
+    ],
+    "answer": 2,
+    "hint": "క, కా, కి, కీ, కు, కూ … ఇది క గుణింతం.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-varnamala",
+    "topicLabel": "వర్ణమాల విభజన (Division of Varnas)",
+    "question": "ఒత్తు అంటే ఏమిటి?",
+    "options": [
+      "పర్యాయపదం",
+      "అచ్చు దీర్ఘమైన రూపం",
+      "ఒక హల్లుకు మరో హల్లు చేరినప్పుడు వచ్చే రూపం",
+      "పదం చివర వచ్చే సున్న"
+    ],
+    "answer": 2,
+    "hint": "‘అమ్మ’ లో మ ఒత్తు ఉంది.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘పుస్తకం’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "పుస్తకమున",
+      "పుస్తకపు",
+      "పుస్తకము",
+      "పుస్తకాలు"
+    ],
+    "answer": 3,
+    "hint": "‘పుస్తకం’ ఏకవచనం; బహువచనం ‘పుస్తకాలు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘పువ్వు’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "పువ్వున",
+      "పువ్వుకు",
+      "పువ్వులు",
+      "పువ్వుల"
+    ],
+    "answer": 2,
+    "hint": "‘పువ్వు’ ఏకవచనం; బహువచనం ‘పువ్వులు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘చెట్టు’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "చెట్టులు",
+      "చెట్లు",
+      "చెట్టలు",
+      "చెట్టుల"
+    ],
+    "answer": 1,
+    "hint": "‘చెట్టు’ ఏకవచనం; బహువచనం ‘చెట్లు’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘ఇల్లు’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "ఇళ్ళు",
+      "ఇల్లలు",
+      "ఇల్లులు",
+      "ఇంటిలు"
+    ],
+    "answer": 0,
+    "hint": "‘ఇల్లు’ ఏకవచనం; బహువచనం ‘ఇళ్ళు’.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘కన్ను’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "కన్నులు",
+      "కన్నలు",
+      "కళ్ళు",
+      "కళ్ళలు"
+    ],
+    "answer": 2,
+    "hint": "‘కన్ను’ ఏకవచనం; బహువచనం ‘కళ్ళు’.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘చేయి’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "చేయ్యలు",
+      "చేతులు",
+      "చేయిలు",
+      "చేతిలు"
+    ],
+    "answer": 1,
+    "hint": "‘చేయి’ ఏకవచనం; బహువచనం ‘చేతులు’.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘కాలు’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "కాలలు",
+      "కాళ్ళు",
+      "కాలులు",
+      "కాళ్ళలు"
+    ],
+    "answer": 1,
+    "hint": "‘కాలు’ ఏకవచనం; బహువచనం ‘కాళ్ళు’.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘పండు’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "పండుల",
+      "పండులు",
+      "పండలు",
+      "పండ్లు"
+    ],
+    "answer": 3,
+    "hint": "‘పండు’ ఏకవచనం; బహువచనం ‘పండ్లు’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘ఊరు’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "ఊరలు",
+      "ఊళ్ళలు",
+      "ఊళ్ళు",
+      "ఊరులు"
+    ],
+    "answer": 2,
+    "hint": "‘ఊరు’ ఏకవచనం; బహువచనం ‘ఊళ్ళు’.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘గుడి’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "గుడ్లు",
+      "గుడిలు",
+      "గుళ్ళు",
+      "గుడులు"
+    ],
+    "answer": 2,
+    "hint": "‘గుడి’ ఏకవచనం; బహువచనం ‘గుళ్ళు’.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘నది’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "నదుల",
+      "నదులు",
+      "నదిలు",
+      "నదలు"
+    ],
+    "answer": 1,
+    "hint": "‘నది’ ఏకవచనం; బహువచనం ‘నదులు’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘బడి’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "బడిలు",
+      "బడలు",
+      "బడియలు",
+      "బడులు"
+    ],
+    "answer": 3,
+    "hint": "‘బడి’ ఏకవచనం; బహువచనం ‘బడులు’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘పిల్ల’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "పిల్లల",
+      "పిల్లలు",
+      "పిల్లులు",
+      "పిల్లను"
+    ],
+    "answer": 1,
+    "hint": "‘పిల్ల’ ఏకవచనం; బహువచనం ‘పిల్లలు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘అమ్మాయి’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "అమ్మాయలు",
+      "అమ్మాయిని",
+      "అమ్మాయిల",
+      "అమ్మాయిలు"
+    ],
+    "answer": 3,
+    "hint": "‘అమ్మాయి’ ఏకవచనం; బహువచనం ‘అమ్మాయిలు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘విద్యార్థి’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "విద్యార్థిని",
+      "విద్యార్థల",
+      "విద్యార్థిలు",
+      "విద్యార్థులు"
+    ],
+    "answer": 3,
+    "hint": "‘విద్యార్థి’ ఏకవచనం; బహువచనం ‘విద్యార్థులు’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘రైతు’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "రైతుకు",
+      "రైతుల",
+      "రైతులు",
+      "రైతలు"
+    ],
+    "answer": 2,
+    "hint": "‘రైతు’ ఏకవచనం; బహువచనం ‘రైతులు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘గురువు’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "గురువలు",
+      "గురువును",
+      "గురువుల",
+      "గురువులు"
+    ],
+    "answer": 3,
+    "hint": "‘గురువు’ ఏకవచనం; బహువచనం ‘గురువులు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘మాట’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "మాటకు",
+      "మాటలు",
+      "మాటల",
+      "మాటన"
+    ],
+    "answer": 1,
+    "hint": "‘మాట’ ఏకవచనం; బహువచనం ‘మాటలు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘రోజు’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "రోజున",
+      "రోజలు",
+      "రోజుల",
+      "రోజులు"
+    ],
+    "answer": 3,
+    "hint": "‘రోజు’ ఏకవచనం; బహువచనం ‘రోజులు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘పని’ — దీని బహువచన రూపం ఏది?",
+    "options": [
+      "పనలు",
+      "పనులు",
+      "పనుల",
+      "పనిలు"
+    ],
+    "answer": 1,
+    "hint": "‘పని’ ఏకవచనం; బహువచనం ‘పనులు’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "వచనం అంటే ఏమిటి?",
+    "options": [
+      "పదం యొక్క లింగం",
+      "ఒకటి లేదా అంతకంటే ఎక్కువ అని తెలిపే పద రూపం",
+      "వాక్యంలో పదం స్థానం",
+      "పదం యొక్క అర్థం"
+    ],
+    "answer": 1,
+    "hint": "ఏకవచనం ఒకటిని, బహువచనం అనేకాన్ని సూచిస్తుంది.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘ఏకవచనం’ అంటే ఏమిటి?",
+    "options": [
+      "అనేక వస్తువులను సూచించే రూపం",
+      "ప్రశ్న అడిగే రూపం",
+      "ఒక్క వస్తువును లేదా వ్యక్తిని సూచించే రూపం",
+      "గతకాలాన్ని సూచించే రూపం"
+    ],
+    "answer": 2,
+    "hint": "ఏక అంటే ఒకటి.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘పిల్లలు బడికి వెళ్ళారు’ — ఈ వాక్యంలో బహువచన పదం ఏది?",
+    "options": [
+      "వెళ్ళారు",
+      "బడికి",
+      "పిల్లలు",
+      "ఏదీ లేదు"
+    ],
+    "answer": 2,
+    "hint": "ఒకరి కంటే ఎక్కువ మందిని సూచించే పదాన్ని వెతకండి.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "కింది వాటిలో ఇప్పటికే బహువచనంలో ఉన్న పదం ఏది?",
+    "options": [
+      "చెట్టు",
+      "ఇల్లు",
+      "పండ్లు",
+      "పండు"
+    ],
+    "answer": 2,
+    "hint": "మిగిలినవి ఏకవచనాలు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "‘చెట్టు’ బహువచనం ‘చెట్లు’ అవుతుంది. ఇక్కడ ఏమి జరిగింది?",
+    "options": [
+      "పదం చివరి భాగం మారి కొత్త రూపం ఏర్పడింది",
+      "ఏమీ మారలేదు",
+      "కేవలం ‘లు’ చేరింది, మిగతాది మారలేదు",
+      "పదం అర్థం మారిపోయింది"
+    ],
+    "answer": 0,
+    "hint": "‘చెట్టులు’ అనరు — పదమే కొంత మారుతుంది.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-vachanalu",
+    "topicLabel": "ఏకవచనం – బహువచనం (Singular & Plural)",
+    "question": "అన్ని పదాలకూ ‘లు’ చేర్చితే బహువచనం వస్తుందా?",
+    "options": [
+      "వస్తుంది, కానీ అర్థం మారుతుంది",
+      "తెలుగులో బహువచనమే ఉండదు",
+      "వస్తుంది, ఎప్పుడూ ‘లు’ చేరిస్తే చాలు",
+      "రాదు — కొన్ని పదాలు రూపమే మార్చుకుంటాయి"
+    ],
+    "answer": 3,
+    "hint": "ఇల్లు → ఇళ్ళు, కన్ను → కళ్ళు.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "బతుకమ్మ పండుగ ఎన్ని రోజులు జరుగుతుంది?",
+    "options": [
+      "ఐదు రోజులు",
+      "పదిహేను రోజులు",
+      "తొమ్మిది రోజులు",
+      "మూడు రోజులు"
+    ],
+    "answer": 2,
+    "hint": "మొదటి పేరాలో రోజుల సంఖ్య ఉంది.",
+    "difficulty": "easy",
+    "passageId": "te-rc-bathukamma",
+    "passageTitle": "బతుకమ్మ పండుగ",
+    "passage": "<p>తెలంగాణలో ఆశ్వయుజ మాసంలో బతుకమ్మ పండుగ జరుగుతుంది. తొమ్మిది రోజుల పాటు ఆడపడుచులు రంగురంగుల పూలను వరుసలుగా పేర్చి బతుకమ్మను తయారుచేస్తారు. గునుగు, తంగేడు పూలు ఎక్కువగా వాడతారు.</p><p>సాయంత్రం వేళ ఆడవాళ్ళు బతుకమ్మల చుట్టూ చేరి చప్పట్లు కొడుతూ పాటలు పాడతారు. చివరి రోజున బతుకమ్మలను చెరువులో లేదా నదిలో నిమజ్జనం చేస్తారు.</p><p>ఈ పండుగ ప్రకృతిని గౌరవించే పండుగ. వర్షాకాలం తరువాత విరిసిన పూలను తీసుకొని వాటిని మళ్ళీ నీటికే అప్పగిస్తారు. ఆ పూలు నీటిని శుభ్రపరుస్తాయని పెద్దలు చెబుతారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "బతుకమ్మ తయారీలో ఎక్కువగా వాడే పూలు ఏవి?",
+    "options": [
+      "బంతి, చామంతి పూలు",
+      "గులాబీ, మల్లె పూలు",
+      "గునుగు, తంగేడు పూలు",
+      "తామర, కలువ పూలు"
+    ],
+    "answer": 2,
+    "hint": "మొదటి పేరా చివరన పూల పేర్లు ఉన్నాయి.",
+    "difficulty": "medium",
+    "passageId": "te-rc-bathukamma",
+    "passageTitle": "బతుకమ్మ పండుగ",
+    "passage": "<p>తెలంగాణలో ఆశ్వయుజ మాసంలో బతుకమ్మ పండుగ జరుగుతుంది. తొమ్మిది రోజుల పాటు ఆడపడుచులు రంగురంగుల పూలను వరుసలుగా పేర్చి బతుకమ్మను తయారుచేస్తారు. గునుగు, తంగేడు పూలు ఎక్కువగా వాడతారు.</p><p>సాయంత్రం వేళ ఆడవాళ్ళు బతుకమ్మల చుట్టూ చేరి చప్పట్లు కొడుతూ పాటలు పాడతారు. చివరి రోజున బతుకమ్మలను చెరువులో లేదా నదిలో నిమజ్జనం చేస్తారు.</p><p>ఈ పండుగ ప్రకృతిని గౌరవించే పండుగ. వర్షాకాలం తరువాత విరిసిన పూలను తీసుకొని వాటిని మళ్ళీ నీటికే అప్పగిస్తారు. ఆ పూలు నీటిని శుభ్రపరుస్తాయని పెద్దలు చెబుతారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "చివరి రోజున బతుకమ్మలను ఏమి చేస్తారు?",
+    "options": [
+      "గుడికి ఇచ్చేస్తారు",
+      "ఇంట్లో దాచిపెడతారు",
+      "చెరువులో లేదా నదిలో నిమజ్జనం చేస్తారు",
+      "పొలంలో పాతిపెడతారు"
+    ],
+    "answer": 2,
+    "hint": "రెండవ పేరా చివరి వాక్యం చూడండి.",
+    "difficulty": "medium",
+    "passageId": "te-rc-bathukamma",
+    "passageTitle": "బతుకమ్మ పండుగ",
+    "passage": "<p>తెలంగాణలో ఆశ్వయుజ మాసంలో బతుకమ్మ పండుగ జరుగుతుంది. తొమ్మిది రోజుల పాటు ఆడపడుచులు రంగురంగుల పూలను వరుసలుగా పేర్చి బతుకమ్మను తయారుచేస్తారు. గునుగు, తంగేడు పూలు ఎక్కువగా వాడతారు.</p><p>సాయంత్రం వేళ ఆడవాళ్ళు బతుకమ్మల చుట్టూ చేరి చప్పట్లు కొడుతూ పాటలు పాడతారు. చివరి రోజున బతుకమ్మలను చెరువులో లేదా నదిలో నిమజ్జనం చేస్తారు.</p><p>ఈ పండుగ ప్రకృతిని గౌరవించే పండుగ. వర్షాకాలం తరువాత విరిసిన పూలను తీసుకొని వాటిని మళ్ళీ నీటికే అప్పగిస్తారు. ఆ పూలు నీటిని శుభ్రపరుస్తాయని పెద్దలు చెబుతారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "ఈ పండుగను ప్రకృతి పండుగ అని ఎందుకు అంటారు?",
+    "options": [
+      "పండుగ రోజున వర్షం పడుతుంది కాబట్టి",
+      "పండుగలో చెట్లు నాటుతారు కాబట్టి",
+      "పూలను ప్రకృతి నుంచి తీసుకొని మళ్ళీ నీటికే అప్పగిస్తారు కాబట్టి",
+      "పండుగ అడవిలో జరుగుతుంది కాబట్టి"
+    ],
+    "answer": 2,
+    "hint": "మూడవ పేరాలో కారణం ఉంది.",
+    "difficulty": "hard",
+    "passageId": "te-rc-bathukamma",
+    "passageTitle": "బతుకమ్మ పండుగ",
+    "passage": "<p>తెలంగాణలో ఆశ్వయుజ మాసంలో బతుకమ్మ పండుగ జరుగుతుంది. తొమ్మిది రోజుల పాటు ఆడపడుచులు రంగురంగుల పూలను వరుసలుగా పేర్చి బతుకమ్మను తయారుచేస్తారు. గునుగు, తంగేడు పూలు ఎక్కువగా వాడతారు.</p><p>సాయంత్రం వేళ ఆడవాళ్ళు బతుకమ్మల చుట్టూ చేరి చప్పట్లు కొడుతూ పాటలు పాడతారు. చివరి రోజున బతుకమ్మలను చెరువులో లేదా నదిలో నిమజ్జనం చేస్తారు.</p><p>ఈ పండుగ ప్రకృతిని గౌరవించే పండుగ. వర్షాకాలం తరువాత విరిసిన పూలను తీసుకొని వాటిని మళ్ళీ నీటికే అప్పగిస్తారు. ఆ పూలు నీటిని శుభ్రపరుస్తాయని పెద్దలు చెబుతారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "ఈ పాఠం ప్రధానంగా దేని గురించి చెబుతుంది?",
+    "options": [
+      "పూల వ్యాపారం గురించి",
+      "ఆశ్వయుజ మాసంలోని వాతావరణం గురించి",
+      "తెలంగాణలోని నదుల గురించి",
+      "బతుకమ్మ పండుగ ఎలా జరుగుతుందో, దాని వెనుక ఉన్న భావం ఏమిటో"
+    ],
+    "answer": 3,
+    "hint": "మొత్తం పాఠం దేని చుట్టూ తిరుగుతుందో ఆలోచించండి.",
+    "difficulty": "hard",
+    "passageId": "te-rc-bathukamma",
+    "passageTitle": "బతుకమ్మ పండుగ",
+    "passage": "<p>తెలంగాణలో ఆశ్వయుజ మాసంలో బతుకమ్మ పండుగ జరుగుతుంది. తొమ్మిది రోజుల పాటు ఆడపడుచులు రంగురంగుల పూలను వరుసలుగా పేర్చి బతుకమ్మను తయారుచేస్తారు. గునుగు, తంగేడు పూలు ఎక్కువగా వాడతారు.</p><p>సాయంత్రం వేళ ఆడవాళ్ళు బతుకమ్మల చుట్టూ చేరి చప్పట్లు కొడుతూ పాటలు పాడతారు. చివరి రోజున బతుకమ్మలను చెరువులో లేదా నదిలో నిమజ్జనం చేస్తారు.</p><p>ఈ పండుగ ప్రకృతిని గౌరవించే పండుగ. వర్షాకాలం తరువాత విరిసిన పూలను తీసుకొని వాటిని మళ్ళీ నీటికే అప్పగిస్తారు. ఆ పూలు నీటిని శుభ్రపరుస్తాయని పెద్దలు చెబుతారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "రామప్ప దేవాలయం ఏ జిల్లాలో ఉంది?",
+    "options": [
+      "ఖమ్మం జిల్లాలో",
+      "నల్గొండ జిల్లాలో",
+      "మెదక్ జిల్లాలో",
+      "వరంగల్ జిల్లాలో"
+    ],
+    "answer": 3,
+    "hint": "మొదటి వాక్యంలోనే ఊరు, జిల్లా ఉన్నాయి.",
+    "difficulty": "easy",
+    "passageId": "te-rc-ramappa",
+    "passageTitle": "రామప్ప దేవాలయం",
+    "passage": "<p>వరంగల్ జిల్లాలోని పాలంపేటలో రామప్ప దేవాలయం ఉంది. దీన్ని కాకతీయుల కాలంలో నిర్మించారు. దేవాలయాన్ని నిర్మించిన శిల్పి పేరుతోనే ఆ గుడిని పిలవడం విశేషం.</p><p>ఈ ఆలయ నిర్మాణంలో వాడిన ఇటుకలు నీటిలో మునగవని చెబుతారు. అందుకే వాటిని తేలియాడే ఇటుకలు అంటారు. గోడలపైనా, స్తంభాలపైనా చెక్కిన శిల్పాలు ఇప్పటికీ స్పష్టంగా కనిపిస్తాయి.</p><p>2021 సంవత్సరంలో యునెస్కో ఈ ఆలయాన్ని ప్రపంచ వారసత్వ కట్టడంగా గుర్తించింది. దీంతో తెలంగాణ శిల్పకళకు ప్రపంచ గుర్తింపు లభించింది.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "ఈ దేవాలయాన్ని ఎవరి కాలంలో నిర్మించారు?",
+    "options": [
+      "కాకతీయుల కాలంలో",
+      "చాళుక్యుల కాలంలో",
+      "శాతవాహనుల కాలంలో",
+      "మౌర్యుల కాలంలో"
+    ],
+    "answer": 0,
+    "hint": "మొదటి పేరా రెండవ వాక్యం.",
+    "difficulty": "medium",
+    "passageId": "te-rc-ramappa",
+    "passageTitle": "రామప్ప దేవాలయం",
+    "passage": "<p>వరంగల్ జిల్లాలోని పాలంపేటలో రామప్ప దేవాలయం ఉంది. దీన్ని కాకతీయుల కాలంలో నిర్మించారు. దేవాలయాన్ని నిర్మించిన శిల్పి పేరుతోనే ఆ గుడిని పిలవడం విశేషం.</p><p>ఈ ఆలయ నిర్మాణంలో వాడిన ఇటుకలు నీటిలో మునగవని చెబుతారు. అందుకే వాటిని తేలియాడే ఇటుకలు అంటారు. గోడలపైనా, స్తంభాలపైనా చెక్కిన శిల్పాలు ఇప్పటికీ స్పష్టంగా కనిపిస్తాయి.</p><p>2021 సంవత్సరంలో యునెస్కో ఈ ఆలయాన్ని ప్రపంచ వారసత్వ కట్టడంగా గుర్తించింది. దీంతో తెలంగాణ శిల్పకళకు ప్రపంచ గుర్తింపు లభించింది.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "‘తేలియాడే ఇటుకలు’ అని ఎందుకు అంటారు?",
+    "options": [
+      "అవి గాలిలో ఎగురుతాయి కాబట్టి",
+      "అవి రంగురంగులవి కాబట్టి",
+      "అవి చాలా పెద్దవి కాబట్టి",
+      "అవి నీటిలో మునగవు కాబట్టి"
+    ],
+    "answer": 3,
+    "hint": "రెండవ పేరా మొదటి వాక్యం చూడండి.",
+    "difficulty": "medium",
+    "passageId": "te-rc-ramappa",
+    "passageTitle": "రామప్ప దేవాలయం",
+    "passage": "<p>వరంగల్ జిల్లాలోని పాలంపేటలో రామప్ప దేవాలయం ఉంది. దీన్ని కాకతీయుల కాలంలో నిర్మించారు. దేవాలయాన్ని నిర్మించిన శిల్పి పేరుతోనే ఆ గుడిని పిలవడం విశేషం.</p><p>ఈ ఆలయ నిర్మాణంలో వాడిన ఇటుకలు నీటిలో మునగవని చెబుతారు. అందుకే వాటిని తేలియాడే ఇటుకలు అంటారు. గోడలపైనా, స్తంభాలపైనా చెక్కిన శిల్పాలు ఇప్పటికీ స్పష్టంగా కనిపిస్తాయి.</p><p>2021 సంవత్సరంలో యునెస్కో ఈ ఆలయాన్ని ప్రపంచ వారసత్వ కట్టడంగా గుర్తించింది. దీంతో తెలంగాణ శిల్పకళకు ప్రపంచ గుర్తింపు లభించింది.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "యునెస్కో గుర్తింపు వల్ల ఏమి జరిగింది?",
+    "options": [
+      "తెలంగాణ శిల్పకళకు ప్రపంచ గుర్తింపు లభించింది",
+      "ఆలయ శిల్పాలు చెరిగిపోయాయి",
+      "ఆలయాన్ని కొత్తగా కట్టారు",
+      "ఆలయాన్ని మూసివేశారు"
+    ],
+    "answer": 0,
+    "hint": "చివరి వాక్యంలో ఫలితం ఉంది.",
+    "difficulty": "hard",
+    "passageId": "te-rc-ramappa",
+    "passageTitle": "రామప్ప దేవాలయం",
+    "passage": "<p>వరంగల్ జిల్లాలోని పాలంపేటలో రామప్ప దేవాలయం ఉంది. దీన్ని కాకతీయుల కాలంలో నిర్మించారు. దేవాలయాన్ని నిర్మించిన శిల్పి పేరుతోనే ఆ గుడిని పిలవడం విశేషం.</p><p>ఈ ఆలయ నిర్మాణంలో వాడిన ఇటుకలు నీటిలో మునగవని చెబుతారు. అందుకే వాటిని తేలియాడే ఇటుకలు అంటారు. గోడలపైనా, స్తంభాలపైనా చెక్కిన శిల్పాలు ఇప్పటికీ స్పష్టంగా కనిపిస్తాయి.</p><p>2021 సంవత్సరంలో యునెస్కో ఈ ఆలయాన్ని ప్రపంచ వారసత్వ కట్టడంగా గుర్తించింది. దీంతో తెలంగాణ శిల్పకళకు ప్రపంచ గుర్తింపు లభించింది.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "ఈ దేవాలయానికి ఆ పేరు ఎలా వచ్చింది?",
+    "options": [
+      "దాన్ని నిర్మించిన శిల్పి పేరుతో",
+      "ఊరి పేరుతో",
+      "రాజు పేరుతో",
+      "నది పేరుతో"
+    ],
+    "answer": 0,
+    "hint": "సాధారణంగా గుడులకు దేవుడి పేరు పెడతారు; ఇక్కడ మాత్రం వేరు.",
+    "difficulty": "hard",
+    "passageId": "te-rc-ramappa",
+    "passageTitle": "రామప్ప దేవాలయం",
+    "passage": "<p>వరంగల్ జిల్లాలోని పాలంపేటలో రామప్ప దేవాలయం ఉంది. దీన్ని కాకతీయుల కాలంలో నిర్మించారు. దేవాలయాన్ని నిర్మించిన శిల్పి పేరుతోనే ఆ గుడిని పిలవడం విశేషం.</p><p>ఈ ఆలయ నిర్మాణంలో వాడిన ఇటుకలు నీటిలో మునగవని చెబుతారు. అందుకే వాటిని తేలియాడే ఇటుకలు అంటారు. గోడలపైనా, స్తంభాలపైనా చెక్కిన శిల్పాలు ఇప్పటికీ స్పష్టంగా కనిపిస్తాయి.</p><p>2021 సంవత్సరంలో యునెస్కో ఈ ఆలయాన్ని ప్రపంచ వారసత్వ కట్టడంగా గుర్తించింది. దీంతో తెలంగాణ శిల్పకళకు ప్రపంచ గుర్తింపు లభించింది.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "చెరువు నీటిని రైతులు దేనికి వాడతారు?",
+    "options": [
+      "బట్టలు ఉతకడానికి మాత్రమే",
+      "పొలాలకు నీరు పెట్టడానికి",
+      "ఇంట్లో తాగడానికి మాత్రమే",
+      "చేపలు పట్టడానికి మాత్రమే"
+    ],
+    "answer": 1,
+    "hint": "మొదటి పేరా చివరి వాక్యం.",
+    "difficulty": "easy",
+    "passageId": "te-rc-cheruvu",
+    "passageTitle": "ఊరి చెరువు",
+    "passage": "<p>మా ఊరి చివర పెద్ద చెరువు ఉంది. వర్షాకాలంలో అది నిండుగా ఉంటుంది. ఆ నీటితోనే రైతులు పొలాలకు నీరు పెట్టుకుంటారు.</p><p>కొన్నేళ్ళ క్రితం చెరువు నిండా పూడిక చేరింది. నీరు నిల్వ ఉండడం తగ్గిపోయింది. అప్పుడు ఊరి ప్రజలంతా కలిసి పూడిక తీశారు. తీసిన మట్టిని పొలాల్లో వేసుకున్నారు. ఆ మట్టి మంచి ఎరువులా పనిచేసింది.</p><p>ఇప్పుడు చెరువు మళ్ళీ నిండుతోంది. చుట్టుపక్కల బావుల్లో నీటిమట్టం కూడా పెరిగింది. ఒక పని రెండు లాభాలు తెచ్చిందని పెద్దలు అంటారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "చెరువులో నీరు నిల్వ ఉండడం ఎందుకు తగ్గిపోయింది?",
+    "options": [
+      "చెరువును పూడ్చివేయడం వల్ల",
+      "వర్షాలు అసలు పడకపోవడం వల్ల",
+      "చెరువు నిండా పూడిక చేరడం వల్ల",
+      "రైతులు ఎక్కువ నీరు వాడటం వల్ల"
+    ],
+    "answer": 2,
+    "hint": "రెండవ పేరా మొదటి వాక్యంలో కారణం ఉంది.",
+    "difficulty": "medium",
+    "passageId": "te-rc-cheruvu",
+    "passageTitle": "ఊరి చెరువు",
+    "passage": "<p>మా ఊరి చివర పెద్ద చెరువు ఉంది. వర్షాకాలంలో అది నిండుగా ఉంటుంది. ఆ నీటితోనే రైతులు పొలాలకు నీరు పెట్టుకుంటారు.</p><p>కొన్నేళ్ళ క్రితం చెరువు నిండా పూడిక చేరింది. నీరు నిల్వ ఉండడం తగ్గిపోయింది. అప్పుడు ఊరి ప్రజలంతా కలిసి పూడిక తీశారు. తీసిన మట్టిని పొలాల్లో వేసుకున్నారు. ఆ మట్టి మంచి ఎరువులా పనిచేసింది.</p><p>ఇప్పుడు చెరువు మళ్ళీ నిండుతోంది. చుట్టుపక్కల బావుల్లో నీటిమట్టం కూడా పెరిగింది. ఒక పని రెండు లాభాలు తెచ్చిందని పెద్దలు అంటారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "పూడిక తీసిన మట్టిని ఏమి చేశారు?",
+    "options": [
+      "రోడ్డు వేయడానికి వాడారు",
+      "పారవేశారు",
+      "పొలాల్లో ఎరువులా వేసుకున్నారు",
+      "ఇళ్ళు కట్టడానికి వాడారు"
+    ],
+    "answer": 2,
+    "hint": "రెండవ పేరా చివరి రెండు వాక్యాలు.",
+    "difficulty": "medium",
+    "passageId": "te-rc-cheruvu",
+    "passageTitle": "ఊరి చెరువు",
+    "passage": "<p>మా ఊరి చివర పెద్ద చెరువు ఉంది. వర్షాకాలంలో అది నిండుగా ఉంటుంది. ఆ నీటితోనే రైతులు పొలాలకు నీరు పెట్టుకుంటారు.</p><p>కొన్నేళ్ళ క్రితం చెరువు నిండా పూడిక చేరింది. నీరు నిల్వ ఉండడం తగ్గిపోయింది. అప్పుడు ఊరి ప్రజలంతా కలిసి పూడిక తీశారు. తీసిన మట్టిని పొలాల్లో వేసుకున్నారు. ఆ మట్టి మంచి ఎరువులా పనిచేసింది.</p><p>ఇప్పుడు చెరువు మళ్ళీ నిండుతోంది. చుట్టుపక్కల బావుల్లో నీటిమట్టం కూడా పెరిగింది. ఒక పని రెండు లాభాలు తెచ్చిందని పెద్దలు అంటారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "‘ఒక పని రెండు లాభాలు తెచ్చింది’ — ఆ రెండు లాభాలు ఏవి?",
+    "options": [
+      "చెరువు పెద్దదవడం, ఊరు పెద్దదవడం",
+      "వర్షాలు పెరగడం, పంటలు తగ్గడం",
+      "చెరువులో నీరు నిలవడం, పొలాలకు మంచి మట్టి దొరకడం",
+      "బావులు ఎండిపోవడం, చెరువు నిండటం"
+    ],
+    "answer": 2,
+    "hint": "పూడిక తీయడం వల్ల జరిగిన రెండు మంచి పనులను వెతకండి.",
+    "difficulty": "hard",
+    "passageId": "te-rc-cheruvu",
+    "passageTitle": "ఊరి చెరువు",
+    "passage": "<p>మా ఊరి చివర పెద్ద చెరువు ఉంది. వర్షాకాలంలో అది నిండుగా ఉంటుంది. ఆ నీటితోనే రైతులు పొలాలకు నీరు పెట్టుకుంటారు.</p><p>కొన్నేళ్ళ క్రితం చెరువు నిండా పూడిక చేరింది. నీరు నిల్వ ఉండడం తగ్గిపోయింది. అప్పుడు ఊరి ప్రజలంతా కలిసి పూడిక తీశారు. తీసిన మట్టిని పొలాల్లో వేసుకున్నారు. ఆ మట్టి మంచి ఎరువులా పనిచేసింది.</p><p>ఇప్పుడు చెరువు మళ్ళీ నిండుతోంది. చుట్టుపక్కల బావుల్లో నీటిమట్టం కూడా పెరిగింది. ఒక పని రెండు లాభాలు తెచ్చిందని పెద్దలు అంటారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "ఈ పాఠం నుంచి మనం నేర్చుకునే పాఠం ఏమిటి?",
+    "options": [
+      "రైతులు వ్యవసాయం మానుకోవాలి",
+      "చెరువులు అవసరం లేదు",
+      "ఊరి ప్రజలంతా కలిసి పనిచేస్తే పెద్ద సమస్యలూ తీరతాయి",
+      "పూడిక తీయడం వృథా పని"
+    ],
+    "answer": 2,
+    "hint": "పని ఎవరు చేశారో గుర్తుచేసుకోండి.",
+    "difficulty": "hard",
+    "passageId": "te-rc-cheruvu",
+    "passageTitle": "ఊరి చెరువు",
+    "passage": "<p>మా ఊరి చివర పెద్ద చెరువు ఉంది. వర్షాకాలంలో అది నిండుగా ఉంటుంది. ఆ నీటితోనే రైతులు పొలాలకు నీరు పెట్టుకుంటారు.</p><p>కొన్నేళ్ళ క్రితం చెరువు నిండా పూడిక చేరింది. నీరు నిల్వ ఉండడం తగ్గిపోయింది. అప్పుడు ఊరి ప్రజలంతా కలిసి పూడిక తీశారు. తీసిన మట్టిని పొలాల్లో వేసుకున్నారు. ఆ మట్టి మంచి ఎరువులా పనిచేసింది.</p><p>ఇప్పుడు చెరువు మళ్ళీ నిండుతోంది. చుట్టుపక్కల బావుల్లో నీటిమట్టం కూడా పెరిగింది. ఒక పని రెండు లాభాలు తెచ్చిందని పెద్దలు అంటారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "గ్రంథాలయాన్ని చూసుకునే వ్యక్తి పేరు ఏమిటి?",
+    "options": [
+      "మల్లయ్య",
+      "పేరు చెప్పలేదు",
+      "సాయిలు",
+      "రాములు"
+    ],
+    "answer": 2,
+    "hint": "రెండవ పేరా మొదటి వాక్యం.",
+    "difficulty": "easy",
+    "passageId": "te-rc-granthalayam",
+    "passageTitle": "గ్రామ గ్రంథాలయం",
+    "passage": "<p>మా ఊళ్ళో ఒక చిన్న గ్రంథాలయం ఉంది. అందులో కథల పుస్తకాలు, పత్రికలు, పాఠ్యపుస్తకాలు ఉన్నాయి. ప్రతి సాయంత్రం పిల్లలు అక్కడికి వస్తారు.</p><p>గ్రంథాలయాన్ని చూసుకునే వ్యక్తి పేరు సాయిలు. ఆయన పుస్తకాలను వరుసగా అమర్చుతారు. ఎవరైనా పుస్తకం తీసుకెళ్ళితే ఒక చిన్న పుస్తకంలో పేరు రాసుకుంటారు.</p><p>మొదట్లో ఇక్కడికి పది మంది మాత్రమే వచ్చేవారు. ఇప్పుడు రోజూ యాభై మందికి పైగా వస్తున్నారు. పుస్తకాలు చదవడం అలవాటైతే మనసుకు కొత్త కిటికీ తెరిచినట్టేనని సాయిలు అంటారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "పుస్తకం తీసుకెళ్ళినప్పుడు ఏమి చేస్తారు?",
+    "options": [
+      "ఏమీ చేయనవసరం లేదు",
+      "డబ్బు కట్టాలి",
+      "ఒక చిన్న పుస్తకంలో పేరు రాసుకుంటారు",
+      "కార్డు చూపించాలి"
+    ],
+    "answer": 2,
+    "hint": "రెండవ పేరా చివరి వాక్యం.",
+    "difficulty": "medium",
+    "passageId": "te-rc-granthalayam",
+    "passageTitle": "గ్రామ గ్రంథాలయం",
+    "passage": "<p>మా ఊళ్ళో ఒక చిన్న గ్రంథాలయం ఉంది. అందులో కథల పుస్తకాలు, పత్రికలు, పాఠ్యపుస్తకాలు ఉన్నాయి. ప్రతి సాయంత్రం పిల్లలు అక్కడికి వస్తారు.</p><p>గ్రంథాలయాన్ని చూసుకునే వ్యక్తి పేరు సాయిలు. ఆయన పుస్తకాలను వరుసగా అమర్చుతారు. ఎవరైనా పుస్తకం తీసుకెళ్ళితే ఒక చిన్న పుస్తకంలో పేరు రాసుకుంటారు.</p><p>మొదట్లో ఇక్కడికి పది మంది మాత్రమే వచ్చేవారు. ఇప్పుడు రోజూ యాభై మందికి పైగా వస్తున్నారు. పుస్తకాలు చదవడం అలవాటైతే మనసుకు కొత్త కిటికీ తెరిచినట్టేనని సాయిలు అంటారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "గ్రంథాలయానికి వచ్చేవారి సంఖ్య ఎలా మారింది?",
+    "options": [
+      "పది నుంచి యాభైకి పైగా పెరిగింది",
+      "యాభై నుంచి పదికి తగ్గింది",
+      "పాఠంలో చెప్పలేదు",
+      "ఎప్పుడూ పదిమందే వస్తున్నారు"
+    ],
+    "answer": 0,
+    "hint": "మూడవ పేరాలో రెండు సంఖ్యలు ఉన్నాయి.",
+    "difficulty": "medium",
+    "passageId": "te-rc-granthalayam",
+    "passageTitle": "గ్రామ గ్రంథాలయం",
+    "passage": "<p>మా ఊళ్ళో ఒక చిన్న గ్రంథాలయం ఉంది. అందులో కథల పుస్తకాలు, పత్రికలు, పాఠ్యపుస్తకాలు ఉన్నాయి. ప్రతి సాయంత్రం పిల్లలు అక్కడికి వస్తారు.</p><p>గ్రంథాలయాన్ని చూసుకునే వ్యక్తి పేరు సాయిలు. ఆయన పుస్తకాలను వరుసగా అమర్చుతారు. ఎవరైనా పుస్తకం తీసుకెళ్ళితే ఒక చిన్న పుస్తకంలో పేరు రాసుకుంటారు.</p><p>మొదట్లో ఇక్కడికి పది మంది మాత్రమే వచ్చేవారు. ఇప్పుడు రోజూ యాభై మందికి పైగా వస్తున్నారు. పుస్తకాలు చదవడం అలవాటైతే మనసుకు కొత్త కిటికీ తెరిచినట్టేనని సాయిలు అంటారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "‘మనసుకు కొత్త కిటికీ తెరిచినట్టు’ అంటే ఏమిటి?",
+    "options": [
+      "చదవడం వల్ల నిద్ర వస్తుంది",
+      "గ్రంథాలయంలో కిటికీలు ఎక్కువ ఉన్నాయి",
+      "కొత్త విషయాలు తెలిసి ఆలోచన విశాలమవుతుంది",
+      "ఇంటికి కొత్త కిటికీ కట్టాలి"
+    ],
+    "answer": 2,
+    "hint": "ఇది ఒక పోలిక; నిజంగా కిటికీ గురించి కాదు.",
+    "difficulty": "hard",
+    "passageId": "te-rc-granthalayam",
+    "passageTitle": "గ్రామ గ్రంథాలయం",
+    "passage": "<p>మా ఊళ్ళో ఒక చిన్న గ్రంథాలయం ఉంది. అందులో కథల పుస్తకాలు, పత్రికలు, పాఠ్యపుస్తకాలు ఉన్నాయి. ప్రతి సాయంత్రం పిల్లలు అక్కడికి వస్తారు.</p><p>గ్రంథాలయాన్ని చూసుకునే వ్యక్తి పేరు సాయిలు. ఆయన పుస్తకాలను వరుసగా అమర్చుతారు. ఎవరైనా పుస్తకం తీసుకెళ్ళితే ఒక చిన్న పుస్తకంలో పేరు రాసుకుంటారు.</p><p>మొదట్లో ఇక్కడికి పది మంది మాత్రమే వచ్చేవారు. ఇప్పుడు రోజూ యాభై మందికి పైగా వస్తున్నారు. పుస్తకాలు చదవడం అలవాటైతే మనసుకు కొత్త కిటికీ తెరిచినట్టేనని సాయిలు అంటారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "ఈ పాఠం ప్రధాన భావం ఏమిటి?",
+    "options": [
+      "పిల్లలు సాయంత్రం ఆడుకోవాలి",
+      "చిన్న గ్రంథాలయం కూడా ఊళ్ళో చదివే అలవాటును పెంచగలదు",
+      "గ్రంథాలయాలు పెద్దవిగా ఉండాలి",
+      "పుస్తకాలు ఖరీదైనవి"
+    ],
+    "answer": 1,
+    "hint": "మొదట పది, ఇప్పుడు యాభై — ఈ మార్పు దేన్ని చూపుతుంది?",
+    "difficulty": "hard",
+    "passageId": "te-rc-granthalayam",
+    "passageTitle": "గ్రామ గ్రంథాలయం",
+    "passage": "<p>మా ఊళ్ళో ఒక చిన్న గ్రంథాలయం ఉంది. అందులో కథల పుస్తకాలు, పత్రికలు, పాఠ్యపుస్తకాలు ఉన్నాయి. ప్రతి సాయంత్రం పిల్లలు అక్కడికి వస్తారు.</p><p>గ్రంథాలయాన్ని చూసుకునే వ్యక్తి పేరు సాయిలు. ఆయన పుస్తకాలను వరుసగా అమర్చుతారు. ఎవరైనా పుస్తకం తీసుకెళ్ళితే ఒక చిన్న పుస్తకంలో పేరు రాసుకుంటారు.</p><p>మొదట్లో ఇక్కడికి పది మంది మాత్రమే వచ్చేవారు. ఇప్పుడు రోజూ యాభై మందికి పైగా వస్తున్నారు. పుస్తకాలు చదవడం అలవాటైతే మనసుకు కొత్త కిటికీ తెరిచినట్టేనని సాయిలు అంటారు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "పిచ్చుక గూడు కట్టడానికి ఎన్ని రోజులు పట్టింది?",
+    "options": [
+      "ఐదు రోజులు",
+      "ఒక రోజు",
+      "మూడు రోజులు",
+      "పది రోజులు"
+    ],
+    "answer": 2,
+    "hint": "మొదటి పేరా చివరి వాక్యం.",
+    "difficulty": "easy",
+    "passageId": "te-rc-pitta",
+    "passageTitle": "పిచ్చుక గూడు",
+    "passage": "<p>మా ఇంటి వసారాలో ఒక పిచ్చుక గూడు కట్టింది. గడ్డిపోచలు, దారపు పోగులు తెచ్చి రోజంతా కష్టపడింది. మూడు రోజుల్లో గూడు పూర్తయింది.</p><p>కొన్ని రోజుల తరువాత గూట్లో మూడు చిన్న గుడ్లు కనిపించాయి. అమ్మ మమ్మల్ని వాటిని ముట్టుకోవద్దని చెప్పింది. దూరం నుంచే చూడమంది.</p><p>ఒకరోజు ఉదయం గూట్లో సన్నని కూతలు వినిపించాయి. పిల్లలు పొదిగాయి. తల్లి పిచ్చుక పదేపదే ఎగిరి వెళ్ళి ఆహారం తెచ్చి వాటికి తినిపించేది. మేము ఆ దృశ్యాన్ని ఎన్నిసార్లు చూసినా విసుగు అనిపించేది కాదు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "గూడు కట్టడానికి పిచ్చుక ఏమి తెచ్చింది?",
+    "options": [
+      "ఆకులు, పండ్లు",
+      "కాగితాలు, ప్లాస్టిక్",
+      "గడ్డిపోచలు, దారపు పోగులు",
+      "మట్టి, రాళ్ళు"
+    ],
+    "answer": 2,
+    "hint": "మొదటి పేరాలో వస్తువుల పేర్లు ఉన్నాయి.",
+    "difficulty": "medium",
+    "passageId": "te-rc-pitta",
+    "passageTitle": "పిచ్చుక గూడు",
+    "passage": "<p>మా ఇంటి వసారాలో ఒక పిచ్చుక గూడు కట్టింది. గడ్డిపోచలు, దారపు పోగులు తెచ్చి రోజంతా కష్టపడింది. మూడు రోజుల్లో గూడు పూర్తయింది.</p><p>కొన్ని రోజుల తరువాత గూట్లో మూడు చిన్న గుడ్లు కనిపించాయి. అమ్మ మమ్మల్ని వాటిని ముట్టుకోవద్దని చెప్పింది. దూరం నుంచే చూడమంది.</p><p>ఒకరోజు ఉదయం గూట్లో సన్నని కూతలు వినిపించాయి. పిల్లలు పొదిగాయి. తల్లి పిచ్చుక పదేపదే ఎగిరి వెళ్ళి ఆహారం తెచ్చి వాటికి తినిపించేది. మేము ఆ దృశ్యాన్ని ఎన్నిసార్లు చూసినా విసుగు అనిపించేది కాదు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "గుడ్లను ముట్టుకోవద్దని అమ్మ ఎందుకు చెప్పి ఉంటుంది?",
+    "options": [
+      "గుడ్లు వేడిగా ఉంటాయి కాబట్టి",
+      "గుడ్లు చాలా బరువుగా ఉంటాయి కాబట్టి",
+      "మనుషులు ముట్టుకుంటే తల్లి పక్షి గూడును వదిలేయవచ్చు కాబట్టి",
+      "గుడ్లు ఖరీదైనవి కాబట్టి"
+    ],
+    "answer": 2,
+    "hint": "పాఠంలో నేరుగా చెప్పలేదు; ఆలోచించి చెప్పాలి.",
+    "difficulty": "hard",
+    "passageId": "te-rc-pitta",
+    "passageTitle": "పిచ్చుక గూడు",
+    "passage": "<p>మా ఇంటి వసారాలో ఒక పిచ్చుక గూడు కట్టింది. గడ్డిపోచలు, దారపు పోగులు తెచ్చి రోజంతా కష్టపడింది. మూడు రోజుల్లో గూడు పూర్తయింది.</p><p>కొన్ని రోజుల తరువాత గూట్లో మూడు చిన్న గుడ్లు కనిపించాయి. అమ్మ మమ్మల్ని వాటిని ముట్టుకోవద్దని చెప్పింది. దూరం నుంచే చూడమంది.</p><p>ఒకరోజు ఉదయం గూట్లో సన్నని కూతలు వినిపించాయి. పిల్లలు పొదిగాయి. తల్లి పిచ్చుక పదేపదే ఎగిరి వెళ్ళి ఆహారం తెచ్చి వాటికి తినిపించేది. మేము ఆ దృశ్యాన్ని ఎన్నిసార్లు చూసినా విసుగు అనిపించేది కాదు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "పిల్లలు పొదిగాక తల్లి పిచ్చుక ఏమి చేసేది?",
+    "options": [
+      "ఏమీ చేయకుండా కూర్చుంది",
+      "కొత్త గూడు కట్టడం మొదలుపెట్టింది",
+      "పదేపదే ఎగిరి వెళ్ళి ఆహారం తెచ్చి తినిపించేది",
+      "గూడును వదిలి వెళ్ళిపోయింది"
+    ],
+    "answer": 2,
+    "hint": "మూడవ పేరా చూడండి.",
+    "difficulty": "medium",
+    "passageId": "te-rc-pitta",
+    "passageTitle": "పిచ్చుక గూడు",
+    "passage": "<p>మా ఇంటి వసారాలో ఒక పిచ్చుక గూడు కట్టింది. గడ్డిపోచలు, దారపు పోగులు తెచ్చి రోజంతా కష్టపడింది. మూడు రోజుల్లో గూడు పూర్తయింది.</p><p>కొన్ని రోజుల తరువాత గూట్లో మూడు చిన్న గుడ్లు కనిపించాయి. అమ్మ మమ్మల్ని వాటిని ముట్టుకోవద్దని చెప్పింది. దూరం నుంచే చూడమంది.</p><p>ఒకరోజు ఉదయం గూట్లో సన్నని కూతలు వినిపించాయి. పిల్లలు పొదిగాయి. తల్లి పిచ్చుక పదేపదే ఎగిరి వెళ్ళి ఆహారం తెచ్చి వాటికి తినిపించేది. మేము ఆ దృశ్యాన్ని ఎన్నిసార్లు చూసినా విసుగు అనిపించేది కాదు.</p>"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పఠన బోధ",
+    "topic": "telugu-comprehension",
+    "topicLabel": "పఠన బోధ (Reading Comprehension)",
+    "question": "ఈ పాఠంలో రచయిత భావం ఏమిటి?",
+    "options": [
+      "పిచ్చుకలు ఆహారం తినవు",
+      "పక్షులు ఇంట్లో గూడు కట్టకూడదు",
+      "గూడు కట్టడం చాలా సులభం",
+      "చిన్న పక్షి కష్టాన్నీ, ప్రేమనూ చూడటంలో ఆనందం ఉంది"
+    ],
+    "answer": 3,
+    "hint": "చివరి వాక్యంలో రచయిత మనోభావం ఉంది.",
+    "difficulty": "hard",
+    "passageId": "te-rc-pitta",
+    "passageTitle": "పిచ్చుక గూడు",
+    "passage": "<p>మా ఇంటి వసారాలో ఒక పిచ్చుక గూడు కట్టింది. గడ్డిపోచలు, దారపు పోగులు తెచ్చి రోజంతా కష్టపడింది. మూడు రోజుల్లో గూడు పూర్తయింది.</p><p>కొన్ని రోజుల తరువాత గూట్లో మూడు చిన్న గుడ్లు కనిపించాయి. అమ్మ మమ్మల్ని వాటిని ముట్టుకోవద్దని చెప్పింది. దూరం నుంచే చూడమంది.</p><p>ఒకరోజు ఉదయం గూట్లో సన్నని కూతలు వినిపించాయి. పిల్లలు పొదిగాయి. తల్లి పిచ్చుక పదేపదే ఎగిరి వెళ్ళి ఆహారం తెచ్చి వాటికి తినిపించేది. మేము ఆ దృశ్యాన్ని ఎన్నిసార్లు చూసినా విసుగు అనిపించేది కాదు.</p>"
+  }
+]

@@ -1,0 +1,2274 @@
+[
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "According to the old Greek story, magnets were discovered by a shepherd named:",
+    "options": [
+      "Socrates",
+      "Euclid",
+      "Magnes",
+      "Archimedes"
+    ],
+    "answer": 2,
+    "hint": "The story says the iron nails of Magnes' sandals and the tip of his stick stuck to a rock."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "The naturally occurring rock that behaves as a magnet is called:",
+    "options": [
+      "Granite",
+      "Limestone",
+      "Sandstone",
+      "Magnetite"
+    ],
+    "answer": 3,
+    "hint": "Magnetite is an iron ore. A piece of it that attracts iron is called a lodestone."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "A naturally magnetised piece of magnetite that points north-south is known as a:",
+    "options": [
+      "Lodestone",
+      "Limestone",
+      "Millstone",
+      "Grindstone"
+    ],
+    "answer": 0,
+    "hint": "Lodestone means leading stone, because early sailors used it to find their way."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "The word magnet is believed to come from the name of a place called:",
+    "options": [
+      "Magnesia",
+      "Rome",
+      "Delhi",
+      "Athens"
+    ],
+    "answer": 0,
+    "hint": "Magnesia was a region in ancient Greece where magnetic rocks were found."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "Why was the lodestone so valuable to early sailors?",
+    "options": [
+      "It made their ships lighter",
+      "It kept the ship warm",
+      "It could be used as food",
+      "It always pointed roughly north and south, so they could find direction at sea"
+    ],
+    "answer": 3,
+    "hint": "Out of sight of land and under cloud, a lodestone was the only reliable guide."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "The earliest compasses were made by:",
+    "options": [
+      "Floating or suspending a magnetised needle or lodestone so it could turn freely",
+      "Painting an arrow on wood",
+      "Using a burning candle",
+      "Watching the clouds"
+    ],
+    "answer": 0,
+    "hint": "The key idea is that the magnet must be free to swing before it can line itself up."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "Which country is generally credited with the earliest use of the magnetic compass?",
+    "options": [
+      "Brazil",
+      "China",
+      "Egypt",
+      "Australia"
+    ],
+    "answer": 1,
+    "hint": "Chinese navigators were using magnetic direction-finders many centuries ago."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "Magnetite is an ore of which metal?",
+    "options": [
+      "Iron",
+      "Gold",
+      "Copper",
+      "Aluminium"
+    ],
+    "answer": 0,
+    "hint": "It is the iron in magnetite that makes the rock magnetic."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "The property by which certain materials attract iron is called:",
+    "options": [
+      "Conductivity",
+      "Elasticity",
+      "Solubility",
+      "Magnetism"
+    ],
+    "answer": 3,
+    "hint": "Magnetism is the property. A magnet is an object that shows it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "The region around a magnet where its force can be felt is called the:",
+    "options": [
+      "Magnetic mass",
+      "Magnetic field",
+      "Magnetic pole",
+      "Magnetic axis"
+    ],
+    "answer": 1,
+    "hint": "The field is the space in which another magnetic object would feel a push or a pull."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "Iron filings sprinkled around a bar magnet arrange themselves along curved lines. These show the:",
+    "options": [
+      "Weight of the magnet",
+      "Pattern of the magnetic field",
+      "Temperature of the magnet",
+      "Colour of the magnet"
+    ],
+    "answer": 1,
+    "hint": "Each tiny filing turns to line up with the field, tracing out its shape."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "Does a magnet need to touch an object to attract it?",
+    "options": [
+      "Yes, always",
+      "No, but only in water",
+      "Yes, unless the object is hot",
+      "No, it can attract from a small distance through the air"
+    ],
+    "answer": 3,
+    "hint": "The magnetic field reaches out into the space around the magnet."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "Can a magnet attract an iron pin through a sheet of paper?",
+    "options": [
+      "Yes, magnetic force passes through paper",
+      "Only if the paper is wet",
+      "Only if the paper is coloured",
+      "No, paper blocks it completely"
+    ],
+    "answer": 0,
+    "hint": "Magnetic force passes through most non-magnetic materials such as paper, glass and water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "As you move an iron nail further away from a magnet, the pull on it:",
+    "options": [
+      "Becomes stronger",
+      "Becomes weaker",
+      "Stays exactly the same",
+      "Disappears at once"
+    ],
+    "answer": 1,
+    "hint": "Magnetic force falls off quickly with distance."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "The Earth itself behaves as though it contains:",
+    "options": [
+      "A giant magnet",
+      "A giant battery",
+      "A giant lens",
+      "A giant mirror"
+    ],
+    "answer": 0,
+    "hint": "This is why a free magnet on Earth always settles in a north-south line."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "Which of these was <b>not</b> known to the ancient discoverers of magnets?",
+    "options": [
+      "That an electric current can make a magnet",
+      "That lodestones can attract iron nails",
+      "That some rocks attract iron",
+      "That a free lodestone points north"
+    ],
+    "answer": 0,
+    "hint": "The link between electricity and magnetism was discovered only about two hundred years ago."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "question": "Why do we say magnetism was discovered rather than invented?",
+    "options": [
+      "It was designed by engineers",
+      "It was made in a laboratory",
+      "It was written in a book first",
+      "It is a natural property that already existed in certain rocks"
+    ],
+    "answer": 3,
+    "hint": "People found magnetism in nature. They later learned to make magnets themselves."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "Which three metals are the common magnetic materials?",
+    "options": [
+      "Aluminium, tin and lead",
+      "Iron, nickel and cobalt",
+      "Copper, silver and gold",
+      "Zinc, brass and bronze"
+    ],
+    "answer": 1,
+    "hint": "Iron, nickel and cobalt are the everyday magnetic metals. Steel is magnetic because it contains iron."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "Steel is attracted by a magnet because it contains:",
+    "options": [
+      "Aluminium",
+      "Carbon only",
+      "Copper",
+      "Iron"
+    ],
+    "answer": 3,
+    "hint": "Steel is mostly iron with a little carbon, so it keeps iron's magnetic behaviour."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "Which of these would a magnet <b>not</b> attract?",
+    "options": [
+      "An iron nail",
+      "A steel pin",
+      "A safety pin",
+      "A rubber band"
+    ],
+    "answer": 3,
+    "hint": "Rubber contains no iron, nickel or cobalt, so a magnet ignores it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "Materials that are not attracted by a magnet are called:",
+    "options": [
+      "Conductors",
+      "Magnetic materials",
+      "Insulators",
+      "Non-magnetic materials"
+    ],
+    "answer": 3,
+    "hint": "Wood, plastic, glass, paper and most metals are non-magnetic."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "A gold ring is not attracted by a magnet. This shows that:",
+    "options": [
+      "Gold is a non-magnetic metal",
+      "The magnet is broken",
+      "Gold is an insulator",
+      "The ring is not really gold"
+    ],
+    "answer": 0,
+    "hint": "Being a metal and being magnetic are two different things."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "Which pair contains only non-magnetic materials?",
+    "options": [
+      "Wood and plastic",
+      "Iron and steel",
+      "Nickel and cobalt",
+      "Steel and iron"
+    ],
+    "answer": 0,
+    "hint": "Look for the pair with no iron, nickel or cobalt in it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "A simple way to sort a mixed heap of iron and aluminium scrap is to:",
+    "options": [
+      "Pass a magnet over it to lift out the iron",
+      "Weigh each piece",
+      "Wash it in water",
+      "Heat the heap"
+    ],
+    "answer": 0,
+    "hint": "Magnetic separation works because only one of the two metals responds."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "Why is a magnet useful for finding a lost steel needle in a carpet?",
+    "options": [
+      "The needle floats up",
+      "The magnet dissolves the carpet",
+      "The needle is magnetic and jumps to the magnet",
+      "The magnet lights up the carpet"
+    ],
+    "answer": 2,
+    "hint": "This is magnetic separation solving an everyday problem."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "A magnet is brought near a stainless steel spoon and nothing happens. The most likely reason is:",
+    "options": [
+      "The spoon is made of wood",
+      "Magnets do not work on spoons",
+      "The spoon is too clean",
+      "Some kinds of stainless steel are non-magnetic"
+    ],
+    "answer": 3,
+    "hint": "Stainless steel comes in several kinds. Some contain enough nickel and chromium to be non-magnetic."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "Which everyday object is most likely to be attracted by a magnet?",
+    "options": [
+      "A glass marble",
+      "A plastic comb",
+      "A wooden pencil",
+      "A paper clip"
+    ],
+    "answer": 3,
+    "hint": "Most paper clips are made of steel wire."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "In a magnetic material, the tiny magnetic regions inside are:",
+    "options": [
+      "Always pointing in random directions",
+      "Made of plastic",
+      "Completely absent",
+      "Lined up in the same direction when the material is magnetised"
+    ],
+    "answer": 3,
+    "hint": "Magnetising means bringing the tiny internal magnets into line."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "In an unmagnetised iron bar, the tiny magnetic regions are:",
+    "options": [
+      "Missing altogether",
+      "Perfectly lined up",
+      "Pointing in all directions, so their effects cancel out",
+      "Made of copper"
+    ],
+    "answer": 2,
+    "hint": "The iron is still magnetic material. Its internal magnets are simply not in line."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "An iron nail hanging from a magnet can itself pick up a second nail. This is because the first nail has become:",
+    "options": [
+      "Non-magnetic",
+      "Temporarily magnetised",
+      "Hotter",
+      "Heavier"
+    ],
+    "answer": 1,
+    "hint": "Magnetism induced in a nearby magnetic material is called induced magnetism."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "Magnetism produced in a magnetic material simply by bringing a magnet near it is called:",
+    "options": [
+      "Natural magnetism",
+      "Electrical conduction",
+      "Induced magnetism",
+      "Permanent magnetism"
+    ],
+    "answer": 2,
+    "hint": "The magnet induces the effect without any touching or rubbing being needed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "Which of these is the best test for whether an unknown object contains iron?",
+    "options": [
+      "Look at its colour",
+      "Smell the object",
+      "Bring a magnet near it and see whether it is attracted",
+      "Weigh the object"
+    ],
+    "answer": 2,
+    "hint": "The magnet test is quick, cheap and does no damage to the object."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "Sand from certain beaches sticks to a magnet. This is because the sand contains grains of:",
+    "options": [
+      "Salt",
+      "Sugar",
+      "Iron-bearing minerals",
+      "Plastic"
+    ],
+    "answer": 2,
+    "hint": "Dark magnetic grains such as magnetite are common in some beach sands."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "Which statement is correct?",
+    "options": [
+      "Every material can be made into a magnet",
+      "Non-magnetic materials become magnetic when heated",
+      "All magnetic materials are attracted by magnets, but only some can be made into magnets",
+      "Only magnets attract other magnets"
+    ],
+    "answer": 2,
+    "hint": "Soft iron is easily attracted but does not hold magnetism. Steel both attracts and holds it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "question": "Breakfast cereals are sometimes tested with a strong magnet to show that they contain:",
+    "options": [
+      "Added water",
+      "Added iron, as a nutrient",
+      "Added sugar",
+      "Added plastic"
+    ],
+    "answer": 1,
+    "hint": "Iron-fortified cereal really does contain tiny particles of iron that a magnet can drag."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "Magnets found in nature, such as lodestone, are called:",
+    "options": [
+      "Temporary magnets",
+      "Natural magnets",
+      "Electromagnets",
+      "Artificial magnets"
+    ],
+    "answer": 1,
+    "hint": "Natural magnets are not made by people. They occur as magnetised rock."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "Magnets made by people in particular shapes are called:",
+    "options": [
+      "Lodestones",
+      "Artificial magnets",
+      "Natural magnets",
+      "Magnetite"
+    ],
+    "answer": 1,
+    "hint": "Bar, horseshoe and ring magnets are all artificial magnets."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "Which is an advantage of artificial magnets over natural ones?",
+    "options": [
+      "They are found in rocks",
+      "They never lose magnetism",
+      "They are always weaker",
+      "They can be made in useful shapes and strengths"
+    ],
+    "answer": 3,
+    "hint": "A lodestone comes in whatever shape nature made it. An artificial magnet is made to fit the job."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "A magnet that keeps its magnetism for a long time is called a:",
+    "options": [
+      "Permanent magnet",
+      "Weak magnet",
+      "Natural magnet",
+      "Temporary magnet"
+    ],
+    "answer": 0,
+    "hint": "Permanent magnets are usually made of steel or special alloys."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "A magnet that behaves as a magnet only while a current flows or a magnet is nearby is called a:",
+    "options": [
+      "Permanent magnet",
+      "Lodestone",
+      "Temporary magnet",
+      "Natural magnet"
+    ],
+    "answer": 2,
+    "hint": "Soft iron makes an excellent temporary magnet: strong while magnetised, and quick to lose it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "Which material is best for making a permanent magnet?",
+    "options": [
+      "Steel",
+      "Copper",
+      "Plastic",
+      "Soft iron"
+    ],
+    "answer": 0,
+    "hint": "Steel is hard to magnetise but holds its magnetism well once magnetised."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "Which material is best for making a temporary magnet such as an electromagnet core?",
+    "options": [
+      "Aluminium",
+      "Wood",
+      "Steel",
+      "Soft iron"
+    ],
+    "answer": 3,
+    "hint": "Soft iron magnetises easily and loses it just as easily, which is exactly what an electromagnet needs."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "A magnet made by winding a coil of wire around a soft iron core and passing current is called:",
+    "options": [
+      "A lodestone",
+      "An electromagnet",
+      "A bar magnet",
+      "A compass"
+    ],
+    "answer": 1,
+    "hint": "Its magnetism can be switched on and off with the current."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "The great advantage of an electromagnet over a permanent magnet is that:",
+    "options": [
+      "Its magnetism can be switched on and off",
+      "It never needs electricity",
+      "It is always weaker",
+      "It cannot attract iron"
+    ],
+    "answer": 0,
+    "hint": "Being able to drop the load on demand is exactly why cranes use electromagnets."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "How can the strength of an electromagnet be increased?",
+    "options": [
+      "By making the wire shorter only",
+      "By using a wooden core",
+      "By cooling the wire",
+      "By increasing the current or the number of turns of wire"
+    ],
+    "answer": 3,
+    "hint": "More current and more turns both make the magnetic effect stronger."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "A magnet shaped like a straight rectangular bar is called a:",
+    "options": [
+      "Needle magnet",
+      "Bar magnet",
+      "Horseshoe magnet",
+      "Ring magnet"
+    ],
+    "answer": 1,
+    "hint": "The bar magnet is the shape most used in school experiments."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "A U-shaped magnet is called a:",
+    "options": [
+      "Ring magnet",
+      "Horseshoe magnet",
+      "Cylindrical magnet",
+      "Bar magnet"
+    ],
+    "answer": 1,
+    "hint": "Bending the magnet brings both poles close together, which makes the pull stronger."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "Why is a horseshoe magnet usually stronger than a bar magnet of the same material?",
+    "options": [
+      "It is painted red",
+      "It contains more copper",
+      "It is heavier",
+      "Both its poles act on the object from close together"
+    ],
+    "answer": 3,
+    "hint": "The U shape puts north and south side by side, so both poles pull the same object."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "The thin magnet used inside a compass is called a:",
+    "options": [
+      "Ring magnet",
+      "Horseshoe magnet",
+      "Magnetic needle",
+      "Lodestone"
+    ],
+    "answer": 2,
+    "hint": "It is light and balanced on a pivot so it can turn with very little friction."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "Small flat magnets used to hold notes on a fridge door are usually:",
+    "options": [
+      "Natural magnets",
+      "Temporary magnets",
+      "Electromagnets",
+      "Permanent magnets"
+    ],
+    "answer": 3,
+    "hint": "They keep working without any electricity, year after year."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "Which of these is a temporary magnet in everyday use?",
+    "options": [
+      "A compass needle",
+      "The electromagnet in an electric bell",
+      "A fridge magnet",
+      "A lodestone"
+    ],
+    "answer": 1,
+    "hint": "The bell's magnet must switch off and on many times a second to work."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "Which classification pair is correct?",
+    "options": [
+      "Both are natural",
+      "Lodestone — natural; bar magnet — artificial",
+      "Both are artificial",
+      "Lodestone — artificial; bar magnet — natural"
+    ],
+    "answer": 1,
+    "hint": "Natural means found in nature. Artificial means shaped and magnetised by people."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "An iron nail held near a strong magnet becomes a magnet, but loses it when moved away. The nail is acting as a:",
+    "options": [
+      "Temporary magnet",
+      "Natural magnet",
+      "Non-magnetic material",
+      "Permanent magnet"
+    ],
+    "answer": 0,
+    "hint": "Soft iron holds magnetism only while the cause is present."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "Which would be the better choice for a crane lifting scrap iron, and why?",
+    "options": [
+      "A lodestone, because it is natural",
+      "An electromagnet, because the load can be released by switching it off",
+      "A compass needle, because it is light",
+      "A permanent magnet, because it never needs power"
+    ],
+    "answer": 1,
+    "hint": "Picking up is only half the job. The crane must also be able to let go."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "question": "Modern strong magnets used in headphones and motors are often made of:",
+    "options": [
+      "Pure copper",
+      "Glass",
+      "Wood fibre",
+      "Special alloys containing rare earth metals"
+    ],
+    "answer": 3,
+    "hint": "Alloys such as neodymium magnets are far stronger than ordinary steel magnets of the same size."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "The two ends of a magnet where the magnetism is concentrated are called its:",
+    "options": [
+      "Poles",
+      "Centres",
+      "Edges",
+      "Faces"
+    ],
+    "answer": 0,
+    "hint": "Every magnet has two poles, a north pole and a south pole."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "How many poles does a single bar magnet have?",
+    "options": [
+      "Four",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "answer": 2,
+    "hint": "Poles always come in pairs. There is no such thing as a magnet with only one pole."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "The pole of a freely suspended magnet that points towards the Earth's north is called the:",
+    "options": [
+      "East pole",
+      "Neutral pole",
+      "North-seeking pole",
+      "South-seeking pole"
+    ],
+    "answer": 2,
+    "hint": "It is named for the direction it seeks, which is why it is often written simply as the north pole."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "Where on a bar magnet is the magnetic effect weakest?",
+    "options": [
+      "At the north pole",
+      "At both ends",
+      "At the south pole",
+      "At the middle"
+    ],
+    "answer": 3,
+    "hint": "Iron filings barely cling to the centre of a bar magnet."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "When iron filings are sprinkled on a bar magnet, they gather mostly:",
+    "options": [
+      "Only on one end",
+      "Evenly all over",
+      "At the two ends",
+      "In the middle"
+    ],
+    "answer": 2,
+    "hint": "The filings crowd where the field is strongest, and that is at the poles."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "Can a magnet with only a north pole and no south pole exist?",
+    "options": [
+      "Yes, if it is heated",
+      "No, poles always occur in pairs",
+      "Yes, in an electromagnet",
+      "Yes, if it is cut carefully"
+    ],
+    "answer": 1,
+    "hint": "However small a piece you break off, it still has both a north and a south pole."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "A bar magnet is cut into four pieces. How many poles are there in total?",
+    "options": [
+      "Two",
+      "Four",
+      "Eight",
+      "One"
+    ],
+    "answer": 2,
+    "hint": "Each of the four pieces is a complete magnet with two poles of its own."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "On a painted school magnet, the north pole is usually marked in:",
+    "options": [
+      "White, with the letter E",
+      "Yellow, with no letter",
+      "Red, with the letter N",
+      "Green, with the letter S"
+    ],
+    "answer": 2,
+    "hint": "Marking the poles saves guessing which end is which during an experiment."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "An unmarked bar magnet is suspended freely. The end pointing north is its:",
+    "options": [
+      "South pole",
+      "Weakest point",
+      "Neutral point",
+      "North pole"
+    ],
+    "answer": 3,
+    "hint": "This is the standard way to identify the poles of an unmarked magnet."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "The imaginary line joining the two poles of a magnet is called its:",
+    "options": [
+      "Magnetic field",
+      "Diameter",
+      "Equator",
+      "Magnetic axis"
+    ],
+    "answer": 3,
+    "hint": "The magnetic axis runs lengthwise through a bar magnet from pole to pole."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "In a horseshoe magnet, the two poles are:",
+    "options": [
+      "Absent",
+      "At the bend",
+      "Along the outside curve",
+      "At the two open ends"
+    ],
+    "answer": 3,
+    "hint": "Bending a bar into a U brings the two ends, and so the two poles, close together."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "Two bar magnets are placed end to end and behave as one long magnet. This happens when:",
+    "options": [
+      "Both are broken",
+      "Both are heated",
+      "Like poles are joined together",
+      "Unlike poles are joined together"
+    ],
+    "answer": 3,
+    "hint": "North joined to south makes a continuous magnet. North to north would push apart."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "Magnetic field lines outside a magnet are drawn as going:",
+    "options": [
+      "From the north pole to the south pole",
+      "From the south pole to the north pole",
+      "Only into the middle",
+      "In straight lines only"
+    ],
+    "answer": 0,
+    "hint": "By convention, field lines leave the north pole and return to the south pole outside the magnet."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "Why must the poles of a magnet always be equal in strength?",
+    "options": [
+      "Because they are painted the same",
+      "Because they are the same size",
+      "They need not be equal",
+      "Because they are the two ends of the same magnet"
+    ],
+    "answer": 3,
+    "hint": "The two poles are simply the two ends of one magnetic arrangement."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "Where do magnetic field lines never cross?",
+    "options": [
+      "They cross everywhere",
+      "Only in the middle",
+      "Anywhere, because a point cannot have two field directions at once",
+      "Only at the poles"
+    ],
+    "answer": 2,
+    "hint": "If two lines crossed, a compass at that point would have to point two ways at once."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "A small compass placed near a bar magnet will always point:",
+    "options": [
+      "Along the direction of the magnetic field at that spot",
+      "Away from the magnet",
+      "Towards the middle of the magnet",
+      "Straight up"
+    ],
+    "answer": 0,
+    "hint": "A compass is itself a tiny magnet, so it lines up with whatever field it sits in."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "Two like poles face each other. The magnetic field between them:",
+    "options": [
+      "Pushes them apart",
+      "Pulls them together",
+      "Turns them into one magnet",
+      "Has no effect"
+    ],
+    "answer": 0,
+    "hint": "Like poles repel, and the field between them shows that push."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "question": "Why should an unmarked magnet be suspended and not simply held in the hand to find its poles?",
+    "options": [
+      "Holding it changes its poles",
+      "Hands make magnets weaker",
+      "It becomes hot in the hand",
+      "It must be free to turn before it can line up north-south"
+    ],
+    "answer": 3,
+    "hint": "The whole test depends on the magnet being able to rotate freely."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "The basic rule of magnetic poles is:",
+    "options": [
+      "Like poles attract, unlike poles repel",
+      "All poles attract",
+      "All poles repel",
+      "Like poles repel, unlike poles attract"
+    ],
+    "answer": 3,
+    "hint": "Same pushes away, different pulls together."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "Two south poles are brought close together. They will:",
+    "options": [
+      "Push each other apart",
+      "Pull each other together",
+      "Stick firmly",
+      "Turn into one magnet"
+    ],
+    "answer": 0,
+    "hint": "Two poles of the same kind always repel."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "Which test proves for certain that a bar of metal is a magnet, rather than just magnetic material?",
+    "options": [
+      "It is shiny",
+      "It repels one pole of a known magnet",
+      "It is made of steel",
+      "It attracts an iron nail"
+    ],
+    "answer": 1,
+    "hint": "Only a magnet can repel. Plain iron is always attracted, never pushed away."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "Why is attraction alone not proof that an object is a magnet?",
+    "options": [
+      "Attraction never happens with magnets",
+      "Ordinary magnetic materials such as iron are also attracted",
+      "Attraction is too weak to notice",
+      "Attraction only works in water"
+    ],
+    "answer": 1,
+    "hint": "An unmagnetised nail is attracted just as readily. Repulsion is the decisive test."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "Repulsion is called the sure test of magnetism because:",
+    "options": [
+      "Only two magnets can repel each other",
+      "Only magnets can attract",
+      "Repulsion happens with all metals",
+      "Repulsion is stronger than attraction"
+    ],
+    "answer": 0,
+    "hint": "A piece of unmagnetised iron will never push a magnet away."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "As two magnets are brought closer, the force between them:",
+    "options": [
+      "Disappears",
+      "Becomes weaker",
+      "Stays the same",
+      "Becomes stronger"
+    ],
+    "answer": 3,
+    "hint": "Magnetic force grows rapidly as the gap shrinks."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "Two magnets are placed near each other and one slides away. This shows:",
+    "options": [
+      "One magnet is broken",
+      "Unlike poles are facing each other",
+      "Like poles are facing each other",
+      "Both have lost magnetism"
+    ],
+    "answer": 2,
+    "hint": "Sliding away means being pushed, and pushing means like poles."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "A magnet attracts an iron nail. If the nail is turned round, the magnet will:",
+    "options": [
+      "Ignore it",
+      "Break it",
+      "Repel it",
+      "Still attract it"
+    ],
+    "answer": 3,
+    "hint": "The nail is not a magnet, so it has no fixed poles to reverse."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "A magnet is turned round near another magnet, and attraction becomes repulsion. This proves that:",
+    "options": [
+      "One is made of copper",
+      "Both objects are magnets",
+      "Both are unmagnetised iron",
+      "Neither is a magnet"
+    ],
+    "answer": 1,
+    "hint": "Only an object with its own poles can switch from pull to push when reversed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "Two magnets float apart on corks in water. The poles facing each other must be:",
+    "options": [
+      "Neutral points",
+      "Unlike poles",
+      "Like poles",
+      "One of each"
+    ],
+    "answer": 2,
+    "hint": "Floating removes friction, so even a gentle repulsion pushes them apart."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "Magnetic force can act:",
+    "options": [
+      "Through air, water, glass and paper",
+      "Only in darkness",
+      "Only through air",
+      "Only when touching"
+    ],
+    "answer": 0,
+    "hint": "Non-magnetic materials in the way do not stop the force."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "Which of these would reduce the pull between a magnet and an iron nail?",
+    "options": [
+      "Placing a sheet of paper between them",
+      "Bringing them closer",
+      "Cleaning the nail",
+      "Placing a thick iron sheet between them"
+    ],
+    "answer": 3,
+    "hint": "An iron sheet takes the magnetic field into itself and shields what lies behind it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "In maglev trains, the carriage floats above the track because of:",
+    "options": [
+      "Magnetic attraction between unlike poles",
+      "Magnetic repulsion between like poles",
+      "Air pressure only",
+      "Springs under the train"
+    ],
+    "answer": 1,
+    "hint": "Repulsion holds the train just clear of the rail, so friction almost disappears."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "A compass needle is brought near the north pole of a bar magnet. The needle's north end will:",
+    "options": [
+      "Be pushed away",
+      "Be pulled towards it",
+      "Stay still",
+      "Spin continuously"
+    ],
+    "answer": 0,
+    "hint": "Two north poles repel, so the needle's north end swings away."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "Which pair of statements is correct?",
+    "options": [
+      "North attracts north; south repels south",
+      "North repels south; south attracts south",
+      "All poles attract all poles",
+      "North attracts south; north repels north"
+    ],
+    "answer": 3,
+    "hint": "Work through each option using the like-repels rule."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "A magnet is dipped into a box of pins. Where do most pins cling?",
+    "options": [
+      "Nowhere",
+      "Evenly along the whole magnet",
+      "At the middle",
+      "At the two ends"
+    ],
+    "answer": 3,
+    "hint": "The pull is strongest at the poles, so that is where the pins gather."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "question": "Magnetic attraction and repulsion are examples of forces that:",
+    "options": [
+      "Need direct contact",
+      "Only work in a vacuum",
+      "Act without the objects touching",
+      "Only work downwards"
+    ],
+    "answer": 2,
+    "hint": "These are non-contact forces, like gravity."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "A compass works because its magnetic needle lines up with:",
+    "options": [
+      "The Earth's magnetic field",
+      "The pull of the Moon",
+      "The direction of the wind",
+      "The rays of the Sun"
+    ],
+    "answer": 0,
+    "hint": "The Earth behaves like a huge magnet, and the needle simply obeys it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "The four main directions shown on a compass are:",
+    "options": [
+      "North, south, east and west",
+      "Front, back, side and top",
+      "Up, down, left and right",
+      "Hot, cold, wet and dry"
+    ],
+    "answer": 0,
+    "hint": "These are the cardinal directions. North-east and south-west are the in-between ones."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "If you face north, which direction is on your right hand?",
+    "options": [
+      "North-west",
+      "South",
+      "East",
+      "West"
+    ],
+    "answer": 2,
+    "hint": "Facing north, east is right, west is left and south is behind you."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "To use a compass correctly, it should be placed:",
+    "options": [
+      "Next to a strong magnet",
+      "Flat and level, away from iron objects",
+      "Held upside down",
+      "On top of an iron table"
+    ],
+    "answer": 1,
+    "hint": "Nearby iron or magnets pull the needle away from the Earth's field and give a false reading."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "Why does a compass give a wrong reading near an iron gate?",
+    "options": [
+      "The needle rusts instantly",
+      "The iron disturbs the magnetic field around the needle",
+      "Iron makes the needle heavier",
+      "Iron blocks sunlight"
+    ],
+    "answer": 1,
+    "hint": "The needle responds to the strongest field nearby, and close iron can outweigh the Earth's."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "You can make a simple compass at home by:",
+    "options": [
+      "Floating a magnetised needle on a piece of cork in water",
+      "Placing a nail on a table",
+      "Tying a stone to a string",
+      "Balancing a coin on its edge"
+    ],
+    "answer": 0,
+    "hint": "The needle must be magnetised and free to turn with almost no friction."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "In a floating-needle compass, the cork is used because it:",
+    "options": [
+      "Is magnetic",
+      "Makes the needle stronger",
+      "Floats and lets the needle turn freely",
+      "Stops the needle from turning"
+    ],
+    "answer": 2,
+    "hint": "The cork is only a raft. It contributes nothing magnetic."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "The Earth's geographic north pole and its magnetic north pole are:",
+    "options": [
+      "At exactly the same place",
+      "Both at the equator",
+      "Close together but not at exactly the same place",
+      "At opposite ends of the Earth"
+    ],
+    "answer": 2,
+    "hint": "This small difference matters a great deal to navigators over long distances."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "Before compasses, sailors often found direction at night by looking at:",
+    "options": [
+      "The pole star",
+      "The fish",
+      "The clouds",
+      "The waves"
+    ],
+    "answer": 0,
+    "hint": "The pole star sits almost directly above the geographic north pole."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "Which of these would make a compass useless?",
+    "options": [
+      "Using it outdoors",
+      "Sticking the needle firmly so it cannot rotate",
+      "Keeping it away from iron",
+      "Keeping it flat"
+    ],
+    "answer": 1,
+    "hint": "Freedom to turn is the one thing a compass cannot do without."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "Birds such as pigeons are thought to find their way partly by sensing:",
+    "options": [
+      "The sound of the sea",
+      "The Earth's magnetic field",
+      "The colour of the sky",
+      "The taste of the air"
+    ],
+    "answer": 1,
+    "hint": "Several animals appear to carry a natural magnetic sense."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "A compass needle in India points roughly:",
+    "options": [
+      "Towards the Sun",
+      "Towards the nearest city",
+      "East-west",
+      "North-south, wherever you stand"
+    ],
+    "answer": 3,
+    "hint": "The Earth's field sets the direction, not your location within the country."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "The Earth's magnetic field also protects us by:",
+    "options": [
+      "Making rain fall",
+      "Holding the oceans in place",
+      "Keeping the air warm",
+      "Deflecting harmful particles coming from the Sun"
+    ],
+    "answer": 3,
+    "hint": "The field acts as an invisible shield around the planet."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "Which is the correct order of directions going clockwise from north?",
+    "options": [
+      "North, south, east, west",
+      "North, east, south, west",
+      "North, west, south, east",
+      "North, east, west, south"
+    ],
+    "answer": 1,
+    "hint": "Picture a clock face: north at twelve, east at three, south at six, west at nine."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "A hiker's compass needle keeps swinging and will not settle. The most likely reason is:",
+    "options": [
+      "The compass is being moved or held unsteadily",
+      "The Earth has lost its magnetism",
+      "It is too sunny",
+      "The needle is not magnetic"
+    ],
+    "answer": 0,
+    "hint": "The needle needs a moment of stillness to settle along the field."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "question": "Why is a compass needle balanced on a sharp pivot?",
+    "options": [
+      "To reduce friction so it can turn easily",
+      "To stop it from turning",
+      "To keep it magnetic",
+      "To make it heavier"
+    ],
+    "answer": 0,
+    "hint": "The Earth's pull on the needle is gentle, so friction must be kept very small."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "In the single touch method, a steel bar is magnetised by:",
+    "options": [
+      "Stroking it repeatedly in one direction with one pole of a magnet",
+      "Hitting it with a hammer",
+      "Dipping it in water",
+      "Stroking it back and forth many times"
+    ],
+    "answer": 0,
+    "hint": "Always the same pole, always the same direction, lifting the magnet away between strokes."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "While stroking a needle to magnetise it, why must you lift the magnet at the end of each stroke?",
+    "options": [
+      "It saves time",
+      "The magnet would get too hot",
+      "Stroking back would undo the alignment just made",
+      "The needle would break"
+    ],
+    "answer": 2,
+    "hint": "A return stroke in the opposite direction cancels the effect of the forward stroke."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "After magnetising a steel needle by single touch, the end last touched by the magnet's north pole becomes a:",
+    "options": [
+      "North pole",
+      "Non-magnetic end",
+      "Neutral point",
+      "South pole"
+    ],
+    "answer": 3,
+    "hint": "The end where the stroking pole leaves the bar takes the opposite polarity."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "Which material would be the best choice for making a lasting magnet by stroking?",
+    "options": [
+      "A plastic rod",
+      "A steel needle",
+      "A soft iron nail",
+      "A copper wire"
+    ],
+    "answer": 1,
+    "hint": "Steel holds magnetism. Soft iron would lose it almost at once."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "A magnet can also be made using:",
+    "options": [
+      "A candle flame",
+      "A strong wind",
+      "A bowl of salt water",
+      "An electric current flowing through a coil around the material"
+    ],
+    "answer": 3,
+    "hint": "This is the electrical method, and it is how electromagnets are made."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "In the electrical method of making a magnet, the wire is wound into a:",
+    "options": [
+      "Knot at one end",
+      "Straight line beside the bar",
+      "Coil around the iron or steel bar",
+      "Ball near the bar"
+    ],
+    "answer": 2,
+    "hint": "A coil concentrates the magnetic effect of the current along the bar inside it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "Which method makes the strongest magnet most quickly?",
+    "options": [
+      "The single touch method",
+      "Leaving the bar in sunlight",
+      "Rubbing the bar with cloth",
+      "The electrical method using a current"
+    ],
+    "answer": 3,
+    "hint": "Stroking works, but a current through a coil is far more powerful and faster."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "If the direction of the current in an electromagnet's coil is reversed, then:",
+    "options": [
+      "It becomes permanent",
+      "It stops being a magnet",
+      "It becomes hotter only",
+      "Its north and south poles swap over"
+    ],
+    "answer": 3,
+    "hint": "The polarity follows the direction of the current."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "Losing magnetism is called:",
+    "options": [
+      "Induction",
+      "Demagnetisation",
+      "Magnetisation",
+      "Attraction"
+    ],
+    "answer": 1,
+    "hint": "Demagnetisation means the tiny internal magnets fall out of line again."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "Which of these would demagnetise a magnet?",
+    "options": [
+      "Dropping it repeatedly on a hard floor",
+      "Storing it with a keeper",
+      "Wrapping it in cloth",
+      "Keeping it in a dry box"
+    ],
+    "answer": 0,
+    "hint": "Sharp knocks jolt the internal alignment apart."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "Why does strong heating destroy a magnet's magnetism?",
+    "options": [
+      "Heat melts the poles together",
+      "Heat shakes the tiny internal magnets out of their alignment",
+      "Heat adds copper to the magnet",
+      "Heat makes the magnet heavier"
+    ],
+    "answer": 1,
+    "hint": "Extra heat means extra jiggling, and the neat alignment is lost."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "Bar magnets should be stored in pairs with:",
+    "options": [
+      "Both north poles together",
+      "Unlike poles facing each other and iron keepers across the ends",
+      "Like poles facing each other",
+      "Nothing touching them"
+    ],
+    "answer": 1,
+    "hint": "Keepers give the field a closed path so the magnetism does not leak away."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "The small soft iron bars placed across the ends of stored magnets are called:",
+    "options": [
+      "Keepers",
+      "Poles",
+      "Cores",
+      "Coils"
+    ],
+    "answer": 0,
+    "hint": "Keepers keep the magnetism in, by completing the magnetic circuit."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "Why should magnets be kept away from mobile phones and watches?",
+    "options": [
+      "Magnets clean their screens",
+      "Strong magnets can damage their delicate parts and stored data",
+      "Magnets make them heavier",
+      "Magnets make them louder"
+    ],
+    "answer": 1,
+    "hint": "Magnetic fields interfere with fine electronic and mechanical components."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "Two bar magnets are stored side by side. They should be arranged so that:",
+    "options": [
+      "They are separated by a magnet",
+      "Both north poles lie side by side",
+      "The north pole of one lies beside the south pole of the other",
+      "Both south poles lie side by side"
+    ],
+    "answer": 2,
+    "hint": "Unlike poles together means the two magnets support rather than fight each other."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "An iron nail is magnetised by stroking. To make it stronger, you should:",
+    "options": [
+      "Stroke it many more times in the same direction",
+      "Stroke it once only",
+      "Stroke it in both directions",
+      "Heat it after stroking"
+    ],
+    "answer": 0,
+    "hint": "Each stroke brings more of the internal magnets into line, up to a limit."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "Why does a magnet eventually stop getting stronger, no matter how much you stroke it?",
+    "options": [
+      "The stroking magnet gets tired",
+      "The air becomes magnetic",
+      "The magnet runs out of iron",
+      "All its tiny internal magnets are already lined up"
+    ],
+    "answer": 3,
+    "hint": "Once everything inside is aligned, there is nothing left to align."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "A steel knitting needle is stroked twenty times with a magnet, then dropped hard several times. It will:",
+    "options": [
+      "Be unaffected",
+      "Have become weaker as a magnet",
+      "Have become stronger",
+      "Have gained a third pole"
+    ],
+    "answer": 1,
+    "hint": "Stroking builds alignment. Knocking breaks it down again."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "Which is a sensible rule for looking after magnets?",
+    "options": [
+      "Avoid heating, hammering and dropping them",
+      "Store them near a stove",
+      "Hammer them monthly",
+      "Keep them in a hot oven"
+    ],
+    "answer": 0,
+    "hint": "Heat and shock are the two great enemies of a permanent magnet."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "question": "A magnet made by stroking is usually weaker than one made electrically because:",
+    "options": [
+      "Stroking heats the bar",
+      "Stroking removes the poles",
+      "Stroking aligns fewer of the internal magnets",
+      "Stroking uses no steel"
+    ],
+    "answer": 2,
+    "hint": "A coil carrying current produces a far more intense and uniform field than a hand stroke."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "Magnets are used in doorbells and electric motors mainly because they can:",
+    "options": [
+      "Produce movement using magnetic force",
+      "Produce food",
+      "Produce water",
+      "Produce light"
+    ],
+    "answer": 0,
+    "hint": "Attraction and repulsion, switched rapidly, make things spin or vibrate."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "Loudspeakers and earphones use magnets to:",
+    "options": [
+      "Store electricity",
+      "Cool the device",
+      "Light up the screen",
+      "Make a cone or diaphragm vibrate and produce sound"
+    ],
+    "answer": 3,
+    "hint": "A changing current in a coil near a magnet pushes and pulls the cone, and the moving air is sound."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "Magnets are used in hospitals in an MRI scanner to:",
+    "options": [
+      "Sterilise instruments",
+      "Cool the ward",
+      "Weigh patients",
+      "Produce detailed pictures of the inside of the body"
+    ],
+    "answer": 3,
+    "hint": "MRI stands for magnetic resonance imaging, and it uses very powerful magnets."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "In a recycling plant, magnets help by:",
+    "options": [
+      "Burning the plastic",
+      "Drying the paper",
+      "Washing the glass",
+      "Separating iron and steel from other waste"
+    ],
+    "answer": 3,
+    "hint": "Magnetic separation sorts the metal out without anyone handling the waste."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "Doctors sometimes use a magnet to remove:",
+    "options": [
+      "A plastic bead",
+      "A small iron splinter from a patient's eye",
+      "A wooden splinter",
+      "A glass fragment"
+    ],
+    "answer": 1,
+    "hint": "This only works because iron responds to magnets, while wood, glass and plastic do not."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "Magnetic strips on the back of a debit card are used to:",
+    "options": [
+      "Store information that a machine can read",
+      "Keep the card cool",
+      "Make the card stronger",
+      "Make the card shiny"
+    ],
+    "answer": 0,
+    "hint": "This is also why cards should be kept away from strong magnets."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "Magnetic latches are used on cupboard doors because they:",
+    "options": [
+      "Make the door heavier",
+      "Hold the door shut but allow it to open easily",
+      "Light up the cupboard",
+      "Lock the door permanently"
+    ],
+    "answer": 1,
+    "hint": "The pull is just enough to keep the door closed, and a gentle tug overcomes it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "In a pencil box or geometry set, a magnet is sometimes used to:",
+    "options": [
+      "Sharpen the pencil",
+      "Erase pencil marks",
+      "Measure angles",
+      "Hold the lid closed"
+    ],
+    "answer": 3,
+    "hint": "A small magnetic catch is a simple, silent fastening."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "Maglev trains use magnets to:",
+    "options": [
+      "Heat the carriages",
+      "Make announcements",
+      "Light the tunnels",
+      "Lift the train clear of the track and reduce friction"
+    ],
+    "answer": 3,
+    "hint": "With almost no friction, the train can travel very fast and very quietly."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "Magnets are used in electric generators to:",
+    "options": [
+      "Measure electricity",
+      "Consume electricity",
+      "Store electricity",
+      "Help produce electricity when a coil moves near them"
+    ],
+    "answer": 3,
+    "hint": "Moving a coil in a magnetic field generates a current. This is how most of our electricity is made."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "Which of these does <b>not</b> depend on magnets?",
+    "options": [
+      "A compass",
+      "A wooden ruler",
+      "A loudspeaker",
+      "An electric fan motor"
+    ],
+    "answer": 1,
+    "hint": "A ruler is a simple measuring stick with no magnetic part at all."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "Magnetic screwdrivers are useful because they:",
+    "options": [
+      "Turn faster",
+      "Never wear out",
+      "Cut through metal",
+      "Hold the screw so it does not fall while being fitted"
+    ],
+    "answer": 3,
+    "hint": "Holding a small screw in an awkward corner is exactly where this helps."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "In a factory, a magnetic detector on a food line is used to:",
+    "options": [
+      "Weigh the food",
+      "Add iron to the food",
+      "Cook the food",
+      "Find stray bits of iron before the food is packed"
+    ],
+    "answer": 3,
+    "hint": "It is a safety check, catching metal fragments from machinery."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "Which use of magnets depends on their ability to be switched off?",
+    "options": [
+      "A compass needle",
+      "A fridge magnet holding a note",
+      "A magnetic pencil box catch",
+      "A crane lifting and dropping scrap in a junkyard"
+    ],
+    "answer": 3,
+    "hint": "Only an electromagnet can let go on command."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "Why is it useful that magnetic force works without contact?",
+    "options": [
+      "It stops magnets from wearing out",
+      "It makes objects invisible",
+      "It makes magnets lighter",
+      "Objects can be moved or held through a barrier such as glass or plastic"
+    ],
+    "answer": 3,
+    "hint": "A magnetic catch works through the door, and a magnet can lift a pin from beneath a sheet of paper."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "question": "Which everyday item most likely contains a small permanent magnet?",
+    "options": [
+      "A headphone earpiece",
+      "A cotton handkerchief",
+      "A glass tumbler",
+      "A paper notebook"
+    ],
+    "answer": 0,
+    "hint": "Every speaker, however small, needs a magnet to work."
+  }
+]

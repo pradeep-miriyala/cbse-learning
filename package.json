@@ -1,0 +1,26 @@
+{
+  "name": "cbse-learning",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Learning Lab: free CBSE practice papers, scored on the server. Admin lives in the pradeep.miriyala.in repo.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test:speaking": "node --experimental-strip-types scripts/test-speaking.ts"
+  },
+  "dependencies": {
+    "mongodb": "^6.8.0",
+    "next": "15.5.28",
+    "react": "^18",
+    "react-dom": "^18",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}

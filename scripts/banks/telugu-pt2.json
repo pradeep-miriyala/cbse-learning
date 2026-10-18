@@ -1,0 +1,2076 @@
+[
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘ఆ’ గుణింతపు గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "కొమ్ము",
+      "గుడి",
+      "సున్న",
+      "దీర్ఘం"
+    ],
+    "answer": 3,
+    "hint": "క్ + ా = కా — ఈ గుర్తును ‘దీర్ఘం’ అంటారు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘ఇ’ గుణింతపు గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "గుడి",
+      "విసర్గ",
+      "దీర్ఘం",
+      "కొమ్ము"
+    ],
+    "answer": 0,
+    "hint": "క్ + ి = కి — ఈ గుర్తును ‘గుడి’ అంటారు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘ఈ’ గుణింతపు గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "కొమ్ముదీర్ఘం",
+      "గుడిదీర్ఘం",
+      "ఎత్వం",
+      "గుడి"
+    ],
+    "answer": 1,
+    "hint": "క్ + ీ = కీ — ఈ గుర్తును ‘గుడిదీర్ఘం’ అంటారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘ఉ’ గుణింతపు గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "కొమ్ము",
+      "తలకట్టు",
+      "గుడి",
+      "దీర్ఘం"
+    ],
+    "answer": 0,
+    "hint": "క్ + ు = కు — ఈ గుర్తును ‘కొమ్ము’ అంటారు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘ఊ’ గుణింతపు గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "గుడిదీర్ఘం",
+      "ఓత్వం",
+      "కొమ్ముదీర్ఘం",
+      "కొమ్ము"
+    ],
+    "answer": 2,
+    "hint": "క్ + ూ = కూ — ఈ గుర్తును ‘కొమ్ముదీర్ఘం’ అంటారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘ఋ’ గుణింతపు గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "ఔత్వం",
+      "ఎత్వం",
+      "ఐత్వం",
+      "ఋత్వం"
+    ],
+    "answer": 3,
+    "hint": "క్ + ృ = కృ — ఈ గుర్తును ‘ఋత్వం’ అంటారు.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘ఎ’ గుణింతపు గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "ఐత్వం",
+      "ఒత్వం",
+      "ఏత్వం",
+      "ఎత్వం"
+    ],
+    "answer": 3,
+    "hint": "క్ + ె = కె — ఈ గుర్తును ‘ఎత్వం’ అంటారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘ఏ’ గుణింతపు గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "ఓత్వం",
+      "గుడి",
+      "ఎత్వం",
+      "ఏత్వం"
+    ],
+    "answer": 3,
+    "hint": "క్ + ే = కే — ఈ గుర్తును ‘ఏత్వం’ అంటారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘ఐ’ గుణింతపు గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "ఎత్వం",
+      "ఋత్వం",
+      "ఐత్వం",
+      "ఔత్వం"
+    ],
+    "answer": 2,
+    "hint": "క్ + ై = కై — ఈ గుర్తును ‘ఐత్వం’ అంటారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘ఒ’ గుణింతపు గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "ఔత్వం",
+      "ఒత్వం",
+      "ఓత్వం",
+      "కొమ్ము"
+    ],
+    "answer": 1,
+    "hint": "క్ + ొ = కొ — ఈ గుర్తును ‘ఒత్వం’ అంటారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘ఓ’ గుణింతపు గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "ఒత్వం",
+      "ఏత్వం",
+      "దీర్ఘం",
+      "ఓత్వం"
+    ],
+    "answer": 3,
+    "hint": "క్ + ో = కో — ఈ గుర్తును ‘ఓత్వం’ అంటారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘ఔ’ గుణింతపు గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "ఋత్వం",
+      "ఐత్వం",
+      "ఒత్వం",
+      "ఔత్వం"
+    ],
+    "answer": 3,
+    "hint": "క్ + ౌ = కౌ — ఈ గుర్తును ‘ఔత్వం’ అంటారు.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘అ’ గుణింతపు గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "దీర్ఘం",
+      "తలకట్టు",
+      "గుడి",
+      "సున్న"
+    ],
+    "answer": 1,
+    "hint": "హల్లుపై పెట్టే చిన్న గుర్తు; క్ + తలకట్టు = క.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘అం’ లో వచ్చే గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "సున్న",
+      "దీర్ఘం",
+      "తలకట్టు",
+      "విసర్గ"
+    ],
+    "answer": 0,
+    "hint": "క్ + ం = కం.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘అః’ లో వచ్చే గుర్తు పేరు ఏమిటి?",
+    "options": [
+      "సున్న",
+      "కొమ్ము",
+      "గుడి",
+      "విసర్గ"
+    ],
+    "answer": 3,
+    "hint": "క్ + ః = కః.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘క’ గుణింతంలో ‘కి’ తరువాత వచ్చే అక్షరం ఏది?",
+    "options": [
+      "కా",
+      "కె",
+      "కు",
+      "కీ"
+    ],
+    "answer": 3,
+    "hint": "క, కా, కి, కీ, కు, కూ … అనే వరుసను గుర్తుచేసుకోండి.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘కి’ అనే అక్షరంలో ఉన్న గుణింతపు గుర్తు ఏది?",
+    "options": [
+      "కొమ్ము",
+      "దీర్ఘం",
+      "తలకట్టు",
+      "గుడి"
+    ],
+    "answer": 3,
+    "hint": "క్ + ి = కి.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘కూ’ అనే అక్షరంలో ఉన్న గుర్తు ఏది?",
+    "options": [
+      "ఐత్వం",
+      "కొమ్ము",
+      "కొమ్ముదీర్ఘం",
+      "గుడిదీర్ఘం"
+    ],
+    "answer": 2,
+    "hint": "క్ + ూ = కూ.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘కృ’ అనే అక్షరం ఎలా ఏర్పడింది?",
+    "options": [
+      "క్ + కొమ్ము",
+      "క్ + గుడి",
+      "క్ + ఎత్వం",
+      "క్ + ఋత్వం"
+    ],
+    "answer": 3,
+    "hint": "ఋ గుర్తును ఋత్వం అంటారు.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘దీర్ఘం’ గుర్తు ఏ అచ్చుకు సంబంధించినది?",
+    "options": [
+      "ఉ",
+      "అ",
+      "ఇ",
+      "ఆ"
+    ],
+    "answer": 3,
+    "hint": "క్ + ా = కా.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘గుడిదీర్ఘం’ ఏ అచ్చు గుర్తు?",
+    "options": [
+      "ఇ",
+      "ఊ",
+      "ఏ",
+      "ఈ"
+    ],
+    "answer": 3,
+    "hint": "గుడి ఇ కి, గుడిదీర్ఘం ఈ కి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "కింది వాటిలో ‘కొమ్ము’ గుర్తు ఉన్న అక్షరం ఏది?",
+    "options": [
+      "కి",
+      "కే",
+      "కు",
+      "కం"
+    ],
+    "answer": 2,
+    "hint": "ఉ గుర్తునే కొమ్ము అంటారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-gunintam",
+    "topicLabel": "గుణింతపు గుర్తులు (Gunintam Marks)",
+    "question": "‘ఎత్వం’, ‘ఏత్వం’ — వీటిలో దీర్ఘమైనది ఏది?",
+    "options": [
+      "రెండూ దీర్ఘాలే",
+      "ఏత్వం",
+      "రెండూ హ్రస్వాలే",
+      "ఎత్వం"
+    ],
+    "answer": 1,
+    "hint": "ఎ హ్రస్వం, ఏ దీర్ఘం.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "ద్విత్వాక్షరాలు అంటే ఏమిటి?",
+    "options": [
+      "ఒక హల్లుకు వేరొక హల్లు ఒత్తు చేరితే",
+      "ఒక హల్లుకు అదే హల్లు వచ్చి చేరితే",
+      "ఒక హల్లుకు రెండు వేరు హల్లుల ఒత్తులు చేరితే",
+      "హల్లుకు అచ్చు చేరితే"
+    ],
+    "answer": 1,
+    "hint": "ద్విత్వం అంటే రెండు — ఒకే అక్షరం రెండుసార్లు. ఉదా: అమ్మ.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "సంయుక్తాక్షరాలు అంటే ఏమిటి?",
+    "options": [
+      "ఒక హల్లుకు అదే హల్లు వచ్చి చేరితే",
+      "ఒక హల్లుకు రెండు వేరు హల్లుల ఒత్తులు చేరితే",
+      "ఒక హల్లుకు వేరొక హల్లు యొక్క ఒత్తు వచ్చి చేరితే",
+      "రెండు అచ్చులు కలిసితే"
+    ],
+    "answer": 2,
+    "hint": "ఉదా: విద్య, ధర్మము.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "సంశ్లేషాక్షరాలు అంటే ఏమిటి?",
+    "options": [
+      "ఒక హల్లుకు ఒకే ఒత్తు చేరితే",
+      "మూడు అచ్చులు కలిసితే",
+      "ఒక హల్లుకు అదే హల్లు చేరితే",
+      "ఒక హల్లుకు వేరొక రెండు హల్లుల ఒత్తులు వచ్చి చేరితే"
+    ],
+    "answer": 3,
+    "hint": "ఉదా: రాష్ట్రము, స్వాతంత్ర్యము.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘అమ్మ’ — ఇది ఏ రకమైన అక్షరం?",
+    "options": [
+      "సంశ్లేషాక్షరం",
+      "ఏదీ కాదు",
+      "ద్విత్వాక్షరం",
+      "సంయుక్తాక్షరం"
+    ],
+    "answer": 2,
+    "hint": "ఒకే హల్లు రెండుసార్లు వచ్చింది.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘చెట్టు’ — ఇది ఏ రకమైన అక్షరం?",
+    "options": [
+      "ఏదీ కాదు",
+      "సంశ్లేషాక్షరం",
+      "ద్విత్వాక్షరం",
+      "సంయుక్తాక్షరం"
+    ],
+    "answer": 2,
+    "hint": "ఒకే హల్లు రెండుసార్లు వచ్చింది.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘కుక్క’ — ఇది ఏ రకమైన అక్షరం?",
+    "options": [
+      "ద్విత్వాక్షరం",
+      "ఏదీ కాదు",
+      "సంశ్లేషాక్షరం",
+      "సంయుక్తాక్షరం"
+    ],
+    "answer": 0,
+    "hint": "ఒకే హల్లు రెండుసార్లు వచ్చింది.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘కన్ను’ — ఇది ఏ రకమైన అక్షరం?",
+    "options": [
+      "సంశ్లేషాక్షరం",
+      "ఏదీ కాదు",
+      "ద్విత్వాక్షరం",
+      "సంయుక్తాక్షరం"
+    ],
+    "answer": 2,
+    "hint": "ఒకే హల్లు రెండుసార్లు వచ్చింది.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘అత్త’ — ఇది ఏ రకమైన అక్షరం?",
+    "options": [
+      "ద్విత్వాక్షరం",
+      "సంయుక్తాక్షరం",
+      "ఏదీ కాదు",
+      "సంశ్లేషాక్షరం"
+    ],
+    "answer": 0,
+    "hint": "ఒకే హల్లు రెండుసార్లు వచ్చింది.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘విద్య’ — ఇది ఏ రకమైన అక్షరం?",
+    "options": [
+      "సంయుక్తాక్షరం",
+      "సంశ్లేషాక్షరం",
+      "ద్విత్వాక్షరం",
+      "ఏదీ కాదు"
+    ],
+    "answer": 0,
+    "hint": "ఒక హల్లుకు వేరొక హల్లు ఒత్తు చేరింది.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘ధర్మము’ — ఇది ఏ రకమైన అక్షరం?",
+    "options": [
+      "ద్విత్వాక్షరం",
+      "సంయుక్తాక్షరం",
+      "సంశ్లేషాక్షరం",
+      "ఏదీ కాదు"
+    ],
+    "answer": 1,
+    "hint": "ఒక హల్లుకు వేరొక హల్లు ఒత్తు చేరింది.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘పద్యము’ — ఇది ఏ రకమైన అక్షరం?",
+    "options": [
+      "ద్విత్వాక్షరం",
+      "ఏదీ కాదు",
+      "సంశ్లేషాక్షరం",
+      "సంయుక్తాక్షరం"
+    ],
+    "answer": 3,
+    "hint": "ఒక హల్లుకు వేరొక హల్లు ఒత్తు చేరింది.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘కార్యం’ — ఇది ఏ రకమైన అక్షరం?",
+    "options": [
+      "సంయుక్తాక్షరం",
+      "ఏదీ కాదు",
+      "సంశ్లేషాక్షరం",
+      "ద్విత్వాక్షరం"
+    ],
+    "answer": 0,
+    "hint": "ఒక హల్లుకు వేరొక హల్లు ఒత్తు చేరింది.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘పుష్పము’ — ఇది ఏ రకమైన అక్షరం?",
+    "options": [
+      "సంయుక్తాక్షరం",
+      "ద్విత్వాక్షరం",
+      "సంశ్లేషాక్షరం",
+      "ఏదీ కాదు"
+    ],
+    "answer": 0,
+    "hint": "ఒక హల్లుకు వేరొక హల్లు ఒత్తు చేరింది.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘రాష్ట్రము’ — ఇది ఏ రకమైన అక్షరం?",
+    "options": [
+      "ద్విత్వాక్షరం",
+      "ఏదీ కాదు",
+      "సంశ్లేషాక్షరం",
+      "సంయుక్తాక్షరం"
+    ],
+    "answer": 2,
+    "hint": "రెండు వేరు హల్లుల ఒత్తులు చేరాయి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘వస్త్రము’ — ఇది ఏ రకమైన అక్షరం?",
+    "options": [
+      "సంశ్లేషాక్షరం",
+      "సంయుక్తాక్షరం",
+      "ద్విత్వాక్షరం",
+      "ఏదీ కాదు"
+    ],
+    "answer": 0,
+    "hint": "రెండు వేరు హల్లుల ఒత్తులు చేరాయి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘ఈర్ష్య’ — ఇది ఏ రకమైన అక్షరం?",
+    "options": [
+      "సంశ్లేషాక్షరం",
+      "ద్విత్వాక్షరం",
+      "ఏదీ కాదు",
+      "సంయుక్తాక్షరం"
+    ],
+    "answer": 0,
+    "hint": "రెండు వేరు హల్లుల ఒత్తులు చేరాయి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘స్వాతంత్ర్యము’ — ఇది ఏ రకమైన అక్షరం?",
+    "options": [
+      "సంయుక్తాక్షరం",
+      "ద్విత్వాక్షరం",
+      "సంశ్లేషాక్షరం",
+      "ఏదీ కాదు"
+    ],
+    "answer": 2,
+    "hint": "రెండు వేరు హల్లుల ఒత్తులు చేరాయి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "కింది వాటిలో ద్విత్వాక్షరం ఉన్న పదం ఏది?",
+    "options": [
+      "ధర్మము",
+      "తమ్ముడు",
+      "విద్య",
+      "రాష్ట్రము"
+    ],
+    "answer": 1,
+    "hint": "మ ఒత్తు మ కే చేరింది.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "కింది వాటిలో సంశ్లేషాక్షరం ఉన్న పదం ఏది?",
+    "options": [
+      "ధృతరాష్ట్రుడు",
+      "చెల్లి",
+      "తర్కము",
+      "అమ్మ"
+    ],
+    "answer": 0,
+    "hint": "ష్, ట్, ర — మూడు హల్లులు కలిశాయి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "ఒత్తుల వర్గీకరణలో ‘రూపాంతరం పొందే ఒత్తులు’ ఎన్ని?",
+    "options": [
+      "12",
+      "20",
+      "8",
+      "7"
+    ],
+    "answer": 2,
+    "hint": "క, త, న, మ, య, ర, ల, వ — ఈ ఎనిమిది.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘తలకట్టు పోయి ఒత్తులుగా మారే అక్షరాలు’ ఎన్ని?",
+    "options": [
+      "20",
+      "16",
+      "7",
+      "8"
+    ],
+    "answer": 0,
+    "hint": "గ, ఘ, చ, ఛ, ట, ఠ, డ, ఢ … ఇలా ఇరవై.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘రూపం మార్పు చెందని ఒత్తులు’ ఎన్ని?",
+    "options": [
+      "8",
+      "10",
+      "20",
+      "7"
+    ],
+    "answer": 3,
+    "hint": "ఖ, జ, బ వంటివి ఒత్తులో అలాగే ఉంటాయి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "కింది వాటిలో ‘రూపాంతరం పొందే ఒత్తు’ ఏది?",
+    "options": [
+      "క",
+      "జ",
+      "ఖ",
+      "బ"
+    ],
+    "answer": 0,
+    "hint": "క, త, న, మ, య, ర, ల, వ — వీటి ఒత్తు రూపం పూర్తిగా మారుతుంది.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘అమ్మ’ అనే పదంలో ఏ ఒత్తు ఉంది?",
+    "options": [
+      "ల ఒత్తు",
+      "న ఒత్తు",
+      "మ ఒత్తు",
+      "య ఒత్తు"
+    ],
+    "answer": 2,
+    "hint": "అ + మ్ + మ.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "‘విద్య’ అనే పదంలో ఏ ఒత్తు ఉంది?",
+    "options": [
+      "య ఒత్తు",
+      "ద ఒత్తు",
+      "మ ఒత్తు",
+      "వ ఒత్తు"
+    ],
+    "answer": 0,
+    "hint": "ద కు య ఒత్తు చేరింది.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "వ్యాకరణం",
+    "topic": "telugu-ottulu",
+    "topicLabel": "ఒత్తులు – రకాలు (Types of Ottulu)",
+    "question": "ఒత్తు అంటే ఏమిటి?",
+    "options": [
+      "పదానికి చివర వచ్చే గుర్తు",
+      "ఒక హల్లుకు అచ్చు చేరిన రూపం",
+      "ఒక హల్లుకు మరో హల్లు చేరినప్పుడు వచ్చే రూపం",
+      "ఒకే అర్థమిచ్చే పదం"
+    ],
+    "answer": 2,
+    "hint": "అచ్చు చేరితే గుణింతం; హల్లు చేరితే ఒత్తు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘సంతోషం’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "సంబరం",
+      "ఆనందం",
+      "ఉల్లాసం",
+      "విచారం"
+    ],
+    "answer": 3,
+    "hint": "‘సంతోషం’ కు వ్యతిరేకం ‘విచారం’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘నల్లని’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "నీలి",
+      "తెల్లని",
+      "ఎర్రని",
+      "పచ్చని"
+    ],
+    "answer": 1,
+    "hint": "‘నల్లని’ కు వ్యతిరేకం ‘తెల్లని’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘ఆలోచన’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "యోచన",
+      "తలంపు",
+      "భావన",
+      "అనాలోచన"
+    ],
+    "answer": 3,
+    "hint": "‘ఆలోచన’ కు వ్యతిరేకం ‘అనాలోచన’.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘ముందు’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "పైన",
+      "దగ్గర",
+      "వెనుక",
+      "లోపల"
+    ],
+    "answer": 2,
+    "hint": "‘ముందు’ కు వ్యతిరేకం ‘వెనుక’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘వచ్చింది’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "వెళ్ళింది",
+      "నిలిచింది",
+      "ఆగింది",
+      "కూర్చుంది"
+    ],
+    "answer": 0,
+    "hint": "‘వచ్చింది’ కు వ్యతిరేకం ‘వెళ్ళింది’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘మంచి’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "గొప్ప",
+      "చెడు",
+      "అందమైన",
+      "చక్కని"
+    ],
+    "answer": 1,
+    "hint": "‘మంచి’ కు వ్యతిరేకం ‘చెడు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘పగలు’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "మధ్యాహ్నం",
+      "రాత్రి",
+      "సాయంత్రం",
+      "ఉదయం"
+    ],
+    "answer": 1,
+    "hint": "‘పగలు’ కు వ్యతిరేకం ‘రాత్రి’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘చిన్న’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "పెద్ద",
+      "పొట్టి",
+      "తక్కువ",
+      "సన్నని"
+    ],
+    "answer": 0,
+    "hint": "‘చిన్న’ కు వ్యతిరేకం ‘పెద్ద’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘కొత్త’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "పాత",
+      "గొప్ప",
+      "చిన్న",
+      "మంచి"
+    ],
+    "answer": 0,
+    "hint": "‘కొత్త’ కు వ్యతిరేకం ‘పాత’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘దగ్గర’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "ఎదురు",
+      "దూరం",
+      "వెనుక",
+      "పక్క"
+    ],
+    "answer": 1,
+    "hint": "‘దగ్గర’ కు వ్యతిరేకం ‘దూరం’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘నిజం’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "సత్యం",
+      "న్యాయం",
+      "ధర్మం",
+      "అబద్ధం"
+    ],
+    "answer": 3,
+    "hint": "‘నిజం’ కు వ్యతిరేకం ‘అబద్ధం’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘సులభం’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "కష్టం",
+      "తేలిక",
+      "చిన్నది",
+      "మంచిది"
+    ],
+    "answer": 0,
+    "hint": "‘సులభం’ కు వ్యతిరేకం ‘కష్టం’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘లోపల’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "పైన",
+      "పక్కన",
+      "బయట",
+      "కింద"
+    ],
+    "answer": 2,
+    "hint": "‘లోపల’ కు వ్యతిరేకం ‘బయట’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘వేడి’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "చల్లని",
+      "గాలి",
+      "మంట",
+      "కాంతి"
+    ],
+    "answer": 0,
+    "hint": "‘వేడి’ కు వ్యతిరేకం ‘చల్లని’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘ఎక్కువ’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "అధికం",
+      "నిండు",
+      "తక్కువ",
+      "పెద్ద"
+    ],
+    "answer": 2,
+    "hint": "‘ఎక్కువ’ కు వ్యతిరేకం ‘తక్కువ’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘జయం’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "విజయం",
+      "గెలుపు",
+      "అపజయం",
+      "కీర్తి"
+    ],
+    "answer": 2,
+    "hint": "‘జయం’ కు వ్యతిరేకం ‘అపజయం’.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘పైన’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "లోపల",
+      "కింద",
+      "పక్కన",
+      "ముందు"
+    ],
+    "answer": 1,
+    "hint": "‘పైన’ కు వ్యతిరేకం ‘కింద’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘ఉదయం’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "రాత్రి",
+      "సాయంత్రం",
+      "మధ్యాహ్నం",
+      "పగలు"
+    ],
+    "answer": 1,
+    "hint": "‘ఉదయం’ కు వ్యతిరేకం ‘సాయంత్రం’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘ఆరోగ్యం’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "ఆచారం",
+      "ఆహారం",
+      "ఆనందం",
+      "అనారోగ్యం"
+    ],
+    "answer": 3,
+    "hint": "‘అన్’ చేరితే వ్యతిరేక అర్థం వస్తుంది.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘ధైర్యం’ — దీనికి వ్యతిరేక పదం ఏది?",
+    "options": [
+      "బలం",
+      "పిరికితనం",
+      "సాహసం",
+      "శౌర్యం"
+    ],
+    "answer": 1,
+    "hint": "మిగిలిన మూడూ ధైర్యానికి దగ్గరి అర్థాలే.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "కింది జతలలో వ్యతిరేక పదాల జత కానిది ఏది?",
+    "options": [
+      "లోపల – బయట",
+      "నీరు – జలము",
+      "పగలు – రాత్రి",
+      "మంచి – చెడు"
+    ],
+    "answer": 1,
+    "hint": "నీరు, జలము ఒకే అర్థమిచ్చే పర్యాయపదాలు.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "‘అనాలోచన’ అనే పదం ఎలా ఏర్పడింది?",
+    "options": [
+      "రెండు పదాలు కలిసి",
+      "పదం చివర ‘లు’ చేరి",
+      "‘ఆలోచన’ కు వ్యతిరేకార్థక ఉపసర్గ చేరి",
+      "ఒత్తు చేరి"
+    ],
+    "answer": 2,
+    "hint": "మొదట చేరిన అక్షరాలే అర్థాన్ని తిరగవేశాయి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "వ్యతిరేక పదాలు అంటే ఏమిటి?",
+    "options": [
+      "రెండు పదాలు కలిసిన రూపం",
+      "వ్యతిరేక అర్థాన్ని ఇచ్చే పదాలు",
+      "ఒకే అర్థాన్ని ఇచ్చే పదాలు",
+      "ఒకే విధంగా వినిపించే పదాలు"
+    ],
+    "answer": 1,
+    "hint": "సంతోషం × విచారం — ఇవి వ్యతిరేకాలు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పదజాలం",
+    "topic": "telugu-vyatireka",
+    "topicLabel": "వ్యతిరేక పదాలు (Opposites)",
+    "question": "పర్యాయపదాలకూ, వ్యతిరేక పదాలకూ తేడా ఏమిటి?",
+    "options": [
+      "రెండూ ఒకటే",
+      "పర్యాయపదాలు పొట్టివి, వ్యతిరేకాలు పొడవైనవి",
+      "పర్యాయపదాలు ఒకే అర్థాన్ని, వ్యతిరేక పదాలు వ్యతిరేక అర్థాన్ని ఇస్తాయి",
+      "వ్యతిరేక పదాలు వ్యాకరణంలో ఉండవు"
+    ],
+    "answer": 2,
+    "hint": "నీరు–జలం పర్యాయపదాలు; పగలు×రాత్రి వ్యతిరేకాలు.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘వాన’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "మంచు",
+      "గాలి",
+      "వర్షం",
+      "ఎండ"
+    ],
+    "answer": 2,
+    "hint": "‘వానకాలం’ పాఠంలో ‘వాన’ కు ‘వర్షం’ అని ఇచ్చారు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘ఉల్లము’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "మనసు",
+      "కన్ను",
+      "శరీరం",
+      "తల"
+    ],
+    "answer": 0,
+    "hint": "‘వానకాలం’ పాఠంలో ‘ఉల్లము’ కు ‘మనసు’ అని ఇచ్చారు.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘మేఘం’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "మబ్బు",
+      "నీరు",
+      "గాలి",
+      "నేల"
+    ],
+    "answer": 0,
+    "hint": "‘వానకాలం’ పాఠంలో ‘మేఘం’ కు ‘మబ్బు’ అని ఇచ్చారు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘పుడమి’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "సముద్రం",
+      "భూమి",
+      "కొండ",
+      "ఆకాశం"
+    ],
+    "answer": 1,
+    "hint": "‘వానకాలం’ పాఠంలో ‘పుడమి’ కు ‘భూమి’ అని ఇచ్చారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘గాలి’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "అగ్ని",
+      "పవనము",
+      "జలము",
+      "గగనము"
+    ],
+    "answer": 1,
+    "hint": "‘వానకాలం’ పాఠంలో ‘గాలి’ కు ‘పవనము’ అని ఇచ్చారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘ఆకాశం’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "చేను",
+      "కాలువ",
+      "పుడమి",
+      "నింగి"
+    ],
+    "answer": 3,
+    "hint": "‘వానకాలం’ పాఠంలో ‘ఆకాశం’ కు ‘నింగి’ అని ఇచ్చారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘చేను’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "అడవి",
+      "పొలము",
+      "వీధి",
+      "ఇల్లు"
+    ],
+    "answer": 1,
+    "hint": "‘వానకాలం’ పాఠంలో ‘చేను’ కు ‘పొలము’ అని ఇచ్చారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘కొంగ’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "కుక్క",
+      "పిట్ట",
+      "కప్ప",
+      "బకము"
+    ],
+    "answer": 3,
+    "hint": "‘వానకాలం’ పాఠంలో ‘కొంగ’ కు ‘బకము’ అని ఇచ్చారు.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘కప్ప’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "గజము",
+      "మండూకము",
+      "బకము",
+      "ఖగము"
+    ],
+    "answer": 1,
+    "hint": "‘వానకాలం’ పాఠంలో ‘కప్ప’ కు ‘మండూకము’ అని ఇచ్చారు.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘వింత’ — దీని బహువచనం ఏది?",
+    "options": [
+      "వింతలం",
+      "వింతల",
+      "వింతకు",
+      "వింతలు"
+    ],
+    "answer": 3,
+    "hint": "‘వింత’ ఏకవచనం; బహువచనం ‘వింతలు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘కొంగ’ — దీని బహువచనం ఏది?",
+    "options": [
+      "కొంగల",
+      "కొంగకు",
+      "కొంగలు",
+      "కొంగలం"
+    ],
+    "answer": 2,
+    "hint": "‘కొంగ’ ఏకవచనం; బహువచనం ‘కొంగలు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘చినుకు’ — దీని బహువచనం ఏది?",
+    "options": [
+      "చినుకుల",
+      "చినుకలు",
+      "చినుకున",
+      "చినుకులు"
+    ],
+    "answer": 3,
+    "hint": "‘చినుకు’ ఏకవచనం; బహువచనం ‘చినుకులు’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘మెరుపు’ — దీని బహువచనం ఏది?",
+    "options": [
+      "మెరుపలు",
+      "మెరుపులు",
+      "మెరుపుల",
+      "మెరుపున"
+    ],
+    "answer": 1,
+    "hint": "‘మెరుపు’ ఏకవచనం; బహువచనం ‘మెరుపులు’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘ఉరుము’ — దీని బహువచనం ఏది?",
+    "options": [
+      "ఉరుములు",
+      "ఉరుముల",
+      "ఉరుమలు",
+      "ఉరుమున"
+    ],
+    "answer": 0,
+    "hint": "‘ఉరుము’ ఏకవచనం; బహువచనం ‘ఉరుములు’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘మేఘం’ — దీని బహువచనం ఏది?",
+    "options": [
+      "మేఘాల",
+      "మేఘాలు",
+      "మేఘాన",
+      "మేఘలు"
+    ],
+    "answer": 1,
+    "hint": "‘మేఘం’ ఏకవచనం; బహువచనం ‘మేఘాలు’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘చేను’ — దీని బహువచనం ఏది?",
+    "options": [
+      "చేనులు",
+      "చేలు",
+      "చేనుల",
+      "చేనలు"
+    ],
+    "answer": 1,
+    "hint": "‘చేను’ ఏకవచనం; బహువచనం ‘చేలు’.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘గుంత’ — దీని బహువచనం ఏది?",
+    "options": [
+      "గుంతకు",
+      "గుంతలు",
+      "గుంతలం",
+      "గుంతల"
+    ],
+    "answer": 1,
+    "hint": "‘గుంత’ ఏకవచనం; బహువచనం ‘గుంతలు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "వానాకాలంలో ఆకాశంలో ఏమి కమ్ముకుంటాయి?",
+    "options": [
+      "పచ్చని ఆకులు",
+      "ఎర్రని ధూళి",
+      "నల్లని మబ్బులు",
+      "తెల్లని మంచు"
+    ],
+    "answer": 2,
+    "hint": "మెరుపులు, ఉరుములతో చినుకులు పడతాయి.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "వర్షం పడినప్పుడు కప్పలు ఎలా అరుస్తాయి?",
+    "options": [
+      "కిలకిల",
+      "చిటపట",
+      "గలగల",
+      "బెకబెక"
+    ],
+    "answer": 3,
+    "hint": "పిట్టలు కిలకిలా కూస్తాయి; కప్పలు బెకబెక అంటాయి.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "వర్షం పడినప్పుడు పిట్టలు ఏం చేస్తాయి?",
+    "options": [
+      "నిశ్శబ్దంగా ఉంటాయి",
+      "కిలకిలా కూతలు కూస్తాయి",
+      "గూళ్ళు కడతాయి",
+      "బెకబెక అరుస్తాయి"
+    ],
+    "answer": 1,
+    "hint": "పాఠంలో పక్షుల కూతల గురించి ఉంది.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "వానల వల్ల రైతులకు కలిగే మేలు ఏమిటి?",
+    "options": [
+      "రైతులు పని మానేస్తారు",
+      "పంటలు తగ్గిపోతాయి",
+      "పంట కాలువలు నిండి పొలాల్లో పంటలు సమృద్ధిగా పండుతాయి",
+      "పొలాలు ఎండిపోతాయి"
+    ],
+    "answer": 2,
+    "hint": "కాలువలు నిండితే చేలు తడుస్తాయి.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "వానాకాలాన్ని ‘వరదల కాలం’ అని ఎందుకు అంటారు?",
+    "options": [
+      "ఆ కాలంలో పంటలు పండవు కాబట్టి",
+      "భారీ వర్షాల వల్ల నదులు, వాగులు పొంగి వరదలు వస్తాయి కాబట్టి",
+      "ఆ కాలంలో ఎండలు ఎక్కువ కాబట్టి",
+      "ఆ కాలంలో గాలులు వీయవు కాబట్టి"
+    ],
+    "answer": 1,
+    "hint": "చెరువులు, కుంటలు నిండిపోతాయి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "వానలు ఎందుకు కురవాలి?",
+    "options": [
+      "రోడ్లు కడగడానికి మాత్రమే",
+      "పంటలు పండటానికి, దాహం తీరడానికి, ప్రకృతి పచ్చగా ఉండటానికి",
+      "ఆటలు ఆడుకోవడానికి మాత్రమే",
+      "వరదలు రావడానికి"
+    ],
+    "answer": 1,
+    "hint": "పాఠంలో మూడు కారణాలూ ఉన్నాయి.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "వానాకాలంలో పిల్లలు ఏం చేస్తారు?",
+    "options": [
+      "సంతోషంగా వానలో ఆటలు ఆడుకుంటారు",
+      "గూళ్ళు కడతారు",
+      "ఇంట్లో నిద్రపోతారు",
+      "పొలాలకు వెళ్తారు"
+    ],
+    "answer": 0,
+    "hint": "పాఠంలో పిల్లల సంతోషం గురించి ఉంది.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-vaanakalam",
+    "topicLabel": "వానకాలం (Lesson)",
+    "question": "‘వానకాలం’ గేయం ప్రకారం వానకాలం మనసులను ఎలా మారుస్తుంది?",
+    "options": [
+      "ఉల్లాసంగా, సంతోషంగా",
+      "బద్ధకంగా",
+      "భయంగా, విచారంగా",
+      "కోపంగా"
+    ],
+    "answer": 0,
+    "hint": "చల్లని గాలులు మనసుకు ఉల్లాసాన్ని ఇస్తాయి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘అమ్మాయి’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "తల్లి",
+      "బాలుడు",
+      "బాలిక",
+      "గురువు"
+    ],
+    "answer": 2,
+    "hint": "‘చిట్టిమొక్క’ పాఠంలో ‘అమ్మాయి’ కు ‘బాలిక’ అని ఇచ్చారు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘దారి’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "నది",
+      "పొలము",
+      "ఇల్లు",
+      "మార్గము"
+    ],
+    "answer": 3,
+    "hint": "‘చిట్టిమొక్క’ పాఠంలో ‘దారి’ కు ‘మార్గము’ అని ఇచ్చారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘సంబరం’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "బాధ",
+      "కోపం",
+      "భయం",
+      "ఆనందం"
+    ],
+    "answer": 3,
+    "hint": "‘చిట్టిమొక్క’ పాఠంలో ‘సంబరం’ కు ‘ఆనందం’ అని ఇచ్చారు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘చెట్టు’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "పండు",
+      "గడ్డి",
+      "తరువు",
+      "పువ్వు"
+    ],
+    "answer": 2,
+    "hint": "‘చిట్టిమొక్క’ పాఠంలో ‘చెట్టు’ కు ‘తరువు’ అని ఇచ్చారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘చటుక్కున’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "ఆలస్యంగా",
+      "వేగంగా",
+      "నెమ్మదిగా",
+      "మెల్లగా"
+    ],
+    "answer": 1,
+    "hint": "‘చిట్టిమొక్క’ పాఠంలో ‘చటుక్కున’ కు ‘వేగంగా’ అని ఇచ్చారు.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘నీరు’ — దీని పర్యాయపదం ఏది?",
+    "options": [
+      "ఉదకము",
+      "పవనము",
+      "అగ్ని",
+      "ధరణి"
+    ],
+    "answer": 0,
+    "hint": "‘చిట్టిమొక్క’ పాఠంలో ‘నీరు’ కు ‘ఉదకము’ అని ఇచ్చారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘మొక్క’ — దీని బహువచనం ఏది?",
+    "options": [
+      "మొక్కలు",
+      "మొక్కల",
+      "మొక్కలం",
+      "మొక్కకు"
+    ],
+    "answer": 0,
+    "hint": "‘మొక్క’ ఏకవచనం; బహువచనం ‘మొక్కలు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘ఆలోచన’ — దీని బహువచనం ఏది?",
+    "options": [
+      "ఆలోచనలు",
+      "ఆలోచనల",
+      "ఆలోచనం",
+      "ఆలోచనకు"
+    ],
+    "answer": 0,
+    "hint": "‘ఆలోచన’ ఏకవచనం; బహువచనం ‘ఆలోచనలు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘కర్ర’ — దీని బహువచనం ఏది?",
+    "options": [
+      "కర్రలు",
+      "కర్రకు",
+      "కర్రలం",
+      "కర్రల"
+    ],
+    "answer": 0,
+    "hint": "‘కర్ర’ ఏకవచనం; బహువచనం ‘కర్రలు’.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘చేయి’ — దీని బహువచనం ఏది?",
+    "options": [
+      "చేయలు",
+      "చేతులు",
+      "చేతిలు",
+      "చేయిలు"
+    ],
+    "answer": 1,
+    "hint": "‘చేయి’ ఏకవచనం; బహువచనం ‘చేతులు’.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘తాడు’ — దీని బహువచనం ఏది?",
+    "options": [
+      "తాడలు",
+      "తాడులు",
+      "తాళ్ళం",
+      "తాళ్లు"
+    ],
+    "answer": 3,
+    "hint": "‘తాడు’ ఏకవచనం; బహువచనం ‘తాళ్లు’.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘బకెట్టు’ — దీని బహువచనం ఏది?",
+    "options": [
+      "బకెట్ల",
+      "బకెట్టలు",
+      "బకెట్లు",
+      "బకెట్టులు"
+    ],
+    "answer": 2,
+    "hint": "‘బకెట్టు’ ఏకవచనం; బహువచనం ‘బకెట్లు’.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘పాదు’ — దీని బహువచనం ఏది?",
+    "options": [
+      "పాదున",
+      "పాదలు",
+      "పాదుల",
+      "పాదులు"
+    ],
+    "answer": 3,
+    "hint": "‘పాదు’ ఏకవచనం; బహువచనం ‘పాదులు’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘దారి’ — దీని బహువచనం ఏది?",
+    "options": [
+      "దారుల",
+      "దారిలు",
+      "దారలు",
+      "దారులు"
+    ],
+    "answer": 3,
+    "hint": "‘దారి’ ఏకవచనం; బహువచనం ‘దారులు’.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘చిట్టిమొక్క’ పాఠంలో అమ్మాయి పేరు ఏమిటి?",
+    "options": [
+      "సరళ",
+      "సరిత",
+      "సవిత",
+      "సునీత"
+    ],
+    "answer": 1,
+    "hint": "ఆమెను అందరూ ‘చక్కని చుక్క’ అని పిలుస్తారు.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "సరితను అందరూ ఏమని పిలుస్తారు?",
+    "options": [
+      "బంగారు తల్లి",
+      "చిన్నారి",
+      "చిట్టి తల్లి",
+      "చక్కని చుక్క"
+    ],
+    "answer": 3,
+    "hint": "పాఠం మొదట్లోనే ఈ పేరు వస్తుంది.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "దారిలో సరితకు ఏమి కనిపించింది?",
+    "options": [
+      "ఒక పుస్తకం",
+      "ఒక పక్షి గూడు",
+      "విరిగిపడి ఉన్న ఒక మొక్క",
+      "ఒక కుక్కపిల్ల"
+    ],
+    "answer": 2,
+    "hint": "ఆ మొక్క కోసమే ఆమె కర్ర, తాడు తెచ్చింది.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "విరిగిన మొక్కను నిలబెట్టడానికి సరిత ఏమి తెచ్చింది?",
+    "options": [
+      "కర్ర, తాడు, నీళ్ల బకెట్టు",
+      "గొడుగు, బట్ట",
+      "రాయి, ఇసుక",
+      "కత్తెర, కాగితం"
+    ],
+    "answer": 0,
+    "hint": "ఒక చేతిలో కర్రా తాడూ, మరో చేతిలో బకెట్టు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "సరిత మొక్కను ఎలా నిలబెట్టింది?",
+    "options": [
+      "తాడు సహాయంతో కర్రను మొక్కకు కట్టి",
+      "మొక్కను ఇంటికి తీసుకెళ్ళి",
+      "మొక్క చుట్టూ రాళ్ళు పేర్చి",
+      "మొక్కను పెకిలించి మళ్ళీ నాటి"
+    ],
+    "answer": 0,
+    "hint": "కర్ర ఆధారంగా మొక్క నిలబడింది.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "మొక్క చుట్టూ పాదు తీసి సరిత ఏమి చేసింది?",
+    "options": [
+      "ఎరువు వేసింది",
+      "విత్తనాలు చల్లింది",
+      "తెచ్చిన నీళ్లను పోసింది",
+      "కంచె కట్టింది"
+    ],
+    "answer": 2,
+    "hint": "పాదు తీయడం అంటే మొక్క చుట్టూ నీరు నిలిచేలా చేయడం.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "చెట్లు మనకు అందించే ప్రాణవాయువు ఏది?",
+    "options": [
+      "కార్బన్ డై ఆక్సైడ్",
+      "నైట్రోజన్",
+      "ఆక్సిజన్",
+      "హైడ్రోజన్"
+    ],
+    "answer": 2,
+    "hint": "చెట్ల వల్ల కలిగే మొదటి ఉపయోగం ఇదే.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "చెట్ల వల్ల కలిగే ఉపయోగాలలో ఇది కాదు ఏది?",
+    "options": [
+      "చెట్లు పక్షులకు ఆశ్రయం ఇస్తాయి",
+      "చెట్లు పండ్లు, పూలు, ఔషధాలు ఇస్తాయి",
+      "చెట్లు వేసవిలో నీడను ఇస్తాయి",
+      "చెట్లు కరెంటును ఉత్పత్తి చేస్తాయి"
+    ],
+    "answer": 3,
+    "hint": "పాఠంలో చెప్పిన ఉపయోగాలను గుర్తుచేసుకోండి.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "మొక్కలు బాగా పెరగడానికి ఏమి చేయాలి?",
+    "options": [
+      "నీళ్లు అసలు పోయకూడదు",
+      "చీకటిలో ఉంచాలి",
+      "ఆకులన్నీ తీసేయాలి",
+      "ప్రతిరోజూ నీళ్లు పోసి, సూర్యరశ్మి తగిలేలా ఉంచి, కలుపు తీయాలి"
+    ],
+    "answer": 3,
+    "hint": "పాఠంలో నాలుగు పనులు చెప్పారు.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "telugu",
+    "chapter": "పాఠ్యాంశాలు",
+    "topic": "telugu-chittimokka",
+    "topicLabel": "చిట్టిమొక్క (Lesson)",
+    "question": "‘చిట్టిమొక్క’ పాఠం మనకు నేర్పే నీతి ఏమిటి?",
+    "options": [
+      "ఆటలు ఆడకూడదు",
+      "దారిలో ఆగకూడదు",
+      "నీళ్లు వృథా చేయాలి",
+      "మొక్కలను, ప్రకృతిని కాపాడాలి"
+    ],
+    "answer": 3,
+    "hint": "సరిత చేసిన పని దేని గురించో ఆలోచించండి.",
+    "difficulty": "medium"
+  }
+]

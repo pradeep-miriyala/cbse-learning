@@ -1,0 +1,1712 @@
+[
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A labourer doing heavy physical work needs more food each day than someone sitting at a desk.<br><b>Reason (R):</b> Food supplies the energy the body spends, and harder work spends more energy.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 2,
+    "hint": "More energy spent means more energy that has to be taken in."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A meal of nothing but rice cannot keep a child healthy.<br><b>Reason (R):</b> Different nutrients do different jobs in the body, and no single food supplies them all in the right amounts.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Rice is rich in one nutrient and poor in the rest."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Carbohydrates and fats are called energy-giving foods.<br><b>Reason (R):</b> Proteins cannot supply the body with any energy at all.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Proteins mainly build the body, but they are not useless as fuel."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The body needs water in large amounts every day.<br><b>Reason (R):</b> Rice is rich in carbohydrates.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Both statements are true, but they are about different things altogether."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "nutrients-overview",
+    "topicLabel": "Nutrients & Energy",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Nutrients are needed only by growing children and not by grown-ups.<br><b>Reason (R):</b> Adults need nutrients to repair worn-out tissues and to stay active.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "R tells you exactly why A cannot be right."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A spoonful of oil gives the body more energy than a spoonful of sugar.<br><b>Reason (R):</b> The same mass of fat releases more than twice the energy that carbohydrate does.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "Compare the two by weight, not by taste."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A drop of oil rubbed on paper leaves a mark that lets light through, but a drop of sugar solution does not.<br><b>Reason (R):</b> The test for fat depends on fat making paper translucent, which dissolved sugar does not do.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "This is the paper test for fat stated as a rule."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Starch turns blue-black when iodine solution is put on it.<br><b>Reason (R):</b> Iodine solution gives the same blue-black colour with fats.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Iodine is the test for one nutrient only."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Potato is a rich source of starch.<br><b>Reason (R):</b> Butter is obtained from milk.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "Both are true, but where butter comes from does not explain what is in a potato."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "carbohydrates-fats",
+    "topicLabel": "Carbohydrates & Fats",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Fat should be cut out of the diet completely if a person wants to stay healthy.<br><b>Reason (R):</b> A layer of fat stored under the skin helps to keep the body warm.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 3,
+    "hint": "R names a job that fat is actually needed for."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> For its body weight, a growing child needs more protein than a grown-up does.<br><b>Reason (R):</b> Proteins build new tissue, and a growing body is making new tissue all the time.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "Growth is exactly the work that protein does."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A vegetarian can meet the body's need for protein without eating any meat.<br><b>Reason (R):</b> Pulses, soya bean, milk and paneer are all rich in protein.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "R lists the foods that make A possible."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Proteins are known as the body-building foods.<br><b>Reason (R):</b> The presence of protein in a food is shown by the iodine test.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Iodine belongs to a different test altogether."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Egg white is rich in protein.<br><b>Reason (R):</b> Hens are reared for eggs on poultry farms.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "Both are true, but where eggs come from does not explain what they contain."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "proteins",
+    "topicLabel": "Proteins & Body Building",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The body can store spare protein for months in the way it stores fat.<br><b>Reason (R):</b> Protein is needed every day for the repair of worn-out cells.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "If it could be stored up, a daily supply would not matter so much."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A child kept indoors all day may get weak bones even on a good diet.<br><b>Reason (R):</b> Vitamin D is made in the skin with the help of sunlight.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "One vitamin does not come from food alone."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Vitamin C is largely lost when vegetables are boiled for a long time in plenty of water.<br><b>Reason (R):</b> Vitamin C dissolves in water and is destroyed by prolonged heating.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "Both the water and the heat work against this vitamin."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Vitamin A is needed for healthy eyesight.<br><b>Reason (R):</b> Vitamin A can be got only from foods of animal origin.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Think of carrot, papaya and green leafy vegetables."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Amla and citrus fruits are rich in vitamin C.<br><b>Reason (R):</b> Vitamin K helps the blood to clot.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Two correct facts about two different vitamins."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Vitamins are needed by the body in large quantities.<br><b>Reason (R):</b> The lack of even a single vitamin can cause a deficiency disease.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Small amounts, but they must not be missing."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A person whose diet is short of iron tires very easily.<br><b>Reason (R):</b> Iron is needed to make haemoglobin, which carries oxygen round the body.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 2,
+    "hint": "Less oxygen reaching the muscles means quicker tiredness."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Milk and ragi are recommended for children whose bones are still growing.<br><b>Reason (R):</b> Both are rich in calcium, the mineral that bones and teeth are built from.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "R names the mineral that does the building."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Iodised salt is sold so that people do not develop goitre.<br><b>Reason (R):</b> The body needs iodine in large amounts every single day.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 3,
+    "hint": "A pinch of iodised salt is enough — that tells you the quantity needed."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Calcium is needed for strong teeth.<br><b>Reason (R):</b> Common salt is obtained by evaporating sea water.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Both are true, but how salt is made has nothing to do with calcium."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Minerals are an important source of energy for the body.<br><b>Reason (R):</b> Minerals are needed in small quantities for the body to work properly.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 3,
+    "hint": "Which nutrients are the energy-giving ones?"
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Whole wheat flour keeps the bowels working better than finely refined flour.<br><b>Reason (R):</b> Whole wheat keeps its bran, which supplies the roughage that helps food move through the gut.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 1,
+    "hint": "The part that is removed in refining is the useful part here."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> We must drink water every day although it gives us no energy at all.<br><b>Reason (R):</b> Water carries dissolved nutrients and wastes about the body and helps to throw the wastes out.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "Energy is not the only reason to take something in."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Roughage is an important part of the diet.<br><b>Reason (R):</b> Roughage is digested and absorbed to give the body energy.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Roughage passes through the body — that is the point of it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Salad and fruit eaten with the skin are good sources of roughage.<br><b>Reason (R):</b> Fruits also contain vitamins.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "Both are true of fruit, but vitamins are not roughage."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Roughage counts as a nutrient because the body absorbs it.<br><b>Reason (R):</b> Roughage is mainly the fibre of plant foods, which the body cannot digest.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "R contradicts the very reason given in A."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Two people of the same age may need balanced diets of quite different sizes.<br><b>Reason (R):</b> How much food is needed depends on age, sex and how active a person is.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Balance is about proportion; quantity depends on the person."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A balanced diet takes foods from every group instead of a large helping of one.<br><b>Reason (R):</b> Each food group supplies nutrients that the others lack, and all of them are needed together.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "No group can stand in for another."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A balanced diet supplies all the nutrients in the right proportion.<br><b>Reason (R):</b> A costly diet is always a balanced one.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Dal, roti and seasonal vegetables are cheap and balanced."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Cereals and millets form the broad base of the food pyramid.<br><b>Reason (R):</b> Fruits should be washed well before they are eaten.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "Both are sound advice, but one does not explain the other."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "balanced-diet",
+    "topicLabel": "Balanced Diet & Food Pyramid",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Eating a very large amount of one nutritious food makes a diet balanced.<br><b>Reason (R):</b> A balanced diet must supply every nutrient in the right amount.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "However good one food is, it cannot supply everything."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A child who eats plenty of rice may still suffer from kwashiorkor.<br><b>Reason (R):</b> Rice supplies carbohydrate but very little protein, and kwashiorkor comes from a lack of protein.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "A full stomach is not the same as a complete diet."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Night blindness can be prevented by eating carrots and green leafy vegetables.<br><b>Reason (R):</b> These foods are rich in vitamin A, and it is the lack of vitamin A that causes night blindness.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "R names the missing vitamin these foods supply."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Scurvy shows itself in bleeding, swollen gums.<br><b>Reason (R):</b> Scurvy is caused by a lack of vitamin D in the diet.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "Check which vitamin sailors were short of on long voyages."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Anaemia is caused by a shortage of iron in the diet.<br><b>Reason (R):</b> Goitre is caused by a shortage of iodine in the diet.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "Two true statements about two separate deficiencies."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "deficiency-diseases",
+    "topicLabel": "Deficiency Diseases & Malnutrition",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Malnutrition means only that a person is not getting enough food to eat.<br><b>Reason (R):</b> A person who eats plenty of the wrong kinds of food can also be malnourished.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 3,
+    "hint": "Malnutrition covers the wrong diet as well as too little of it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Vegetables keep more of their goodness when steamed than when boiled and drained.<br><b>Reason (R):</b> Water-soluble vitamins pass out into the cooking water, which is then thrown away.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "The loss happens in the water that gets poured down the sink."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Cooking makes many foods safer to eat than they are raw.<br><b>Reason (R):</b> Heating destroys many of the harmful germs present in raw food.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "Safety here comes from the heat itself."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Cooking softens food and improves its taste and smell.<br><b>Reason (R):</b> Cooking increases the amount of vitamin C in vegetables.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "Heat does the opposite to vitamin C."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A pressure cooker cooks food faster than an open pan.<br><b>Reason (R):</b> Groundnuts and maize are usually cooked by roasting.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Two true statements about two different ways of cooking."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "cooking-practices",
+    "topicLabel": "Cooking Practices",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Food is at its most nutritious when it has been cooked for as long as possible.<br><b>Reason (R):</b> Prolonged heating destroys some of the vitamins present in food.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "R gives the reason A is wrong."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Junk food can leave a person overweight and undernourished at the same time.<br><b>Reason (R):</b> It is rich in fat, sugar and salt but poor in protein, vitamins and minerals.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "Plenty of energy, very little of everything else."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Millets such as ragi and jowar are being encouraged in place of polished rice.<br><b>Reason (R):</b> Millets supply more fibre, minerals and protein than polished rice does.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "R gives the nutritional reason behind the advice."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Millets can be grown in dry regions where little water is available.<br><b>Reason (R):</b> Millets were brought into India for the first time only in the last century.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 3,
+    "hint": "Millets have been grown here for thousands of years."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Packaged snacks usually contain a great deal of salt.<br><b>Reason (R):</b> The year 2023 was observed as the International Year of Millets.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Both are true, but the observance does not explain the salt."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "food-choices",
+    "topicLabel": "Junk Food & Millets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A food that tastes good and fills the stomach must be a nutritious food.<br><b>Reason (R):</b> The value of a food depends on the nutrients it supplies, not on its taste.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "R states the test that A fails."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Food grains are put into godowns and silos soon after the harvest.<br><b>Reason (R):</b> A whole year's crop is gathered in a short season but has to be eaten right through the year.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Storage bridges the gap between one harvest and the next."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Fruits and vegetables are carried long distances in refrigerated vehicles.<br><b>Reason (R):</b> Cooling slows down the spoiling of fresh produce so that it reaches the market fit to eat.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "Cold buys the produce time on the road."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Food may pass through farmer, trader, wholesaler and shopkeeper before it reaches us.<br><b>Reason (R):</b> Food becomes cheaper to buy the more hands it passes through on the way.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 1,
+    "hint": "Each pair of hands adds a cost, not a saving."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Wheat grain is milled into flour before it is sold in shops.<br><b>Reason (R):</b> Farmers use tractors to plough their fields.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "Both are true, but ploughing does not explain milling."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "farm-to-plate",
+    "topicLabel": "From Farm to Plate",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Food grown nearby always costs more than food brought from far away.<br><b>Reason (R):</b> Food brought from far away has to be transported and stored for longer.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "R points to costs that local food avoids."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The word magnet is connected with the name of a place.<br><b>Reason (R):</b> The naturally magnetic rock is said to have been found in a region called Magnesia.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "The place gave the rock, and the rock gave the word."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A shepherd's iron-tipped stick is said to have led to the discovery of magnets.<br><b>Reason (R):</b> The old story tells that the iron tip was pulled towards a rock lying on the hillside.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "R is the story that A refers to."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Lodestone is a magnet that occurs naturally in the Earth.<br><b>Reason (R):</b> Lodestone was first produced in a laboratory by scientists in the last century.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "A naturally occurring rock cannot also be a recent laboratory product."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Early sailors found their way at sea using a floating piece of lodestone.<br><b>Reason (R):</b> A magnet attracts objects made of iron.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Both are true, but attracting iron is not what guided the sailors."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-discovery",
+    "topicLabel": "Discovery & History",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Magnets came to be known only after electricity was discovered.<br><b>Reason (R):</b> An electric current can be used to make a magnet.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Lodestone was known long before anyone knew of electric current."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A magnet moved over sand mixed with iron filings picks up only the filings.<br><b>Reason (R):</b> Iron is a magnetic material while sand is not.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "The magnet sorts them by what they are made of."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A magnet can attract an iron pin lying under a sheet of paper.<br><b>Reason (R):</b> Magnetic force can act through non-magnetic materials such as paper.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "The paper does not block the force."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Iron, nickel and cobalt are magnetic materials.<br><b>Reason (R):</b> Every metal is attracted by a magnet.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 1,
+    "hint": "Try a magnet on an aluminium foil or a copper wire."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A plastic scale is not attracted by a magnet.<br><b>Reason (R):</b> Plastic is a poor conductor of electricity.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Both are true of plastic, but conducting and being attracted are different properties."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-materials",
+    "topicLabel": "Magnetic & Non-magnetic Materials",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A piece of wood will be attracted if a strong enough magnet is brought close to it.<br><b>Reason (R):</b> A magnet attracts only magnetic materials.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "Strength of the magnet cannot change what the wood is made of."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A horseshoe magnet holds an iron object more firmly than a bar magnet of the same size.<br><b>Reason (R):</b> Its two poles are bent close together, so both act on the object at the same time.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "The shape brings both poles to bear at once."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> An electromagnet can be switched off but a permanent magnet cannot.<br><b>Reason (R):</b> An electromagnet is magnetic only for as long as current flows through its coil.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "Cut the current and the magnetism goes with it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A temporary magnet loses its magnetism soon after it is made.<br><b>Reason (R):</b> Steel is used for making temporary magnets and soft iron for permanent ones.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "R has the two materials the wrong way round."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Magnets are made in bar, horseshoe, ring and cylindrical shapes.<br><b>Reason (R):</b> A magnet suspended freely comes to rest along the north-south direction.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Both are true, but the shapes are not what makes it point north."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-types",
+    "topicLabel": "Types of Magnets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Lodestone is an example of an artificial magnet.<br><b>Reason (R):</b> Artificial magnets are made by people in whatever shape is needed.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 3,
+    "hint": "Lodestone is dug out of the ground, not made."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Iron filings cling most thickly at the two ends of a bar magnet.<br><b>Reason (R):</b> The magnetic force of a magnet is strongest at its poles.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "The filings gather where the pull is greatest."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A bar magnet broken into two pieces gives two magnets, each with a north and a south pole.<br><b>Reason (R):</b> A single pole cannot exist by itself, so every piece must have both.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "You can never break a magnet down to one lone pole."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Every magnet has two poles.<br><b>Reason (R):</b> The poles of a bar magnet lie exactly at its middle.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "Recall where the iron filings gather on a bar magnet."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The end of a freely suspended magnet that points north is called its north pole.<br><b>Reason (R):</b> A magnet attracts iron filings.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "Both are true, but attracting filings is not how the pole is named."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-poles",
+    "topicLabel": "Poles of a Magnet",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A magnet can be cut in such a way that a single north pole is obtained.<br><b>Reason (R):</b> Each broken piece of a magnet behaves as a complete magnet on its own.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 3,
+    "hint": "R rules out exactly what A claims."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Repulsion, and not attraction, is the sure test of whether an object is a magnet.<br><b>Reason (R):</b> A magnet attracts an unmagnetised iron bar as well, but only another magnet is repelled.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "Attraction happens in both cases; repulsion happens in only one."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Two bar magnets brought together with their north poles facing push each other apart.<br><b>Reason (R):</b> Like poles of two magnets repel each other.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "R is the rule that A illustrates."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Unlike poles of two magnets attract each other.<br><b>Reason (R):</b> A magnet cannot attract an iron nail unless the nail is itself a magnet.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "A magnet picks up ordinary pins every day."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A magnet can attract an iron object without touching it.<br><b>Reason (R):</b> Electromagnets are used to lift scrap iron in junkyards.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 1,
+    "hint": "Both are true, but the junkyard crane is a use, not a reason."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "attraction-repulsion",
+    "topicLabel": "Attraction & Repulsion",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> If two bars attract each other, both of them must certainly be magnets.<br><b>Reason (R):</b> A magnet attracts an ordinary piece of iron just as it attracts another magnet.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 2,
+    "hint": "One of the two bars might be plain iron."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A bar magnet hung freely by a thread always settles pointing roughly north and south.<br><b>Reason (R):</b> The Earth itself behaves like an enormous magnet and turns the magnet into line with it.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 3,
+    "hint": "Something must be doing the turning, and it is the Earth."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> The needle of a compass is itself a small magnet.<br><b>Reason (R):</b> Only a magnet will swing round and settle along the north-south line.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 1,
+    "hint": "The behaviour of the needle gives it away."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A compass helps a traveller find the way in unfamiliar country.<br><b>Reason (R):</b> The needle of a compass points towards the east.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "Which direction does a compass needle actually settle along?"
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Sailors used the compass for centuries before modern instruments existed.<br><b>Reason (R):</b> A magnet loses its magnetism if it is heated strongly.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "Both are true, but heating has nothing to do with early navigation."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnetic-direction",
+    "topicLabel": "Finding Direction",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A compass gives a correct reading even when a bar magnet is held right beside it.<br><b>Reason (R):</b> A magnet placed nearby can pull the compass needle away from the north-south line.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 0,
+    "hint": "R describes exactly the error A denies."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> In the single-touch method the magnet is stroked along the iron bar in the same direction every time.<br><b>Reason (R):</b> Stroking to and fro would undo the effect of the stroke before it.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "One direction builds up; back and forth cancels out."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A magnet should be stored with a piece of soft iron laid across its poles.<br><b>Reason (R):</b> The keeper completes the magnetic path and helps the magnet hold its strength.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "The keeper is there to preserve the magnetism."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Heating a magnet strongly can destroy its magnetism.<br><b>Reason (R):</b> Hammering a magnet repeatedly makes it stronger.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "Rough treatment does the opposite of what R claims."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A magnet can be made by passing an electric current through a coil wound on an iron bar.<br><b>Reason (R):</b> Magnets should be kept well away from mobile phones.",
+    "options": [
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 0,
+    "hint": "Both are true, but one is about making magnets and the other about storing them."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "making-magnets",
+    "topicLabel": "Making & Losing Magnetism",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Dropping a magnet on the floor again and again makes it stronger.<br><b>Reason (R):</b> Rough handling and repeated jolting weaken a magnet.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "R is the plain opposite of A."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Large electromagnets are used to lift scrap iron in a junkyard.<br><b>Reason (R):</b> The current can be switched off so that the load drops exactly where it is wanted.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 0,
+    "hint": "A permanent magnet could lift it but not let it go."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A magnetic strip runs along the edge of a refrigerator door.<br><b>Reason (R):</b> The magnet holds the door shut against the frame so that cold air does not leak out.",
+    "options": [
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "R gives the job the strip is there to do."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Magnets are fitted in pin holders and in the flaps of some pencil boxes.<br><b>Reason (R):</b> A magnet is used in a compass because the magnet attracts the Earth.",
+    "options": [
+      "A is false but R is true",
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true, but R is not the correct explanation of A"
+    ],
+    "answer": 2,
+    "hint": "A compass needle is turned by the Earth, not the other way about."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> Magnets are used to pull iron pieces out of mixed waste.<br><b>Reason (R):</b> Iron rusts when it is left in damp air.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "answer": 2,
+    "hint": "Both are true of iron, but rusting is not why the magnet is used."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Magnets",
+    "topic": "magnet-uses",
+    "topicLabel": "Uses of Magnets",
+    "type": "assertion-reason",
+    "difficulty": "hard",
+    "question": "<b>Assertion (A):</b> A magnet is used in a bank card reader because a magnet attracts plastic.<br><b>Reason (R):</b> The dark strip on the back of such a card stores information magnetically.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "answer": 1,
+    "hint": "Plastic is not a magnetic material at all."
+  }
+]

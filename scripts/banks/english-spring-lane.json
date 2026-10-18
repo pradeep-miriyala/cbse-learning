@@ -1,0 +1,914 @@
+[
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "In the poem, what does “brook” mean?",
+    "options": [
+      "A low stone wall",
+      "A shallow pond",
+      "A small stream",
+      "A narrow footpath"
+    ],
+    "answer": 2,
+    "hint": "A brook is a small stream — smaller than a river, and in the poem it runs along beside the lane.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "In the poem, what does “spangles” mean?",
+    "options": [
+      "Sparkles with small points of light",
+      "Splashes noisily over stones",
+      "Freezes at the edges",
+      "Spreads out into a wide pool"
+    ],
+    "answer": 0,
+    "hint": "Spangles are tiny glittering ornaments, so to spangle is to glitter — the water throws back little points of sunlight.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "In the poem, what does “glide” mean?",
+    "options": [
+      "Move along smoothly and without effort",
+      "Dart about in quick jerks",
+      "Sink slowly to the bottom",
+      "Swim against the current"
+    ],
+    "answer": 0,
+    "hint": "To glide is to move smoothly, as though carried — which is why it suits fish in water and birds in air.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "In the poem, what does “leafing” mean?",
+    "options": [
+      "Growing thorns",
+      "Coming into leaf",
+      "Being cut back",
+      "Losing their leaves"
+    ],
+    "answer": 1,
+    "hint": "Leafing means putting out new leaves. It is what hedges do in spring, not in autumn.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "In the poem, what does “pilewort” mean?",
+    "options": [
+      "A climbing plant with white bells",
+      "A small yellow spring wildflower, the lesser celandine",
+      "A prickly bush that fruits in autumn",
+      "A tall flowering weed with purple heads"
+    ],
+    "answer": 1,
+    "hint": "Pilewort is the country name for the lesser celandine, one of the first yellow flowers of spring.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "In the poem, what does “linnets” mean?",
+    "options": [
+      "Large black crows",
+      "Water birds with long legs",
+      "Birds of prey that hunt at night",
+      "Small brown finches that sing"
+    ],
+    "answer": 3,
+    "hint": "Linnets are small singing finches. The poem calls them grass green because of the light on them among the leaves.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "In the poem, what does “robin” mean?",
+    "options": [
+      "A small bird with a red breast",
+      "A bird that lives on water",
+      "A large grey bird that cannot fly",
+      "A bird that only sings at night"
+    ],
+    "answer": 0,
+    "hint": "The robin is the small red-breasted bird — in the poem it has just begun building its nest.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "In the poem, what does “pingles” mean?",
+    "options": [
+      "Deep muddy ditches",
+      "Small enclosed fields or narrow strips of land",
+      "Wide open moors",
+      "Steep rocky hillsides"
+    ],
+    "answer": 1,
+    "hint": "Pingle is a country word Clare uses for a small enclosure — a little field or narrow close.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "In the poem, what does “arum” mean?",
+    "options": [
+      "A plant with large arrow-shaped leaves",
+      "A kind of tall grass",
+      "A tree with white bark",
+      "A fruit that ripens in spring"
+    ],
+    "answer": 0,
+    "hint": "The arum, also called cuckoo-pint, has broad arrow-shaped leaves — wide enough for a fly to rest on.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "Which word in the poem means a small stream?",
+    "options": [
+      "arum",
+      "brook",
+      "linnet",
+      "pingle"
+    ],
+    "answer": 1,
+    "hint": "The brook is the water running close beside the lane.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "Which word means to sparkle in the light?",
+    "options": [
+      "chirp",
+      "glide",
+      "leaf",
+      "spangle"
+    ],
+    "answer": 3,
+    "hint": "To spangle is to throw back little points of light, like tiny ornaments.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "Which word names a spring flower?",
+    "options": [
+      "pingle",
+      "linnet",
+      "brook",
+      "pilewort"
+    ],
+    "answer": 3,
+    "hint": "Pilewort is the lesser celandine, a small yellow flower of early spring.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "Which word names a bird?",
+    "options": [
+      "pingle",
+      "linnet",
+      "pilewort",
+      "arum"
+    ],
+    "answer": 1,
+    "hint": "Linnets are small brown finches; a robin is a bird too, and both are in the poem.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "Which word names a piece of land?",
+    "options": [
+      "brook",
+      "spangle",
+      "arum",
+      "pingle"
+    ],
+    "answer": 3,
+    "hint": "A pingle is a small enclosure — a little field.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "Which word names a plant with broad leaves?",
+    "options": [
+      "brook",
+      "linnet",
+      "arum",
+      "spangle"
+    ],
+    "answer": 2,
+    "hint": "The arum has wide arrow-shaped leaves, which is why a fly can rest on one.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "“The hedges are leafing.” In which season would you say this?",
+    "options": [
+      "Autumn",
+      "Winter",
+      "It can be said in any season",
+      "Spring"
+    ],
+    "answer": 3,
+    "hint": "Leafing is putting out new leaves, which hedges do in spring.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "A fish glides through the water. What does this tell you about how it moves?",
+    "options": [
+      "Smoothly and easily",
+      "Noisily and splashing",
+      "In short sharp jumps",
+      "Slowly and with great effort"
+    ],
+    "answer": 0,
+    "hint": "Gliding is smooth, effortless movement — nothing about it is jerky or laboured.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "Why might a poet choose “brook” rather than “river”?",
+    "options": [
+      "Because a brook has no water in summer",
+      "Because rivers cannot have fish in them",
+      "Because it is small, and suits a quiet country lane",
+      "Because it is deeper and more dangerous"
+    ],
+    "answer": 2,
+    "hint": "A brook is small. The whole poem is about small things noticed closely in one lane.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "Dictionary",
+    "topic": "dictionary",
+    "topicLabel": "Dictionary",
+    "subtopic": "On a Lane in Spring",
+    "question": "Clare uses country words like pingle and pilewort. What does this tell you about him?",
+    "options": [
+      "He was writing for readers in another country",
+      "He was inventing words that had no meaning",
+      "He wrote about the countryside he actually lived and worked in",
+      "He had never seen the places he wrote about"
+    ],
+    "answer": 2,
+    "hint": "Clare was a farm labourer who wrote about his own fields, using the words used there.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "How does the speaker describe the brook?",
+    "options": [
+      "It runs close beside the lane and sparkles in the sunshine",
+      "It is frozen over and silent",
+      "It is wide, deep and dangerous to cross",
+      "It has dried up and left only stones"
+    ],
+    "answer": 0,
+    "hint": "The brook runs close beside the lane and spangles — sparkles — in the sunshine, with fish gliding by.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "What are the fish doing in the brook?",
+    "options": [
+      "Swimming away from the lane",
+      "Gliding swiftly by",
+      "Leaping out of the water",
+      "Lying still on the bottom"
+    ],
+    "answer": 1,
+    "hint": "The fish glide swiftly by — smooth, easy movement in the sunlit water.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "What do the old birds do?",
+    "options": [
+      "They sit silently in their nests all day",
+      "They fly away to another country",
+      "They fly out from the greenery and chirp and whistle in the morning sun",
+      "They drive the younger birds out of the hedges"
+    ],
+    "answer": 2,
+    "hint": "The old birds come out from the greenery of the hedges and chirp and whistle in the morning sun.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "Where do the old birds come from?",
+    "options": [
+      "From the middle of the brook",
+      "Out of the greenery of the hedges",
+      "From under the arum leaves",
+      "From the roof of a house"
+    ],
+    "answer": 1,
+    "hint": "They fly from out their greenery — the hedges that are leafing with the spring.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "Why does the speaker call the spring mild?",
+    "options": [
+      "Because it is the shortest season",
+      "Because there is very little of it that year",
+      "Because it brings heavy storms",
+      "Because it arrives gently, with no harshness of cold or heat"
+    ],
+    "answer": 3,
+    "hint": "Mild means gentle. Everything in the poem comes quietly to life — nothing is forced, and there is no extreme of weather anywhere in it.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "“How mild the Spring comes in.” Which of these best matches that mildness?",
+    "options": [
+      "The brook flooding over its banks",
+      "A gale stripping the hedges bare",
+      "Daisy buds opening quietly and a robin beginning its nest",
+      "Snow lying thick across the lane"
+    ],
+    "answer": 2,
+    "hint": "The poem's images are all small and gentle — buds opening, a nest begun. That is what makes the spring mild.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "Where does the fly rest?",
+    "options": [
+      "On the surface of the brook",
+      "On the pilewort flower",
+      "On the arum leaf",
+      "On a daisy bud"
+    ],
+    "answer": 2,
+    "hint": "The fly rests on the Arum leaf, which the poet says is bottle green.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "What colour is the arum leaf said to be?",
+    "options": [
+      "Bottle green",
+      "Grass green",
+      "Golden yellow",
+      "Pale blue"
+    ],
+    "answer": 0,
+    "hint": "The arum leaf is bottle green — a deep, dark green, quite unlike the pale blue sky above it.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "What has the little robin begun?",
+    "options": [
+      "Its song",
+      "Its search for the brook",
+      "Its nest",
+      "Its journey to another country"
+    ],
+    "answer": 2,
+    "hint": "The little robin has its nest begun — the season is early, and the work is only just started.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "What do the daisy buds do?",
+    "options": [
+      "Lift up their golden blossoms to the sky",
+      "Close tightly against the cold",
+      "Fall to the ground",
+      "Turn away from the sun"
+    ],
+    "answer": 0,
+    "hint": "The daisy buds lift up their golden blossoms to the sky — as though raising them deliberately.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "Which creatures does the speaker notice on the ground and in the air near the end?",
+    "options": [
+      "A frog and a snake",
+      "A beetle running and a fly resting",
+      "A fox and a hare",
+      "A mouse and an owl"
+    ],
+    "answer": 1,
+    "hint": "Here a beetle runs, and there a fly rests — two very small creatures, noticed closely.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "What is the poem's setting?",
+    "options": [
+      "A wide river in summer",
+      "A garden in the middle of a city",
+      "A single country lane in springtime",
+      "A forest at night"
+    ],
+    "answer": 2,
+    "hint": "Everything happens in one little lane. The poem's whole method is to look hard at one small place.",
+    "difficulty": "easy",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "The last line says all the Spring in this sweet lane is seen. What does the speaker mean?",
+    "options": [
+      "The lane is the only place where spring arrives",
+      "Spring is difficult to see in the lane",
+      "Spring will soon be over in the lane",
+      "The whole of spring can be found in this one small lane"
+    ],
+    "answer": 3,
+    "hint": "The claim is that one small place, looked at properly, contains the whole season — you do not need to go anywhere else.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "What kind of poem is this?",
+    "options": [
+      "A ballad telling a long story",
+      "A play written in verse",
+      "A limerick meant to be funny",
+      "A sonnet of fourteen lines"
+    ],
+    "answer": 3,
+    "hint": "It runs to fourteen lines, which makes it a sonnet — a form Clare used often.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-poem",
+    "topicLabel": "Understanding the Poem",
+    "subtopic": null,
+    "question": "Which sense does the poet use most in this poem?",
+    "options": [
+      "Taste",
+      "Smell",
+      "Sight",
+      "Touch"
+    ],
+    "answer": 2,
+    "hint": "Almost everything is something seen — sparkling water, glittering flowers, green leaves, golden blossoms. Only the chirping and whistling is heard.",
+    "difficulty": "medium",
+    "status": "published"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-devices",
+    "topicLabel": "Alliteration & Personification",
+    "subtopic": null,
+    "question": "What is alliteration?",
+    "options": [
+      "Giving human qualities to something that is not human",
+      "Comparing two things using like or as",
+      "The same sound repeated at the start of words close together",
+      "Two lines that end with the same sound"
+    ],
+    "answer": 2,
+    "hint": "Alliteration is repetition of the opening sound — brook, bushes, blossoms — not of the ending, which would be rhyme.",
+    "difficulty": "easy",
+    "status": "draft"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-devices",
+    "topicLabel": "Alliteration & Personification",
+    "subtopic": null,
+    "question": "“A Little Lane” — which sound is repeated here?",
+    "options": [
+      "The t sound",
+      "The n sound",
+      "The l sound",
+      "The a sound"
+    ],
+    "answer": 2,
+    "hint": "Little and Lane both open with l, so the l sound is repeated.",
+    "difficulty": "easy",
+    "status": "draft"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-devices",
+    "topicLabel": "Alliteration & Personification",
+    "subtopic": null,
+    "question": "“And spangles in the sunshine” — what makes this alliteration?",
+    "options": [
+      "Both words have the same number of letters",
+      "Spangles and sunshine rhyme with each other",
+      "Spangles and sunshine both begin with the s sound",
+      "Both words describe the same object"
+    ],
+    "answer": 2,
+    "hint": "Alliteration is about the sound at the start: spangles and sunshine share s.",
+    "difficulty": "easy",
+    "status": "draft"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-devices",
+    "topicLabel": "Alliteration & Personification",
+    "subtopic": null,
+    "question": "“And grass green linnets round the bushes fly.” Which pair alliterates?",
+    "options": [
+      "round and bushes",
+      "bushes and fly",
+      "linnets and round",
+      "grass and green"
+    ],
+    "answer": 3,
+    "hint": "Grass and green both begin with the g sound and sit side by side.",
+    "difficulty": "easy",
+    "status": "draft"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-devices",
+    "topicLabel": "Alliteration & Personification",
+    "subtopic": null,
+    "question": "“The pilewort glitters 'neath the pale blue sky.” Which words alliterate?",
+    "options": [
+      "blue and sky",
+      "glitters and blue",
+      "'neath and sky",
+      "pilewort and pale"
+    ],
+    "answer": 3,
+    "hint": "Pilewort and pale both begin with p.",
+    "difficulty": "medium",
+    "status": "draft"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-devices",
+    "topicLabel": "Alliteration & Personification",
+    "subtopic": null,
+    "question": "Which of these is NOT an example of alliteration?",
+    "options": [
+      "grass green linnets",
+      "spangles in the sunshine",
+      "the fish glide swiftly by",
+      "a little lane"
+    ],
+    "answer": 2,
+    "hint": "Glide, swiftly and by begin with three different sounds. The others each repeat an opening sound.",
+    "difficulty": "medium",
+    "status": "draft"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-devices",
+    "topicLabel": "Alliteration & Personification",
+    "subtopic": null,
+    "question": "Why do poets use alliteration?",
+    "options": [
+      "It hides the meaning of the poem",
+      "It makes a poem longer",
+      "It makes a line pleasing to say and helps it stay in the memory",
+      "It is the only way to make lines rhyme"
+    ],
+    "answer": 2,
+    "hint": "Repeated sounds bind words together and make a line easier to remember — which is why nursery rhymes are full of it.",
+    "difficulty": "medium",
+    "status": "draft"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-devices",
+    "topicLabel": "Alliteration & Personification",
+    "subtopic": null,
+    "question": "What is personification?",
+    "options": [
+      "Repeating the first sound of nearby words",
+      "Saying one thing is like another",
+      "Describing a thing as if it were a person",
+      "Using the same word twice in a line"
+    ],
+    "answer": 2,
+    "hint": "Personification gives human actions or feelings to something that is not human — a flower, a season, a river.",
+    "difficulty": "easy",
+    "status": "draft"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-devices",
+    "topicLabel": "Alliteration & Personification",
+    "subtopic": null,
+    "question": "“The daisy buds lift up their golden blossoms to the sky.” Why is this personification?",
+    "options": [
+      "The line asks the reader a question",
+      "The same sound is repeated at the start of the words",
+      "Buds are described as lifting, which is something a person does with hands",
+      "Buds are compared to gold using the word like"
+    ],
+    "answer": 2,
+    "hint": "Flowers do not lift anything. Giving them that deliberate human action is what makes it personification.",
+    "difficulty": "medium",
+    "status": "draft"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-devices",
+    "topicLabel": "Alliteration & Personification",
+    "subtopic": null,
+    "question": "“How mild the Spring comes in.” What makes this personification?",
+    "options": [
+      "The word Spring is repeated",
+      "Spring is compared to a mild day",
+      "It uses the word how at the start",
+      "A season is described as coming in, as a person enters a room"
+    ],
+    "answer": 3,
+    "hint": "Coming in is something a guest does. Treating the season as one gives it a human way of arriving.",
+    "difficulty": "medium",
+    "status": "draft"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-devices",
+    "topicLabel": "Alliteration & Personification",
+    "subtopic": null,
+    "question": "Which of these lines contains personification?",
+    "options": [
+      "And hedges leafing with the green spring tide",
+      "The pilewort glitters 'neath the pale blue sky",
+      "The daisy buds lift up their golden blossoms to the sky",
+      "Here a beetle runs; and there a fly"
+    ],
+    "answer": 2,
+    "hint": "Glittering, running and leafing are all things those things really do. Only the buds are given a human action.",
+    "difficulty": "hard",
+    "status": "draft"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-devices",
+    "topicLabel": "Alliteration & Personification",
+    "subtopic": null,
+    "question": "What is the difference between alliteration and personification?",
+    "options": [
+      "One compares two things; the other repeats a whole line",
+      "One is used in poems; the other only in stories",
+      "There is no difference — they are two names for the same thing",
+      "One is about repeated sounds; the other is about giving human qualities to things"
+    ],
+    "answer": 3,
+    "hint": "Alliteration is a matter of sound. Personification is a matter of meaning.",
+    "difficulty": "medium",
+    "status": "draft"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-devices",
+    "topicLabel": "Alliteration & Personification",
+    "subtopic": null,
+    "question": "“The little robin has its nest begun.” Is this personification?",
+    "options": [
+      "Yes — because the robin is called little",
+      "No — building a nest is something a robin really does",
+      "Yes — because robins cannot build nests",
+      "No — because it contains alliteration instead"
+    ],
+    "answer": 1,
+    "hint": "Personification means giving a thing a quality it could not have. A robin building a nest is simply a robin doing what robins do.",
+    "difficulty": "hard",
+    "status": "draft"
+  },
+  {
+    "grade": 6,
+    "subject": "english",
+    "chapter": "On a Lane in Spring",
+    "topic": "spring-lane-devices",
+    "topicLabel": "Alliteration & Personification",
+    "subtopic": null,
+    "question": "In this poem, what does the poet's use of personification achieve?",
+    "options": [
+      "It proves that plants can think",
+      "It shows that the poet dislikes the countryside",
+      "It makes the poem harder to understand",
+      "It makes the lane feel alive and busy with its own doings"
+    ],
+    "answer": 3,
+    "hint": "Giving the buds and the season human actions makes the lane seem full of life going on by itself, which is the poem's whole feeling.",
+    "difficulty": "hard",
+    "status": "draft"
+  }
+]

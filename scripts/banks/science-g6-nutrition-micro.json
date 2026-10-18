@@ -1,0 +1,962 @@
+[
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Vitamins are called protective foods because they:",
+    "options": [
+      "Protect the body from diseases and keep it working properly",
+      "Build muscles",
+      "Give the most energy",
+      "Provide roughage"
+    ],
+    "answer": 0,
+    "hint": "Vitamins are needed in tiny amounts, but without them the body cannot defend or repair itself."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Vitamins are needed by the body in:",
+    "options": [
+      "The same amount as carbohydrate",
+      "Very large amounts",
+      "Very small amounts",
+      "No amount at all"
+    ],
+    "answer": 2,
+    "hint": "They are micronutrients. A few milligrams a day is often enough."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "The four fat-soluble vitamins are:",
+    "options": [
+      "B, C, D and E",
+      "A, D, E and K",
+      "A, B, C and D",
+      "C, D, E and K"
+    ],
+    "answer": 1,
+    "hint": "Remember them as the word ADEK. These dissolve in fat, not water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Which vitamins are water-soluble?",
+    "options": [
+      "Vitamins A and D",
+      "Vitamin B group and vitamin C",
+      "Vitamins E and K",
+      "Vitamins A and K"
+    ],
+    "answer": 1,
+    "hint": "B and C dissolve in water, so the body cannot store them for long."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Why must water-soluble vitamins be eaten more regularly than fat-soluble ones?",
+    "options": [
+      "They taste better",
+      "They are cheaper",
+      "The body cannot store them, so extra amounts are passed out in urine",
+      "They are absorbed more slowly"
+    ],
+    "answer": 2,
+    "hint": "Fat-soluble vitamins are stored in the liver and body fat. Water-soluble ones are not."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Which vitamin is needed to see properly in dim light?",
+    "options": [
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin K"
+    ],
+    "answer": 2,
+    "hint": "Vitamin A is used by the eye to form the pigment that works in low light."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "The deficiency disease caused by lack of vitamin A is:",
+    "options": [
+      "Night blindness",
+      "Scurvy",
+      "Rickets",
+      "Beriberi"
+    ],
+    "answer": 0,
+    "hint": "The first sign is difficulty seeing in dim light, which is why it is called night blindness."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Which of these is the richest source of vitamin A?",
+    "options": [
+      "Cooking salt",
+      "White rice",
+      "Carrots and papaya",
+      "Refined sugar"
+    ],
+    "answer": 2,
+    "hint": "Orange and dark green vegetables are the classic sources of vitamin A."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Which vitamin can the body make in the skin when exposed to sunlight?",
+    "options": [
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin K"
+    ],
+    "answer": 0,
+    "hint": "This is why vitamin D is nicknamed the sunshine vitamin."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Vitamin D is important because it helps the body:",
+    "options": [
+      "Heal wounds",
+      "See in the dark",
+      "Absorb calcium for strong bones and teeth",
+      "Clot the blood"
+    ],
+    "answer": 2,
+    "hint": "Calcium in food is of little use if there is no vitamin D to help absorb it."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Lack of vitamin D in children causes:",
+    "options": [
+      "Rickets, with soft and bent bones",
+      "Goitre",
+      "Scurvy",
+      "Night blindness"
+    ],
+    "answer": 0,
+    "hint": "Without vitamin D, bones do not harden properly and the legs may bow under the body's weight."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Which vitamin helps wounds heal and keeps the gums healthy?",
+    "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "answer": 0,
+    "hint": "Vitamin C is needed to make collagen, the material that holds tissues together."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "The deficiency disease caused by lack of vitamin C is:",
+    "options": [
+      "Rickets",
+      "Kwashiorkor",
+      "Beriberi",
+      "Scurvy"
+    ],
+    "answer": 3,
+    "hint": "Scurvy shows as bleeding gums, loose teeth and wounds that will not heal."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Which group of foods is richest in vitamin C?",
+    "options": [
+      "Meat and fish",
+      "Rice and wheat",
+      "Butter and ghee",
+      "Amla, guava, orange and lemon"
+    ],
+    "answer": 3,
+    "hint": "Citrus fruits and amla are the classic vitamin C foods. Amla is among the richest of all."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Vitamin C is easily destroyed by:",
+    "options": [
+      "Darkness",
+      "Cold storage",
+      "Heat, so long cooking reduces it",
+      "Salt"
+    ],
+    "answer": 2,
+    "hint": "This is why fruits rich in vitamin C are best eaten raw or only lightly cooked."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Which vitamin helps blood to clot when you are cut?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin K",
+      "Vitamin C"
+    ],
+    "answer": 2,
+    "hint": "Think of K for klotting. Without it even small cuts bleed for a long time."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "A person whose small cuts bleed for a long time may be short of:",
+    "options": [
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin A",
+      "Vitamin D"
+    ],
+    "answer": 1,
+    "hint": "Vitamin K is essential for the blood-clotting process."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Which foods are good sources of vitamin K?",
+    "options": [
+      "Polished rice",
+      "White sugar",
+      "Cooking oil",
+      "Green leafy vegetables such as spinach and cabbage"
+    ],
+    "answer": 3,
+    "hint": "Dark green leaves are the main dietary source of vitamin K."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "The main role of vitamin E in the body is to:",
+    "options": [
+      "Help blood clot",
+      "Harden the bones",
+      "Protect body cells from damage",
+      "Improve night vision"
+    ],
+    "answer": 2,
+    "hint": "Vitamin E acts as a protector of cell membranes, and is found in nuts, seeds and vegetable oils."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "The B group vitamins mainly help the body to:",
+    "options": [
+      "Clot the blood",
+      "See in dim light",
+      "Absorb calcium",
+      "Release energy from food"
+    ],
+    "answer": 3,
+    "hint": "The B vitamins act as helpers in the reactions that turn food into usable energy."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "The deficiency disease caused by lack of vitamin B1 is:",
+    "options": [
+      "Beriberi",
+      "Goitre",
+      "Rickets",
+      "Scurvy"
+    ],
+    "answer": 0,
+    "hint": "Beriberi causes weak muscles and nerve damage. It was common where only polished rice was eaten."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Why did beriberi become common when rice began to be heavily polished?",
+    "options": [
+      "Polishing adds harmful chemicals",
+      "Polishing removes the bran, where the B vitamins are stored",
+      "Polished rice is harder to cook",
+      "Polishing removes all the starch"
+    ],
+    "answer": 1,
+    "hint": "The vitamins sit in the outer layers, which polishing strips away."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Which vitamin deficiency can lead to anaemia along with iron shortage?",
+    "options": [
+      "Vitamin E",
+      "Vitamin K",
+      "Vitamin D",
+      "Vitamin B12"
+    ],
+    "answer": 3,
+    "hint": "Vitamin B12 is needed to make healthy red blood cells."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Can taking very large doses of fat-soluble vitamins be harmful?",
+    "options": [
+      "No, vitamins are never harmful",
+      "Yes, because the body stores them and they can build up",
+      "Yes, but only vitamin C",
+      "No, extra amounts always pass out"
+    ],
+    "answer": 1,
+    "hint": "What is stored can accumulate. This is why vitamin supplements should not be taken casually."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Eating a little fat along with carrots or spinach helps because:",
+    "options": [
+      "Fat-soluble vitamins are absorbed better in the presence of fat",
+      "Fat adds vitamin C",
+      "Fat destroys the fibre",
+      "Fat makes vegetables sweeter"
+    ],
+    "answer": 0,
+    "hint": "Vitamins A, D, E and K need fat to be carried into the body."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "vitamins",
+    "topicLabel": "Vitamins",
+    "question": "Which statement about vitamins is correct?",
+    "options": [
+      "No single food contains every vitamin, so variety matters",
+      "Vitamins give energy directly",
+      "Vitamins are only found in tablets",
+      "One fruit supplies all vitamins"
+    ],
+    "answer": 0,
+    "hint": "Variety is the whole point of a balanced diet. Different foods carry different vitamins."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "Minerals differ from vitamins because minerals are:",
+    "options": [
+      "Made only by animals",
+      "A type of carbohydrate",
+      "Simple substances that come from the earth and cannot be made by living things",
+      "A form of roughage"
+    ],
+    "answer": 2,
+    "hint": "Minerals such as calcium and iron are elements. Plants take them from the soil."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "Which mineral is the main building material of bones and teeth?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Iodine",
+      "Sodium"
+    ],
+    "answer": 0,
+    "hint": "Around 99 per cent of the body's calcium sits in the bones and teeth."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "A long shortage of calcium leads to:",
+    "options": [
+      "Swollen neck",
+      "Night blindness",
+      "Bleeding gums",
+      "Weak, brittle bones and poor teeth"
+    ],
+    "answer": 3,
+    "hint": "Without enough calcium the skeleton weakens and fractures more easily."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "Which mineral is needed to carry oxygen in the blood?",
+    "options": [
+      "Iodine",
+      "Iron",
+      "Calcium",
+      "Phosphorus"
+    ],
+    "answer": 1,
+    "hint": "Iron is part of haemoglobin, the red pigment that binds oxygen."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "The condition caused by a shortage of iron is:",
+    "options": [
+      "Beriberi",
+      "Anaemia",
+      "Scurvy",
+      "Rickets"
+    ],
+    "answer": 1,
+    "hint": "An anaemic person looks pale and tires quickly, because the blood carries less oxygen."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "Which of these is a good source of iron?",
+    "options": [
+      "Refined oil",
+      "Green leafy vegetables and jaggery",
+      "White sugar",
+      "Table salt"
+    ],
+    "answer": 1,
+    "hint": "Spinach, jaggery, dates and meat are the traditional iron foods."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "Eating a vitamin C rich food with an iron rich meal helps because:",
+    "options": [
+      "Vitamin C removes the iron",
+      "Vitamin C contains iron",
+      "It makes the meal sweeter",
+      "Vitamin C helps the body absorb iron better"
+    ],
+    "answer": 3,
+    "hint": "A squeeze of lemon over spinach genuinely increases how much iron the body takes up."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "Which mineral does the thyroid gland need to work properly?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Phosphorus",
+      "Iodine"
+    ],
+    "answer": 3,
+    "hint": "The thyroid uses iodine to make the hormone that controls growth and energy use."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "A swelling of the neck caused by iodine deficiency is called:",
+    "options": [
+      "Anaemia",
+      "Scurvy",
+      "Rickets",
+      "Goitre"
+    ],
+    "answer": 3,
+    "hint": "The thyroid gland enlarges when it cannot get the iodine it needs."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "Why is common salt in India usually iodised?",
+    "options": [
+      "To make it taste stronger",
+      "To make it whiter",
+      "To prevent iodine deficiency across the whole population cheaply",
+      "To make it dissolve faster"
+    ],
+    "answer": 2,
+    "hint": "Almost everyone eats salt, so adding iodine to it reaches almost everyone."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "Which mineral works with calcium to build bones and also helps release energy?",
+    "options": [
+      "Sodium",
+      "Iron",
+      "Phosphorus",
+      "Iodine"
+    ],
+    "answer": 2,
+    "hint": "Phosphorus is found in milk, fish and whole grains and pairs with calcium in bone."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "Which mineral, found in common salt, helps control the water balance of the body?",
+    "options": [
+      "Calcium",
+      "Iodine",
+      "Sodium",
+      "Iron"
+    ],
+    "answer": 2,
+    "hint": "Sodium is lost in sweat, which is why very heavy sweating needs salt as well as water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "Eating far too much salt over many years is linked to:",
+    "options": [
+      "Better eyesight",
+      "Stronger bones",
+      "Faster growth",
+      "High blood pressure"
+    ],
+    "answer": 3,
+    "hint": "Sodium is needed, but in small amounts. Excess raises blood pressure."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "Which of these is the best source of calcium for a vegetarian child?",
+    "options": [
+      "Cooking oil",
+      "Sugar",
+      "White bread",
+      "Milk, curd and ragi"
+    ],
+    "answer": 3,
+    "hint": "Dairy is the obvious source, and ragi is unusually rich in calcium among grains."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "Minerals reach our food originally from:",
+    "options": [
+      "The soil, taken up by plant roots",
+      "Rainwater only",
+      "Sunlight",
+      "The air only"
+    ],
+    "answer": 0,
+    "hint": "Plants absorb dissolved minerals from soil. Animals get them by eating plants."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "minerals",
+    "topicLabel": "Minerals",
+    "question": "Which pair correctly matches a mineral with its job?",
+    "options": [
+      "Sodium — clotting blood",
+      "Iodine — building bones",
+      "Iron — carrying oxygen in the blood",
+      "Calcium — helping the thyroid"
+    ],
+    "answer": 2,
+    "hint": "Check each pairing: calcium builds bone, iodine serves the thyroid, sodium balances water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "The part of food that the body cannot digest but still needs is called:",
+    "options": [
+      "Starch",
+      "Roughage or dietary fibre",
+      "Fat",
+      "Protein"
+    ],
+    "answer": 1,
+    "hint": "Roughage passes through the gut largely unchanged, and that is exactly why it is useful."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "The main job of roughage in the body is to:",
+    "options": [
+      "Help move waste through the intestines",
+      "Clot the blood",
+      "Provide energy",
+      "Build muscles"
+    ],
+    "answer": 0,
+    "hint": "Fibre adds bulk and holds water, which keeps the gut moving smoothly."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "A diet very low in roughage most often causes:",
+    "options": [
+      "Rickets",
+      "Goitre",
+      "Night blindness",
+      "Constipation"
+    ],
+    "answer": 3,
+    "hint": "Without bulk, waste moves slowly and becomes hard to pass."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "Which of these foods is richest in roughage?",
+    "options": [
+      "Butter",
+      "Whole grains, fruits and vegetables",
+      "Boiled egg",
+      "Refined sugar"
+    ],
+    "answer": 1,
+    "hint": "Fibre comes from plants. Animal foods and refined foods contain almost none."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "Why is eating a fruit better than drinking only its strained juice?",
+    "options": [
+      "The whole fruit keeps its fibre",
+      "Juice contains no water",
+      "Juice has no vitamins",
+      "The whole fruit has more sugar"
+    ],
+    "answer": 0,
+    "hint": "Straining removes the pulp, and with it most of the fibre."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "Roughage is mainly made of a plant material called:",
+    "options": [
+      "Casein",
+      "Glucose",
+      "Starch",
+      "Cellulose"
+    ],
+    "answer": 3,
+    "hint": "Humans have no enzyme that can break cellulose down, so it passes through."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "Roughly what fraction of the human body is water?",
+    "options": [
+      "About one quarter",
+      "Almost none",
+      "About two thirds",
+      "About one tenth"
+    ],
+    "answer": 2,
+    "hint": "Water is by far the largest single component of the body."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "Which of these is <b>not</b> a function of water in the body?",
+    "options": [
+      "Supplying energy",
+      "Controlling body temperature",
+      "Helping remove waste",
+      "Carrying nutrients around the body"
+    ],
+    "answer": 0,
+    "hint": "Water is essential but supplies no calories at all."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "The body loses water mainly through:",
+    "options": [
+      "Hair and nails",
+      "Bones",
+      "Urine, sweat and breathing",
+      "Teeth"
+    ],
+    "answer": 2,
+    "hint": "Even breathing out loses water, which is why breath fogs a cold mirror."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "The condition caused by losing more water than the body takes in is called:",
+    "options": [
+      "Rehydration",
+      "Malnutrition",
+      "Anaemia",
+      "Dehydration"
+    ],
+    "answer": 3,
+    "hint": "Dehydration means the body's water has fallen below what it needs."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "Which of these is an early sign of dehydration?",
+    "options": [
+      "Clear pale urine",
+      "Rapid growth",
+      "Dark yellow urine and a dry mouth",
+      "Feeling too full"
+    ],
+    "answer": 2,
+    "hint": "Concentrated, dark urine is one of the simplest signals that the body needs water."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "Restoring lost water and salts to the body is called:",
+    "options": [
+      "Digestion",
+      "Respiration",
+      "Dehydration",
+      "Rehydration"
+    ],
+    "answer": 3,
+    "hint": "Rehydration puts back both the water and the salts that were lost."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "ORS, given during diarrhoea, mainly contains:",
+    "options": [
+      "Only medicine",
+      "Only sugar",
+      "Only milk",
+      "Salt and sugar dissolved in clean water"
+    ],
+    "answer": 3,
+    "hint": "The sugar helps the gut absorb the salt and water quickly. That simple mixture saves lives."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "Why is plain water alone sometimes not enough after severe diarrhoea or heavy sweating?",
+    "options": [
+      "Salts are lost too and must be replaced",
+      "Water contains no oxygen",
+      "Water cannot be absorbed",
+      "Water is harmful then"
+    ],
+    "answer": 0,
+    "hint": "The body loses sodium and potassium along with the fluid, and both need replacing."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "Which drink is the best everyday choice for staying hydrated?",
+    "options": [
+      "A sugary energy drink",
+      "A fizzy cold drink",
+      "Strong coffee",
+      "Clean plain water"
+    ],
+    "answer": 3,
+    "hint": "Plain water hydrates without adding sugar or anything the body must then process."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "Why should you drink more water on a hot day or after playing?",
+    "options": [
+      "More water is lost as sweat and must be replaced",
+      "The body stops needing food",
+      "Sweating adds water to the body",
+      "Water tastes better when hot"
+    ],
+    "answer": 0,
+    "hint": "Sweating cools the body, but the cooling costs water that has to be put back."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "Traditional Indian foods such as buttermilk and lemon water are useful in summer because they:",
+    "options": [
+      "Provide only protein",
+      "Contain no water",
+      "Replace both water and salts lost in sweat",
+      "Stop sweating completely"
+    ],
+    "answer": 2,
+    "hint": "Chaas and nimbu paani are simple, effective rehydration drinks."
+  },
+  {
+    "grade": 6,
+    "subject": "science",
+    "chapter": "Food & Nutrition",
+    "topic": "roughage-water",
+    "topicLabel": "Roughage & Water",
+    "question": "Besides drinking, where else does the body get water from?",
+    "options": [
+      "From foods such as fruits, vegetables and dal",
+      "From sunlight",
+      "From breathing in air",
+      "Only from milk"
+    ],
+    "answer": 0,
+    "hint": "Watermelon, cucumber, curd and dal all carry a great deal of water."
+  }
+]

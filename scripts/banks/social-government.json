@@ -1,0 +1,3402 @@
+[
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "What is a government?",
+    "options": [
+      "A building in the capital city",
+      "A gathering of the richest people in a country",
+      "A company that sells goods to the public",
+      "The group of people and institutions with the authority to make and enforce decisions for a country"
+    ],
+    "answer": 3,
+    "hint": "Two things matter: it decides, and its decisions can be enforced.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "Why does a country need a government at all?",
+    "options": [
+      "Because millions of people living together need shared rules, services and a way to settle disputes",
+      "Because every country must have a flag",
+      "Because someone must own the land",
+      "Because otherwise there would be no festivals"
+    ],
+    "answer": 0,
+    "hint": "Imagine a city with no traffic rules and no one to settle a quarrel.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "What makes a government's decisions different from a suggestion?",
+    "options": [
+      "They are printed in newspapers",
+      "They are announced by important people",
+      "They apply to everyone and can be enforced by law",
+      "They are made in the capital city"
+    ],
+    "answer": 2,
+    "hint": "You may ignore advice. You may not ignore a law.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "Where does a government's authority come from in a democracy?",
+    "options": [
+      "From the people, who choose it in elections",
+      "From the wealthiest families",
+      "From the army",
+      "From the oldest citizens"
+    ],
+    "answer": 0,
+    "hint": "In a democracy the people lend the power and can take it back.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "Which of these is a decision only a government can make?",
+    "options": [
+      "Choosing the captain of a school team",
+      "Setting the taxes everyone in the country must pay",
+      "Deciding which film to watch",
+      "Deciding what a family will cook for dinner"
+    ],
+    "answer": 1,
+    "hint": "Look for the decision that binds strangers as well as friends.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "What is meant by the 'rule of law'?",
+    "options": [
+      "That everyone, including those in government, must obey the law",
+      "That only judges need to follow the law",
+      "That laws are decided by the ruler alone",
+      "That there must be a large number of laws"
+    ],
+    "answer": 0,
+    "hint": "The point is not that laws exist, but that nobody stands above them.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "A government builds a road that nobody wants to pay for individually. What does this illustrate?",
+    "options": [
+      "That roads are cheaper than houses",
+      "That only rich countries build roads",
+      "Governments provide things that benefit everyone but that no single person would pay for alone",
+      "That governments waste money"
+    ],
+    "answer": 2,
+    "hint": "Who would pay for a road they share with a million strangers?",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "What is the difference between a government and a country?",
+    "options": [
+      "A government lasts forever, a country does not",
+      "They mean exactly the same thing",
+      "The country is the land and the people; the government is who runs it at a given time",
+      "A country is smaller than a government"
+    ],
+    "answer": 2,
+    "hint": "Governments change after elections. The country stays.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "Why are government decisions written down as laws?",
+    "options": [
+      "So that everyone can know them, and so they apply the same way to all",
+      "Because writing is a tradition",
+      "So that only lawyers can read them",
+      "To make books longer"
+    ],
+    "answer": 0,
+    "hint": "An unwritten rule can be changed quietly to suit somebody.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "What happens in a country when there is no working government?",
+    "options": [
+      "Nothing changes at all",
+      "People become wealthier because there are no taxes",
+      "Schools and hospitals run better",
+      "Services break down and there is no reliable way to keep order or settle disputes"
+    ],
+    "answer": 3,
+    "hint": "Think about who would run the hospitals, courts and water supply.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "Which of these best describes what a citizen is?",
+    "options": [
+      "A full member of a country, with rights and duties under its laws",
+      "A person who works for the government",
+      "A person who has never broken a law",
+      "Anyone standing on a country's soil"
+    ],
+    "answer": 0,
+    "hint": "A visitor is not a citizen, even while inside the country.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "In a democracy, why is it important that people can criticise the government?",
+    "options": [
+      "Because criticism is entertaining",
+      "It is not important at all",
+      "Because governments enjoy being criticised",
+      "Because a government that cannot be questioned has no reason to correct its mistakes"
+    ],
+    "answer": 3,
+    "hint": "Ask what would improve a government's behaviour if nobody could complain.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "Which of these is NOT a function of a government?",
+    "options": [
+      "Deciding which religion each family must follow",
+      "Collecting taxes",
+      "Defending the country's borders",
+      "Running courts of law"
+    ],
+    "answer": 0,
+    "hint": "The Constitution leaves that choice with the person.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "What does it mean to say a government is 'accountable'?",
+    "options": [
+      "It keeps careful accounts of its money only",
+      "It cannot be removed from office",
+      "It must answer to the people for what it does",
+      "It employs many accountants"
+    ],
+    "answer": 2,
+    "hint": "Elections are the sharpest form of accountability.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "How does a government affect the life of a school student every day?",
+    "options": [
+      "Through the school itself, the roads travelled, the water supplied and the rules obeyed",
+      "Only through the television news",
+      "It has no effect until a person turns eighteen",
+      "Only when there is an election"
+    ],
+    "answer": 0,
+    "hint": "Count the government's work on the way to school.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "What is meant by 'sovereignty' of a country?",
+    "options": [
+      "That it has plenty of natural resources",
+      "That it makes its own decisions without being controlled by another country",
+      "That it is ruled by a king",
+      "That it has a very large army"
+    ],
+    "answer": 1,
+    "hint": "India became sovereign when it decided its own affairs.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "Why do people obey laws even when nobody is watching?",
+    "options": [
+      "Because they fear the army",
+      "Because cameras are everywhere",
+      "Because most people accept that shared rules make life together possible",
+      "Because laws are impossible to break"
+    ],
+    "answer": 2,
+    "hint": "A country policed only by fear would need a police officer for every citizen.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "A government collects taxes. What is the money mainly used for?",
+    "options": [
+      "It is stored and never used",
+      "Paying the salaries of ministers only",
+      "Buying land in other countries",
+      "Paying for shared services such as schools, hospitals, roads and defence"
+    ],
+    "answer": 3,
+    "hint": "Follow the money to the things everybody uses.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "What is the difference between a rule made by a school and a law made by a government?",
+    "options": [
+      "Only adults must follow laws",
+      "A school rule applies inside the school; a law applies to everyone in the country",
+      "There is no difference at all",
+      "School rules are more serious"
+    ],
+    "answer": 1,
+    "hint": "Both are rules; they differ in how far they reach.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "what-is-government",
+    "topicLabel": "What Is Government",
+    "question": "What is the strongest reason for a government to explain its decisions publicly?",
+    "options": [
+      "Explanations make announcements longer",
+      "It helps newspapers sell copies",
+      "It is required by every religion",
+      "People are more likely to accept decisions they understand, and can correct them if they are wrong"
+    ],
+    "answer": 3,
+    "hint": "Consent is easier to give when the reasoning is visible.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "Which of these is a basic function of any government?",
+    "options": [
+      "Deciding what people wear at home",
+      "Choosing the names of newborn children",
+      "Maintaining law and order",
+      "Selecting who marries whom"
+    ],
+    "answer": 2,
+    "hint": "Look for the task that keeps a large society working.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "Why does a government run schools and hospitals rather than leaving them entirely to private owners?",
+    "options": [
+      "So that education and health are available to those who cannot afford to pay",
+      "Because doctors must be government employees",
+      "Because private schools are illegal",
+      "Because governments enjoy running buildings"
+    ],
+    "answer": 0,
+    "hint": "Ask what would happen to a poor child if there were no government school.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "Which government function is at work when a bridge is built across a river?",
+    "options": [
+      "Conducting elections",
+      "Punishing criminals",
+      "Providing public infrastructure",
+      "Defending the borders"
+    ],
+    "answer": 2,
+    "hint": "Infrastructure means the shared structures a country runs on.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "What is the government's role during a flood or an earthquake?",
+    "options": [
+      "Only recording how many were affected",
+      "Organising rescue, relief and rebuilding on a scale no individual could manage",
+      "Waiting until the water goes down",
+      "Asking each family to manage alone"
+    ],
+    "answer": 1,
+    "hint": "Disaster response needs resources only a state can gather quickly.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "Why is defence considered a function of the national government rather than a state or local one?",
+    "options": [
+      "Because borders change every year",
+      "Because states have no money",
+      "Because soldiers dislike travelling",
+      "Because the country's borders and security concern the whole nation at once"
+    ],
+    "answer": 3,
+    "hint": "A threat to one border is a threat to the whole country.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "A government sets a minimum wage. Which function is this?",
+    "options": [
+      "Conducting elections",
+      "Protecting people from unfair treatment in the economy",
+      "Building roads",
+      "Defending the country"
+    ],
+    "answer": 1,
+    "hint": "It steps in where one side has far more bargaining power than the other.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "Why does a government make rules about the quality of food sold in shops?",
+    "options": [
+      "Because a buyer cannot test food for safety themselves before eating it",
+      "To make food more expensive",
+      "Because shopkeepers ask for the rules",
+      "Because food is imported"
+    ],
+    "answer": 0,
+    "hint": "Some risks cannot be judged by the person taking them.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "Which of these shows a government settling a dispute?",
+    "options": [
+      "Friends deciding who bats first",
+      "Two neighbours agreeing between themselves",
+      "A court deciding a quarrel between two people over land",
+      "A family dividing household work"
+    ],
+    "answer": 2,
+    "hint": "The state provides a neutral place to settle what people cannot settle themselves.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "What is the purpose of the government issuing currency notes?",
+    "options": [
+      "To decorate wallets",
+      "To replace the need for banks",
+      "To count the population",
+      "To provide money everybody trusts and accepts across the country"
+    ],
+    "answer": 3,
+    "hint": "Money works only if everyone agrees it has value.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "Which function of government is involved in running the railways?",
+    "options": [
+      "Interpreting the Constitution",
+      "Appointing judges",
+      "Conducting the census",
+      "Providing a public service that connects the whole country"
+    ],
+    "answer": 3,
+    "hint": "It is a service the public uses every day.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "Why does the government conduct a census every ten years?",
+    "options": [
+      "To find out how many people there are and what they need, so services can be planned",
+      "To choose the capital city",
+      "To collect taxes on the spot",
+      "To decide who may vote"
+    ],
+    "answer": 0,
+    "hint": "You cannot plan schools without knowing how many children there are.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "A government builds a canal to bring water to farms. Which need is being met?",
+    "options": [
+      "The need for entertainment",
+      "The need for resources that individual farmers could not arrange alone",
+      "The need for more elections",
+      "The need for a new border"
+    ],
+    "answer": 1,
+    "hint": "One farmer cannot dig a canal across a district.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "Why do governments regulate how factories dispose of their waste?",
+    "options": [
+      "To make factories close down",
+      "Because the harm falls on people who had no part in the factory's profit",
+      "Because waste is valuable",
+      "Because factories ask to be regulated"
+    ],
+    "answer": 1,
+    "hint": "The river is used by everyone downstream.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "Which of these is the government's welfare function?",
+    "options": [
+      "Printing the national anthem",
+      "Holding a parade on Republic Day",
+      "Naming new roads",
+      "Running schemes that support the poor, the elderly and the disabled"
+    ],
+    "answer": 3,
+    "hint": "Welfare means looking after those least able to look after themselves.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "Why is it a government's job to run courts rather than leaving disputes to be settled privately?",
+    "options": [
+      "Because disputes are rare",
+      "Because a fair decision needs someone with no interest in the quarrel and the power to enforce it",
+      "Because courts make money",
+      "Because private people cannot read the law"
+    ],
+    "answer": 1,
+    "hint": "Both sides must accept the referee, and the result.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "What is the government's role in controlling the spread of a disease?",
+    "options": [
+      "Waiting for the disease to pass",
+      "Closing all hospitals",
+      "Organising vaccination, treatment and public information across the whole population",
+      "Asking each family to find its own cure"
+    ],
+    "answer": 2,
+    "hint": "A disease crosses every boundary a family can draw.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "Which of these best explains why some services are provided by government rather than sold for profit?",
+    "options": [
+      "Profit is illegal in India",
+      "Some things everyone needs would be out of reach for many if they had to be bought",
+      "Government services are always better",
+      "Businesses are not allowed to provide services"
+    ],
+    "answer": 1,
+    "hint": "Think of who would be left out if every service had a price.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "A government reduces the tax on medicines. What is it trying to do?",
+    "options": [
+      "Increase its own income",
+      "Make an essential thing cheaper and easier for people to obtain",
+      "Help medicine shops close",
+      "Discourage people from buying medicine"
+    ],
+    "answer": 1,
+    "hint": "Taxes can be used to steer behaviour, not only to raise money.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "Which function does the police force carry out?",
+    "options": [
+      "Making new laws",
+      "Setting tax rates",
+      "Deciding court cases",
+      "Enforcing the law and maintaining public order"
+    ],
+    "answer": 3,
+    "hint": "Note that enforcing a law is different from making or judging it.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "functions-of-government",
+    "topicLabel": "Functions of Government",
+    "question": "What is the most complete description of what governments do?",
+    "options": [
+      "They print newspapers and books",
+      "They make rules, provide shared services, and settle disputes among people",
+      "They collect money and store it",
+      "They organise festivals and parades"
+    ],
+    "answer": 1,
+    "hint": "Three verbs cover most of it: decide, provide, resolve.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "Why does a large country have more than one level of government?",
+    "options": [
+      "Because one government would be too small",
+      "Because the Constitution has many pages",
+      "Because some decisions suit the whole country and others suit a village or a city",
+      "Because it creates more jobs"
+    ],
+    "answer": 2,
+    "hint": "Defence concerns everyone; a village street light does not.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "Which level of government would repair a broken street light in your neighbourhood?",
+    "options": [
+      "The state government",
+      "The local government",
+      "The national government",
+      "A foreign government"
+    ],
+    "answer": 1,
+    "hint": "The smallest problems are handled closest to the ground.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "Which level of government would decide policy for the country's armed forces?",
+    "options": [
+      "The village panchayat",
+      "The municipal corporation",
+      "The local government",
+      "The national government"
+    ],
+    "answer": 3,
+    "hint": "Defence is a matter for the whole country at once.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "What is the main advantage of local government?",
+    "options": [
+      "It never makes mistakes",
+      "It can ignore national laws",
+      "It costs nothing to run",
+      "The people deciding are close to the problem and know the area well"
+    ],
+    "answer": 3,
+    "hint": "Someone in the capital is unlikely to know which drain floods every monsoon.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "Why can a local government not decide its own foreign policy?",
+    "options": [
+      "Because local governments have no offices",
+      "Because it would be too expensive",
+      "Because foreign countries are far away",
+      "Because a country must speak with one voice to other countries"
+    ],
+    "answer": 3,
+    "hint": "Imagine each district signing its own treaties.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "A decision about the syllabus for schools across a state is taken at which level?",
+    "options": [
+      "The municipal ward",
+      "The United Nations",
+      "The village panchayat",
+      "The state government"
+    ],
+    "answer": 3,
+    "hint": "The state runs its own school system within national rules.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "What is the term for dividing powers between a national government and state governments?",
+    "options": [
+      "Monarchy",
+      "Bureaucracy",
+      "Diplomacy",
+      "Federalism"
+    ],
+    "answer": 3,
+    "hint": "India is described as a federal country with a strong centre.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "Why might two states have different rules about the same subject?",
+    "options": [
+      "Because the states are in different countries",
+      "Because there is no national government",
+      "Because states may ignore the Constitution",
+      "Because states are allowed to decide certain matters for themselves"
+    ],
+    "answer": 3,
+    "hint": "Some subjects belong to the states, some to the centre, some to both.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "Which of these problems is best solved at the local level?",
+    "options": [
+      "Signing a treaty with another country",
+      "Deciding the value of the rupee",
+      "Collecting rubbish from streets in a town",
+      "Commanding the navy"
+    ],
+    "answer": 2,
+    "hint": "Ask how far the problem reaches beyond the neighbourhood.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "What is the risk if every decision is taken by the national government alone?",
+    "options": [
+      "Local needs are ignored because the people deciding are too far away",
+      "There would be no laws at all",
+      "The country would have too many elections",
+      "Decisions would be made too quickly"
+    ],
+    "answer": 0,
+    "hint": "Distance from a problem usually means less knowledge of it.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "Which level of government usually runs the public hospital in a district?",
+    "options": [
+      "The state government",
+      "The village panchayat only",
+      "The national government only",
+      "A private company"
+    ],
+    "answer": 0,
+    "hint": "Health is largely a state subject in India.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "A new national highway is planned across several states. Which level takes the lead?",
+    "options": [
+      "The national government, because the road crosses state boundaries",
+      "The state that is largest",
+      "Each village panchayat separately",
+      "The municipal corporation of one city"
+    ],
+    "answer": 0,
+    "hint": "A road that crosses borders needs a decision above them.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "What does 'decentralisation' mean?",
+    "options": [
+      "Combining several states into one",
+      "Moving decision-making power away from the centre and closer to the people",
+      "Removing all local bodies",
+      "Building a new capital city"
+    ],
+    "answer": 1,
+    "hint": "The word means moving away from the centre.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "Why is it useful for a citizen that local government exists?",
+    "options": [
+      "Local officials cannot be questioned",
+      "Ordinary problems can be raised with someone nearby rather than in a distant capital",
+      "Local governments never collect taxes",
+      "It reduces the number of elections"
+    ],
+    "answer": 1,
+    "hint": "It is easier to reach a ward councillor than a minister.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "Which statement about the levels of government is correct?",
+    "options": [
+      "Only the national level makes real decisions",
+      "They are entirely independent of one another",
+      "They work together, each handling the matters best suited to it",
+      "They compete and one must eventually win"
+    ],
+    "answer": 2,
+    "hint": "Think of them as layers of one system, not rivals.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "A city runs out of drinking water. Which levels are likely to be involved?",
+    "options": [
+      "Local government for supply, and state government for the larger water sources",
+      "No level of government at all",
+      "Only foreign governments",
+      "Only the national government"
+    ],
+    "answer": 0,
+    "hint": "Big problems often reach across more than one level.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "Why do local bodies also need the power to collect some taxes?",
+    "options": [
+      "Because taxes are enjoyable to collect",
+      "Because the Constitution requires equal taxes",
+      "Because a body with no money of its own cannot act on its decisions",
+      "So that citizens pay twice"
+    ],
+    "answer": 2,
+    "hint": "Responsibility without resources is only paperwork.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "Which of these is decided at the national level in most countries?",
+    "options": [
+      "The name of a municipal park",
+      "The currency used across the country",
+      "The timing of a village fair",
+      "The route of a local bus"
+    ],
+    "answer": 1,
+    "hint": "A country cannot have a different rupee in every district.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "What usually happens when a state law conflicts with a national law on the same subject?",
+    "options": [
+      "The state law always prevails",
+      "The older law prevails",
+      "Both are cancelled",
+      "The national law generally prevails"
+    ],
+    "answer": 3,
+    "hint": "The higher level sets the frame within which the lower one works.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "levels-of-government",
+    "topicLabel": "Levels of Government",
+    "question": "What is the simplest way to describe the three levels of government?",
+    "options": [
+      "One for laws, one for money, one for defence",
+      "One for the neighbourhood, one for the state, and one for the whole country",
+      "One for each political party",
+      "One for the rich, one for the poor, one for the rest"
+    ],
+    "answer": 1,
+    "hint": "The levels are about area, not about groups of people.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "What is the elected local body in an Indian village called?",
+    "options": [
+      "The Lok Sabha",
+      "The Vidhan Sabha",
+      "The Rajya Sabha",
+      "The gram panchayat"
+    ],
+    "answer": 3,
+    "hint": "Gram means village.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "What is the local government of a large Indian city called?",
+    "options": [
+      "A gram sabha",
+      "A zila parishad",
+      "A state assembly",
+      "A municipal corporation"
+    ],
+    "answer": 3,
+    "hint": "Smaller towns have municipalities or nagar panchayats.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "Which body makes laws for a state in India?",
+    "options": [
+      "The Lok Sabha",
+      "The Supreme Court",
+      "The state legislative assembly, or Vidhan Sabha",
+      "The gram panchayat"
+    ],
+    "answer": 2,
+    "hint": "Vidhan Sabha means legislative assembly.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "Who heads the government of an Indian state?",
+    "options": [
+      "The Chief Minister",
+      "The Prime Minister",
+      "The Governor",
+      "The President"
+    ],
+    "answer": 0,
+    "hint": "The Governor is the constitutional head; the Chief Minister runs the government.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "Which body makes laws for the whole of India?",
+    "options": [
+      "The state assemblies together",
+      "The Supreme Court",
+      "The zila parishad",
+      "Parliament"
+    ],
+    "answer": 3,
+    "hint": "Parliament sits in New Delhi and its laws apply nationwide.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "Which amendments to the Constitution gave constitutional status to panchayats and municipalities?",
+    "options": [
+      "The 61st Amendment of 1988",
+      "The 42nd Amendment of 1976",
+      "The 73rd and 74th Amendments of 1992",
+      "The 1st Amendment of 1951"
+    ],
+    "answer": 2,
+    "hint": "One covered rural bodies, the other urban ones.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "What is the gram sabha?",
+    "options": [
+      "A committee of the state government",
+      "A court that hears village disputes",
+      "The office of the district collector",
+      "The meeting of all adult voters of a village, to which the panchayat answers"
+    ],
+    "answer": 3,
+    "hint": "It is the whole village, not a set of elected members.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "Why does the Constitution reserve seats for women in panchayats?",
+    "options": [
+      "Because men are not interested in local government",
+      "Because panchayats are small",
+      "To make sure women take part in decisions they had long been kept out of",
+      "Because women pay more taxes"
+    ],
+    "answer": 2,
+    "hint": "Reservation opens a door that custom had kept closed.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "Which of these is a subject usually handled by the state government in India?",
+    "options": [
+      "Police and public order",
+      "Foreign affairs",
+      "Defence of the country",
+      "Currency and coinage"
+    ],
+    "answer": 0,
+    "hint": "The three wrong answers are all national by their nature.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "What is a zila parishad?",
+    "options": [
+      "A state's upper house",
+      "A court above the High Court",
+      "The elected body of local government at the district level",
+      "A national ministry"
+    ],
+    "answer": 2,
+    "hint": "Zila means district.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "Which level of government in India issues a birth certificate?",
+    "options": [
+      "The Rajya Sabha",
+      "The local body — the municipality or the panchayat",
+      "The Ministry of Defence",
+      "The Supreme Court"
+    ],
+    "answer": 1,
+    "hint": "Records of everyday life are kept closest to where people live.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "A road inside a village needs repair. Who should the villagers approach first?",
+    "options": [
+      "The Supreme Court",
+      "Their gram panchayat",
+      "The Governor",
+      "The Prime Minister"
+    ],
+    "answer": 1,
+    "hint": "Start at the level that owns the problem.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "Why was local self-government given constitutional protection in 1992?",
+    "options": [
+      "To replace the Parliament",
+      "Because villages had asked for new names",
+      "So that these bodies could not simply be ignored or dissolved by state governments",
+      "To reduce the number of states"
+    ],
+    "answer": 2,
+    "hint": "Before that, local bodies existed at the pleasure of the states.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "Which official is appointed rather than elected?",
+    "options": [
+      "The Chief Minister",
+      "A member of the Lok Sabha",
+      "The Governor of a state",
+      "A ward councillor"
+    ],
+    "answer": 2,
+    "hint": "The Governor is appointed by the President.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "How often are elections to the Lok Sabha normally held?",
+    "options": [
+      "Every two years",
+      "Every year",
+      "Every five years",
+      "Every ten years"
+    ],
+    "answer": 2,
+    "hint": "Its normal term is five years unless dissolved earlier.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "Which of these decisions would a municipal corporation take?",
+    "options": [
+      "Where to place streetlights and how to collect the city's waste",
+      "What the national income tax rate should be",
+      "Whether to sign a trade agreement with another country",
+      "How many soldiers the army should have"
+    ],
+    "answer": 0,
+    "hint": "City housekeeping is the corporation's work.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "What is the role of the district collector?",
+    "options": [
+      "An elected head of the district",
+      "An appointed officer who carries out government administration in a district",
+      "The leader of the state assembly",
+      "A judge of the district court"
+    ],
+    "answer": 1,
+    "hint": "The collector implements; the elected bodies decide.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "Why do India's three levels of government sometimes work on the same problem?",
+    "options": [
+      "Because the Constitution is unclear",
+      "Because each level wants more taxes",
+      "Because the levels do not trust each other",
+      "Because large problems, such as clean water or education, need action at every level"
+    ],
+    "answer": 3,
+    "hint": "A school needs a building locally, teachers from the state, and a national policy.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "Which house of Parliament represents the states of India?",
+    "options": [
+      "The gram sabha",
+      "The Rajya Sabha",
+      "The Lok Sabha",
+      "The Vidhan Sabha"
+    ],
+    "answer": 1,
+    "hint": "Its members are chosen by the elected members of state assemblies.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "government-in-india",
+    "topicLabel": "Levels of Government in India",
+    "question": "What does it mean that India is a federal country?",
+    "options": [
+      "All power rests with the states",
+      "There is no written division of power",
+      "All power rests with the union government",
+      "Power is shared between the union government and the state governments under the Constitution"
+    ],
+    "answer": 3,
+    "hint": "Neither level can simply abolish the other.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "What are the three organs of government?",
+    "options": [
+      "The legislature, the executive and the judiciary",
+      "The army, the police and the courts",
+      "The centre, the states and the districts",
+      "The President, the Prime Minister and the Governor"
+    ],
+    "answer": 0,
+    "hint": "One makes laws, one carries them out, one interprets them.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "What is the main work of the legislature?",
+    "options": [
+      "Deciding court cases",
+      "Running government departments",
+      "Making laws",
+      "Commanding the army"
+    ],
+    "answer": 2,
+    "hint": "The word comes from the same root as 'legal'.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "What is the main work of the executive?",
+    "options": [
+      "Interpreting the Constitution",
+      "Making new laws",
+      "Punishing people found guilty",
+      "Carrying out the laws and running the day-to-day administration"
+    ],
+    "answer": 3,
+    "hint": "It executes — that is, it puts decisions into effect.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "What is the main work of the judiciary?",
+    "options": [
+      "Making new laws",
+      "Interpreting the law and settling disputes",
+      "Conducting elections",
+      "Collecting taxes"
+    ],
+    "answer": 1,
+    "hint": "It decides what the law means and who is right.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "Which two houses make up the Indian Parliament?",
+    "options": [
+      "The Rajya Sabha and the Supreme Court",
+      "The Lok Sabha and the Rajya Sabha",
+      "The Vidhan Sabha and the Vidhan Parishad",
+      "The Lok Sabha and the Vidhan Sabha"
+    ],
+    "answer": 1,
+    "hint": "One is the house of the people, the other of the states.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "Who are the members of the Lok Sabha?",
+    "options": [
+      "Members chosen by state assemblies",
+      "Judges chosen by the Chief Justice",
+      "Officials appointed by the President",
+      "Representatives elected directly by the voters of each constituency"
+    ],
+    "answer": 3,
+    "hint": "Lok means people.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "Why is the judiciary kept independent of the government?",
+    "options": [
+      "So that courts can make their own laws",
+      "So that it can decide against the government itself when the law requires it",
+      "So that judges need not study the Constitution",
+      "So that judges can work shorter hours"
+    ],
+    "answer": 1,
+    "hint": "A court controlled by the government could not judge the government.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "What is meant by 'separation of powers'?",
+    "options": [
+      "Keeping law-making, law-enforcing and law-interpreting in different hands",
+      "Dividing the country into states",
+      "Separating the rich from the poor",
+      "Keeping men and women in different offices"
+    ],
+    "answer": 0,
+    "hint": "The point is that no single body should hold all three.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "What is the danger if one person controls all three organs of government?",
+    "options": [
+      "The country would have too many laws",
+      "Nothing would change",
+      "There is nobody left to check their power, and rights become unsafe",
+      "Decisions would take longer"
+    ],
+    "answer": 2,
+    "hint": "Who would judge a ruler who also makes and enforces the law?",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "Which is the highest court in India?",
+    "options": [
+      "The Lok Adalat",
+      "The Supreme Court",
+      "The High Court",
+      "The district court"
+    ],
+    "answer": 1,
+    "hint": "Its decisions bind every other court in the country.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "What is judicial review?",
+    "options": [
+      "The power of Parliament to review judgments",
+      "The power of courts to strike down a law that violates the Constitution",
+      "A review of court buildings",
+      "The yearly review of judges' salaries"
+    ],
+    "answer": 1,
+    "hint": "It is how the Constitution is kept above ordinary laws.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "Who is the head of the executive at the national level in practice?",
+    "options": [
+      "The Prime Minister, along with the Council of Ministers",
+      "The Governor of a state",
+      "The Speaker of the Lok Sabha",
+      "The Chief Justice of India"
+    ],
+    "answer": 0,
+    "hint": "The President is head of state; the Prime Minister heads the government.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "How does the legislature keep a check on the executive?",
+    "options": [
+      "By deciding court cases against them",
+      "By commanding the police",
+      "By questioning ministers, debating their decisions and controlling the budget",
+      "By appointing the judges"
+    ],
+    "answer": 2,
+    "hint": "Question Hour exists for exactly this reason.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "A law passed by Parliament is found to violate a Fundamental Right. What can happen?",
+    "options": [
+      "The Supreme Court can declare it invalid",
+      "The law applies only in some states",
+      "Nothing, since Parliament is supreme",
+      "The President must resign"
+    ],
+    "answer": 0,
+    "hint": "The Constitution sits above the law-making body.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "Which organ of government does a police officer belong to?",
+    "options": [
+      "The executive",
+      "The legislature",
+      "None of the three",
+      "The judiciary"
+    ],
+    "answer": 0,
+    "hint": "The police enforce the law rather than make or judge it.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "Who presides over the Lok Sabha?",
+    "options": [
+      "The Prime Minister",
+      "The Chief Justice",
+      "The President",
+      "The Speaker"
+    ],
+    "answer": 3,
+    "hint": "The Speaker keeps order and decides points of procedure.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "What is the role of the President of India in law-making?",
+    "options": [
+      "The President writes all the bills",
+      "The President votes in the Lok Sabha",
+      "The President has no role at all",
+      "A bill becomes law only after receiving the President's assent"
+    ],
+    "answer": 3,
+    "hint": "The signature is the final step.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "Why must ministers in India be members of the legislature?",
+    "options": [
+      "So that they can be questioned directly by the elected representatives",
+      "To reduce the number of elections",
+      "So that they can vote twice",
+      "Because ministers must be lawyers"
+    ],
+    "answer": 0,
+    "hint": "Accountability works best face to face.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "A court orders the government to clean a polluted river. Which principle is at work?",
+    "options": [
+      "The abolition of the separation of powers",
+      "The executive judging its own conduct",
+      "The judiciary holding the executive to its legal duties",
+      "The legislature making a new law"
+    ],
+    "answer": 2,
+    "hint": "The court is not making policy; it is enforcing an existing duty.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "organs-of-government",
+    "topicLabel": "Legislature, Executive & Judiciary",
+    "question": "Which statement about the three organs is correct?",
+    "options": [
+      "The three organs never interact",
+      "Each has its own work, and each limits the others",
+      "The judiciary is the most powerful of the three",
+      "The executive can overrule the courts"
+    ],
+    "answer": 1,
+    "hint": "Separate, but deliberately connected.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "What is a monarchy?",
+    "options": [
+      "A form of government in which a king or queen rules, usually inheriting the position",
+      "A government chosen by lottery each year",
+      "A government run by the army",
+      "A government with no head at all"
+    ],
+    "answer": 0,
+    "hint": "The defining feature is that the position passes down a family.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "What is a dictatorship?",
+    "options": [
+      "A government in which one person or a small group holds power without the people's consent",
+      "A government run by judges",
+      "A government with two houses",
+      "A government elected every five years"
+    ],
+    "answer": 0,
+    "hint": "The people have no way to remove the ruler.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "What is a democracy?",
+    "options": [
+      "A government headed by the wealthiest citizen",
+      "A government run by religious leaders",
+      "A form of government in which the people choose their rulers and can replace them",
+      "A government that never changes"
+    ],
+    "answer": 2,
+    "hint": "The Greek roots mean rule by the people.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "What is the difference between an absolute monarchy and a constitutional monarchy?",
+    "options": [
+      "In an absolute monarchy the ruler's word is law; in a constitutional one the monarch's powers are limited by law",
+      "Absolute monarchies have no kings",
+      "Constitutional monarchies have no laws",
+      "There is no difference between them"
+    ],
+    "answer": 0,
+    "hint": "Britain and Japan have monarchs whose powers are limited.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "Why is a democracy usually considered fairer than a dictatorship?",
+    "options": [
+      "Because democracies are always wealthier",
+      "Because dictatorships have no laws at all",
+      "Because power comes from the people and can be taken back from a government that fails them",
+      "Because democracies make decisions faster"
+    ],
+    "answer": 2,
+    "hint": "The test is not speed but whether the ruled can change the rulers.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "What is a republic?",
+    "options": [
+      "A country whose head of state is elected rather than inheriting the position",
+      "A country ruled by a king",
+      "A country with no government",
+      "A country with only one political party"
+    ],
+    "answer": 0,
+    "hint": "This is why India is called a republic and 26 January is Republic Day.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "What is the difference between direct and representative democracy?",
+    "options": [
+      "Representative democracy has no elections",
+      "There is no real difference",
+      "In a direct democracy people vote on decisions themselves; in a representative one they elect others to decide",
+      "Direct democracy uses paper ballots only"
+    ],
+    "answer": 2,
+    "hint": "A country of a billion people cannot gather to vote on every question.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "Which form of government does India have?",
+    "options": [
+      "A constitutional monarchy",
+      "A military dictatorship",
+      "A representative democracy and a republic",
+      "An absolute monarchy"
+    ],
+    "answer": 2,
+    "hint": "The Preamble describes India as a sovereign, socialist, secular, democratic republic.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "In a dictatorship, why is the press usually controlled?",
+    "options": [
+      "Because journalists ask to be controlled",
+      "Because dictators dislike reading",
+      "Because newspapers are expensive to print",
+      "Because free reporting would let people learn about the government's failures"
+    ],
+    "answer": 3,
+    "hint": "Control the information and you control what people can object to.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "Which of these is the clearest sign that a country is a democracy?",
+    "options": [
+      "The country holds parades",
+      "The country has a written constitution",
+      "The ruler is popular",
+      "Rulers can be voted out in regular, free elections"
+    ],
+    "answer": 3,
+    "hint": "Many undemocratic countries have constitutions and parades.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "What does 'one person, one vote' mean?",
+    "options": [
+      "Every voter's ballot counts equally, whatever their wealth or position",
+      "Only one person may vote per family",
+      "The vote of an elder counts for more",
+      "Each person may vote only once in a lifetime"
+    ],
+    "answer": 0,
+    "hint": "It is the rule that makes a poor voter equal to a rich one.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "Why do democracies hold elections at regular intervals rather than only when people are unhappy?",
+    "options": [
+      "Because elections are enjoyable",
+      "Because the Constitution has no other purpose",
+      "So that governments can plan holidays",
+      "Because a fixed date guarantees the chance to change the government without waiting for permission"
+    ],
+    "answer": 3,
+    "hint": "A government that chose its own election date would never choose a bad moment.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "A ruler bans all other political parties. What kind of government is this becoming?",
+    "options": [
+      "A federal republic",
+      "A stronger democracy",
+      "A dictatorship, because there is no longer a real choice",
+      "A constitutional monarchy"
+    ],
+    "answer": 2,
+    "hint": "An election with only one option is not a choice.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "In which form of government does the position of head of state pass from parent to child?",
+    "options": [
+      "Dictatorship",
+      "Monarchy",
+      "Democracy",
+      "Republic"
+    ],
+    "answer": 1,
+    "hint": "Inheritance is the distinguishing feature.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "Why is a free judiciary important in a democracy but rare in a dictatorship?",
+    "options": [
+      "Because courts are expensive to run",
+      "Independent courts can rule against the ruler, which a dictator cannot allow",
+      "Because judges refuse to work in dictatorships",
+      "Because dictators do not understand law"
+    ],
+    "answer": 1,
+    "hint": "The court is the one place a citizen can defeat the state.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "What is the strongest argument in favour of democracy despite its slowness?",
+    "options": [
+      "Democracy costs nothing",
+      "Democratic decisions are always correct",
+      "Democracies never make mistakes",
+      "Decisions made with people's consent are more likely to be accepted and corrected when wrong"
+    ],
+    "answer": 3,
+    "hint": "The advantage is not perfection but the ability to change course.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "Which of these countries is a well-known constitutional monarchy?",
+    "options": [
+      "France",
+      "The United Kingdom",
+      "The United States",
+      "Brazil"
+    ],
+    "answer": 1,
+    "hint": "It has a monarch as head of state and an elected parliament that governs.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "What does 'secular' mean in the description of the Indian state?",
+    "options": [
+      "Religion may not be discussed in public",
+      "The state has banned all religions",
+      "The state does not favour any religion and treats all equally",
+      "The state follows the largest religion"
+    ],
+    "answer": 2,
+    "hint": "Neutral between religions, not opposed to them.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "Under a dictatorship, what usually happens to elections?",
+    "options": [
+      "They are decided by lottery",
+      "They are cancelled, or held with no real opposition allowed",
+      "They are supervised by the courts",
+      "They are held more often than in democracies"
+    ],
+    "answer": 1,
+    "hint": "The form may survive; the substance does not.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "forms-of-government",
+    "topicLabel": "Monarchy, Dictatorship & Democracy",
+    "question": "What is the most important thing that makes a government democratic?",
+    "options": [
+      "That it has a capital city",
+      "That its authority rests on the free consent of the people it governs",
+      "That it has three organs",
+      "That it collects taxes"
+    ],
+    "answer": 1,
+    "hint": "Every government has organs and taxes. Not every one has consent.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "What does 'universal adult franchise' mean?",
+    "options": [
+      "That adults may vote in any country they visit",
+      "That voting is allowed only in cities",
+      "That every adult must stand for election",
+      "That every adult citizen has the right to vote, whatever their wealth, sex, religion or caste"
+    ],
+    "answer": 3,
+    "hint": "Franchise is another word for the right to vote.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "In most countries, who was allowed to vote when elections first began?",
+    "options": [
+      "Only women",
+      "Only a small number of wealthy men who owned property",
+      "Only people who could not read",
+      "Every adult citizen"
+    ],
+    "answer": 1,
+    "hint": "The vote began as a privilege of property, not a right of citizenship.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "Why did rulers once argue that only property owners should vote?",
+    "options": [
+      "Because poor people were not interested in politics",
+      "Because there were not enough ballot papers",
+      "Because property owners were better educated by law",
+      "They claimed only those with wealth had a real stake in the country's affairs"
+    ],
+    "answer": 3,
+    "hint": "It was an argument for keeping power where it already was.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "What is the connection between the right to vote and other rights?",
+    "options": [
+      "Voting matters only during elections",
+      "Other rights must come first",
+      "There is no connection at all",
+      "A group without the vote has no way to demand that its other rights be respected"
+    ],
+    "answer": 3,
+    "hint": "The vote is the tool used to win everything else.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "What does 'suffrage' mean?",
+    "options": [
+      "Suffering under an unjust ruler",
+      "A form of local government",
+      "A tax paid before voting",
+      "The right to vote in elections"
+    ],
+    "answer": 3,
+    "hint": "Suffragists and suffragettes campaigned for exactly this.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "Why was the demand for votes for women resisted for so long?",
+    "options": [
+      "Because there were no women citizens",
+      "Because women had asked to be excluded",
+      "Because of the belief that public and political life was not women's business",
+      "Because voting was too difficult"
+    ],
+    "answer": 2,
+    "hint": "A stereotype about women's proper place stood behind the law.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "What is a 'literacy test' when used as a condition for voting?",
+    "options": [
+      "A test of the voting machine",
+      "A test used to keep certain groups from voting by demanding they read something difficult",
+      "A test taken by candidates before an election",
+      "A school examination for all students"
+    ],
+    "answer": 1,
+    "hint": "Such tests were applied unequally, which was the point of them.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "Which statement about the history of voting rights is correct?",
+    "options": [
+      "In most countries the vote was widened slowly, group by group, after long campaigns",
+      "Every country granted universal suffrage at once",
+      "Women received the vote before men everywhere",
+      "Voting rights have never changed anywhere"
+    ],
+    "answer": 0,
+    "hint": "The word 'quest' in this topic is doing real work.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "Which country was the first self-governing nation to give women the right to vote?",
+    "options": [
+      "The United States, in 1920",
+      "New Zealand, in 1893",
+      "Britain, in 1918",
+      "France, in 1944"
+    ],
+    "answer": 1,
+    "hint": "It was decades ahead of most of Europe.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "Why is the secret ballot important?",
+    "options": [
+      "It makes counting faster",
+      "It saves paper",
+      "It allows people to vote twice",
+      "A voter can choose freely without fear of being punished for their choice"
+    ],
+    "answer": 3,
+    "hint": "Where votes are public, the powerful can watch how the weak vote.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "What is the minimum voting age in India today?",
+    "options": [
+      "Twenty-five",
+      "Eighteen",
+      "Twenty-one",
+      "Sixteen"
+    ],
+    "answer": 1,
+    "hint": "It was lowered from twenty-one in 1988.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "Which amendment lowered the voting age in India from twenty-one to eighteen?",
+    "options": [
+      "The 61st Amendment, in 1988",
+      "The 73rd Amendment, in 1992",
+      "The 1st Amendment, in 1951",
+      "The 42nd Amendment, in 1976"
+    ],
+    "answer": 0,
+    "hint": "It took effect in time for the 1989 general election.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "Why was the voting age lowered to eighteen?",
+    "options": [
+      "Because older voters had complained",
+      "Because young people were educated, informed and already treated as adults in other ways",
+      "To reduce the cost of elections",
+      "Because there were too few voters"
+    ],
+    "answer": 1,
+    "hint": "If eighteen is old enough to work or marry, it is old enough to vote.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "What does it mean that the right to vote in India is a constitutional right?",
+    "options": [
+      "It is guaranteed by the Constitution and cannot be withdrawn by an ordinary decision",
+      "It applies only to citizens over forty",
+      "It is a favour granted by the government each election",
+      "It may be bought and sold"
+    ],
+    "answer": 0,
+    "hint": "Article 326 provides for elections on the basis of adult suffrage.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "Why do many countries make election day a public holiday?",
+    "options": [
+      "Because counting takes a whole day",
+      "So that shops can sell more goods",
+      "To reduce traffic",
+      "So that working people are not forced to choose between wages and voting"
+    ],
+    "answer": 3,
+    "hint": "A right that costs a day's pay is not equally available to everyone.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "What is a constituency?",
+    "options": [
+      "The list of candidates",
+      "A political party's headquarters",
+      "The area whose voters elect one representative",
+      "The building where votes are counted"
+    ],
+    "answer": 2,
+    "hint": "Each Lok Sabha member is elected from one.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "Why is it a problem if many people do not vote?",
+    "options": [
+      "It has no effect at all",
+      "Ballot papers are wasted",
+      "Elections take longer to count",
+      "The government that results represents fewer people's wishes"
+    ],
+    "answer": 3,
+    "hint": "A choice made by few is still binding on all.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "What is the purpose of an independent Election Commission?",
+    "options": [
+      "To write the manifestos of parties",
+      "To choose the winning candidate",
+      "To run elections fairly so that no party in power can fix the result",
+      "To collect taxes during elections"
+    ],
+    "answer": 2,
+    "hint": "The referee must not belong to either team.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "Which of these would make an election unfair even if voting itself were free?",
+    "options": [
+      "A high number of voters turning out",
+      "Candidates from many parties standing",
+      "Results announced on the same day",
+      "Some candidates being prevented from campaigning"
+    ],
+    "answer": 3,
+    "hint": "A fair vote needs a fair contest before it.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "universal-adult-franchise",
+    "topicLabel": "The Quest for Universal Adult Franchise",
+    "question": "What is the simplest summary of the quest for universal adult franchise?",
+    "options": [
+      "A change that happened without any campaigning",
+      "A rule invented in the twenty-first century",
+      "A long struggle to turn the vote from a privilege of the few into a right of every adult",
+      "A short debate settled in one parliament"
+    ],
+    "answer": 2,
+    "hint": "Privilege to right — that is the whole journey.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "What were the suffragettes campaigning for?",
+    "options": [
+      "Free railway travel for women",
+      "Higher wages for factory workers",
+      "The abolition of the monarchy",
+      "The right of women to vote in elections"
+    ],
+    "answer": 3,
+    "hint": "Suffrage means the right to vote.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "In which country did the suffragette movement of the early 1900s take place?",
+    "options": [
+      "Britain",
+      "Brazil",
+      "South Africa",
+      "Japan"
+    ],
+    "answer": 0,
+    "hint": "It was centred on London and the industrial cities of England.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "Who founded the Women's Social and Political Union in 1903?",
+    "options": [
+      "Rosa Parks",
+      "Florence Nightingale",
+      "Emmeline Pankhurst",
+      "Sarojini Naidu"
+    ],
+    "answer": 2,
+    "hint": "Her daughters Christabel and Sylvia were also leaders in the movement.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "What was the motto of the Women's Social and Political Union?",
+    "options": [
+      "Peace and bread",
+      "Knowledge is power",
+      "Liberty or death",
+      "Deeds not words"
+    ],
+    "answer": 3,
+    "hint": "It marked their break from years of polite petitioning.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "What is the difference between a suffragist and a suffragette?",
+    "options": [
+      "They campaigned for entirely different rights",
+      "Suffragists were men and suffragettes were women",
+      "Suffragists campaigned peacefully through petitions; suffragettes used militant protest",
+      "There is no difference between the words"
+    ],
+    "answer": 2,
+    "hint": "Both wanted the vote; they disagreed about method.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "Many imprisoned suffragettes went on hunger strike. Why?",
+    "options": [
+      "Because they wished to lose weight",
+      "Because it was required by prison rules",
+      "Because prison food was expensive",
+      "To demand to be treated as political prisoners and to draw public attention"
+    ],
+    "answer": 3,
+    "hint": "A hunger strike turns a private punishment into public news.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "In 1918, British women won the vote, but with a condition. What was it?",
+    "options": [
+      "Only women who were married could vote",
+      "All women over eighteen could vote",
+      "Only women in London could vote",
+      "Only women over thirty who met a property qualification could vote"
+    ],
+    "answer": 3,
+    "hint": "Men could vote at twenty-one, so it was still not equal.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "In which year did British women finally win the vote on the same terms as men?",
+    "options": [
+      "1918",
+      "1928",
+      "1945",
+      "1893"
+    ],
+    "answer": 1,
+    "hint": "Ten years after the first, partial victory.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "Why did the suffragettes turn to disruptive protest after years of petitions?",
+    "options": [
+      "Because decades of peaceful requests had produced no change in the law",
+      "Because they enjoyed causing trouble",
+      "Because petitions were illegal",
+      "Because they were paid to protest"
+    ],
+    "answer": 0,
+    "hint": "Their argument was that being ignored politely was still being ignored.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "Emily Davison is remembered for an act of protest at which event in 1913?",
+    "options": [
+      "A royal wedding",
+      "A session of Parliament",
+      "The Epsom Derby horse race",
+      "A football match"
+    ],
+    "answer": 2,
+    "hint": "She stepped in front of the King's horse and later died of her injuries.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "What happened to the suffragette campaign during the First World War?",
+    "options": [
+      "It was largely suspended while women took on war work at home",
+      "It was made illegal",
+      "It moved to another country",
+      "It grew far more violent"
+    ],
+    "answer": 0,
+    "hint": "Women's war work helped weaken the argument that they had no public role.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "Which argument was used against giving women the vote?",
+    "options": [
+      "That voting was physically dangerous",
+      "That politics was a man's concern and women belonged in the home",
+      "That women already had the vote",
+      "That there were too few women in Britain"
+    ],
+    "answer": 1,
+    "hint": "It is a gender stereotype written into the law.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "What did suffragettes do to make their cause visible to the public?",
+    "options": [
+      "Kept their campaign entirely secret",
+      "Held marches, chained themselves to railings and interrupted political meetings",
+      "Bought newspapers to avoid publicity",
+      "Waited quietly for Parliament to act"
+    ],
+    "answer": 1,
+    "hint": "Visibility was the strategy.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "Why is the suffragette movement studied alongside other struggles for rights?",
+    "options": [
+      "It concerned only one city",
+      "It was the only protest movement in history",
+      "It succeeded without any opposition",
+      "It shows a group organising over decades to win a right that was denied to them"
+    ],
+    "answer": 3,
+    "hint": "The pattern — denial, campaign, partial win, full win — repeats elsewhere.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "What colours did the suffragettes adopt to identify their movement?",
+    "options": [
+      "Black and gold",
+      "Red, white and blue",
+      "Orange and green",
+      "Purple, white and green"
+    ],
+    "answer": 3,
+    "hint": "They wore them on sashes and banners so a crowd could be recognised at once.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "How did newspapers help the suffragette cause even when they criticised it?",
+    "options": [
+      "They spread news of the campaign to people who would never have heard of it",
+      "They paid for the campaign directly",
+      "They stopped the government from acting",
+      "They elected women to Parliament"
+    ],
+    "answer": 0,
+    "hint": "Attention, even hostile attention, kept the demand alive.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "What does the suffragette story show about how rights are usually won?",
+    "options": [
+      "They are decided by other countries",
+      "They are given by rulers out of kindness",
+      "They appear automatically as a country grows richer",
+      "They are demanded and organised for, rather than granted freely"
+    ],
+    "answer": 3,
+    "hint": "Nobody in power offered the vote before it was demanded.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "A suffragette poster showed a woman with a degree who could not vote, beside a man who could. What was the argument?",
+    "options": [
+      "That men were better educated",
+      "That women should not attend university",
+      "That the law ignored ability and education, and looked only at sex",
+      "That degrees should be required to vote"
+    ],
+    "answer": 2,
+    "hint": "The poster set two people side by side and let the unfairness speak.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "How long did the organised campaign for women's votes in Britain last?",
+    "options": [
+      "About six months",
+      "Several decades, from the mid-1800s to 1928",
+      "Two centuries",
+      "Exactly one year"
+    ],
+    "answer": 1,
+    "hint": "Many who began the campaign did not live to vote.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "suffragette-movement",
+    "topicLabel": "The Suffragette Movement",
+    "question": "What is the clearest lesson of the suffragette movement for a student today?",
+    "options": [
+      "Voting has always been open to everyone",
+      "Rights that seem obvious now were once refused, and had to be won by ordinary people",
+      "Protest never changes anything",
+      "Only famous people can change laws"
+    ],
+    "answer": 1,
+    "hint": "Ask how obvious women's suffrage seemed in 1900.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "What was apartheid?",
+    "options": [
+      "A type of farming used in southern Africa",
+      "A South African political party",
+      "A treaty between African countries",
+      "A system in South Africa that separated people by race and denied rights to black South Africans"
+    ],
+    "answer": 3,
+    "hint": "The word means 'apartness' in Afrikaans.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "In which country was apartheid the official policy?",
+    "options": [
+      "Nigeria",
+      "Egypt",
+      "South Africa",
+      "Kenya"
+    ],
+    "answer": 2,
+    "hint": "It was made official government policy in 1948.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "Under apartheid, what did the pass laws require?",
+    "options": [
+      "Foreign visitors to register with the police",
+      "Farmers to obtain a licence to sell crops",
+      "All citizens to carry a passport at all times",
+      "Black South Africans to carry documents permitting them to be in certain areas"
+    ],
+    "answer": 3,
+    "hint": "Movement in one's own country needed permission.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "Who was the most famous leader of the struggle against apartheid?",
+    "options": [
+      "Mahatma Gandhi",
+      "Nelson Mandela",
+      "Kwame Nkrumah",
+      "Martin Luther King Jr"
+    ],
+    "answer": 1,
+    "hint": "He led the African National Congress and later became president.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "How many years did Nelson Mandela spend in prison?",
+    "options": [
+      "Twelve",
+      "Forty",
+      "Five",
+      "Twenty-seven"
+    ],
+    "answer": 3,
+    "hint": "Much of it was spent on Robben Island.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "In which year was Nelson Mandela released from prison?",
+    "options": [
+      "1976",
+      "1990",
+      "1984",
+      "1994"
+    ],
+    "answer": 1,
+    "hint": "His release opened the way to negotiations that ended apartheid.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "When were South Africa's first elections held in which all races could vote?",
+    "options": [
+      "1948",
+      "1960",
+      "1990",
+      "1994"
+    ],
+    "answer": 3,
+    "hint": "Nelson Mandela became president after that election.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "Under apartheid, what was true of schools for black children?",
+    "options": [
+      "They did not exist at all",
+      "They were separate and deliberately given far fewer resources",
+      "They were the same as schools for white children",
+      "They were run by other countries"
+    ],
+    "answer": 1,
+    "hint": "The system was designed to limit what black children could become.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "What was the Soweto uprising of 1976?",
+    "options": [
+      "A strike by white factory workers",
+      "A national election",
+      "A protest by black schoolchildren against being forced to study in Afrikaans, met with violence",
+      "A football tournament"
+    ],
+    "answer": 2,
+    "hint": "It began with students and became a turning point.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "How did other countries put pressure on South Africa to end apartheid?",
+    "options": [
+      "By sending more trade and investment",
+      "Through boycotts, trade sanctions and banning South Africa from international sport",
+      "By declaring war on South Africa",
+      "By ignoring the situation entirely"
+    ],
+    "answer": 1,
+    "hint": "Sporting isolation was felt keenly in a sport-loving country.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "What connection does Mahatma Gandhi have with South Africa?",
+    "options": [
+      "He was born in South Africa",
+      "He lived and worked there as a young lawyer and first developed his methods of protest there",
+      "He never visited the country",
+      "He served as its president"
+    ],
+    "answer": 1,
+    "hint": "He spent about twenty-one years there before returning to India.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "What did Nelson Mandela mean by seeking reconciliation rather than revenge after 1994?",
+    "options": [
+      "He wanted apartheid to continue quietly",
+      "He wanted South Africans to build a shared future rather than punish each other for the past",
+      "He wanted white South Africans to leave",
+      "He refused to discuss the past at all"
+    ],
+    "answer": 1,
+    "hint": "The Truth and Reconciliation Commission came out of this thinking.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "What was the Truth and Reconciliation Commission?",
+    "options": [
+      "An organisation that ran the 1994 election",
+      "A body that heard testimony about crimes under apartheid so the country could face its past",
+      "A court that sentenced all former officials",
+      "A committee that wrote the new constitution"
+    ],
+    "answer": 1,
+    "hint": "Its aim was truth first, and healing through it.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "Which prize did Nelson Mandela share in 1993?",
+    "options": [
+      "The Nobel Peace Prize",
+      "The Bharat Ratna",
+      "The Booker Prize",
+      "An Olympic gold medal"
+    ],
+    "answer": 0,
+    "hint": "He shared it with F. W. de Klerk, the president who negotiated with him.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "How is apartheid similar to segregation in the United States?",
+    "options": [
+      "Both were caused by a shortage of land",
+      "Both separated people by race by law and denied one group equal rights",
+      "Neither involved any laws",
+      "Both lasted for exactly the same years"
+    ],
+    "answer": 1,
+    "hint": "Different countries, the same machinery of separation.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "Under apartheid, black South Africans were the majority of the population. Why does this matter?",
+    "options": [
+      "It shows the majority supported apartheid",
+      "It means apartheid was democratic",
+      "It made no difference to the system",
+      "It shows the system denied rights to most of the country's people to keep a minority in power"
+    ],
+    "answer": 3,
+    "hint": "A vote for all would have ended the system at once, which is why there was none.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "What does the South African constitution of 1996 guarantee?",
+    "options": [
+      "Voting rights only for property owners",
+      "A return to the pass laws",
+      "Equality for all citizens regardless of race",
+      "Separate areas for each race"
+    ],
+    "answer": 2,
+    "hint": "It is often described as one of the most progressive constitutions in the world.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "Why did the anti-apartheid movement need support from outside South Africa?",
+    "options": [
+      "Because other countries wanted South Africa's land",
+      "Because the movement had no leaders",
+      "Because South Africans did not object to apartheid",
+      "Because protest inside the country was banned and severely punished"
+    ],
+    "answer": 3,
+    "hint": "When protest at home is crushed, pressure must come from elsewhere too.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "What is the main lesson of the anti-apartheid struggle?",
+    "options": [
+      "Other countries should never interfere in anything",
+      "Injustice always lasts forever",
+      "A system built on racial injustice can be ended by sustained struggle at home and pressure abroad",
+      "Only violence can change a government"
+    ],
+    "answer": 2,
+    "hint": "It took decades, but the system fell.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "anti-apartheid",
+    "topicLabel": "The Anti-Apartheid Movement",
+    "question": "Nelson Mandela served only one term as president and then stepped down. Why is this remembered?",
+    "options": [
+      "He was voted out of office",
+      "It showed he valued democracy above his own power",
+      "He was too ill to continue",
+      "The constitution allowed only one term"
+    ],
+    "answer": 1,
+    "hint": "Many leaders who free a country do not let go of it afterwards.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "When India became independent, who was given the right to vote?",
+    "options": [
+      "Every adult citizen, from the very first general election",
+      "Only those living in cities",
+      "Only men who owned property",
+      "Only people who could read and write"
+    ],
+    "answer": 0,
+    "hint": "India did not widen the vote step by step; it began with everyone.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "Why is India's adoption of universal adult franchise considered remarkable?",
+    "options": [
+      "Most countries had extended the vote slowly over decades, while India granted it to all at once",
+      "Because voting was optional",
+      "Because India had very few voters",
+      "Because India copied the British system exactly"
+    ],
+    "answer": 0,
+    "hint": "Britain took most of a century. India did it in one step.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "In which years was India's first general election held?",
+    "options": [
+      "1951 and 1952",
+      "1962",
+      "1950",
+      "1947"
+    ],
+    "answer": 0,
+    "hint": "It was spread over several months because of the country's size.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "Roughly how many people were eligible to vote in India's first general election?",
+    "options": [
+      "About 5 million",
+      "About 600 million",
+      "About 173 million",
+      "About 20 million"
+    ],
+    "answer": 2,
+    "hint": "It was the largest election the world had ever seen at that time.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "Most voters in India's first election could not read. How did the Election Commission help them?",
+    "options": [
+      "By reading the ballot aloud to each voter",
+      "By postponing the election",
+      "By giving each party a symbol that voters could recognise on the ballot",
+      "By allowing only literate people to vote"
+    ],
+    "answer": 2,
+    "hint": "Party symbols are still used in Indian elections today.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "Who was India's first Chief Election Commissioner?",
+    "options": [
+      "Jawaharlal Nehru",
+      "B. R. Ambedkar",
+      "Sukumar Sen",
+      "Rajendra Prasad"
+    ],
+    "answer": 2,
+    "hint": "He organised the first general election.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "Which article of the Constitution provides for elections on the basis of adult suffrage?",
+    "options": [
+      "Article 17",
+      "Article 326",
+      "Article 21",
+      "Article 51A"
+    ],
+    "answer": 1,
+    "hint": "It sets the constitutional basis for one person, one vote.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "Why did the makers of the Constitution reject a literacy test for voting?",
+    "options": [
+      "Because everyone in India could read",
+      "Because tests were too expensive to print",
+      "Because it would have excluded most Indians and denied them a say in their own country",
+      "Because the British had forbidden tests"
+    ],
+    "answer": 2,
+    "hint": "A test would have handed the country back to a small educated class.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "What is an electoral roll?",
+    "options": [
+      "The list of polling officers",
+      "The official list of people entitled to vote in a constituency",
+      "The list of candidates standing for election",
+      "The record of how each person voted"
+    ],
+    "answer": 1,
+    "hint": "Your name must be on it before you can vote.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "What is the purpose of a voter identity card?",
+    "options": [
+      "To show which party a person supports",
+      "To allow voting in any constituency",
+      "To record a person's income",
+      "To confirm that the person voting is the one on the electoral roll"
+    ],
+    "answer": 3,
+    "hint": "It protects against someone voting in another's name.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "What does the Election Commission of India do?",
+    "options": [
+      "Decides court cases about elections",
+      "Writes the laws passed by Parliament",
+      "Chooses the Prime Minister",
+      "Conducts and supervises elections to Parliament, state assemblies and certain offices"
+    ],
+    "answer": 3,
+    "hint": "It is an independent constitutional body.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "What is an Electronic Voting Machine used for?",
+    "options": [
+      "Recording and counting votes accurately and quickly",
+      "Registering new voters",
+      "Choosing the candidates for a party",
+      "Announcing the election dates"
+    ],
+    "answer": 0,
+    "hint": "It replaced millions of paper ballots.",
+    "difficulty": "easy"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "What is the NOTA option on an Indian ballot?",
+    "options": [
+      "A reserved seat for new parties",
+      "A second vote for the same candidate",
+      "A way of voting for two candidates",
+      "A choice meaning 'none of the above', for voters who reject all candidates"
+    ],
+    "answer": 3,
+    "hint": "It lets a voter record disapproval without staying at home.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "Why does India hold elections over several phases?",
+    "options": [
+      "Because votes are counted after each phase",
+      "Because the country is so large that security and staff must be moved between regions",
+      "To give parties more time to campaign",
+      "Because each state has different laws"
+    ],
+    "answer": 1,
+    "hint": "The same officers and forces cover the country in stages.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "Which of these people may NOT vote in an Indian general election?",
+    "options": [
+      "A citizen aged eighteen who cannot read",
+      "A citizen living in a remote village",
+      "A woman who owns no property",
+      "A citizen aged sixteen"
+    ],
+    "answer": 3,
+    "hint": "Only one of these fails the single condition that applies.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "What did universal adult franchise mean for Indians who had faced caste discrimination?",
+    "options": [
+      "Their vote counted exactly as much as anyone else's, whatever their birth",
+      "They were given two votes each",
+      "They could vote only in village elections",
+      "They had to vote separately"
+    ],
+    "answer": 0,
+    "hint": "Political equality arrived before social equality, which was Ambedkar's point.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "Why is a high voter turnout considered good for a democracy?",
+    "options": [
+      "It reduces the cost of elections",
+      "It makes counting easier",
+      "It guarantees the best candidate wins",
+      "The government that results reflects the wishes of more of the people"
+    ],
+    "answer": 3,
+    "hint": "Legitimacy grows with participation.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "What is the connection between the suffragette movement and Indian women's right to vote?",
+    "options": [
+      "Indian women received the vote with independence, without the decades-long fight British women had",
+      "Indian women were given the vote by the suffragettes",
+      "Indian women have never had the vote",
+      "The two have no connection at all"
+    ],
+    "answer": 0,
+    "hint": "Compare 1928 in Britain with 1950 in India, and how each was reached.",
+    "difficulty": "hard"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "What responsibility comes with the right to vote?",
+    "options": [
+      "Learning about the candidates and issues before choosing",
+      "Voting only when the weather is good",
+      "Voting for the party your family supports",
+      "Telling everyone how you voted"
+    ],
+    "answer": 0,
+    "hint": "A right used carelessly is still a right, but it is worth less.",
+    "difficulty": "medium"
+  },
+  {
+    "grade": 6,
+    "subject": "social-science",
+    "chapter": "Understanding Government",
+    "topic": "franchise-in-india",
+    "topicLabel": "Universal Adult Franchise in India",
+    "question": "What is the best summary of India's approach to the franchise in 1950?",
+    "options": [
+      "It postponed elections until literacy improved",
+      "It gave the vote only to the educated",
+      "It trusted every adult citizen with the vote from the start, whatever their wealth or education",
+      "It copied the British system of gradual extension"
+    ],
+    "answer": 2,
+    "hint": "That trust is the striking thing about it.",
+    "difficulty": "medium"
+  }
+]
